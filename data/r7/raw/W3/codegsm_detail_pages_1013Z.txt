@@ -1,0 +1,20 @@
+# Firecrawl scrape (maxAge 0, onlyMainContent) of Code-GSM detail pages; retrieved 2026-10-11 10:13Z (Firecrawl scrapeIds 01a12a73-f6c2..., -f6e6..., -f70a...)
+https://www.code-gsm.com/home/servicedtl/t-mobile-sprint-metropcs-policy-usa-iphone-till-15-series-clean-amp-paid-off-onl
+  H1: T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 15 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty
+  Delivery Time: 1-4 days | Price: $ 43.99
+https://www.code-gsm.com/home/servicedtl/t-mobile-sprint-metropcs-policy-usa-iphone-till-16-series-clean-amp-paid-off-onl
+  H1: ... iPhone Till 16 Series [ ✅ Clean & Paid Off Only ] ... | Delivery Time: 1-4 days | Price: $ 63.45
+https://www.code-gsm.com/home/servicedtl/t-mobile-sprint-metropcs-policy-usa-iphone-till-17-series-clean-amp-paid-off-onl
+  H1: ... iPhone Till 17 Series [ ✅ Clean & Paid Off Only ] ... | Delivery Time: 1-4 days | Price: $ 79.49
+Description on all three: SUPPORTED POLICY - ✔ US T-Mobile / Sprint (MVNO) Locked Activation ✔ US T-Mobile Locked Activation Policy ✔ US Sprint/MVNO Locked Policy ✔ Metropcs Locked Policy NOT SUPPORTED POLICY ✘ US Reseller Flex Policy ✘ 2421 - Dish Boost Locked Policy Supported ✔ Clean Not Supported ✘ fraud ✘ Lost ✘ Stolen
+Footer: Powered By GSM Tool (gsmtoolv2.com); contacts +1 367 321 2566, wajih@code-gsm.com, t.me/@codegsmchat, facebook.com/wajih.boukadida
+
+# Listing page https://www.code-gsm.com/home/imei_services (Firecrawl maxAge 0, scrapeId 01a12a70-94b0...) retrieved 2026-10-11 ~10:10Z, section 'USA T-MOBILE':
+  T-Mobile | Sprint | Metro PCS All Model Supported | Network Unlock Premium Service 100% Express 1-24 Hours ( Offer Price ) | $ 101.000 | 24 Hours
+  ... Till 11/12 Series [ ✅ Clean & Paid Off Only ] ... | $ 36.000 | 1-4 days
+  ... Till 13/14 Series [ ✅ Clean & Paid Off Only ] ... | $ 33.000 | 1-4 days
+  ... Till 15 Series ... | $ 44.000 | 1-4 days
+  ... Till 16 Series ... | $ 63.000 | 1-4 days
+  ... Till 17 Series ... | $ 79.000 | 1-4 days
+  Next section: 't-mobile usa supplier#2' -> '3708# USA T-mobile | Sprint | Metro PCS | iPhone All Model, full Premium Netwotk Unlock 100% success instant To Few Hours'
+  (no 'Till Xs', no 'Till 12/14', no 'System Check (Fully Paid - Eligible)' anywhere on the listing)

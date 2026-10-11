@@ -1,0 +1,126 @@
+##### support_home html_len 131479
+--- META
+   Content-Type => text/html; charset=UTF-8
+   viewport => width=device-width, initial-scale=1, user-scalable=no
+   author => HalabTech Support | Firmware Downloads, FRP Tools, Flash Files & Mobile Repair
+   keywords => firmware download, flash files, stock ROM, FRP tools, FRP unlock, unlock tools, mobile repair files, schematics, boardview files, ISP pinout, test point, Android repair solutions, GSM tools, mobile servicing software, Sa
+   robots => index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1
+   og:title => Home Page | HalabTech Support | Firmware Downloads, FRP Tools, Flash Files & Mobile Repair
+   og:image => https://support.halabtech.com/media/site/1-1522677347.png
+   og:description => Download firmware, flash files, stock ROMs, FRP tools, unlock solutions, schematics, and mobile repair files for Samsung, Xiaomi, Apple, Oppo, Vivo, Huawei...
+   description => Download firmware, flash files, stock ROMs, FRP tools, unlock solutions, schematics, and mobile repair files for Samsung, Xiaomi, Apple, Oppo, Vivo, Huawei...
+--- JSON-LD blocks 1
+   {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://support.halabtech.com/#organization","name":"HalabTech Support | Firmware Downloads, FRP Tools, Flash Files & Mobile Repair","url":"https://support.halabtech.com/","logo":{"@type":"ImageObject","url":"https://support.halabtech.com/media/site/logo-512.webp"}},{"@type":"WebSite","@id":"https://support.halabtech.com/#website","name":"HalabTech Support | Firmware Downloads, FRP Tools, Flash Files & Mobile Repair","url":"https://support.halabtech.com/","publisher":{"@id":"https://support.halabtech.com/#organization"}},{"@type":"WebPage","@id":"https://support.halabtech.com/#webpage","url":"https://support.halabtech.com/","name":"Home Page","description":"Download firmware, flash files, stock ROMs, FRP tools, unlock solutions, schematics, and mobile repair files for Samsung, Xiaomi, Apple, Oppo, Vivo, Huawei...","isPartOf":{"@id":"https://support.halabtech.com/#website"},"about":{"@id":"https://support.halabtech.com/#organization"}}]}
+--- FORMS
+   {'id': 'change_language_form', 'class': 'form-inline', 'method': 'get', 'action': 'https://support.halabtech.com/index.php'}
+   {'id': 'header_search_form', 'method': 'get', 'action': 'https://support.halabtech.com/index.php'}
+   {'class': 'form-inline', 'method': 'get', 'action': 'https://support.halabtech.com/index.php'}
+--- TAG img total 36 absolute 36
+     img hosts: [('support.halabtech.com', 25), ('halabtech.com', 8), ('upload.wikimedia.org', 2), ('img.icons8.com', 1)]
+--- TAG link:canonical total 1 absolute 1
+     https://support.halabtech.com/
+--- TAG link:preload total 1 absolute 1
+     https://support.halabtech.com/media/site/logo-256.webp
+--- TAG link:shortcut icon total 1 absolute 1
+     https://support.halabtech.com/favicon.ico
+--- TAG link:stylesheet total 20 absolute 20
+     https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/css/bootstrap.min.css
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/components/fancybox/jquery.fancybox.min.css
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/css/style.css
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/css/main.css
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/css/halabtech.css
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/css/owl.carousel.css
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/css/owl.transitions.css
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/css/animate.min.css
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/css/font-awesome.min.css
+--- TAG script total 21 absolute 21
+     https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9647107642564560
+     https://www.googletagmanager.com/gtag/js?id=G-3FW622FWW6
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/components/jquery/dist/jquery.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/components/fancybox/jquery.fancybox.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/bootstrap.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/bootstrap-hover-dropdown.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/owl.carousel.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/css_browser_selector.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/echo.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/jquery.easing-1.3.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/bootstrap-slider.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/jquery.raty.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/jquery.prettyPhoto.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/jquery.customSelect.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/wow.min.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/theme/scripts.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/jsoft-functions.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/jsoft-scripts.js
+     https://support.halabtech.com/templates/default-downloads/html/en/assets/js/jsoft-custom.js
+     https://support.halabtech.com/templates/default-downloads/assets/js/visitor-popup.js?v=20260527a
+     https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920
+--- <a> hosts [('support.halabtech.com', 76), ('halabtech.com', 9), ('t.me', 5), ('server.halabtech.com', 3), ('www.facebook.com', 2), ('www.instagram.com', 2), ('www.halabtech.com', 2), ('telegram.me', 1), ('www.youtube.com', 1), ('wa.me', 1), ('hardware.halabtech.com', 1), ('pass.halabtech.com', 1), ('joudisoft.com', 1), ('whatsapp.com', 1)]
+--- <a> external hrefs (non-halabtech)
+     https://telegram.me/halabtech2
+     https://t.me/HALABTECHSupportbot
+     https://www.facebook.com/HalabTech.official.page
+     https://www.instagram.com/halabtechofficial
+     https://www.youtube.com/channel/UCPw4pBw0QW55veeRD_Sg1gg
+     https://wa.me/+963992951910
+     https://t.me/halabtech2
+     https://joudisoft.com/products/real-easy-store/
+     https://whatsapp.com/channel/0029VaAa3vk5fM5VBQAILe1X
+     https://t.me/HTSupport
+--- inline scripts 11 chars 14774
+--- ID PATTERNS (whole html)
+   GA4 ['G-3FW622FWW6']
+   adsense ['ca-pub-9647107642564560']
+   telegram ['t.me/HALABTECHSupportbot', 't.me/HTSupport', 't.me/halabtech2']
+--- URLs inside inline scripts
+     https://chat.halabtech.com/
+     https://support.halabtech.com
+     https://support.halabtech.com/index.php?a=home
+     https://support.halabtech.com/templates/default-downloads/html/en
+     https://support.halabtech.com/templates/default-downloads/html/en/
+     https://support.halabtech.com/userapi/index.php
+--- relative endpoints in inline JS (url:, fetch(, $.post/$.get/ajax)
+--- ALL HOSTS (any absolute URL in html)
+    [('support.halabtech.com', 187), ('halabtech.com', 17), ('t.me', 5), ('fonts.googleapis.com', 4), ('server.halabtech.com', 3), ('www.facebook.com', 2), ('www.instagram.com', 2), ('www.halabtech.com', 2), ('upload.wikimedia.org', 2), ('www.w3.org', 1), ('pagead2.googlesyndication.com', 1), ('schema.org', 1), ('telegram.me', 1), ('img.icons8.com', 1), ('www.googletagmanager.com', 1), ('www.youtube.com', 1), ('wa.me', 1), ('hardware.halabtech.com', 1), ('pass.halabtech.com', 1), ('joudisoft.com', 1), ('whatsapp.com', 1), ('chat.halabtech.com', 1), ('static.cloudflareinsights.com', 1)]
+--- generator tags []
+--- HTML comments (first 40)
+     Preconnect to Google Fonts for faster loading
+     1. Inline Critical CSS to prevent Flash of Unstyled Content (FOUC)
+     2. Asynchronously load the rest of the stylesheets
+     Fallback for browsers with JavaScript disabled
+     <title>Home Page | HalabTech Support | Firmware Downloads, FRP Tools, Flash Files & Mobile Repair</title>
+     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" as="style" onload="this.onload=null;this.rel='stylesheet'">
+     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800"></noscript>
+     <link rel="stylesheet" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/bootstrap.min.css">
+     <link rel="stylesheet" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/components/fancybox/jquery.fancybox.min.css">
+     <link rel="stylesheet" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/style.css">
+     <link rel="stylesheet" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/main.css">
+     <link rel="stylesheet" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/halabtech.css">
+     <link rel="stylesheet" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/owl.carousel.css">
+     <link rel="preload" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/owl.transitions.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+     <noscript><link rel="stylesheet" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/owl.transitions.css"></noscript>
+     <link rel="preload" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+     <link rel="stylesheet" href="https://support.halabtech.com/templates/default-downloads/html/en/assets/css/font-awesome.min.css">
+     Header Code
+     Google Analytics
+     HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js
+     Optimized for SEO and Pagespeed
+     Only output WebP sources when a custom logo is configured
+     Fallback <img> with explicit width, height, and eager loading to improve LCP and CLS
+     <li><a href="https://support.halabtech.com/index.php?a=page&b=request-file"><i class="fa fa-send fw-r10"></i>Request File</a></li>
+     <li><a href="https://support.halabtech.com/index.php?a=contact"><i class="fa fa-envelope fw-r10"></i>Contact</a></li>
+     between_recent_top
+     /html/en/downloads/parts/views/second.html
+     <div class="container">
+     <div class="row">
+     <div class="col-12 text-center">
+     <div class="ad-center">
+     </div>
+     </div>
+     </div>
+     </div>
+     sup_home_after_folders_containers
+     Custom Links
+     Custom Links
+     DON'T REMOVE OR EDIT THE BELOW COPYRIGHT, IT MUST BE VISIBLE IN ALL PAGES

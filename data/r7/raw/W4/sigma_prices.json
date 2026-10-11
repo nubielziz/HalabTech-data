@@ -1,0 +1,40 @@
+{
+ "retrieved_utc_window": "2026-10-11T10:09Z-10:14Z",
+ "sigmakey_reseller_offer": {
+  "url": "https://sigmakey.com/en/content/15258",
+  "access": "search snippet (Parallel index)",
+  "excerpt": [
+   "End users can purchase licenses through our exclusive distributor GsmServer and official resellers.",
+   "The recommended retail price of 1 credit is 1 USD ... The minimum order for a reseller is 1000 credits.",
+   "1000 | 870 | 0.87 | 13%; 2000 | 1700 | 0.85 | 15%; 5000 | 4150 | 0.83 | 17%",
+   "Sigma Plus 3 Day License - 9.99 USD (9.99 credits); 1 Month - 39 USD (39 credits); 3 Month - 69 USD (69 credits)",
+   "Buy Sigma Plus Credits on gsmserver website",
+   "All resellers must adhere to the recommended retail prices for licenses."
+  ]
+ },
+ "gsmserver": {
+  "Sigma Plus Box/Dongle 1 Year Access Renew (id 904488)": "USD 69.00",
+  "Sigma Plus Box/Dongle 6 Month Access Renew (id 911824)": "USD 49.00",
+  "Sigma Plus 3 Day License": "USD 9.99",
+  "Sigma Plus 1 Month License": "USD 39.00",
+  "Sigma Plus 3 Month License": "USD 69.00",
+  "access": "search snippets"
+ },
+ "peer_dhru_servers": {
+  "gsm-syria.com": "Digital 3D $9, 1M $33.6; Sigma Plus 1 Year Activation [BOX or Dongle] $55.99; 6 Months $41",
+  "old.activeunlocker.com": "Digital 1M 31.9, 3D 8.3, 3M 56.2; Box/Dongle 1Y 55.201, 6M 40.201",
+  "click-unlock.com (Sigma Plus License [Official Distributor])": "3D 10.699, 1M 34.6, 3M 59.5, 6M box/dongle 45, 1Y 69",
+  "alltimeunlocker.com": "Digital 1M 34.3, 3M 59.5, 3D 9.5/10; Box/Dongle 1Y 56.6, 6M 41.6; also 56.5/42"
+ },
+ "halabtech_1003": {
+  "Sigma Plus 12 Months Activation [BOX or Dongle]": 59.4,
+  "Sigma Plus 6 Months Activation [BOX or Dongle]": 44.55,
+  "Sigma Plus Digital License (Without Box) Activation [3 Days]": 8.99,
+  "Sigma Plus Digital License (Without Box) Activation [1 Month]": 36.66,
+  "Sigma Plus Digital License (Without Box) Activation [3 Months]": 60.26
+ },
+ "gsmserver_sigma_plus_credits_url": {
+  "url": "https://gsmserver.com/en/sigma-plus-credits",
+  "result": "HTTP 404 (Firecrawl maxAge 0, 10:23Z); new-products list on 404 page shows Sigma Plus 3 Day USD 9.99, 1 Month USD 39.00, 3 Month USD 69.00"
+ }
+}

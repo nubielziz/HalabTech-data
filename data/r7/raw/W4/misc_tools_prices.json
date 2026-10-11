@@ -1,0 +1,401 @@
+{
+ "retrieved_utc_window": "2026-10-11T10:16Z-10:18Z (Parallel search index snippets unless noted)",
+ "hydra": {
+  "official_shop": {
+   "url": "https://srv.hydradongle.com/shop",
+   "prices": {
+    "Hydra Tool Pro Pack Activation - Dongle LifeTime": 40,
+    "3 Month Digital Licence": 10,
+    "6 Months Digital Licence": 15,
+    "1 Year Digital Licence": 25,
+    "10 Credit Pack": 10,
+    "20 Credit Pack": 20,
+    "50 Credit Pack": 50,
+    "100 Credit Pack": 100
+   }
+  },
+  "gsmserver": {
+   "url": "https://gsmserver.com/en/hydra-tool-credits",
+   "Hydra Tool Credits (id 911821)": "USD 0.95"
+  },
+  "fmifix.com": {
+   "Hydra Tool 100 Credits Pack": 79.31,
+   "50": 40.598,
+   "20": 16.632,
+   "Digital License 3 Months": 8.424
+  },
+  "halabtech_1003": {
+   "Hydra Any Quantity Credits (10 Credits)": 9.49,
+   "(20 Credits)": 17.99,
+   "(50 Credits)": 43.99,
+   "(100 Credits)": 87.99,
+   "Hydra Online Activation (Without Dongle) 3 Months": 18.99,
+   "6 Months": 28.99,
+   "12 Months": 47.99,
+   "Hydra Pro Activation For Dongle Users": 44.99
+  }
+ },
+ "global_unlocker": {
+  "official_buy": {
+   "url": "https://global-unlocker-pro.com/Buy",
+   "excerpt": "10 Credit - 10$ 25 Credit - 24$ 50 Credit - 47$ 100 Credit - 90$"
+  },
+  "gsmserver": {
+   "url": "https://gsmserver.com/en/global-unlocker-pro-server-credits",
+   "price": "USD 0.85 (min 10)"
+  },
+  "gsmserver.al": {
+   "set_A": {
+    "credits_existing": 0.837,
+    "credits_new": 0.83,
+    "1Y": 83.6
+   },
+   "set_B": {
+    "credits_existing": 0.757,
+    "credits_new": 0.75,
+    "1Y": 76
+   }
+  },
+  "allunlocker.com": {
+   "new": 0.849,
+   "refill": 0.809,
+   "1Y": 77.6
+  },
+  "smartfixunlock.com (Official Distributor)": {
+   "credits_new": 0.8,
+   "1Y": 78.781
+  },
+  "imeiexpress.com (Official Distributor)": {
+   "1Y": 83.001
+  },
+  "haliunlock.com": "group 'Global Unlocker Pro Resellers' (Credits New Agent / Add Credits for Existing Agent) - no price in snippet",
+  "halabtech_1003": {
+   "credits_new": 0.779,
+   "credits_old": 0.779,
+   "implied_cost": "0.76 @ x1.025",
+   "1Y existing": 77.29,
+   "1Y new": 77.49
+  },
+  "gsmserver_brand_page": {
+   "url": "https://gsmserver.com/en/credits-and-activations/manufacturer/global-unlocker-pro",
+   "access": "search snippet",
+   "Global Unlocker Pro Annual License (907726)": "USD 84.90",
+   "Global Unlocker Pro Server Credits (907729)": "USD 0.85",
+   "Global Unlocker Pro Reseller Account (1000 credits) (908704)": "USD 850.00 -> 800.00 (=0.80/credit)"
+  },
+  "official_reseller_page": {
+   "url": "https://global-unlocker-pro.com/Reseller",
+   "excerpt": "If you are working in wholesales ... we can provide you with special price for quantities, just contact us via whatsapp",
+   "distributors": [
+    "Global Store - Offical Site",
+    "ADY UNLOCKER (Distributor)",
+    "Hali Unlock (Distributor)",
+    "GSM Server (Distributor)",
+    "FAST PROVISION TEAM (Distributor)"
+   ]
+  },
+  "gsmjordan.com": {
+   "credits existing/new": 0.82,
+   "1Y new/exist": 77.7
+  }
+ },
+ "deep_unlocker": {
+  "official": {
+   "url": "https://www.deepunlocker.net/",
+   "excerpt": "Starter 100 CRDs Price: $95; Business 1000 CRDs Price: $900; Custom Wholesale - reseller discounts / Distributor pricing; Annual Plan $60"
+  },
+  "fmifix.com": {
+   "credits": 0.605
+  },
+  "gsmlegion.com": {
+   "note": "IDENTICAL SKU strings to HalabTech",
+   "Deep Unlocker Tool Activation 1 Year ( Existing User)": 53.828,
+   "Deep Unlocker Tool Activation 1 Year ( New User)": 53.828,
+   "Deep Unlocker Tool Any Quantity [New Users]": 0.539,
+   "Deep Unlocker Tool Any Quantity [Old Users]": 0.539,
+   "other_groups_seen": [
+    "DC-Unlocker Products On Infinity Activation",
+    "Global Unlocker Tool Credits",
+    "GsmServer Products",
+    "DHRU LICENCE AVALABLE"
+   ]
+  },
+  "halabtech_1003": {
+   "Activation 1Y (Existing/New)": 57.2,
+   "Any Quantity [New/Old Users]": 0.572,
+   "implied": "0.55 and 55.00 @ x1.04"
+  },
+  "vendor_api_naming_peers": "haliunlock.com, idunlocker.com, fmifix.com use 'Deep Unlocker Tool (Samsung + LG + MOTO + TCL + WIKO unlock, FRP ) Credits New user'; HalabTech naming ('Deep Unlocker Tool Any Quantity [New Users]') matches gsmlegion.com only"
+ },
+ "cheetah": {
+  "gsmgenesis_cheetahtoolpro.com (authorised reseller/distributor)": {
+   "3M": 27,
+   "6M": 37,
+   "1Y": 49,
+   "credit": 0.8
+  },
+  "unlockresellers.com": {
+   "credit": "1.3 (bulk 1.24, TOP 1.13)"
+  },
+  "halabtech_1003": {
+   "credit": 0.77,
+   "PRO 1Y": 47.99,
+   "6M": 34.89,
+   "3M": 24.99,
+   "LG Module": 15.125
+  },
+  "gsmserver_brand_page": {
+   "url": "https://gsmserver.com/en/credits-and-activations/manufacturer/cheetah-tool",
+   "Cheetah Tool Pro 6 Month Activation (912524)": "USD 37.00",
+   "Cheetah Tool Pro 3 Month Activation (912525)": "USD 27.00"
+  },
+  "official": {
+   "url": "https://cheetah-tool.com/en",
+   "excerpt": "CHEETAH TOOL PRO activation 12 Month $49.0 / 6 Month $37.0 - Buy From Resellers",
+   "resellers_page": "https://cheetah-tool.com/en/resellers - Distributor GSMserver (HK), Distributor GsmGenesis ..."
+  },
+  "old.activeunlocker.com": {
+   "Cheetah PRO 3M": 22.79
+  }
+ },
+ "furious_peer": {
+  "fmifix.com": 0.907,
+  "unlockresellers.com": 0.97,
+  "centerunlock.com": 0.96,
+  "halabtech": 0.878
+ },
+ "downstream_signals": {
+  "unlockresellers.com (Evocell SRL)": "'HalabTech Credits Any Quantity (instant)' USD 1.12",
+  "gsmserver.com credits filter": "Manufacturer brand list includes 'Halabtech (1)' on Credits and 'Halabtech (10)' on manufacturer pages",
+  "allunlocker.com": "groups 'Easy Firmware | HalabTech Credits' and 'Dhru Fusion - Official Reseller'",
+  "old.activeunlocker.com": "group 'Easy Firmware & HalabTech Server Credit'",
+  "unlocktrue.com": "group 'HalabTech'"
+ },
+ "ady_unlocker_live": {
+  "url": "https://www.adyunlocker.com/resellerpricing/server",
+  "tool": "mcp__Parallel_Search__web_fetch full_content (saved raw/W4/ady/)",
+  "retrieved_utc": "2026-10-11T10:19Z",
+  "groups_present": "115 groups, mostly gift cards; NO Furious Gold / Global Unlocker / Cheetah / Hydra / Octoplus / UMT-NCK / EFT / Sigma / Chimera groups",
+  "relevant_rows": {
+   "DFT PRO TOOL ACTIVATION [New Users] 1 Year ( INSTANT )": 100,
+   "DFT PRO TOOL ACTIVATION [Old Users] 1 Year ( INSTANT )": 100,
+   "FlexUnlock Tool Activation [1 PC - 3 Months]": 21.19,
+   "FlexUnlock Tool Activation [1 PC - 12 Months]": 55.19,
+   "FlexUnlock Tool Activation [1 PC - 6 Months]": 29.19,
+   "FlexUnlock Tool Activation [1 PC - 1 Month]": 15.69,
+   "Avengers Box /Dongle 1 Year Activation [instant]": 19
+  },
+  "halabtech_same_strings": {
+   "DFT PRO TOOL ACTIVATION [New Users] 1 Year": 78.99,
+   "FlexUnlock Tool Activation [1 PC - 3 Months]": 20.99,
+   "[1 PC - 12 Months]": 58.99,
+   "[1 PC - 6 Months]": 32.89,
+   "[1 PC - 1 Month]": 14.99
+  }
+ },
+ "dhru": {
+  "gsmafrica.com (Dhru Fusion Official Distributors)": {
+   "New License for Wholesale Server (include Free 6 Months Support)": 500,
+   "License Renewal (1 Year) [Support and Maintenance]": 450,
+   "Supplier panel": 170,
+   "Telegram Messenger Notification": 70,
+   "Wallet Credits (Minimum 20)": 1,
+   "access": "search snippets"
+  },
+  "dhru.com/pricing": "Cloud Fusion Pro: Basic $29/mo annual ($39 monthly), Professional $99/mo, Enterprise $388/mo; owned (self-hosted) licence price not in snippet",
+  "t.me/s/dhrufusion": "'Why Has Dhru Fusion owned license Become More Expensive?' post",
+  "halabtech_1003": {
+   "Dhru Fusion New License for Wholesale Server": 605,
+   "License Renewal [Support and Maintenance]": 461,
+   "Supplier panel": 220.5,
+   "Wallet Credits": 1.162,
+   "Telegram Messenger Notification": 49.99,
+   "Custom mobile app": 438.14,
+   "Reward Points System": 352,
+   "E-Commerce (Shopping Cart)": 128.79
+  },
+  "dhru.com/pricing_fetch": {
+   "retrieved_utc": "2026-10-11T10:20Z",
+   "result": "Only cloud plans: Basic $29/mo ($348/yr), Professional $99/mo ($1,188/yr), Enterprise $388/mo ($4,656/yr); self-hosted owned licence not priced; '$300 one-time license' refers to Dhru Alpha ERP"
+  },
+  "gsmsector.com": {
+   "url": "https://gsmsector.com/service/dhru-fusion-license-renewal-12-months-support-and-maintenance-10544",
+   "Dhru Fusion License Renewal 12 Months [Support and Maintenance]": 424.2,
+   "Dhru Fusion New License for Wholesale Server Lifetime (6 Months Support included)": 467.1,
+   "access": "search snippet"
+  },
+  "ratios": {
+   "HalabTech/GSMAfrica": {
+    "new": 1.21,
+    "renewal": 1.0244,
+    "supplier_panel": 1.2971,
+    "wallet": 1.162,
+    "telegram": 0.7141
+   },
+   "HalabTech/GSMSector": {
+    "new": 1.2952,
+    "renewal": 1.0868
+   }
+  }
+ },
+ "unlocktool": {
+  "unlocktool.org (GsmGenesis)": {
+   "3M": 20,
+   "6M": 30,
+   "12M": 50,
+   "12M new exact": 49.99
+  },
+  "halabtech_1003": {
+   "3M": 19.99,
+   "6M": 29.99,
+   "12M": 49.94
+  }
+ },
+ "tfm": {
+  "ci.tfmtool.com/package (official, old ci server)": {
+   "1Y": 20,
+   "2Y": 35,
+   "6M": 15
+  },
+  "gsmpak.com (Direct Source)": {
+   "credit": 0.87,
+   "1Y": 26,
+   "2Y": 43,
+   "3M": 17.5
+  },
+  "yemunlocker.com": {
+   "credit": "0.729 (silver 0.716)",
+   "1Y": 30.01,
+   "2Y": 50.825,
+   "3M": 21.68
+  },
+  "halabtech_1003": {
+   "credit (beta.tfmtool.com)": 0.999,
+   "Professional Plan 12M": 29.39,
+   "Standard Plan 6M": 20.59
+  }
+ },
+ "tsm": {
+  "gsmpak.com (Direct Source)": {
+   "credits": 0.92,
+   "3M": 32.5,
+   "6M": 47,
+   "1Y": 63
+  },
+  "yemunlocker.com (Direct Source)": {
+   "1Y": 42.7,
+   "6M": 34.445
+  },
+  "halabtech_1003": {
+   "1Y": 64.99,
+   "6M": 49.99,
+   "3M": 34.99,
+   "credits": 0.975
+  }
+ },
+ "dft": {
+  "gsmpak.com (Direct Source)": {
+   "1Y new/renew": 71.5
+  },
+  "gsmserver.al": {
+   "1Y new": 71
+  },
+  "adyunlocker": {
+   "1Y": 100
+  },
+  "halabtech_1003": {
+   "1Y": 78.99,
+   "2Y": 158.0
+  }
+ },
+ "gsmserver_halabtech_brand_live": {
+  "url": "https://gsmserver.com/en/credits-and-activations/manufacturer/halabtech",
+  "tool": "Firecrawl maxAge 0",
+  "retrieved_utc": "2026-10-11T10:20Z",
+  "items": {
+   "Halabtech Support Credits (id 909490)": "USD 1.00 - 'Using these credits, you can buy Halabtech Packs or Paid Solutions. Intended for support.halabtech.com only.'",
+   "Halabtech Silver (3 Months Access) (909491)": "33.99 -> 23.99",
+   "Halabtech Gold (909492)": "44.99 -> 39.99",
+   "Halabtech Platinum (909493)": "69.99 -> 59.99",
+   "Halabtech Super Platinum (909495)": "89.00 -> 79.00",
+   "Halabtech Bronze (1 Month) (914121)": "16.90 -> 12.99",
+   "Halabtech Copper (1 Day) (914122)": "5.90 -> 4.99",
+   "Silver->Platinum upgrade (914130)": "45.00",
+   "Gold->Platinum upgrade (914133)": "25.00",
+   "Halabtech Ultra Platinum 12 Month (916714)": "109.00 -> 99.00"
+  },
+  "count": "10 results"
+ },
+ "octoplus": {
+  "octoplusbox.com/en/products/octoplus-server-credits": "Price: 0.14 USD (official retail)",
+  "gsmserver": "USD 0.14 -> 0.12 (promo)",
+  "powerunlock.net (Reseller)": 0.12,
+  "gsmbafanaelectronics.com": 0.131,
+  "alltimeunlocker.com": "0.105 (= 0.10 x 1.05)",
+  "centerunlock.com": "Octoplus credits existing $22.74 (pack?)",
+  "halabtech_1003": "0.107 (= 0.10 x 1.07)"
+ },
+ "dc_unlocker": {
+  "unlockresellers.com": {
+   "existing user/reseller": "0.664 (TOP 0.584)",
+   "new reseller": 0.64,
+   "add credits new/existing": "0.698 (TOP 0.608)"
+  },
+  "gsmserver.al": {
+   "existing/reseller": "0.554 / 0.614",
+   "to dongle": "0.543 / 0.593",
+   "DC 1Y support": "8.266",
+   "2Y support": "13.502 / 14.852"
+  },
+  "powerunlock.net": {
+   "DC 1Y support": 11,
+   "2Y": 18,
+   "HCU 3 days": 14,
+   "HCU 30 days": 25,
+   "HCU activation for dongle": 65.261
+  },
+  "halabtech_1003": {
+   "credits": 0.61,
+   "1Y support": 9.65,
+   "2Y support": "17.99 and 18.313",
+   "HCU 1Y": 47.49,
+   "HCU 30d": 21.99,
+   "HCU 3d": 10.49,
+   "HCU activation for dongle": 63.99
+  }
+ },
+ "halabtech_news_gup": {
+  "url": "https://news.halabtech.com/global-unlocker-tool-en-2026-07-30",
+  "access": "search snippet",
+  "excerpt": "Buy Global Unlocker Tool credits \ud83d\udc49 www.gsmservice.net",
+  "note": "HalabTech auto-generated changelog post for Global Unlocker Tool contains a purchase link to gsmservice.net (UZS-priced Dhru server; sells Deep Unlocker credits 8060 UZS, DC-Unlocker etc.)"
+ },
+ "gsm-service.com": {
+  "url": "https://www.gsm-service.com/",
+  "access": "search snippet",
+  "Chimera (Official Reseller)": {
+   "credits": 0.1,
+   "Basic": 99.9,
+   "Pro": 149.9,
+   "Premium": 189.9
+  },
+  "UnlockTool": {
+   "3M": 20,
+   "6M": 30,
+   "12M": 50
+  },
+  "EFT Team (Official Reseller)": {
+   "Dongle 1Y": 22,
+   "Dongle 2Y": 30,
+   "1M": 10,
+   "3M": 23,
+   "6M": 38.5,
+   "1Y": 54,
+   "1Y renew": 33
+  }
+ },
+ "store.halabtech.com": {
+  "home": "https://store.halabtech.com/ - 'Halabtech Store ... Activation | Credits Tools \u00b7 IMEI Services ... Server Halabtech \u00b7 Ready Account \u00b7 HTD Build Your Store.'",
+  "service_968": "Furious gold credit $0.878, 'Details api', 'AUTO API'"
+ }
+}

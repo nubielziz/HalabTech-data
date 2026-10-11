@@ -1,0 +1,124 @@
+{
+ "retrieved_utc_window": "2026-10-11T10:13Z",
+ "fastunlocking": {
+  "urls": [
+   "https://www.fastunlocking.co.uk/",
+   "https://fastunlocking.com/shop/tw/26-ultimate-multi-tool-umt-1-year-activation.html"
+  ],
+  "access": "search snippets",
+  "prices": {
+   "Avengers Box 1 Year Activation": 20.0,
+   "NCK Online Tool 1 Month": 7.0,
+   "NCK Online Tool 3 months": 10.0,
+   "NCK Online Tool 6 Months": 15.0,
+   "NCK Online Tool 1 Year": 25.0,
+   "NCK Online Tool 2 Years": 40.0,
+   "NCK BOX / DONGLE YEAR ACTIVATION": 22.0,
+   "UMT Box/Dongle 1 Year Activation": 20.0
+  }
+ },
+ "gsmserver": {
+  "access": "search snippets",
+  "prices": {
+   "NCK (Box/Dongle) 1 Year Activation (id 849423)": 29.9,
+   "Ultimate Huawei Activation for Avengers/NCK/UMT (id 885168)": 69.0,
+   "NCK Online Tool 1 Month (id 920728)": 6.95,
+   "NCK Online Tool 6 Month (id 920730)": 14.9,
+   "NCK Online Tool 1 Year (id 920731)": 24.9,
+   "Avengers Dongle (hardware)": "44.90 -> 39.00"
+  }
+ },
+ "imeiserver.com": {
+  "access": "search snippet",
+  "prices": {
+   "Avengers Box / Dongle 1 Year Activation": 19.5,
+   "UMT Dongle/Box 1 Year Activation": 23.4,
+   "NCK Box / Dongle Credits": 1.54,
+   "Nck Box/Dongle Activation (Yearly)": 22.5,
+   "UMT Activation For NCK BOX / DONGLE & AVB USERS": 11.5,
+   "UMT Emmc & HST ISP Tool Activation - Without Hardware": 12.1,
+   "Ultimate NCK Huawei Activation": 78.85,
+   "NCK Online 1M": 7.6,
+   "NCK Online 3M": 10.5,
+   "NCK Online 6M": 16.0,
+   "NCK Online 1Y": 25.0
+  }
+ },
+ "martview": {
+  "urls": [
+   "https://www.martview.com/1-year-umt-dongle-activation.html",
+   "https://www.martview.com/1-year-nck-dongle-activation.html"
+  ],
+  "access": "search snippets",
+  "prices": "NaN (JS-rendered); qty tiers UMT -3.8%/-5.9%/-7.9% (3/5/10), NCK -1.5%/-3.3%/-5.2%"
+ },
+ "halabtech_1003": {
+  "UMT Box/Dongle 1 Year Activation": 22.85,
+  "NCK Box Activation 1 Year": 23.24,
+  "NCK Dongle Activation 1 Year": 20.24,
+  "NCK Box / Dongle Credits": 1.11,
+  "NCK Online 1M": 9.66,
+  "NCK Online 3M": 12.19,
+  "NCK Online 6M": 15.125,
+  "NCK Online 1Y": 24.786,
+  "NCK Online 2Y": 39.94,
+  "Avengers Box 1 Year Activation": 21.89,
+  "UMT Activation For NCK Users [1 Year]": 34.99,
+  "Ultimate NCK Huawei Activation ( unlimited ) NCK - AVB - UMT": 69.68,
+  "UMT Emmc ISP Tool Activation / HST Ultimate Activation": 11.875
+ },
+ "martview_live": {
+  "url": "https://www.martview.com/1-year-nck-dongle-activation.html",
+  "tool": "Firecrawl maxAge 0 waitFor 6000",
+  "retrieved_utc": "2026-10-11T10:15Z",
+  "prices": {
+   "1 Year NCK Box / Dongle Activation (MV-104068)": "$26.90 (3: 26.50, 5: 26.00, 10: 25.50 wholesale)",
+   "NCK Online 6M (IMU-SERVER-615)": "16.84 (as low as 15.59)",
+   "NCK Online 3M (614)": "11.96 (10.95)",
+   "NCK Online 2Y (617)": "40.85 (39.74)",
+   "NCK Online 1Y (616)": "26.45 (25.30)",
+   "NCK Online 1M (613)": "8.37 (7.66)",
+   "NCK Activation FOR UMT Cards (605)": "30.78 (29.70)",
+   "UMT Activation For NCK BOX / DONGLE & AVB Cards (604)": "30.78 (29.70)",
+   "Ultimate Huawei (147)": "77.70 (75.60)",
+   "1 Year NCK Pro Box/Dongle": "54.90 (49.00)"
+  }
+ },
+ "gsmserver_umt": {
+  "url": "https://gsmserver.com/en/umt-box-dongle-1-year-activation",
+  "UMT (Box/Dongle) 1 Year Activation (id 886684)": "USD 29.90",
+  "access": "search snippet"
+ },
+ "fastunlocking_shop_snippet2": {
+  "url": "https://fastunlocking.com/shop/tw/26-ultimate-multi-tool-umt-1-year-activation.html",
+  "NCK Box / Dongle 1 Year Activation": 22.0,
+  "Ultimate Multi Tool (UMT) 1 Year Activation": 20.0,
+  "Ultimate Multi Tool Addon (EMMC) Activation (one time)": 12.0,
+  "Ultimate NCK Huawei Activation for Avengers / NCK / UMT": 69.0,
+  "Avengers Box 1 Year Activation": 20.0
+ },
+ "imeiserver_same_string": "imeiserver.com uses identical string 'Ultimate NCK Huawei Activation ( unlimited ) NCK - AVB - UMT' ($78.85) as HalabTech ($69.68)",
+ "fastunlocking_co_uk_live": {
+  "url": "https://www.fastunlocking.co.uk/",
+  "tool": "Parallel web_fetch full_content",
+  "retrieved_utc": "2026-10-11T10:25Z",
+  "excerpt": [
+   "NCK & UMT Team Activation Server",
+   "Here is your direct source for our services, if you are a small reseller or a big distributor you can buy from us direct with direct support to all other servers APIs.",
+   "Contact us for pricing an accounts.",
+   "Reseller & distributor pricing",
+   "Create an account to see the full catalog and your account pricing.",
+   "9 Services available, 1,958 Completed orders, 18 Customer accounts"
+  ],
+  "public_paypal_prices": {
+   "Avengers Box 1 Year Activation": 20.0,
+   "NCK Online Tool 6 Months": 15.0,
+   "NCK Online Tool 2 Years": 40.0,
+   "NCK Online Tool 3 months": 10.0,
+   "NCK Online Tool 1 Year": 25.0,
+   "NCK Online Tool 1 Month": 7.0,
+   "NCK BOX / DONGLE YEAR ACTIVATION": 22.0,
+   "UMT 1 Year Activation": 20.0
+  }
+ }
+}

@@ -1,0 +1,64 @@
+HalabTech computed-price SKUs with fingerprints: 1442
+code-gsm.com {'compared': 57, 'below_HT': 52, 'equal_HT': 2, 'above_HT': 3}
+code-gsm.com(exa-cache) {'compared': 55, 'below_HT': 47, 'above_HT': 7, 'equal_HT': 1}
+best4unlock.us {'compared': 70, 'above_HT': 41, 'below_HT': 25, 'equals_implied_cost': 8, 'equal_HT': 4}
+univgsm.com {'compared': 698, 'below_HT': 359, 'equal_HT': 43, 'equals_implied_cost': 20, 'above_HT': 296}
+gsmunlockinfo.com {'compared': 21, 'above_HT': 11, 'below_HT': 5, 'equal_HT': 5}
+wardserver.com {'compared': 4, 'below_HT': 2, 'above_HT': 2}
+saudi-gsm.com {'compared': 605, 'below_HT': 332, 'above_HT': 210, 'equal_HT': 63, 'equals_implied_cost': 2}
+cleanunlocker.com {'compared': 53, 'above_HT': 33, 'below_HT': 18, 'equal_HT': 2}
+unlock-ua.com {'compared': 37, 'above_HT': 12, 'equal_HT': 6, 'below_HT': 19}
+dmunlocker.com {'compared': 143, 'below_HT': 115, 'above_HT': 25, 'equals_implied_cost': 4, 'equal_HT': 3}
+fix4gsm.com {'compared': 38, 'above_HT': 20, 'below_HT': 14, 'equal_HT': 4, 'equals_implied_cost': 2}
+easyunlocktech.com {'compared': 5, 'below_HT': 4, 'above_HT': 1}
+unlockresellers.com {'compared': 1, 'above_HT': 1}
+gsmnigeria.com {'compared': 151, 'above_HT': 8, 'below_HT': 143, 'equals_implied_cost': 6}
+gsmnigeria.com(exa-cache) {'compared': 141, 'above_HT': 8, 'below_HT': 133, 'equals_implied_cost': 6}
+ HIT best4unlock.us | Apple Check Service | APPLE iPHONE SIM-LOCK + CARRIER S3 → SERIAL | HT 0.066 | srv 0.07 | cost 0.06 x 1.1
+ HIT best4unlock.us | Apple Check Service | Blacklist Prheck (GSMA) | HT 0.084 | srv 0.085 | cost 0.08 x 1.05
+ HIT best4unlock.us | Apple Check Service | FIND MY iPHONE/iPAD ON/OFF → SERIAL [BEST] | HT 0.011 | srv 0.012 | cost 0.01 x 1.1
+ HIT best4unlock.us | Apple Check Service | Replaced Status (Original Device) | HT 0.012 | srv 0.013 | cost 0.01 x 1.2
+ HIT best4unlock.us | Apple Check Service | Sprint USA Pro Check S2 | HT 0.048 | srv 0.048 | cost 0.04 x 1.2
+ HIT best4unlock.us | Apple Check Service | T-Mobile Pro Check | HT 0.036 | srv 0.036 | cost 0.03 x 1.2
+ HIT best4unlock.us | Apple Check Service | T-Mobile USA Generic Simlock & Unlock Eligibilty Status (Pro) | HT 0.036 | srv 0.037 | cost 0.03 x 1.2
+ HIT best4unlock.us | Apple Check Service | Warranty Check All iPhones Models | HT 0.012 | srv 0.013 | cost 0.01 x 1.2
+ HIT univgsm.com | Apple Check Service | All-in-one (+ Purchase Date) ⚡ | HT 0.024 | srv 0.024 | cost 0.02 x 1.2
+ HIT univgsm.com | Apple Check Service | APPLE ACTIVATION STATUS | HT 0.088 | srv 0.087 | cost 0.08 x 1.1
+ HIT univgsm.com | Apple Check Service | APPLE iPHONE SIM-LOCK + CARRIER S3 → SERIAL | HT 0.066 | srv 0.067 | cost 0.06 x 1.1
+ HIT univgsm.com | Apple Check Service | Blacklist Prheck (GSMA) | HT 0.084 | srv 0.082 | cost 0.08 x 1.05
+ HIT univgsm.com | Apple Check Service | MACBOOK / iMAC INFO & ICLOUD STATUS | HT 0.096 | srv 0.091 | cost 0.08 x 1.2
+ HIT univgsm.com | Apple Check Service | Replaced Status (Original Device) | HT 0.012 | srv 0.012 | cost 0.01 x 1.2
+ HIT univgsm.com | Apple Check Service | Sprint USA Pro Check S2 | HT 0.048 | srv 0.046 | cost 0.04 x 1.2
+ HIT univgsm.com | Apple Check Service | T-Mobile Pro Check | HT 0.036 | srv 0.035 | cost 0.03 x 1.2
+ HIT univgsm.com | Apple Check Service | Warranty Check All iPhones Models | HT 0.012 | srv 0.012 | cost 0.01 x 1.2
+ HIT univgsm.com | Apple info Checkers | Apple id Blacklist [Lost / Stolen / Clean] Check + Full Blacklist GSMA | HT 0.011 | srv 0.011 | cost 0.01 x 1.1
+ HIT univgsm.com | Apple info Checkers | Apple Warranty Information Checker by IMEI OR SERIAL | HT 0.011 | srv 0.011 | cost 0.01 x 1.1
+ HIT univgsm.com | Apple info Checkers | iPhone Model Check [TAC] | HT 0.013 | srv 0.014 | cost 0.01 x 1.3
+ HIT univgsm.com | Apple info Checkers | Model + Colour + Capacity checker by IMEI | HT 0.023 | srv 0.023 | cost 0.02 x 1.15
+ HIT univgsm.com | Apple info Checkers | Model + Colour + Capacity checker by Serial | HT 0.011 | srv 0.011 | cost 0.01 x 1.1
+ HIT univgsm.com | Apple info Checkers | Replaced Status Checker by IMEI | HT 0.011 | srv 0.011 | cost 0.01 x 1.1
+ HIT univgsm.com | Apple info Checkers | Replaced Status Checker by Serial | HT 0.011 | srv 0.011 | cost 0.01 x 1.1
+ HIT univgsm.com | GSX CHECKER | APPLE MDM CHECK INFO - MAC & IOS INSTANT → SN/IMEI | HT 0.168 | srv 0.159 | cost 0.16 x 1.05
+ HIT univgsm.com | GSX CHECKER | iPhone Replacement Check | HT 0.011 | srv 0.011 | cost 0.01 x 1.1
+ HIT univgsm.com | GENERIC Check Service | Huawei Warranty Checker Full Info By IMEI | HT 0.024 | srv 0.024 | cost 0.02 x 1.2
+ HIT univgsm.com | KGFix Tool | KGFixTool 10 Credit Pack | HT 1.125 | srv 0.991 | cost 1.0 x 1.125
+ HIT saudi-gsm.com | Golden-Unlocker | Golden-Unlocker Tool (Samsung + LG+ Motorola + Alcatel + TINNO + Googl | HT 0.644 | srv 0.555 | cost 0.56 x 1.15
+ HIT saudi-gsm.com | Golden-Unlocker | Golden-Unlocker Tool (Samsung + LG+ Motorola + Alcatel + TINNO + Googl | HT 0.644 | srv 0.555 | cost 0.56 x 1.15
+ HIT dmunlocker.com | F-KEY TOOL | F-KEY TOOL V.7 Any Quantity [Existing Users] | HT 1.134 | srv 1.09 | cost 1.08 x 1.05
+ HIT dmunlocker.com | F-KEY TOOL | F-KEY TOOL V.7 Any Quantity [New User Registration AUTO] | HT 1.134 | srv 1.09 | cost 1.08 x 1.05
+ HIT dmunlocker.com | F-KEY TOOL | F-KEY TOOL V.7 Any Quantity [Existing Users] | HT 1.134 | srv 1.08 | cost 1.08 x 1.05
+ HIT dmunlocker.com | F-KEY TOOL | F-KEY TOOL V.7 Any Quantity [New User Registration AUTO] | HT 1.134 | srv 1.08 | cost 1.08 x 1.05
+ HIT fix4gsm.com | Alseery Unlocker | Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) A | HT 0.748 | srv 0.677 | cost 0.68 x 1.1
+ HIT fix4gsm.com | Alseery Unlocker | Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) A | HT 0.748 | srv 0.677 | cost 0.68 x 1.1
+ HIT gsmnigeria.com | F-KEY TOOL | F-KEY TOOL V.7 Any Quantity [Existing Users] | HT 1.134 | srv 1.08 | cost 1.08 x 1.05
+ HIT gsmnigeria.com | F-KEY TOOL | F-KEY TOOL V.7 Any Quantity [New User Registration AUTO] | HT 1.134 | srv 1.08 | cost 1.08 x 1.05
+ HIT gsmnigeria.com | Fast Unlocker Pro | Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] NEW USER | HT 0.616 | srv 0.57 | cost 0.56 x 1.1
+ HIT gsmnigeria.com | Fast Unlocker Pro | Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] OLD USER | HT 0.616 | srv 0.57 | cost 0.56 x 1.1
+ HIT gsmnigeria.com | Alseery Unlocker | Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) A | HT 0.748 | srv 0.68 | cost 0.68 x 1.1
+ HIT gsmnigeria.com | Alseery Unlocker | Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) A | HT 0.748 | srv 0.68 | cost 0.68 x 1.1
+ HIT gsmnigeria.com(exa-cache) | F-KEY TOOL | F-KEY TOOL V.7 Any Quantity [Existing Users] | HT 1.134 | srv 1.08 | cost 1.08 x 1.05
+ HIT gsmnigeria.com(exa-cache) | F-KEY TOOL | F-KEY TOOL V.7 Any Quantity [New User Registration AUTO] | HT 1.134 | srv 1.08 | cost 1.08 x 1.05
+ HIT gsmnigeria.com(exa-cache) | Fast Unlocker Pro | Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] NEW USER | HT 0.616 | srv 0.57 | cost 0.56 x 1.1
+ HIT gsmnigeria.com(exa-cache) | Fast Unlocker Pro | Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] OLD USER | HT 0.616 | srv 0.57 | cost 0.56 x 1.1
+ HIT gsmnigeria.com(exa-cache) | Alseery Unlocker | Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) A | HT 0.748 | srv 0.68 | cost 0.68 x 1.1
+ HIT gsmnigeria.com(exa-cache) | Alseery Unlocker | Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) A | HT 0.748 | srv 0.68 | cost 0.68 x 1.1

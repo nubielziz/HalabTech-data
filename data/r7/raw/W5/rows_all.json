@@ -1,0 +1,1847 @@
+[
+{
+"gid": "GRP-S-000",
+"group": "TIGER AUTH TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "TIGER AUTH TOOL Credit Refill (old user)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-001",
+"group": "Eagle Multi Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Eagle Multi Tool Credit Refill (old user)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-002",
+"group": "053LLM TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "053LLM TOOL Credit Refill (Old User) AUTO API",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-003",
+"group": "DML TOOL PRO",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "DMLTOOL PRO Credit refill (old user)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-005",
+"group": "GPixel Pro Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "GPixel Pro Tool Credit Refill (old user)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-006",
+"group": "IMEIPlus Pixel Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "IMEIPlus Pixel Tool Credit Refill (old user)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-007",
+"group": "GSM Family Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "GSM Family Tool - 1 Year Digital Activation",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-008",
+"group": "S-Tool Pro (Windows Tool)",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "S-Tool Pro (Xiaomi Enter EDL 9008) - Fastboot to EDL (Token)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-010",
+"group": "SRK FRP Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "SRK FRP Tool Credit Refill (old user)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-011",
+"group": "Gsmhelptool.com Activation",
+"n": 6,
+"cat": "Software tool licence / credits",
+"sku": "GSM Help Tool Black Screen Remote Service | 12 Months",
+"hint": "gsmhelptool.com",
+"cls": "other"
+},
+{
+"gid": "GRP-S-012",
+"group": "Cerberus Tool Pro",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Cerberus Tool box",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-013",
+"group": "Aman Remote Technician Edition",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "Aman Remote Technician Edition [ New & Renew ] 1 Month",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-014",
+"group": "Knoxwizard Activation",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Knoxwizard.com Activation (1 pc - 12 Months)",
+"hint": "knoxwizard.com",
+"cls": "other"
+},
+{
+"gid": "GRP-S-015",
+"group": "Shell Tool Activation",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Shell Tool Activation - [12 Months - 1 PC]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-016",
+"group": "Eagle Frp",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Eagle Frp Credit Refill (Old User) AUTO API",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-017",
+"group": "GSMCode.Pro Tools",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "GCPro Black Screen for ultra viewer - 1 Year",
+"hint": "gsmcode.pro",
+"cls": "other"
+},
+{
+"gid": "GRP-S-018",
+"group": "MobileProTool Credit",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "MobileProTool Tool Credits Refill (old user)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-019",
+"group": "Robytechtool",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "ROBY TECH TOOL Activation (12 Hours - 1 Pc)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-021",
+"group": "iDevicePro Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "iDevicePro Tool Activation [12 Months]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-022",
+"group": "FIRE FRP Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "FIRE FRP Tool Credit Refill (OLD User)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-023",
+"group": "Pixel Service Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Pixel Service Tool (Unlock Sim Tool) - Refill Credits",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-024",
+"group": "MIUI Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "MIUI Tool Credit Refill (New User)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-025",
+"group": "Easy Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Easy Auth Tool Credits Refill (old user)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-026",
+"group": "Mysterio FRP",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Mysterio FRP Unlock Refill (Old User) [AUTO API]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-028",
+"group": "RADEX FRP TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "RADEX Credit Transfer (https://radexfrp.com)",
+"hint": "radexfrp.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-029",
+"group": "UNLOCK SERVICE TOOL ( UST )",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "UnlockServiceTool Credits Xiaomi Realme OPPO One Plus Vivo Nokia Samsung MOTO MTK SPD QC",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-030",
+"group": "UFT-Tool",
+"n": 6,
+"cat": "Software tool licence / credits",
+"sku": "UFT-Tool 12 Months Activation (1 PC) NEW Users",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-031",
+"group": "MRPROFIXER Auth tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "MRPROFIXER AUTH Credit Refill (Old User)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-032",
+"group": "MUDigital Too",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "MUDigital - Create New Account",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-033",
+"group": "GFS PRO TOOL",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "GFS PRO TOOL Activation (1 Month - 1 Pc)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-034",
+"group": "Orbitmobile E-Sim",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Orbitmobile E-Sim Global interet (10 GB / 30 Days)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-035",
+"group": "OH AUTH TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "OH AUTH Credits Refill Old User",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-036",
+"group": "Xiaomi Beast",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Xiaomi Beast Refill Credit",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-037",
+"group": "EMB AUTH TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "EMB AUTH TOOL (Credits Refill)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-038",
+"group": "Alien tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Alien Tool For (Moto FRP-UBL) No Need Credits [12 Months]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-039",
+"group": "Anytool Auth",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Anytool AUTH TOOL Credit Any Qnt [OLD/EXISITNG USER]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-041",
+"group": "Tuna Pro Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Tuna Pro Tool Credit Any Qnt [OLD/EXISITNG USER]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-042",
+"group": "Droidmod Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Droidmod Tool Activation [12 Months]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-043",
+"group": "SKY AUTH TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "SKY AUTH TOOL [ FRP/FLASH CREDIT ]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-044",
+"group": "MiAssistant Pro Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "MiAssistant Pro [ FRP/FLASH CREDIT ]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-046",
+"group": "LIKA TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "LIKA TOOL Credits (Old Use)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-047",
+"group": "Smart Frp Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Smart Frp Tool Credits (Old User) AUTO API",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-048",
+"group": "Moto M Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Moto M Tool 1 Year Activation - For New User",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-049",
+"group": "RootMagisk.com Packages",
+"n": 5,
+"cat": "Software tool licence / credits",
+"sku": "1 Day Package Activation For [RootMagisk.com] Root Site",
+"hint": "rootmagisk.com",
+"cls": "other"
+},
+{
+"gid": "GRP-S-053",
+"group": "BMT Pro Tool",
+"n": 5,
+"cat": "Software tool licence / credits",
+"sku": "BMT Pro License 6 Months [ New & Renew ] Support Apple & Android",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-054",
+"group": "MAT AUTH TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "MAT AUTH TOOL Credit Any Qnt [OLD/EXISITNG USER]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-055",
+"group": "KGFix Tool",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "KGFix Tool Activation [1 Year - 1 PC]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-057",
+"group": "ONE CLICK PhoneRepair",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "ONE CLICK PhoneRepair Tools 1 year license accounts",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-060",
+"group": "Multi Pro TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "XIAOMI MULTI PRO TOOL [MTK & QC Auth]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-061",
+"group": "Nemesis Box Activation",
+"n": 2,
+"cat": "Box / dongle activation & credits",
+"sku": "Nemesis Box Activation Credit Refill Old Users",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-062",
+"group": "Moto King Pro",
+"n": 5,
+"cat": "Software tool licence / credits",
+"sku": "Moto King Pro (active account) [ 6 Months - 1 PC]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-063",
+"group": "Adam Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Adam Tool Credit For Xiaomi/OnePlus/Realme [Existing User]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-064",
+"group": "Mesallah Hardware Tool",
+"n": 1,
+"cat": "Schematics / hardware-repair software",
+"sku": "Mesallah Hardware Tool (مسلة) [1 PC 1 Mobile 12 Months]",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-066",
+"group": "RFT Loader",
+"n": 7,
+"cat": "Software tool licence / credits",
+"sku": "RFT Loader Credit Transfer [Existing User]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-068",
+"group": "Pixel Pro Tool Activation",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Pixel Pro Tool Activation [1 YEAR - 1 PC]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-069",
+"group": "Apizu Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Apizu Tool Activation for (1 Year)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-070",
+"group": "HXRU (OPPO, Realme and OnePlus)",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "HXRU Tool For OPPO | Realme | OnePlus Support [Old User]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-071",
+"group": "Nice Unlocker Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Nice Unlocker Tool [1 Year - 1 PC]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-073",
+"group": "Artemis Tool",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "Artemis II Credit Refill old user [Artemis2.vip]",
+"hint": "artemis2.vip",
+"cls": "other"
+},
+{
+"gid": "GRP-S-074",
+"group": "MaAnt Maintenance Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "MaAnt Maintenance Assistant Software [1 Pc - 1 Month] Code",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-076",
+"group": "HaaFedK Xiaomi Auth",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "HaaFedK Xiaomi Auth Tool Credits",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-077",
+"group": "OPlusProLogin",
+"n": 7,
+"cat": "Software tool licence / credits",
+"sku": "Opluspro iRecovery Tool ECID Register",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-078",
+"group": "Dragon Frp Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Dragon Frp Tool Credit Any Qnt [OLD/EXISITNG USER]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-083",
+"group": "Xiaomi Speed Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Xiaomi Speed Tool AUTO API EXISTING USER",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-084",
+"group": "HyperAuthTool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "HyperAuthTool - Xiaomi auth QC/MTK v6 v5 [10 Credits]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-089",
+"group": "Lanrui Gzlanrui Hardware Tool",
+"n": 2,
+"cat": "Schematics / hardware-repair software",
+"sku": "Lanrui Gzlanrui Hardware Tool (1 Year - 1 PC)",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-090",
+"group": "Sam-Token Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Sam-Token Tool Credits (New Account)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-091",
+"group": "RBM (Repair Bussiness Management)",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "RBM (Repair Bussiness Management) New Code",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-094",
+"group": "PhoneMicroDB",
+"n": 2,
+"cat": "Schematics / hardware-repair software",
+"sku": "PhoneMicroDB (1 PC 1 Month)",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-095",
+"group": "QCDMA Tool",
+"n": 6,
+"cat": "Software tool licence / credits",
+"sku": "QCDMA Tool 12 Months LICENSE NEW Users (INSTANT)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-096",
+"group": "F-KEY TOOL",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "F-KEY TOOL V.7 Any Quantity [Existing Users]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-098",
+"group": "HXRU Xiaomi",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "HXRU Auth Tool [Old User]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-100",
+"group": "FRP BOSS TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "FRP BOSS TOOL - Instant Credits",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-103",
+"group": "Anonymous Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Anonymouse Anynymouse Anonymous [xiaomiauth.org]Tool [AUTO API ] EXISTING USER",
+"hint": "xiaomiauth.org",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-105",
+"group": "MDMFix Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "MDMFix Tool - MdmFixTool Activation [1 Year 1 Pc] AUTO API",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-106",
+"group": "Typhon Auth Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Typhon Auth Tool Any Qnt (AUTH) [Existing User]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-107",
+"group": "Ultra-Unlock Pro",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Ultra Unlock Pro 15 Credits (Unlimited Operation) Offer عرض",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-109",
+"group": "Gsm Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "GsmAuth.com QUALCOMM/MEDIATEK Credits Refill | Existing User Only",
+"hint": "gsmauth.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-110",
+"group": "Soul Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Soul Auth Tool Credit - Existing User",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-111",
+"group": "SRS AUTH TOOL",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "SrsAuth Tool 12 Month Licence Activation/Renew",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-113",
+"group": "NC AuthTool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "NC AuthTool Credit - OLD Users",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-114",
+"group": "Gsm Future Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Gsm Future Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-115",
+"group": "Powerful Unlocker Pro",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Powerful Unlocker Pro Tool Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-116",
+"group": "Falcon Multi Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Falcon Multi Tool Credit Refill - Any Quantity (Existing User)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-118",
+"group": "MultiUnlock Service Utility Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "MultiUnlock Service Utility Tool (12 Months - 1 PC)",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-119",
+"group": "Falcon FRP Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Falcon FRP Tool Credit Any Qty [Existing Account] (falconfrptool.com)",
+"hint": "falconfrptool.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-120",
+"group": "Lazy Loader",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Lazy Loader (Realme)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-121",
+"group": "Nexa Pro Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Nexa Pro Tool Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-122",
+"group": "Turbo tool (Hardware)",
+"n": 1,
+"cat": "Schematics / hardware-repair software",
+"sku": "Turbo Hardware Tool (bitmap and schematic support) 1 YEAR 1 PC",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-123",
+"group": "Gawansmirt Unlocker Pro",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Gawansmirt Unlocker Pro tool [12 Months - 1 Pc]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-125",
+"group": "Pulsarunlock",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Pulsar unlock Credit (Old User)",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-126",
+"group": "MIFRPTOOL.COM",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "MiFrp Tool Credits Existing User",
+"hint": "mifrptool.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-130",
+"group": "XM Auth Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "XM AUTH TOOL Any Quantity (MTK & Qualcom) [New User Registration] AUTO API",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-131",
+"group": "AH-Xiaomi Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "AH-REALME OTP TOOL - 1 Device",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-132",
+"group": "Deep Unlocker Tool",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "Deep Unlocker Tool Activation 1 Year ( Existing User)",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-133",
+"group": "Smart Tool Pro Tool",
+"n": 6,
+"cat": "Software tool licence / credits",
+"sku": "Smart Tool Pro Activation [10 Hours - 1 Pc]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-134",
+"group": "XIAOMI SERVICE TOOL (XST)",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Xiaomi service tool Credit Any Qty [Existing Account] AUTO API",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-135",
+"group": "Best Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "BestAuthTool ( Bestauthtool.com ) - Credits for Existing User",
+"hint": "bestauthtool.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-137",
+"group": "mifrp Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "mifrp.com Tool Credit Any Qty [Existing Account]",
+"hint": "mifrp.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-138",
+"group": "Covva Pro Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Covva Pro Tool (1 PC - 1 User)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-139",
+"group": "UK-Tools OTP",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "UK-Tools OTP (Realme O+ Support & MTK+QC ALL)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-140",
+"group": "Ultra auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Ultra auth Tool (UAT) QC/ MTK/ FDL Credits refill [Existing User]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-141",
+"group": "FAST FRP TOOL",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "FAST FRP TOOL Credits Any Quantity [Existing USER] (FASTFRPTOOL.COM)",
+"hint": "fastfrptool.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-142",
+"group": "Zen Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Zen Auth Tool Flash/EFS/Mi Cloud Credit",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-143",
+"group": "Nova Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Nova Auth Tool Any Quantity [Existing Users Only]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-144",
+"group": "Venom Auth Tool Credit",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Venom Auth Tool Credit Any Qnt [OLD/EXISITNG USER]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-146",
+"group": "CheckerTR PRO",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Checker TR PRO Activation [12 Months - 1 Pc]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-147",
+"group": "BEST FRP TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "BEST FRP TOOL Tool Credit Any Qty (AUTH, FASTBOOT TO EDL) [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-148",
+"group": "P@NDONYMUS Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "P@NDONYMUS Tool (pandonymus Activation) [1 PC - 12 months]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-149",
+"group": "TMT Pro Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "TMTPro TMT Pro Tool Activation [12 Months - 1 PC]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-150",
+"group": "PENGUINE MULTI TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "PENGUINE MULTI TOOL Auth Tool Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-152",
+"group": "JAT AUTH TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "JAT AUTH TOOL [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-153",
+"group": "W2R Solutions Schematic",
+"n": 5,
+"cat": "Schematics / hardware-repair software",
+"sku": "W2R Solutions Schematics [1 PC - 1 Year]",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-154",
+"group": "Relax Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Relax Tool AUTH Credits Loader",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-156",
+"group": "FRP Unlock TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "FRP Unlock TOOL Tool Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-157",
+"group": "BULK AUTH TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "BULK AUTH TOOL Credit Any Qty (AUTH, FASTBOOT TO EDL) [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-158",
+"group": "KRAKEN AUTH",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Kraken AUTH TOOL Credit Any Qnt [OLD/EXISITNG USER]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-159",
+"group": "Fenix Utility Pro",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "Fenix Utility Pro [1 Month - 1 PC] Activation [AUTO API]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-160",
+"group": "IPRO Tool Credit",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "iPro Tool Credit",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-161",
+"group": "TONI PRO TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "TONI PRO TOOL All Operation Support [Existing User]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-162",
+"group": "XIAOMI FLASHER PRO",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "XFP XIAOMI FLASHER PRO Tool Credit Any Qty (AUTH, FASTBOOT TO EDL) [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-163",
+"group": "Repair-Fix Xiaomi Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Repair-Fix Xiaomi Auth Tool (RepairFixAuthTools.com) Credit AUTO API [EXISTING USER ]",
+"hint": "repairfixauthtools.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-164",
+"group": "PhoeProgramFix Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "PhoeProgramFix Tool Activation [1 PC - 1 YEAR]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-166",
+"group": "CP-Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "CP-Tool CPT Pro Xiaomi Tool Credits",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-170",
+"group": "Octoplus Box / Dongle (Renew)",
+"n": 2,
+"cat": "Box / dongle activation & credits",
+"sku": "Octoplus FRP Tool 1 Year Renew for Box / Dongle",
+"hint": "",
+"cls": "octo"
+},
+{
+"gid": "GRP-S-171",
+"group": "WorldLinkGSM Tool",
+"n": 8,
+"cat": "Software tool licence / credits",
+"sku": "WorldLinkGSM Credit Refill for old user",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-173",
+"group": "FRPTooLPRO",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "FRPToolPRO [SAMSUNG & XIAOMI] Credits",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-174",
+"group": "Zhizhen Schematics",
+"n": 7,
+"cat": "Schematics / hardware-repair software",
+"sku": "Zhizhen Schematics Tool - 1 Month Activation (1 PC)",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-175",
+"group": "ArabFRP Tool",
+"n": 5,
+"cat": "Software tool licence / credits",
+"sku": "ArabFRP Tool Activation [unlimited PC - 1 Year]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-177",
+"group": "Mummy Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Mummy Auth Tool for Xiaomi Credits for Existing User",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-178",
+"group": "MDM FIX PRO",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "MFP TOOL FIX PRO TOOL [12 Months]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-180",
+"group": "Taj AuthTool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Xiaomi tajtool.com Tool [TJ] [Existing User]",
+"hint": "tajtool.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-181",
+"group": "Xiaomi Paid Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "XiaomiPaid EXISTING USER",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-183",
+"group": "CLICK FRP TOOL (CFT)",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "CLICK FRP TOOL (CFT) Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-184",
+"group": "X-Tool PRO",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "X-Tool PRO Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-185",
+"group": "Power Tool Auth",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Power Auth Tool Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-188",
+"group": "YCS Drawing Bitmap",
+"n": 1,
+"cat": "Schematics / hardware-repair software",
+"sku": "YCS intelligent Drawing Schematic Bitmap [1 Year - 1 Pc]",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-190",
+"group": "X-FRP PRO",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "X-Flash PRO Loader OTP Login For Auth [ Infinix - iTel - Tecno ]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-191",
+"group": "Global Frp Tool (GFT)",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "( GFT ) Global Frp Tool Realme 1 Click FRP Unlock Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-192",
+"group": "KGPROTOOL",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "KG Pro Tool Activation [12 Month- 1 PC]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-194",
+"group": "Android Auth Tool Credit",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Android Auth Tool Credit Refill (Existing User)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-195",
+"group": "FCK Tool Xiaomi",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "FCK Tool ( Exist User )",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-196",
+"group": "HSPRO TOOL Activation",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "HS-PRO HSPRO TOOL Activation [12 Months - 1 Pc]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-197",
+"group": "KRDT Utility Pro Activation",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "KRDT Utility Pro Credit refill (OLD USER)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-198",
+"group": "tojo360 Tool",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "360 TOOL (tojo360.com) Activation [12 Months - 1 Pc]",
+"hint": "tojo360.com",
+"cls": "other"
+},
+{
+"gid": "GRP-S-199",
+"group": "Xiaomi Repair Tool XRT",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Xiaomi Repair Tool (XRT) (AUTH, FASTBOOT TO EDL) [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-200",
+"group": "tool.emmc-ufs",
+"n": 4,
+"cat": "Schematics / hardware-repair software",
+"sku": "EMMC-UFS Tool Activation (https://tool.emmc-ufs.com) 1 Month",
+"hint": "tool.emmc-ufs.com",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-201",
+"group": "Galaxy Auth",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "GALAXY OnePlus FLASH OTP (Galaxy-realme.com)",
+"hint": "galaxy-realme.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-202",
+"group": "NEXTG Auth Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "NEXTG Auth Tool Credit Any Qty [Existing Account]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-203",
+"group": "Tira unlocker",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Tira unlocker [ Samsung + LG + XIAOMI + Alcatel + TINNO + Google + Vivo + Realme + MOTO ] Credits for new user [ Auto API ]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-205",
+"group": "Samsung Frp",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "FRP Remove + Samsung Account remove All Samsung Device (Middel east) (شرق الاوسط )",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-206",
+"group": "Octoplus / Octopus Box Credits",
+"n": 2,
+"cat": "Box / dongle activation & credits",
+"sku": "Octoplus / Octopus Box Account Credits For Existing/Old Users (Instant) [IF USER NOT EXISIT NO REFUND]",
+"hint": "",
+"cls": "octo"
+},
+{
+"gid": "GRP-S-207",
+"group": "TFM Pro tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "TFM Pro tool Credit (You need Active Account 3-6-12 Months member) For (beta.tfmtool.com)",
+"hint": "beta.tfmtool.com",
+"cls": "other"
+},
+{
+"gid": "GRP-S-209",
+"group": "ZXW Schematic",
+"n": 1,
+"cat": "Schematics / hardware-repair software",
+"sku": "ZXW Online Account Activation (1 Year) Instant",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-210",
+"group": "FCL Schematic",
+"n": 3,
+"cat": "Schematics / hardware-repair software",
+"sku": "WXJ WUXİNJİ FCL ACTİVATİON (1 Year - 3 Pcs) GLOBAL",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-215",
+"group": "Octoplus FULL Digital License (Online Without Box)",
+"n": 6,
+"cat": "Box / dongle activation & credits",
+"sku": "Octoplus Full Digital License 6 Months (Without Box)",
+"hint": "",
+"cls": "octo"
+},
+{
+"gid": "GRP-S-216",
+"group": "Xiaomi Authorized Account",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Custom Xiaomi",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-225",
+"group": "GSMunlock",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "GSMUnlock- Create New Account (Instant/Auto API)",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-226",
+"group": "The Magic Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "The Magic Tool (New User)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-227",
+"group": "Dr.Fone",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Dr.Fone - WhatsApp Transfer ( iOS And Android ) 1 Year License | 10 Mobile Devices 1 PC",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-228",
+"group": "E-GSM",
+"n": 6,
+"cat": "Software tool licence / credits",
+"sku": "E-GSM 10 Credits (NOT FOR AUTH-FLASH)",
+"hint": "egsmkey.com",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-229",
+"group": "MI Byass Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "MI-Byass MI Byass Tool Credit [XIAOMI & LG & MOTO & Oppo & Realme & Vivo] (New User)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-231",
+"group": "General Unlocker Pro",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "General Unlocker Pro [ Samsung + LG + Alcatel + TINNO + Google + Moto ] Credits for new user [ Auto API ]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-232",
+"group": "Samsung Sim-Unlocker",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Sim-Unlocker Pro - The Cheapest Samsung Unlock credits New account ANY Quantity",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-233",
+"group": "Setool",
+"n": 3,
+"cat": "Box / dongle activation & credits",
+"sku": "LG Tool Activation setool",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-239",
+"group": "Odin Activations",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "Muslim Odin Activation [1 YEAR ]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-245",
+"group": "king Tools",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "KING TOOLS Credits for existing User",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-246",
+"group": "T-Unlock",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "T-UNLOCK TUNLOCK Credits Any Quantity {Support Samsung , LG & Kyocera} ( new user , refill existing/Old user ) Auto API",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-250",
+"group": "Laelo Samsung Unlock tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "iNfinity Laelo Samsung Unlock tool (New User Service)",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-251",
+"group": "Octoplus/Octopus Activation (Box & Dongle)",
+"n": 4,
+"cat": "Box / dongle activation & credits",
+"sku": "Octoplus / Octopus Box Medusa LG (Activation For Box Or Dongle)",
+"hint": "",
+"cls": "octo"
+},
+{
+"gid": "GRP-S-260",
+"group": "HTD",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "HTD Build Your Store Online Bronze 1-Year Subscription (Website) [Hosting included]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-261",
+"group": "Tera Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "TeraTool Activation (1 Pc) 12 Months (INSTANT)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-262",
+"group": "Alseery Unlocker",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [New Users] Instant",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-263",
+"group": "CF-Tools Credit",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "CF-Tools Credits",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-265",
+"group": "SimTool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "SIMTool - Create New User + Credits(Instant/Auto API)",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-266",
+"group": "inmobile Activation",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "inmobile Activation (IC & Hardware Fault Finder) 1 Month",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-267",
+"group": "Meow Realme",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Meow Tool Realme ( No Refund any issue)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-268",
+"group": "Mobile Unlocker Tool",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Mobile Unlocker Tool (12 Months)",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-269",
+"group": "GAPro Tool",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "GAPro Login Tool - Oneplus OTP (Flash AUTH)",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-270",
+"group": "MR AUTH",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "MR AUTH Tool Credits For All ( EDL - FLASH) Xiaomi- OnePlus - Realme - Oppo",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-273",
+"group": "Android Remove Lock Screen",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Mobiledit 9.8",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-275",
+"group": "Sampro A.i.O",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Sampro tool (activation 2 years)",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-276",
+"group": "Fast Unlocker Pro",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] NEW USER",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-277",
+"group": "Android Root Tool [ART]",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Android Root Tool [ART] 1 Year Activation 1 Pc",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-280",
+"group": "Golden-Unlocker",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "Golden-Unlocker Tool (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [NEW Users]",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-282",
+"group": "A.N TOOL",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "A.N TOOL Activation [2 Years - 1 PC]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-283",
+"group": "Xyno Miflash",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Xyno Tool For Xiaomi Credits (OLD Users) AUTO API",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-287",
+"group": "MIFIXPRO",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Xiaomi Fix Pro (MIFIXPRO Mifix Pro) TOOL [Existing User]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-288",
+"group": "Octoplus Samsung Digital License (Online Without Box)",
+"n": 3,
+"cat": "Box / dongle activation & credits",
+"sku": "Octoplus Samsung Digital License 6 Months (Without Box)",
+"hint": "",
+"cls": "octo"
+},
+{
+"gid": "GRP-S-289",
+"group": "Octoplus LG Digital License (Online Without Box)",
+"n": 3,
+"cat": "Box / dongle activation & credits",
+"sku": "Octoplus LG Digital 1 License Year (Without Box)",
+"hint": "",
+"cls": "octo"
+},
+{
+"gid": "GRP-S-290",
+"group": "Octoplus FRP Digital License (Online Without Box)",
+"n": 3,
+"cat": "Box / dongle activation & credits",
+"sku": "Octoplus FRP Digital License 1 Year (Without Box)",
+"hint": "",
+"cls": "octo"
+},
+{
+"gid": "GRP-S-291",
+"group": "Octoplus HUAWEI Digital License (Online Without Box)",
+"n": 3,
+"cat": "Box / dongle activation & credits",
+"sku": "Octoplus Huawei Digital Licens 1 Year (Without Box)",
+"hint": "",
+"cls": "octo"
+},
+{
+"gid": "GRP-S-292",
+"group": "Orion Schematics",
+"n": 5,
+"cat": "Schematics / hardware-repair software",
+"sku": "Orion Schematics [1 Month] By ESTECH",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-294",
+"group": "FD Tool pro",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "FD Tool pro Activation [12 Months]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-295",
+"group": "Xiaomi King Tool",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Xiaomi King Tool Any Qnt (AUTH) INSTANT",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-296",
+"group": "RDPower Tools",
+"n": 3,
+"cat": "Software tool licence / credits",
+"sku": "Rd Power Tool Activation [RD Power LG] + [Stool] (Support for LG, Stool cell phones) + Gift 10 Credits INSTANT",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-299",
+"group": "IMFC",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "iMFC Function Activation (1 Year) [NOT FOR RENEW]",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-300",
+"group": "Guerratool MOTO",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "The GuerraTool Motorola - EXISTING USER",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-302",
+"group": "DT PRO TOOL",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "DT PRO TOOL ACTIVATION",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-305",
+"group": "JC programmer",
+"n": 4,
+"cat": "Schematics / hardware-repair software",
+"sku": "JCID WatchTools Software 200 points one card",
+"hint": "",
+"cls": "schem"
+},
+{
+"gid": "GRP-S-307",
+"group": "Xiaomi Fire Tool XFT",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "Xiaomi Fire Tool XFT Credit Any Qnt (AUTH, FASTBOOT TO EDL) [OLD/EXISITNG USER ONLY]",
+"hint": "",
+"cls": "auth"
+},
+{
+"gid": "GRP-S-312",
+"group": "S-Tool Pro",
+"n": 1,
+"cat": "Software tool licence / credits",
+"sku": "S-Tool Pro Credit (New/Existing User) - SCoin Deposit",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-316",
+"group": "MTK GOGO Tool",
+"n": 2,
+"cat": "Software tool licence / credits",
+"sku": "MTK GoGo Create New User + Credits(Instant/Auto API)",
+"hint": "",
+"cls": "unlock"
+},
+{
+"gid": "GRP-S-319",
+"group": "CF-Tools Activation",
+"n": 4,
+"cat": "Software tool licence / credits",
+"sku": "CF-Tools (1 Month) New/Renew Activation",
+"hint": "",
+"cls": "other"
+},
+{
+"gid": "GRP-S-320",
+"group": "Refoxteam schematic",
+"n": 2,
+"cat": "Schematics / hardware-repair software",
+"sku": "Refoxteam Schematic (BitMap) 1 Month INSTANT",
+"hint": "",
+"cls": "schem"
+}
+]

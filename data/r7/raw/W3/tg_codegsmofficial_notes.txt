@@ -1,0 +1,17 @@
+# Code-GSM Telegram channel t.me/codegsmofficial ("CODE-GSM.COM (Wholesale Supplier) A12", 1.03K subscribers)
+## Parallel web_fetch ~10:12Z: https://t.me/s/codegsmofficial?q=Clean+%26+Paid+Off  (+ ?q=METROPCS)
+post 2001 | March 16 [2026] 18:09 | auto "New Price for ..." list incl.:
+   Till 17 Series [ ✅ Clean & Paid Off Only ] ... is 79.99 USD ; Till 16 ... is 69.99 USD ; Till 15 ... is 64.99 USD ; Till 13/14 ... is 59.99 USD
+post 2012 | March 18 18:27 | promo: Supported Models iPhone 11/12, 13/14, 15, 16, 17 Series; NOT SUPPORTED: US Reseller Flex Policy, 2421 - Dish Boost Locked Policy
+post 2094 | April 2 19:24 | same promo
+post 2192 | April 19 10:14 | "New Price for ..." list incl.:
+   Xiaomi Mi Account Unlock Service {{{Ukraine}}} Clean IMEIs is 25.645 USD ; {{{Malaysia}}} Clean IMEIs is 16.233 USD  (HalabTech-style names, 3-decimal prices)
+   Till 11/12 ... is 48.75 USD ; Till 16 ... is 62.99 USD ; Till 17 ... is 71.99 USD ; Till 15 ... is 57.99 USD
+## Exa web_fetch ~10:27Z: https://t.me/s/codegsmofficial?before=1975 (page 'Published: 2026-03-07')
+ - "New Price for Lpro Max hello bypass iphone 8/8+ is 21.5 USD New Price for HALABTECH (Ultra Platinum 12 Months) [BLOG + SUPPORT + FACEBOOK GROUP] is 88.69 USD New Price for HALABTECH (Bronze 1 Month) [ SUPPORT] is 12.49 USD ..." (Sabrine bz, 17:51)
+ - post ~1969 (18:15): "T-Mobile | Sprint | MetroPCS USA – iPhone Unlock Policy ... Supported iPhone Series: Till 17, Till 16, Till 15, Till 13 / 14, Till 11 / 12 ... Not Supported: US Reseller Flex Policy, 2421 – Dish Boost Locked Policy"
+ - Xiaomi Mi Account promo listing 'Turkey (Source 1 & Cheaper Source 2)', 'Kenya (Instant to few hours)', 'Costa Rica (Official Remove)', 'Pakistan (Official Remove)', 'Saudi Arabia KSA (Official Remove)', 'UAE (Official Remove)' (mirrors HalabTech Xiaomi Mi Account SKUs)
+ - servicedtl?id=2280/2278/2302/2367 numeric service URLs exist on code-gsm.com
+## GSM-Forum f1152 (Parallel web_fetch ~10:12Z)
+ thread 3440102 'T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 17 Series [ ✅ Clean & Paid Off' posted 04-02-2026 20:19 (GMT+1) by technico (Product Manager, CANADA)
+ thread 3442124 'NEW SERVICE - ... iPhone Till 15 Series [ Clean & Paid Off Only ]' posted 'Yesterday, 20:49' (absolute date not shown; thread id > 3440102 => after 4 Feb 2026)

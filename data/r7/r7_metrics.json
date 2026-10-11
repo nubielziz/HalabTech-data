@@ -1,0 +1,1123 @@
+{
+ "n_sku": 1455,
+ "n_grp": 383,
+ "n_server_grp": 321,
+ "n_imei_grp": 62,
+ "inv_g": 342,
+ "inv_s": 1285,
+ "inv_g_r7": 287,
+ "inv_s_r7": 1054,
+ "dev_g": 277,
+ "dev_s": 842,
+ "listed_g": 149,
+ "listed_s": 455,
+ "ge_likely_g": 193,
+ "ge_likely_s": 601,
+ "third_ge_likely_g": 184,
+ "third_ge_likely_s": 560,
+ "named_g": 166,
+ "named_s": 484,
+ "channel_s": 76,
+ "strong_third_g": 6,
+ "strong_third_s": 15,
+ "inhouse_conf_g": 6,
+ "inhouse_conf_s": 21,
+ "inhouse_all_s": 41,
+ "verified_third_party_s": 0,
+ "unknown_g": 189,
+ "unknown_s": 849,
+ "disputed_g": 1,
+ "disputed_s": 5,
+ "ev_g": 342,
+ "ev_s": 1285,
+ "comp_s": 232,
+ "r6_unknown_g": 287,
+ "r6_ge_likely_g": 96,
+ "r6_ge_likely_s": 400,
+ "conf_g": {
+  "UNKNOWN": 189,
+  "LIKELY": 181,
+  "STRONG": 6,
+  "CONFIRMED": 6,
+  "DISPUTED": 1
+ },
+ "conf_g6": {
+  "UNKNOWN": 287,
+  "LIKELY": 84,
+  "STRONG": 6,
+  "CONFIRMED": 6
+ },
+ "conf_s": {
+  "UNKNOWN": 849,
+  "LIKELY": 565,
+  "STRONG": 15,
+  "CONFIRMED": 21,
+  "DISPUTED": 5
+ },
+ "conf_s6": {
+  "UNKNOWN": 1055,
+  "LIKELY": 364,
+  "STRONG": 15,
+  "CONFIRMED": 21
+ },
+ "route_s": {
+  "UK": 752,
+  "VD": 412,
+  "VA": 8,
+  "NI": 43,
+  "VR": 15,
+  "IN": 41,
+  "FP": 6,
+  "LC": 76,
+  "NS": 97,
+  "DS": 5
+ },
+ "w5_pos": 70,
+ "w5_pos_conf": 68,
+ "inv_g6": 118,
+ "inv_s6": 709,
+ "ev_pos_g": 256,
+ "ev_pos_s": 1128,
+ "r7_findings": 225,
+ "r7_negs": 198,
+ "r7_calls": 317,
+ "r7_strong_conf": 18,
+ "second_tool": 12,
+ "groups_changed": 107,
+ "up": 102,
+ "down": 5,
+ "w5_new_conf": 62,
+ "w5_new_strong": 1,
+ "w5_new_likely": 1,
+ "tool_sum": {
+  "W1|Firecrawl scrape": 18,
+  "W1|Parallel fetch": 15,
+  "W1|Exa fetch": 3,
+  "W1|Firecrawl developer search": 2,
+  "W1|Exa search": 2,
+  "W1|Parallel search": 2,
+  "W2|Firecrawl scrape": 13,
+  "W2|Parallel fetch": 7,
+  "W2|Firecrawl search": 12,
+  "W2|Parallel search": 6,
+  "W2|Exa fetch": 7,
+  "W2|Exa search": 1,
+  "W3|Firecrawl scrape": 13,
+  "W3|Firecrawl search": 8,
+  "W3|Parallel fetch": 12,
+  "W3|Parallel search": 1,
+  "W3|Exa search": 1,
+  "W3|Exa fetch": 6,
+  "W3|local python3 -I (r7/scripts/W3/overlap_server.py + ad-hoc parsing)": 1,
+  "W4|Parallel search": 22,
+  "W4|Parallel fetch": 9,
+  "W4|Firecrawl scrape": 15,
+  "W4|ToolSearch (non-MCP)": 1,
+  "W5|Exa agent": 15,
+  "W5|Parallel search": 3,
+  "W5|Parallel fetch": 1,
+  "W5|Exa fetch": 12,
+  "W5|Firecrawl scrape": 12,
+  "W5|Exa search": 1,
+  "W6|Parallel fetch": 1,
+  "W6|Exa fetch": 18,
+  "W6|Parallel search": 3,
+  "W6|Firecrawl search": 3,
+  "W6|Firecrawl scrape": 8,
+  "W7|Parallel fetch": 9,
+  "W7|Parallel search": 4,
+  "W7|Firecrawl search": 13,
+  "W7|Exa search": 5,
+  "W7|Exa fetch": 4,
+  "V7|Bash curl": 1,
+  "V7|Firecrawl scrape": 15,
+  "V7|Parallel fetch": 2,
+  "V7|Exa fetch": 8,
+  "V7|local analysis": 1,
+  "V7|local re-read": 1
+ },
+ "tool_fail": {
+  "W1|Exa fetch": 3,
+  "W1|Parallel fetch": 6,
+  "W1|Firecrawl scrape": 2,
+  "W2|Parallel fetch": 2,
+  "W3|Firecrawl scrape": 3,
+  "W3|Parallel fetch": 2,
+  "W4|Firecrawl scrape": 1,
+  "W4|Parallel fetch": 1,
+  "W5|Parallel fetch": 1,
+  "W5|Firecrawl scrape": 4,
+  "W6|Firecrawl scrape": 1,
+  "W7|Parallel fetch": 3,
+  "V7|Bash curl": 1,
+  "V7|Firecrawl scrape": 2,
+  "V7|Parallel fetch": 1
+ },
+ "ev_first": "EV-267",
+ "ev_last": "EV-491",
+ "neg_last": "NEG-198",
+ "ev_map": {
+  "W1-01": "EV-267",
+  "W1-02": "EV-268",
+  "W1-03": "EV-269",
+  "W1-04": "EV-270",
+  "W1-05": "EV-271",
+  "W1-06": "EV-272",
+  "W1-07": "EV-273",
+  "W1-08": "EV-274",
+  "W1-09": "EV-275",
+  "W1-10": "EV-276",
+  "W1-11": "EV-277",
+  "W1-12": "EV-278",
+  "W1-13": "EV-279",
+  "W1-14": "EV-280",
+  "W1-15": "EV-281",
+  "W1-16": "EV-282",
+  "W1-17": "EV-283",
+  "W1-18": "EV-284",
+  "W1-19": "EV-285",
+  "W2-01": "EV-286",
+  "W2-02": "EV-287",
+  "W2-03": "EV-288",
+  "W2-04": "EV-289",
+  "W2-05": "EV-290",
+  "W2-06": "EV-291",
+  "W2-07": "EV-292",
+  "W2-08": "EV-293",
+  "W2-09": "EV-294",
+  "W2-10": "EV-295",
+  "W2-11": "EV-296",
+  "W2-12": "EV-297",
+  "W2-13": "EV-298",
+  "W2-14": "EV-299",
+  "W2-15": "EV-300",
+  "W2-16": "EV-301",
+  "W2-17": "EV-302",
+  "W3-01": "EV-303",
+  "W3-02": "EV-304",
+  "W3-03": "EV-305",
+  "W3-04": "EV-306",
+  "W3-05": "EV-307",
+  "W3-06": "EV-308",
+  "W3-07": "EV-309",
+  "W3-08": "EV-310",
+  "W3-09": "EV-311",
+  "W3-10": "EV-312",
+  "W3-11": "EV-313",
+  "W3-12": "EV-314",
+  "W3-13": "EV-315",
+  "W4-01": "EV-316",
+  "W4-02": "EV-317",
+  "W4-03": "EV-318",
+  "W4-04": "EV-319",
+  "W4-05": "EV-320",
+  "W4-06": "EV-321",
+  "W4-07": "EV-322",
+  "W4-08": "EV-323",
+  "W4-09": "EV-324",
+  "W4-10": "EV-325",
+  "W4-11": "EV-326",
+  "W4-12": "EV-327",
+  "W4-13": "EV-328",
+  "W4-14": "EV-329",
+  "W4-15": "EV-330",
+  "W4-16": "EV-331",
+  "W4-17": "EV-332",
+  "W4-18": "EV-333",
+  "W4-19": "EV-334",
+  "W4-20": "EV-335",
+  "W4-21": "EV-336",
+  "W4-22": "EV-337",
+  "W5-01": "EV-338",
+  "W5-02": "EV-339",
+  "W5-03": "EV-340",
+  "W5-04": "EV-341",
+  "W5-05": "EV-342",
+  "W5-06": "EV-343",
+  "W5-07": "EV-344",
+  "W5-08": "EV-345",
+  "W5-09": "EV-346",
+  "W5-10": "EV-347",
+  "W5-11": "EV-348",
+  "W5-12": "EV-349",
+  "W5-13": "EV-350",
+  "W5-14": "EV-351",
+  "W5-15": "EV-352",
+  "W5-16": "EV-353",
+  "W5-17": "EV-354",
+  "W5-18": "EV-355",
+  "W5-19": "EV-356",
+  "W5-20": "EV-357",
+  "W5-21": "EV-358",
+  "W5-22": "EV-359",
+  "W5-23": "EV-360",
+  "W5-24": "EV-361",
+  "W5-25": "EV-362",
+  "W5-26": "EV-363",
+  "W5-27": "EV-364",
+  "W5-28": "EV-365",
+  "W5-29": "EV-366",
+  "W5-30": "EV-367",
+  "W5-31": "EV-368",
+  "W5-32": "EV-369",
+  "W5-33": "EV-370",
+  "W5-34": "EV-371",
+  "W5-35": "EV-372",
+  "W5-36": "EV-373",
+  "W5-37": "EV-374",
+  "W5-38": "EV-375",
+  "W5-39": "EV-376",
+  "W5-40": "EV-377",
+  "W5-41": "EV-378",
+  "W5-42": "EV-379",
+  "W5-43": "EV-380",
+  "W5-44": "EV-381",
+  "W5-45": "EV-382",
+  "W5-46": "EV-383",
+  "W5-47": "EV-384",
+  "W5-48": "EV-385",
+  "W5-49": "EV-386",
+  "W5-50": "EV-387",
+  "W5-51": "EV-388",
+  "W5-52": "EV-389",
+  "W5-53": "EV-390",
+  "W5-54": "EV-391",
+  "W5-55": "EV-392",
+  "W5-56": "EV-393",
+  "W5-57": "EV-394",
+  "W5-58": "EV-395",
+  "W5-59": "EV-396",
+  "W5-60": "EV-397",
+  "W5-61": "EV-398",
+  "W5-62": "EV-399",
+  "W5-63": "EV-400",
+  "W5-64": "EV-401",
+  "W5-65": "EV-402",
+  "W5-66": "EV-403",
+  "W5-67": "EV-404",
+  "W5-68": "EV-405",
+  "W5-69": "EV-406",
+  "W5-70": "EV-407",
+  "W5-71": "EV-408",
+  "W5-72": "EV-409",
+  "W5-73": "EV-410",
+  "W5-74": "EV-411",
+  "W5-75": "EV-412",
+  "W5-76": "EV-413",
+  "W5-77": "EV-414",
+  "W5-78": "EV-415",
+  "W5-79": "EV-416",
+  "W5-80": "EV-417",
+  "W5-81": "EV-418",
+  "W5-82": "EV-419",
+  "W5-83": "EV-420",
+  "W5-84": "EV-421",
+  "W5-85": "EV-422",
+  "W5-86": "EV-423",
+  "W5-87": "EV-424",
+  "W5-88": "EV-425",
+  "W5-89": "EV-426",
+  "W5-90": "EV-427",
+  "W5-91": "EV-428",
+  "W5-92": "EV-429",
+  "W5-93": "EV-430",
+  "W6-01": "EV-431",
+  "W6-02": "EV-432",
+  "W6-03": "EV-433",
+  "W6-04": "EV-434",
+  "W6-05": "EV-435",
+  "W6-06": "EV-436",
+  "W6-07": "EV-437",
+  "W6-08": "EV-438",
+  "W6-09": "EV-439",
+  "W6-10": "EV-440",
+  "W6-11": "EV-441",
+  "W6-12": "EV-442",
+  "W6-13": "EV-443",
+  "W6-14": "EV-444",
+  "W6-15": "EV-445",
+  "W6-16": "EV-446",
+  "W6-17": "EV-447",
+  "W7-01": "EV-448",
+  "W7-02": "EV-449",
+  "W7-03": "EV-450",
+  "W7-04": "EV-451",
+  "W7-05": "EV-452",
+  "W7-06": "EV-453",
+  "W7-07": "EV-454",
+  "W7-08": "EV-455",
+  "W7-09": "EV-456",
+  "W7-10": "EV-457",
+  "W7-11": "EV-458",
+  "W7-12": "EV-459",
+  "W7-13": "EV-460",
+  "W7-14": "EV-461",
+  "W7-15": "EV-462",
+  "W7-16": "EV-463",
+  "W7-17": "EV-464",
+  "V7-01": "EV-465",
+  "V7-02": "EV-466",
+  "V7-03": "EV-467",
+  "V7-04": "EV-468",
+  "V7-05": "EV-469",
+  "V7-06": "EV-470",
+  "V7-07": "EV-471",
+  "V7-08": "EV-472",
+  "V7-09": "EV-473",
+  "V7-10": "EV-474",
+  "V7-11": "EV-475",
+  "V7-12": "EV-476",
+  "V7-13": "EV-477",
+  "V7-14": "EV-478",
+  "V7-15": "EV-479",
+  "V7-16": "EV-480",
+  "V7-17": "EV-481",
+  "V7-18": "EV-482",
+  "V7-19": "EV-483",
+  "V7-20": "EV-484",
+  "V7-21": "EV-485",
+  "V7-22": "EV-486",
+  "V7-23": "EV-487",
+  "V7-24": "EV-488",
+  "V7-25": "EV-489",
+  "V7-26": "EV-490",
+  "V7-27": "EV-491"
+ },
+ "sheet_rows": {
+  "Research Progress Dashboard": 45,
+  "Complete Service Inventory": 1455,
+  "Supplier Intelligence": 55,
+  "Confirmed Supply Chains": 125,
+  "Suspected Supply Chains": 163,
+  "Website & Public API Findings": 50,
+  "Evidence Registry": 690,
+  "Unresolved Cases": 55,
+  "Confidence Change Log": 27,
+  "R7 Price Forensics": 146,
+  "R7 MCP Tool Log": 317
+ },
+ "n_confirmed_chains": 125,
+ "n_suspected_chains": 163,
+ "n_unresolved": 55,
+ "unknown_top": [
+  [
+   "GRP-I-036",
+   "Xiaomi Mi Account",
+   62
+  ],
+  [
+   "GRP-S-254",
+   "Box & Dongle",
+   40
+  ],
+  [
+   "GRP-I-009",
+   "Apple Check Service",
+   39
+  ],
+  [
+   "GRP-I-020",
+   "iPads WIFI Only (iCloud Remove)",
+   31
+  ],
+  [
+   "GRP-I-041",
+   "Apple info Checkers",
+   31
+  ],
+  [
+   "GRP-I-019",
+   "iWatch WIFI Only (iCloud Remove)",
+   29
+  ],
+  [
+   "GRP-I-047",
+   "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   29
+  ],
+  [
+   "GRP-S-172",
+   "AI Tools",
+   27
+  ],
+  [
+   "GRP-I-027",
+   "GENERIC Check Service",
+   20
+  ],
+  [
+   "GRP-I-051",
+   "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   19
+  ],
+  [
+   "GRP-S-256",
+   "ITUNES (USA)",
+   15
+  ],
+  [
+   "GRP-I-025",
+   "Samsung Frp Remove",
+   15
+  ],
+  [
+   "GRP-S-221",
+   "ITunes (Turkey)",
+   13
+  ],
+  [
+   "GRP-I-045",
+   "Altice Dominican Republic",
+   13
+  ],
+  [
+   "GRP-I-013",
+   "Xiaomi Checker",
+   12
+  ]
+ ],
+ "changed_groups": [
+  [
+   "GRP-S-001",
+   "Eagle Multi Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-012",
+   "Cerberus Tool Pro",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-014",
+   "Knoxwizard Activation",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-015",
+   "Shell Tool Activation",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-016",
+   "Eagle Frp",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-017",
+   "GSMCode.Pro Tools",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-018",
+   "MobileProTool Credit",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-024",
+   "MIUI Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-028",
+   "RADEX FRP TOOL",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-029",
+   "UNLOCK SERVICE TOOL ( UST )",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-030",
+   "UFT-Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-038",
+   "Alien tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-041",
+   "Tuna Pro Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-047",
+   "Smart Frp Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-049",
+   "RootMagisk.com Packages",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-053",
+   "BMT Pro Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-054",
+   "MAT AUTH TOOL",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-055",
+   "KGFix Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-060",
+   "Multi Pro TOOL",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-062",
+   "Moto King Pro",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-066",
+   "RFT Loader",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-068",
+   "Pixel Pro Tool Activation",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-069",
+   "Apizu Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-070",
+   "HXRU (OPPO, Realme and OnePlus)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-077",
+   "OPlusProLogin",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-078",
+   "Dragon Frp Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-083",
+   "Xiaomi Speed Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-096",
+   "F-KEY TOOL",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-098",
+   "HXRU Xiaomi",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-100",
+   "FRP BOSS TOOL",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-103",
+   "Anonymous Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-105",
+   "MDMFix Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-109",
+   "Gsm Auth Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-114",
+   "Gsm Future Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-116",
+   "Falcon Multi Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-119",
+   "Falcon FRP Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-120",
+   "Lazy Loader",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-121",
+   "Nexa Pro Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-122",
+   "Turbo tool (Hardware)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-125",
+   "Pulsarunlock",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-126",
+   "MIFRPTOOL.COM",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-131",
+   "AH-Xiaomi Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-132",
+   "Deep Unlocker Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-133",
+   "Smart Tool Pro Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-134",
+   "XIAOMI SERVICE TOOL (XST)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-136",
+   "AI Bot For Gsm Site",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-137",
+   "mifrp Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-146",
+   "CheckerTR PRO",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-149",
+   "TMT Pro Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-156",
+   "FRP Unlock TOOL",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-158",
+   "KRAKEN AUTH",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-159",
+   "Fenix Utility Pro",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-160",
+   "IPRO Tool Credit",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-161",
+   "TONI PRO TOOL",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-162",
+   "XIAOMI FLASHER PRO",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-163",
+   "Repair-Fix Xiaomi Auth Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-166",
+   "CP-Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-170",
+   "Octoplus Box / Dongle (Renew)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-174",
+   "Zhizhen Schematics",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-181",
+   "Xiaomi Paid Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-184",
+   "X-Tool PRO",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-191",
+   "Global Frp Tool (GFT)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-194",
+   "Android Auth Tool Credit",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-196",
+   "HSPRO TOOL Activation",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-198",
+   "tojo360 Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-199",
+   "Xiaomi Repair Tool XRT",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-201",
+   "Galaxy Auth",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-202",
+   "NEXTG Auth Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-203",
+   "Tira unlocker",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-206",
+   "Octoplus / Octopus Box Credits",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-207",
+   "TFM Pro tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-209",
+   "ZXW Schematic",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-210",
+   "FCL Schematic",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-215",
+   "Octoplus FULL Digital License (Online Without Box)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-226",
+   "The Magic Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-228",
+   "E-GSM",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-231",
+   "General Unlocker Pro",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-232",
+   "Samsung Sim-Unlocker",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-233",
+   "Setool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-250",
+   "Laelo Samsung Unlock tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-251",
+   "Octoplus/Octopus Activation (Box & Dongle)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-260",
+   "HTD",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-261",
+   "Tera Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-262",
+   "Alseery Unlocker",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-263",
+   "CF-Tools Credit",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-266",
+   "inmobile Activation",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-270",
+   "MR AUTH",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-275",
+   "Sampro A.i.O",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-276",
+   "Fast Unlocker Pro",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-287",
+   "MIFIXPRO",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-288",
+   "Octoplus Samsung Digital License (Online Without Box)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-289",
+   "Octoplus LG Digital License (Online Without Box)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-290",
+   "Octoplus FRP Digital License (Online Without Box)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-291",
+   "Octoplus HUAWEI Digital License (Online Without Box)",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-295",
+   "Xiaomi King Tool",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-296",
+   "RDPower Tools",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-299",
+   "IMFC",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-300",
+   "Guerratool MOTO",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-302",
+   "DT PRO TOOL",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-307",
+   "Xiaomi Fire Tool XFT",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-S-319",
+   "CF-Tools Activation",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-I-000",
+   "Signal Labs Technology Service",
+   "LIKELY",
+   "UNKNOWN"
+  ],
+  [
+   "GRP-I-013",
+   "Xiaomi Checker",
+   "LIKELY",
+   "UNKNOWN"
+  ],
+  [
+   "GRP-I-018",
+   "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)",
+   "LIKELY",
+   "DISPUTED"
+  ],
+  [
+   "GRP-I-028",
+   "Moldova Network",
+   "UNKNOWN",
+   "LIKELY"
+  ],
+  [
+   "GRP-I-048",
+   "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "LIKELY",
+   "UNKNOWN"
+  ],
+  [
+   "GRP-I-054",
+   "USA Reseller Flex",
+   "LIKELY",
+   "UNKNOWN"
+  ]
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "retrieved_utc_window": "2026-10-11T10:09Z-10:12Z",
+ "chimeratool_resellers_sales_system": {
+  "url": "https://chimeratool.com/en/docs/resellers-sales-system",
+  "tool": "mcp__Parallel_Search__web_fetch (live)",
+  "excerpt": [
+   "We have two distributors currently: GsmEasy and GsmServer.",
+   "resellers can only buy credits from them, at the set price.",
+   "you have to purchase a minimum of 20 000 credits from any of our Distributors",
+   "We provide our resellers with a 3% margin on end-user prices",
+   "Resellers can buy credits from our distributors at a fixed 8% discount rate compared to end-user prices. The discount is always the same regardless of the purchased amount",
+   "20 000 credits: 20 000 x 0.1 USD = 2000 USD. A 8% discount applies ... resellers actually pay 1840 USD for 20 000 credits"
+  ]
+ },
+ "chimeratool_list": {
+  "Basic": "$99.9 / 999 CRD",
+  "Professional": "$149.9 / 1,499 CRD",
+  "Premium": "$189.9 / 1,899 CRD",
+  "source": "https://chimeratool.com/info/licensing-policy ; https://chimeratool.com/en/shop/licence/basic (Parallel search snippets)"
+ },
+ "gsmserver": {
+  "credits_url": "https://gsmserver.com/en/chimera-tool-server-credits",
+  "credits_live": "USD 0.10 (Firecrawl maxAge 0, ~10:11Z); Minimum order is 10 credits; 'Buy wholesale and save' link (no tiers shown)",
+  "Basic_1Y": "USD 99.90 (https://gsmserver.com/en/chimera-tool-basic-1-year-license, search snippet)",
+  "Pro_1Y": "USD 149.90 (https://gsmserver.com/en/chimera-tool-professional-1-year-license, snippet)",
+  "Premium_1Y": "USD 189.90 (news page snippet)",
+  "Pro_dongle": "USD 174.80",
+  "Premium_dongle": "USD 214.80",
+  "Small_Function_Pack_150cr": "USD 15.00"
+ },
+ "imei_us_gsmeasy": {
+  "url": "https://www.imei.us/",
+  "access": "search snippet (Parallel index)",
+  "excerpt": "Chimera License - *Official Distributor* Professional - USD145.40 Basic - USD96.90 Premium - USD184.50 ... Chimera Tool Reseller Credits 0.0920"
+ },
+ "unlock_eu": {
+  "url": "https://unlock.eu/",
+  "access": "search snippet (Parallel index)",
+  "excerpt": "Basic License 999 CRD / $96.90; Professional License 1499 CRD / $145.40; Premium License 1899 CRD / $184.20; Starter Pack 500 CRD / $48.50; Pro Pack 1000 CRD / $97.00; Bronze Pack 20000 CRD / $1840.00; Silver Pack 40000 CRD / $3680.00; Gold Pack 60000 CRD / $5520.00"
+ },
+ "halabtech_1003": {
+  "Chimera Tool Credits [NOT FOR WEB OWNER]": 0.11,
+  "Chimera Tool Basic (100 Device - 1 Year) [NOT FOR WEB OWNER]": 99.99,
+  "Chimera Tool Professional (Username/Dongle) (1500 Devices - 1 Year) [NOT FOR WEB OWNER]": 149.0,
+  "Chimera Tool Premium (Username/Dongle) (5000 Devices - 1 Year) [NOT FOR WEB OWNER]": 189.0
+ },
+ "wayback": {
+  "gsmserver_20230102235640": {
+   "url": "https://web.archive.org/web/20230102235640/https://gsmserver.com/en/chimera-tool-server-credits/",
+   "excerpt": "USD 0.12 / USD 0.11 (old vs current price display); 1 Year Activations: ChimeraTool PRO 1199 credits; Samsung Module 699 credits",
+   "note": "only capture 2021-2023 of this URL"
+  },
+  "imei_us_20220106182312": {
+   "url": "https://web.archive.org/web/20220106182312/https://imei.us/",
+   "result": "only slider banners rendered (UMT, Miracle, Z3x, Chimera); price table JS-loaded, no Chimera credit price captured"
+  },
+  "imei_us_20221129181455": {
+   "url": "https://web.archive.org/web/20221129181455/https://imei.us/",
+   "result": "only slider banners rendered incl. 'Chinera promo'; no price"
+  },
+  "halabtech_2022_from_R6_V-10": {
+   "2022-01-17": "Chimera Credit & Activation (Reseller 20.000 Credit) $0.112",
+   "2022-12-16": "(Min 20000 Credits) [Reseller Package] $0.101"
+  },
+  "gsmserver_cdx_chimera_prefix_2021_2022": {
+   "url": "https://web.archive.org/cdx/search/cdx?url=gsmserver.com/en/chimera*&from=2021&to=2022",
+   "result": "[] (no captures)"
+  },
+  "imei_us_cdx_chimera_filter": {
+   "url": "https://web.archive.org/cdx/search/cdx?url=imei.us/*&from=2021&to=2023&filter=original:.*[Cc]himera.*",
+   "result": "[] (no captures)"
+  }
+ },
+ "gsmserver_reseller_pack_search": {
+  "result": "No public GsmServer 20,000-credit Chimera reseller pack found; GsmServer only lists retail USD 0.10 (min 10) and licences; chimeratool.com/tr/info/licensing-policy: 'B2B wholesale resellers ... GsmServer, GsmEasy'",
+  "tool": "mcp__Parallel_Search__web_search",
+  "retrieved_utc": "2026-10-11T10:24Z"
+ },
+ "imei_us_live": {
+  "url": "https://www.imei.us/",
+  "tool": "Firecrawl maxAge 0",
+  "retrieved_utc": "2026-10-11T10:24Z",
+  "rows": {
+   "Chimera License - *Official Distributor* (server/618)": "Professional USD145.40, Basic USD96.90, Premium USD184.50",
+   "Chimera Tool Reseller Credits (server/633)": "0.0920",
+   "UMT 1 Year Activation - [ Instant ] (server/168)": "23.0000",
+   "UnlockTool License [ 12 Months ] [ New/Renew ] (server/485)": "42.2000",
+   "Sigma Plus Box / Dongle 6 Month Access Renew (server/573)": "44.0000",
+   "SamKey transfer/create": "USD1.35"
+  }
+ },
+ "unlock_eu_live": {
+  "url": "https://unlock.eu/",
+  "tool": "Firecrawl maxAge 0",
+  "retrieved_utc": "2026-10-11T10:24Z",
+  "rows": {
+   "Basic": "999 CRD / $96.90",
+   "Professional": "1499 CRD / $145.40",
+   "Premium": "1899 CRD / $184.20",
+   "Starter": "500 CRD / $48.50",
+   "Pro Pack": "1000 CRD / $97.00",
+   "Bronze (reseller)": "20000 CRD / $1840.00",
+   "Silver": "40000 CRD / $3680.00",
+   "Gold": "60000 CRD / $5520.00"
+  },
+  "meta": "robots noindex, nofollow"
+ }
+}

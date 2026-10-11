@@ -1,0 +1,121 @@
+##### halabtech_home html_len 121433
+--- META
+   Content-Type => text/html; charset=UTF-8
+   viewport => width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover
+   robots => index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+   description => HalabTech provides Android firmware, FRP tools, software fixes and mobile repair support for Samsung, Xiaomi, Huawei and other devices.
+   og:locale => ar_AR
+   og:type => website
+   og:title => حلب تك - Halabtech
+   og:description => World 1st mobile solutions - الموقع الأول لدعم حلول الهواتف
+   og:url => https://halabtech.com/
+   og:site_name => حلب تك - Halabtech
+   og:image => https://halabtech.com/wp-content/uploads/2022/10/XIAOMI-HALABTECH-1080x675-1.jpg
+   og:image:width => 1080
+   og:image:height => 675
+   og:image:type => image/jpeg
+   generator => WordPress 7.1.3
+   msapplication-TileImage => https://halabtech.com/wp-content/uploads/2025/02/cropped-web-app-manifest-512x512-1-270x270.png
+--- JSON-LD blocks 1
+   {"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/halabtech.com\/","url":"https:\/\/halabtech.com\/","name":"HalabTech - Mobile Repair Solutions, Firmware and FRP Tools","isPartOf":{"@id":"https:\/\/halabtech.com\/#website"},"about":{"@id":"https:\/\/halabtech.com\/#organization"},"description":"HalabTech provides Android firmware, FRP tools, software fixes and mobile repair support for Samsung, Xiaomi, Huawei and other devices.","breadcrumb":{"@id":"https:\/\/halabtech.com\/#breadcrumb"},"inLanguage":"ar"},{"@type":"BreadcrumbList","@id":"https:\/\/halabtech.com\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/halabtech.com\/#website","url":"https:\/\/halabtech.com\/","name":"حلب تك - Halabtech","description":"World 1st mobile solutions - الموقع الأول لدعم حلول الهواتف","publisher":{"@id":"https:\/\/halabtech.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/halabtech.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ar"},{"@type":"Organization","@id":"https:\/\/halabtech.com\/#organization","name":"حلب تك - Halabtech","url":"https:\/\/halabtech.com\/","logo":{"@type":"ImageObject","inLanguage":"ar","@id":"https:\/\/halabtech.com\/#\/schema\/logo\/image\/","url":"https:\/\/halabtech.com\/wp-content
+--- FORMS
+   {'role': 'search', 'method': 'get', 'class': 'ct-search-form', 'data-form-controls': 'inside', 'data-taxonomy-filter': 'false', 'data-submit-button': 'icon', 'action': 'https://halabtech.com/'}
+--- TAG img total 29 absolute 29
+     img hosts: [('halabtech.com', 25), ('upload.wikimedia.org', 4)]
+--- TAG link:EditURI total 1 absolute 1
+     https://halabtech.com/xmlrpc.php?rsd
+--- TAG link:alternate total 2 absolute 2
+     https://halabtech.com/feed/
+     https://halabtech.com/comments/feed/
+--- TAG link:apple-touch-icon total 1 absolute 1
+     https://halabtech.com/wp-content/uploads/2025/02/cropped-web-app-manifest-512x512-1-180x180.png
+--- TAG link:canonical total 1 absolute 1
+     https://halabtech.com/
+--- TAG link:https://api.w.org/ total 1 absolute 1
+     https://halabtech.com/wp-json/
+--- TAG link:icon total 2 absolute 2
+     https://halabtech.com/wp-content/uploads/2025/02/cropped-web-app-manifest-512x512-1-32x32.png
+     https://halabtech.com/wp-content/uploads/2025/02/cropped-web-app-manifest-512x512-1-192x192.png
+--- TAG link:next total 1 absolute 1
+     https://halabtech.com/page/2/
+--- TAG link:profile total 1 absolute 1
+     https://gmpg.org/xfn/11
+--- TAG link:stylesheet total 16 absolute 16
+     https://halabtech.com/wp-content/plugins/halabtech-chat-assistant/assets/widget/halabtech-chat.css?ver=1779725418
+     https://halabtech.com/wp-content/uploads/blocksy/css/global.css?ver=36431
+     https://halabtech.com/wp-content/plugins/login-fingerprint-disabled/public/css/login-fingerprint-public.css?ver=1.4.0
+     https://halabtech.com/wp-content/plugins/paid-memberships-pro/css/frontend/base.css?ver=3.8.8
+     https://halabtech.com/wp-content/plugins/paid-memberships-pro/css/frontend/variation_1.css?ver=3.8.8
+     https://halabtech.com/wp-content/plugins/paid-memberships-pro/css/frontend/base-rtl.css?ver=3.8.8
+     https://halabtech.com/wp-includes/css/dashicons.min.css?ver=7.1.3
+     https://halabtech.com/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.3.0
+     https://halabtech.com/wp-content/plugins/user-submitted-posts/resources/usp.css?ver=20260916
+     https://halabtech.com/wp-content/themes/blocksy/style.css?ver=7.1.3
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/main.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/main-rtl.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/plugins/blocksy-companion-pro/framework/extensions/trending/static/bundle/main.min.css?ver=2.1.37
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/no-scripts.min.css
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/entries.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/pagination.min.css?ver=2.1.59
+--- TAG script total 13 absolute 13
+     https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9647107642564560
+     https://halabtech.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+     https://halabtech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+     https://halabtech.com/wp-content/plugins/login-fingerprint-disabled/public/js/login-fingerprint-public.js?ver=7.1.3
+     https://halabtech.com/wp-content/plugins/user-submitted-posts/resources/jquery.cookie.js?ver=20260916
+     https://halabtech.com/wp-content/plugins/user-submitted-posts/resources/jquery.parsley.min.js?ver=20260916
+     https://halabtech.com/wp-content/plugins/user-submitted-posts/resources/jquery.usp.core.js?ver=20260916
+     https://www.googletagmanager.com/gtag/js?id=G-3FW622FWW6
+     https://halabtech.com/wp-content/plugins/halabtech-chat-assistant/assets/widget/halabtech-chat.js?ver=1779725418
+     https://halabtech.com/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.3.0
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/main.js?ver=2.1.59
+     https://halabtech.com/wp-content/plugins/gtranslate/js/dwf.js?ver=5.0.1
+     https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920
+--- <a> hosts [('halabtech.com', 95), ('server.halabtech.com', 18), ('support.halabtech.com', 14), ('course.halabtech.com', 4), ('link.halabtech.com', 4), ('digital.halabtech.com', 4), ('t.me', 3), ('tool.halabtech.com', 2), ('hardware.halabtech.com', 2), ('techub.halabtech.com', 2), ('news.halabtech.com', 2), ('ip.halabtech.com', 2), ('pass.halabtech.com', 2), ('wa.me', 2), ('youtu.be', 2), ('htlinks.com', 2), ('whatsapp.com', 1), ('www.facebook.com', 1), ('www.youtube.com', 1)]
+--- <a> external hrefs (non-halabtech)
+     https://wa.me/+249116472371
+     https://youtu.be/nptAgIcAvko
+     https://t.me/HALABTECHSupportbot
+     https://htlinks.com/frp
+     https://t.me/halabtech2
+     https://whatsapp.com/channel/0029VaAa3vk5fM5VBQAILe1X
+     https://www.facebook.com/HalabTech.official.page
+     https://www.youtube.com/c/HalabTech
+--- inline scripts 11 chars 12220
+--- ID PATTERNS (whole html)
+   GA4 ['G-3FW622FWW6']
+   adsense ['ca-pub-9647107642564560']
+   telegram ['t.me/HALABTECHSupportbot', 't.me/halabtech2']
+--- URLs inside inline scripts
+     https://halabtech.com/search/QUERY_STRING/
+     https://halabtech.com/wp-admin/admin-ajax.php
+     https://halabtech.com/wp-content/plugins/blocksy-companion-pro/framework/extensions/trending/static/bundle/main.js?ver=2.1.37
+     https://halabtech.com/wp-content/plugins/blocksy-companion-pro/framework/premium/static/bundle/micro-popups.js?ver=2.1.37
+     https://halabtech.com/wp-content/plugins/blocksy-companion-pro/framework/premium/static/bundle/video-lazy.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/plugins/blocksy-companion-pro/static/bundle/header-account-dropdown-lazy.min.css?ver=2.1.37
+     https://halabtech.com/wp-content/plugins/blocksy-companion-pro/static/bundle/header-account-modal-lazy.min.css?ver=2.1.37
+     https://halabtech.com/wp-content/plugins/blocksy-companion-pro/static/bundle/sticky.js?ver=2.1.37
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/back-to-top.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/cart-header-element-lazy.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/flexy.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/non-critical-search-styles.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/non-critical-styles.min.css?ver=2.1.59
+     https://halabtech.com/wp-content/themes/blocksy/static/bundle/pagination.min.css?ver=2.1.59
+     https://halabtech.com/wp-json/
+--- relative endpoints in inline JS (url:, fetch(, $.post/$.get/ajax)
+--- ALL HOSTS (any absolute URL in html)
+    [('halabtech.com', 177), ('server.halabtech.com', 18), ('support.halabtech.com', 14), ('schema.org', 5), ('course.halabtech.com', 4), ('link.halabtech.com', 4), ('digital.halabtech.com', 4), ('upload.wikimedia.org', 4), ('techub.halabtech.com', 3), ('t.me', 3), ('tool.halabtech.com', 2), ('hardware.halabtech.com', 2), ('news.halabtech.com', 2), ('ip.halabtech.com', 2), ('pass.halabtech.com', 2), ('wa.me', 2), ('youtu.be', 2), ('htlinks.com', 2), ('www.w3.org', 1), ('gmpg.org', 1), ('yoast.com', 1), ('pagead2.googlesyndication.com', 1), ('api.w.org', 1), ('www.googletagmanager.com', 1), ('gtranslate.com', 1), ('whatsapp.com', 1), ('www.facebook.com', 1), ('www.youtube.com', 1), ('static.cloudflareinsights.com', 1)]
+--- generator tags ['<meta name="generator" content="WordPress 7.1.3">']
+--- HTML comments (first 40)
+     This site is optimized with the Yoast SEO plugin v28.6 - https://yoast.com/product/yoast-seo-wordpress/
+     / Yoast SEO plugin.
+     Google tag (gtag.js)
+     ht.com_main_page_before_posts_grid
+     ht.com_mid_article_content
+     GTranslate: https://gtranslate.com
+     Memberships powered by Paid Memberships Pro v3.8.8.
+     Telegram Channel
+     WhatsApp Channel
+     Facebook Page
+     YouTube Channel

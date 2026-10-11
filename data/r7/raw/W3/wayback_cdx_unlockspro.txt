@@ -1,0 +1,17 @@
+# Parallel web_fetch of https://web.archive.org/cdx/search/cdx?url=unlockspro.com*&output=json&fl=timestamp,original&collapse=urlkey&limit=500  retrieved 2026-10-11 ~10:11Z
+# Key rows (timestamp, original):
+20161019224352 http://www.unlockspro.com/robots.txt      <- earliest capture of any unlockspro.com URL
+20211229022228 http://unlockspro.com/                     <- earliest homepage capture
+20220103193306 http://unlockspro.com/favicon.ico ; 20220103193123 /includes/js/imei.js (Dhru template assets, theme5)
+20220813051546 https://unlockspro.com/resellerpricing/server   <- earliest server pricing capture
+20220920151557 /images/gallery/banners/iremovalpro%20unlockspro.png
+20230328214605 https://unlockspro.com/resellerpricing/imei     <- earliest IMEI pricing capture
+20230328213935 /images/gallery/banners/telegram.png
+20230924231512 /resellerpricing/remote ; 20230925000842 /contactus ; 20230925010057 /productsandservices/imei ; 20230925004329 /index
+20231201085539 /resellerpricing/file ; 20231201105047 /resellerplaceorder/imei
+20240227093718 /pages/Reseller ; 20230924224109 /pages/ResellerPackages ; 20251114085015 /pages/Resellers
+20240721191419 /resellerpricing
+20250515061853 https://unlockspro.com/imei/Honor-FRP-Reset-Key--SN-Auto-api-instant?pid=20728   <- native Dhru product URL pattern /imei/<slug>?pid=<id>
+20251227064310 /images/gallery/banners/T-Mobile.jpg ; 20251227064311 /images/gallery/banners/ATT.jpg
+20260518105646 /pages/Rules?utm_source=chatgpt.com (latest)
+# Full list ~230 rows mostly css/js/theme assets; no URL containing 'halab'.

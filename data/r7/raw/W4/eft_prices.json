@@ -1,0 +1,113 @@
+{
+ "retrieved_utc_window": "2026-10-11T10:12Z-10:15Z",
+ "eftprodongle_packages_live": {
+  "url": "https://eftprodongle.com/packages",
+  "tool": "mcp__Firecrawl__firecrawl_scrape maxAge 0 waitFor 4000",
+  "Tool tab": {
+   "EFT Tool Renew 1 Year Plan (363 days)": 35,
+   "EFT Tool Activate 363 days": 70,
+   "EFT Tool Activate 180 days": 45,
+   "EFT Tool Activate 90 days": 25,
+   "EFT Tool Activate 30 days": 10
+  },
+  "Dongle tab": "not rendered (toggle)",
+  "faq": "For 1, 3, and 6-month Tool licenses, renewal is not available ... 1-year Tool license, you can renew it at a discounted rate"
+ },
+ "eft_dongle_distributor_page": {
+  "url": "https://eft-dongle.easy-firmware.com/distributor-reseller",
+  "tool": "mcp__Parallel_Search__web_fetch full_content",
+  "official_distributor": "EFT-DONGLE - Easy-Firmware / WwW.Easy-Unlocker.CoM, WhatsApp/Telegram +9647511889867",
+  "worldwide": [
+   "SimSim Electronics (Dubai)",
+   "GsmServer (HK)",
+   "GSM-Sources",
+   "MartView",
+   "SHARKGSM (ChinaShark)",
+   "GsmEasy (imei.us 'Instant Avalable EFT Yearly Plan', gsmeasyshop.com)",
+   "GsmFastest (NckShop.com)",
+   "FoneFunShop",
+   "IRAQ SERVER"
+  ],
+  "syria_turkey_entries": [
+   "Mobiley (Ghazwan Eid, Jableh)",
+   "VIP CENTER (Damascus)",
+   "UnlockerGroup.com (Cetin Polat)",
+   "NTC-FASTUNLOCKERS (Turkey-Syria; incl. 'SYRIA - ALEPPO : ALNOOR CENTER', 'GAZIANTEP: ALAGHAALMUHTERIF')",
+   "Mohammed Ahmed Al-Baik (Idlib)",
+   "Mobitec (Damascus)",
+   "Syria 4 Soft.Com",
+   "gsmturk.net",
+   "boxsatis.com",
+   "Alaa Aldeen Center / Adnan Alhosein / Alagha (Gaziantep)",
+   "Enes gsm",
+   "Gsm-Boss.Com (Saudi; Syria-Lebanon-Iraq-Turkey)"
+  ],
+  "halabtech_any_spelling": "NOT FOUND (no 'Halab', 'HalabTech', 'Hosam', 'htsupport', '+905300229173')"
+ },
+ "gsmserver_search_snippets": {
+  "EFT Pro Tool 1 Year Activation (id 893194)": "USD 56.00",
+  "EFT Pro Tool 1 Year Activation Renew (id 899518)": "USD 30.00",
+  "EFT Pro Dongle 2 Years Support Activation (id 884687)": "USD 35.00"
+ },
+ "peer_snippets": {
+  "gsmafrica.com (EFT Official Reseller)": {
+   "Dongle 1Y": 22,
+   "Dongle 2Y": 29,
+   "1M": 10,
+   "3M": 22,
+   "6M": 37,
+   "1Y renew": 32
+  },
+  "gsmfather.com": {
+   "Dongle 1Y": 21.5,
+   "Dongle 2Y": 29,
+   "1Y new": 54,
+   "3M": 22,
+   "1M": 10.5,
+   "6M": 38,
+   "1Y renew": 32.5
+  },
+  "heartunlocks.com": {
+   "1Y renew": 30.3,
+   "Dongle 1Y": 20.5,
+   "Dongle 2Y": 27.5,
+   "1Y new": 50.2,
+   "31 days": 9.5
+  },
+  "gsmserver.al (Dhru)": {
+   "set_A": {
+    "1Y new": 55.55,
+    "1Y renew": 28.05,
+    "Dongle 1Y": 22.77,
+    "Dongle 2Y": 30.25,
+    "1M": 9.19,
+    "3M": 22.22,
+    "6M": 38.5
+   },
+   "set_B_base": {
+    "1Y new": 50.5,
+    "1Y renew": 25.5,
+    "Dongle 1Y": 20.7,
+    "Dongle 2Y": 27.5,
+    "1M": 8.35,
+    "3M": 20.2,
+    "6M": 35
+   },
+   "note": "set_A = set_B x 1.10 exactly"
+  }
+ },
+ "halabtech_1003": {
+  "EFT Dongle 1 Year (DONT PUT FF IN Order)": 21.84,
+  "EFT Dongle 2 Year (DONT PUT FF IN Order)": 31.8,
+  "EFT Pro Activation Without Dongle [1 Month] New User/Old User": 11.6,
+  "EFT Pro Activation Without Dongle [3 Months] New User/Old User": 24.18,
+  "EFT Pro Activation Without Dongle [6 Months] New User/Old User": 39.49,
+  "EFT Pro Activation Without Dongle [1 Year] New User": 53.89,
+  "EFT Pro Activation Without Dongle [1 Year] Extend Old User": 34.99
+ },
+ "easy_unlocker_home": {
+  "url": "https://easy-unlocker.com/",
+  "result": "'Official distributor - All global tools ... licensed distributor for all professional GSM tools'; no EFT prices in fetched excerpt",
+  "retrieved_utc": "2026-10-11T10:25Z"
+ }
+}

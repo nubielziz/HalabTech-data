@@ -1,0 +1,540 @@
+{
+ "ipad_fmi": [
+  {
+   "model": "iPad13,18",
+   "ht": 150.0,
+   "gus": 101.5,
+   "ht_minus_gus": 48.5,
+   "iremove_public": 100
+  },
+  {
+   "model": "iPad11,6",
+   "ht": 110.0,
+   "gus": 61.5,
+   "ht_minus_gus": 48.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad12,1",
+   "ht": 135.0,
+   "gus": 91.5,
+   "ht_minus_gus": 43.5,
+   "iremove_public": 95
+  },
+  {
+   "model": "iPad15,7",
+   "ht": 180.0,
+   "gus": 135,
+   "ht_minus_gus": 45.0,
+   "iremove_public": 110
+  },
+  {
+   "model": "iPad11,3",
+   "ht": 120.0,
+   "gus": 71.5,
+   "ht_minus_gus": 48.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad13,1",
+   "ht": 140.0,
+   "gus": 101.5,
+   "ht_minus_gus": 38.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad15,3",
+   "ht": 170.0,
+   "gus": 126.5,
+   "ht_minus_gus": 43.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad14,8",
+   "ht": 160.0,
+   "gus": 116.5,
+   "ht_minus_gus": 43.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad16,8",
+   "ht": 205.0,
+   "gus": 151.5,
+   "ht_minus_gus": 53.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad14,10",
+   "ht": 165.0,
+   "gus": 130,
+   "ht_minus_gus": 35.0,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad16,10",
+   "ht": 205.0,
+   "gus": 161.5,
+   "ht_minus_gus": 43.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad13,16",
+   "ht": 155.0,
+   "gus": 106.5,
+   "ht_minus_gus": 48.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad11,1",
+   "ht": 110.0,
+   "gus": 61.5,
+   "ht_minus_gus": 48.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad14,1",
+   "ht": 143.0,
+   "gus": 96.5,
+   "ht_minus_gus": 46.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad16,1",
+   "ht": 165.0,
+   "gus": 135,
+   "ht_minus_gus": 30.0,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad8,9",
+   "ht": 150.0,
+   "gus": 86.5,
+   "ht_minus_gus": 63.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad13,4",
+   "ht": 155.0,
+   "gus": 115,
+   "ht_minus_gus": 40.0,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad14,3",
+   "ht": 155.0,
+   "gus": 116.5,
+   "ht_minus_gus": 38.5,
+   "iremove_public": 115
+  },
+  {
+   "model": "iPad8,1",
+   "ht": 125.0,
+   "gus": 76.5,
+   "ht_minus_gus": 48.5,
+   "iremove_public": 80
+  },
+  {
+   "model": "iPad8,2",
+   "ht": 130.0,
+   "gus": 76.5,
+   "ht_minus_gus": 53.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad16,3",
+   "ht": 185.0,
+   "gus": 151.5,
+   "ht_minus_gus": 33.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad17,1",
+   "ht": 215.0,
+   "gus": 230,
+   "ht_minus_gus": -15.0,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad8,5",
+   "ht": 150.0,
+   "gus": 86.5,
+   "ht_minus_gus": 63.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad8,6",
+   "ht": 145.0,
+   "gus": 86.5,
+   "ht_minus_gus": 58.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad8,6",
+   "ht": 145.0,
+   "gus": 86.5,
+   "ht_minus_gus": 58.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad8,11",
+   "ht": 150.0,
+   "gus": 91.5,
+   "ht_minus_gus": 58.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad13,8",
+   "ht": 155.0,
+   "gus": 101.5,
+   "ht_minus_gus": 53.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad14,5",
+   "ht": 175.0,
+   "gus": 111.5,
+   "ht_minus_gus": 63.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad16,5",
+   "ht": 195.0,
+   "gus": 151.5,
+   "ht_minus_gus": 43.5,
+   "iremove_public": 170
+  },
+  {
+   "model": "iPad17,3",
+   "ht": 220.0,
+   "gus": 241.5,
+   "ht_minus_gus": -21.5,
+   "iremove_public": null
+  },
+  {
+   "model": "iPad15,5",
+   "ht": 180.0,
+   "gus": 106.5,
+   "ht_minus_gus": 73.5,
+   "iremove_public": null
+  }
+ ],
+ "mi_account": [
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Gabon Grenada Guinea Congo Djibouti El Salvador Chad C",
+   "ht": 27.99,
+   "cg": null
+  },
+  {
+   "ht_name": "Premium ⚡️ ⚡️ ⚡️ Xiaomi Mi Account Unlock WorldWide Clean Only (CHINA NOT SUPPORTED) [ULTR",
+   "ht": 29.99,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service Latin America {{{Argentina Bolivia Brazil Chile Cuba Domi",
+   "ht": 23.4,
+   "cg": 25.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{Kenya}}} Clean IMEIs instant to few hours",
+   "ht": 25.3,
+   "cg": 25.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{Nicaragua}}} Clean IMEIs",
+   "ht": 22.99,
+   "cg": 22.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Argentina}}} Clean IMEIs",
+   "ht": 24.99,
+   "cg": 22.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{ARGENTINE}}} Clean IMEIs",
+   "ht": 25.2,
+   "cg": 21.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Azerbaijan}}} Clean",
+   "ht": 15.95,
+   "cg": 17.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Bahrain}}} Clean IMEIs",
+   "ht": 26.99,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Belarus}}} Clean IMEIs",
+   "ht": 19.39,
+   "cg": 14.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Brazil}}} Clean IMEIs",
+   "ht": 22.989,
+   "cg": 22.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Cambodia}}} Clean IMEIs",
+   "ht": 24.29,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Colombia}}} Clean IMEIs FAST Direct",
+   "ht": 17.99,
+   "cg": 16.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Egypt}}} Clean IMEI Working 100%",
+   "ht": 23.99,
+   "cg": 23.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Europe}}} Clean IMEIs (Rocket Super Fast) instant To F",
+   "ht": 15.99,
+   "cg": 13.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Europe}}} Clean IMEIs (Rocket Super Fast) REAL AUTO in",
+   "ht": 16.99,
+   "cg": 13.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Europe}}} Clean IMEIs Source Slow",
+   "ht": 14.98,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Finland | Germany | France | Malta | Luxembourg | Gree",
+   "ht": 21.99,
+   "cg": 15.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Georgia}}} Clean",
+   "ht": 27.5,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Ghana}}} Clean IMEIs",
+   "ht": 25.99,
+   "cg": 25.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Guatemala}}} Clean IMEIs",
+   "ht": 8.4,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{HONDURAS}}} Clean IMEIs",
+   "ht": 55.99,
+   "cg": 17.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Indonesia}}} Clean IMEIs",
+   "ht": 9.99,
+   "cg": 13.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{IRAQ}}} Clean IMEIs",
+   "ht": 8.65,
+   "cg": 9.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{JAPAN}}} Clean IMEIs Server Direct",
+   "ht": 13.99,
+   "cg": 12.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Kazakhstan}}} Clean IMEIs",
+   "ht": 14.03,
+   "cg": 14.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Kyrgyzstan}}} Clean IMEIs",
+   "ht": 26.49,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Malaysia}}} Clean IMEIs",
+   "ht": 20.436,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Mexico}}} Clean IMEIs",
+   "ht": 30.8,
+   "cg": 25.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Morocco}}} Clean IMEIs Direct Source",
+   "ht": 17.99,
+   "cg": 16.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{MOZAMBIQUE}}} Clean IMEIs",
+   "ht": 26.4,
+   "cg": 25.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Nederland}}} Clean IMEIs Server Stable",
+   "ht": 18.0,
+   "cg": 14.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Nigeria}}} Clean IMEIs",
+   "ht": 21.25,
+   "cg": 19.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Oman}}} Clean IMEI Instant to few hours",
+   "ht": 10.7,
+   "cg": 9.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Panama}}} Clean IMEIs",
+   "ht": 19.29,
+   "cg": 18.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Peru}}} Clean IMEIs",
+   "ht": 16.95,
+   "cg": 16.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Philippines}}} Clean IMEIs",
+   "ht": 22.88,
+   "cg": 23.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{QATAR}}} Clean IMEIs",
+   "ht": 25.99,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Romania | Sweden | Spain | Nederland | Slovenia | BERM",
+   "ht": 14.9,
+   "cg": 14.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Russian}}} Clean IMEIs Fast",
+   "ht": 10.2,
+   "cg": 11.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Somalia}}} Clean IMEIs",
+   "ht": 27.5,
+   "cg": 25.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{South Africa Namibian/Zambia/cote divoire/Botswana/Zim",
+   "ht": 27.99,
+   "cg": 27.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{South Africa}}} Clean IMEIs FAST",
+   "ht": 25.49,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Syria, Libya, PhilippinesPalestinian, Bosnia Bosna and",
+   "ht": 27.99,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Syria}}} Clean IMEIs",
+   "ht": 23.49,
+   "cg": 23.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Thailand}}} Clean IMEIs Instant To Few Hours",
+   "ht": 17.969,
+   "cg": 17.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Turkey}}} Clean IMEIs",
+   "ht": 15.99,
+   "cg": 13.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Turkey}}} Clean IMEIs Source2 #Cheaper",
+   "ht": 16.29,
+   "cg": 13.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Uganda}}} Clean IMEIs",
+   "ht": 28.125,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Ukraine}}} Clean IMEIs",
+   "ht": 27.94,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{United Kingdom UK | Montenegro | Serbia | Austria | Be",
+   "ht": 17.99,
+   "cg": 14.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Uruguay}}} Clean IMEIs",
+   "ht": 24.3,
+   "cg": 17.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Uzbekistan}}} Clean IMEIs",
+   "ht": 25.99,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Vanuatu Trinidad and Tobago Turkmenistan Tuvalu Tajiki",
+   "ht": 27.99,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock Service {{{Vietnam}}} Clean IMEIs",
+   "ht": 26.4,
+   "cg": 25.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock WorldWide (World Wide Any Country) Clean Only (CHINA NOT SUPPORTE",
+   "ht": 27.99,
+   "cg": 23.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock {{{sri lanka Lebanon Ethiopia YEMEN SUDAN USA Ukraine Albania Mac",
+   "ht": 27.99,
+   "cg": 24.0
+  },
+  {
+   "ht_name": "Xiaomi Mi Account Unlock{{{Cambodia, Azerbaijan, Tunisia, Myanmar, Canada, Kosovo, North M",
+   "ht": 27.99,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Official Mi Account {{{Costa Rica}}} Clean Only",
+   "ht": 14.99,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Official Mi Account {{{Pakistan}}} Clean Only Working 100%",
+   "ht": 2.99,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Official Mi Account {{{Saudi Arabia KSA}}}",
+   "ht": 25.3,
+   "cg": null
+  },
+  {
+   "ht_name": "Xiaomi Official Mi Account {{{United Arab Emirates, Dubai (UAE)}}",
+   "ht": 26.99,
+   "cg": null
+  }
+ ],
+ "mi_summary": {
+  "ht_skus": 62,
+  "matched": 50,
+  "ht_gt_cg": 44,
+  "ht_lt_cg": 6,
+  "ht_eq_cg": 0
+ }
+}

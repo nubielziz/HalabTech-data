@@ -1,0 +1,146 @@
+# Code-GSM IMEI listing (live)
+URL: https://www.code-gsm.com/home/imei_services
+NOTE: transcribed from inline mcp__Firecrawl__firecrawl_scrape output (maxAge 0, scrapeId 01a12a82-0bae-7329-9db2-55a4f1d5315e, ~10:29 UTC 2026-10-11).
+NOTE: listing shows prices rounded to whole dollars with '.000' (detail pages show cents, e.g. Till 15 = 43.99). Only sections relevant to HalabTech overlap were transcribed.
+
+| imeis check service | | Delivery Time | Price |
+| --- | --- | --- | --- |
+| | EID Pro Check (Apple/Samsung/Google) [IMEI] | Instant | $ 0.000 |
+| | Xiaomi Full Info Check ( Find Device - Country - Lost or Clean ) by IMEI/SN/KEY [ SUPPORT NEW KEY ] | 2 Minutes | $ 1.000 |
+
+| Xiaomi / Mi | | Delivery Time | Price |
+| --- | --- | --- | --- |
+| | Xiaomi Mi Account Unlock Service {{{Gabon Grenada Guinea Congo Djibouti El Salvador Chad Comoros Belize Benin Brunei Cameroon Afghanistan Angola Bahamas Barbados Eritrea Eswatini}}} Clean IMEIs [Super Fast | 1-3 days | $ 24.000 |
+| | ( Guatemala ) Xiaomi Mi Account Lock Remove Clean 100% Success ♻️ INSTANT DIRECT SOURCE | Instant | $ 9.000 |
+| | Premium ⚡️ ⚡️ ⚡️ Xiaomi Mi Account Unlock WorldWide Clean Only (CHINA NOT SUPPORTED) [ULTRA Fast] Instant to few hours AUTO API | 1-6 Hours | $ 26.000 |
+| | Xiaomi Mi Account Unlock {{{sri lanka Lebanon Ethiopia YEMEN SUDAN USA Ukraine Albania Macdonia Bhutan India Kuwait HONDURAS Somalia Paraguay venez Venezuela}}} Clean IMEIs [Super Fast] | 1-3 days | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Argentina}}} Clean IMEIs | 1-24 Hours | $ 21.000 |
+| | Xiaomi Mi Account Unlock Service {{{ARGENTINE}}} Clean IMEIs | 1-72 Hours | $ 21.000 |
+| | Xiaomi Mi Account Unlock Service {{{Azerbaijan}}} Clean | 1-7 days | $ 16.000 |
+| | Xiaomi Mi Account Unlock Service {{{Bahrain}}} Clean IMEIs | 1-24 Hours | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Belarus}}} Clean IMEIs | 24-72 Hours | $ 14.000 |
+| | Xiaomi Mi Account Unlock Service {{{Brazil}}} Clean IMEIs | 1-5 days | $ 22.000 |
+| | Xiaomi Mi Account Unlock Service {{{Cambodia}}} Clean IMEIs | 1-5 days | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Colombia}}} Clean IMEIs FAST Direct | 1-72 Hours | $ 16.000 |
+| | Xiaomi Mi Account Unlock Service {{{Egypt}}} Clean IMEI | 1-48 Hours | $ 23.000 |
+| | Xiaomi Mi Account Unlock Service {{{Europe}}} Clean IMEIs (Rocket Super Fast) instant To Few Min 24/7 | 1-48 Hours | $ 13.000 |
+| | Xiaomi Mi Account Unlock Service {{{Europe}}} Clean IMEIs (Rocket Super Fast) REAL AUTO instant 24/7 | Minutes | $ 14.000 |
+| | Xiaomi Mi Account Unlock Service {{{Finland | Germany | France | Malta | Luxembourg | Greece | Lithuania | Latvia | Italy, Ireland, Netherlands, Poland, Portugal | Slovakia and Montenegro}}} Clean IMEIs | 1-72 Hours | $ 15.000 |
+| | Xiaomi Mi Account Unlock Service {{{Georgia}}} Clean | 1-7 days | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Ghana}}} Clean IMEIs | 1-12 Hours | $ 25.000 |
+| | Xiaomi Mi Account Unlock Service {{{Guatemala}}} Clean IMEIs | 1-4 days | $ 8.000 |
+| | Xiaomi Mi Account Unlock Service {{{HONDURAS}}} Clean IMEIs | 1-3 days | $ 54.000 |
+| | Xiaomi Mi Account Unlock Service {{{Indonesia}}} Clean IMEIs | 1-24 Hours | $ 8.000 |
+| | Xiaomi Mi Account Unlock Service {{{IRAQ}}} Clean IMEIs | 1-3 days | $ 9.000 |
+| | Xiaomi Mi Account Unlock Service {{{JAPAN}}} Clean IMEIs Server | 1-72 Hours | $ 12.000 |
+| | Xiaomi Mi Account Unlock Service {{{Kazakhstan}}} Clean IMEIs | 1-7 days | $ 14.000 |
+| | Xiaomi Mi Account Unlock Service {{{Kyrgyzstan}}} Clean IMEIs | 1-5 days | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Malaysia}}} Clean IMEIs | 1-4 days | $ 20.000 |
+| | Xiaomi Mi Account Unlock Service {{{Mexico}}} Clean IMEIs | 1-24 Hours | $ 25.000 |
+| | Xiaomi Mi Account Unlock Service {{{Morocco}}} Clean IMEIs | 1-24 Hours | $ 16.000 |
+| | Xiaomi Mi Account Unlock Service {{{MOZAMBIQUE}}} Clean IMEIs | 1-7 days | $ 25.000 |
+| | Xiaomi Mi Account Unlock Service {{{Nederland}}} Clean IMEIs Server Stable | 1-36 Hours | $ 14.000 |
+| | Xiaomi Mi Account Unlock Service {{{Nigeria}}} Clean IMEIs | 1-36 Hours | $ 19.000 |
+| | Xiaomi Mi Account Unlock Service {{{Oman}}} Clean IMEI Instant to few hours | Minutes | $ 9.000 |
+| | Xiaomi Mi Account Unlock Service {{{Panama}}} Clean IMEIs | 1-4 days | $ 18.000 |
+| | Xiaomi Mi Account Unlock Service {{{Peru}}} Clean IMEIs | Hours | $ 16.000 |
+| | Xiaomi Mi Account Unlock Service {{{Philippines}}} Clean IMEIs | 1-12 Hours | $ 23.000 |
+| | Xiaomi Mi Account Unlock Service {{{QATAR}}} Clean IMEIs | 1-24 Hours | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Romania | Sweden | Spain | Nederland | Slovenia | BERMUDA | Andorra | Ligtenstein | Monaco| iranda| Iceland}}} Clean IMEIs | 1-72 Hours | $ 14.000 |
+| | Xiaomi Mi Account Unlock Service {{{Russian}}} Clean IMEIs Fast | 1-7 days | $ 10.000 |
+| | Xiaomi Mi Account Unlock Service {{{Somalia}}} Clean IMEIs | 1-24 Hours | $ 25.000 |
+| | Xiaomi Mi Account Unlock Service {{{South Africa Namibian/Zambia/cote divoire/Botswana/Zimbabwe/Kenya/Nigeria/Malawi/Uganda/Ghana/ Ethiopia/Tanzania}}} Clean IMEIs | 1-3 days | $ 27.000 |
+| | Xiaomi Mi Account Unlock Service {{{South Africa}}} Clean IMEIs FAST | 1-2 days | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Syria, Libya, PhilippinesPalestinian, IRAN, Bosnia Bosna and Herzegovina and Senegal Taiwan Algeria}}} Clean IMEIs [Super Fast] | 1-3 days | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Syria}}} Clean IMEIs | 1-24 Hours | $ 23.000 |
+| | Xiaomi Mi Account Unlock Service {{{Thailand}}} Clean IMEIs Instant To Few Hours | 1-5 days | $ 17.000 |
+| | Xiaomi Mi Account Unlock Service {{{Turkey}}} Clean IMEIs | 1-2 days | $ 13.000 |
+| | Xiaomi Mi Account Unlock Service {{{Turkey}}} Clean IMEIs Source2 #Cheaper | 1-3 days | $ 13.000 |
+| | Xiaomi Mi Account Unlock Service {{{Uganda}}} Clean IMEIs | 1-24 Hours | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Ukraine}}} Clean IMEIs | 1-7 days | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{United Kingdom UK | Montenegro | Serbia | Austria | Belgium | Bulgaria | Croatia | Czech Republic | Norway, Denmark, Sweden, Switzerland, Finland, Hungary | Estonia|}}} Clean IMEIs | 1-72 Hours | $ 14.000 |
+| | Xiaomi Mi Account Unlock Service {{{Uruguay}}} Clean IMEIs | 1-24 Hours | $ 17.000 |
+| | Xiaomi Mi Account Unlock Service {{{Uzbekistan}}} Clean IMEIs | 1-24 Hours | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Vanuatu Trinidad and Tobago Turkmenistan Tuvalu Tajikistan Togo Tonga Singapore South Korea Rwanda Kiribati Lesotho Liberia Maldives Guyana Jamaica}}} Clean IMEIs [Super Fast] | 1-3 days | $ 24.000 |
+| | Xiaomi Mi Account Unlock Service {{{Vietnam}}} Clean IMEIs | 1-48 Hours | $ 25.000 |
+| | Xiaomi Mi Account Unlock Service {{Kenya}}} Clean IMEIs instant to few hours | 1-24 Hours | $ 25.000 |
+| | Xiaomi Mi Account Unlock Service {{Nicaragua}}} Clean IMEIs | 1-7 days | $ 22.000 |
+| | Xiaomi Mi Account Unlock Service Latin America {{{Argentina Bolivia Brazil Chile Cuba Dominican Ecuador El Salvador Guatemala Haiti Honduras Panama Paraguay Peru Venezuela}}} Clean IMEIs Working | 3-7 days | $ 21.000 |
+| | Xiaomi Mi Account Unlock WorldWide (World Wide Any Country) Clean Only (CHINA NOT SUPPORTED) | 1-7 Hours | $ 23.000 |
+| | Xiaomi Official Remove Mi Account {{{Costa Rica}}} Clean Only | 1-3 days | $ 15.000 |
+| | Xiaomi Official Remove Mi Account {{{Pakistan}}} Clean Only | 1-24 Hours | $ 3.000 |
+| | Xiaomi Official Remove Mi Account {{{Saudi Arabia KSA}}} | 1-24 Hours | $ 25.000 |
+| | Xiaomi Official Remove Mi Account {{{United Arab Emirates, Dubai (UAE)}} | 1-24 Hours | $ 25.000 |
+| | Xiaomi MI Reactivation Lock Remove [Tunisia] | 1-24 Hours | $ 6.000 |
+
+| Factory Codes | | Delivery Time | Price |
+| --- | --- | --- | --- |
+| | Wiko Factory Codes | 1-3 hours | $ 1.000 |
+
+| EMEA SERVICE | | Delivery Time | Price |
+| --- | --- | --- | --- |
+| | EMEA Premium Service (FAST SERVICE - DAILY MULTI REAPLY) | 1 - 24 Hours | $ 1.000 |
+
+| USA T-MOBILE | | Delivery Time | Price |
+| --- | --- | --- | --- |
+| | T-Mobile | Sprint | Metro PCS All Model Supported | Network Unlock Premium Service 100% Express 1-24 Hours ( Offer Price ) | 24 Hours | $ 101.000 |
+| | T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 11/12 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty | 1-4 days | $ 36.000 |
+| | T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 13/14 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty | 1-4 days | $ 33.000 |
+| | T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 15 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty | 1-4 days | $ 44.000 |
+| | T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 16 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty | 1-4 days | $ 63.000 |
+| | T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 17 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty | 1-4 days | $ 79.000 |
+
+| t-mobile usa supplier#2 | | Delivery Time | Price |
+| --- | --- | --- | --- |
+| | 3708# USA T-mobile | Sprint | Metro PCS | iPhone All Model, full Premium Netwotk Unlock 100% success instant To Few Hours | 24 Hours | $ 82.000 |
+
+| FMI OFF - Wifi iDevices 2026 | | Delivery Time | Price |
+| --- | --- | --- | --- |
+| | FMI OFF - iPad (10th generation) - WiFi Model Only | 12-48 Hours | $ 140.000 |
+| | FMI OFF - iPad (8th generation) - WiFi Model Only | 12-48 Hours | $ 100.000 |
+| | FMI OFF - iPad (9th generation) - WiFi Model Only | 12-48 Hours | $ 115.000 |
+| | FMI OFF - iPad Air (3rd generation) - WiFi Model Only | 12-48 Hours | $ 110.000 |
+| | FMI OFF - iPad Air (4th generation) - WiFi Model Only | 12-48 Hours | $ 135.000 |
+| | FMI OFF - iPad Air (5th generation) M1 - WiFi Model Only | 12-48 Hours | $ 145.000 |
+| | FMI OFF - iPad Air 11-inch M2 - WiFi Model Only | 12-48 Hours | $ 155.000 |
+| | FMI OFF - iPad Air 11-inch M3 - WiFi Model Only | 12-48 Hours | $ 165.000 |
+| | FMI OFF - iPad Air 11-inch M4 - WiFi Model Only | 12-48 Hours | $ 200.000 |
+| | FMI OFF - iPad Air 13-inch M2 - WiFi Model Only | 12-48 Hours | $ 160.000 |
+| | FMI OFF - iPad Air 13-inch M3 - WiFi Model Only | 12-48 Hours | $ 175.000 |
+| | FMI OFF - iPad Air 13-inch M4 - WiFi Model Only | 12-48 Hours | $ 200.000 |
+| | FMI OFF - iPad mini 5 - WiFi Model Only | 12-48 Hours | $ 100.000 |
+| | FMI OFF - iPad Mini 6 A15 - WiFi Model Only | 12-48 Hours | $ 140.000 |
+| | FMI OFF - iPad mini 7th Gen (A17 Pro) - WiFi Model Only | 12-48 Hours | $ 160.000 |
+| | FMI OFF - iPad Pro 11-inch - WiFi Model Only | 12-48 Hours | $ 120.000 |
+| | FMI OFF - iPad Pro 11-inch (2nd generation) - WiFi Model Only | 12-48 Hours | $ 140.000 |
+| | FMI OFF - iPad Pro 11-inch (3rd generation) M1 - WiFi Model Only | 12-48 Hours | $ 150.000 |
+| | FMI OFF - iPad Pro 11-inch (4th generation) M2 - WiFi Model Only | 12-48 Hours | $ 150.000 |
+| | FMI OFF - iPad Pro 11-inch 1TB - WiFi Model Only | 12-48 | $ 125.000 |
+| | FMI OFF - iPad Pro 11-inch M4 - WiFi Model Only | 12-48 Hours | $ 185.000 |
+| | FMI OFF - iPad Pro 11-inch M5 - WiFi Model Only | 12-48 Hours | $ 210.000 |
+| | FMI OFF - iPad Pro 11th Gen A16 - WiFi Model Only | 12-48 Hours | $ 170.000 |
+| | FMI OFF - iPad Pro 12.9-inch (3rd generation) - WiFi Model Only | 12-48 Hours | $ 140.000 |
+| | FMI OFF - iPad Pro 12.9-inch (3rd generation) 1TB - WiFi Model Only | 12-48 Hours | $ 140.000 |
+| | FMI OFF - iPad Pro 12.9-inch (4th generation) - WiFi Model Only | 12-48 Hours | $ 140.000 |
+| | FMI OFF - iPad Pro 12.9-inch (5th generation) M1 - WiFi Model Only | 12-48 Hours | $ 150.000 |
+| | FMI OFF - iPad Pro 12.9-inch (6th generation) M2 - WiFi Model Only | 12-48 Hours | $ 165.000 |
+| | FMI OFF - iPad Pro 13-inch M4 - WiFi Model Only | 12-48 Hours | $ 190.000 |
+| | FMI OFF - iPad Pro 13-inch M5 - WiFi Model Only | 12-48 Hours | $ 220.000 |
+
+| FMI OFF 100% iWatch Wifi | | Delivery Time | Price |
+| --- | --- | --- | --- |
+| | FMI OFF For iWatch 1st Gen [Watch 1,1 - Watch 1,2] | 1-24 Hours | $ 26.000 |
+| | FMI OFF For iWatch SE 2nd Gen [Watch 6,10 - Watch 6,11] | 1-24 Hours | $ 95.000 |
+| | FMI OFF For iWatch SE 3rd Gen [Watch 7,13 - Watch 7,14] | 1-24 Hours | $ 136.000 |
+| | FMI OFF For iWatch Series 1 [Watch 2,6 - Watch 2,7] | - | $ 36.000 |
+| | FMI OFF For iWatch Series 10 [Watch 7,8 - Watch 7,9] | 1-24 Hours | $ 166.000 |
+| | FMI OFF For iWatch Series 11 [Watch 7,17 - Watch 7,18] | 1-24 Hours | $ 176.000 |
+| | FMI OFF For iWatch Series 2 [Watch 2,3 - Watch 2,4] | 1-24 Hours | $ 41.000 |
+| | FMI OFF For iWatch Series 3 [Watch 3,3 - Watch 3,4] | 1-24 Hours | $ 46.000 |
+| | FMI OFF For iWatch Series 4 [Watch 4,1 - Watch 4,2] | 1-24 Hours | $ 66.000 |
+| | FMI OFF For iWatch Series 5 [Watch 5,1 - Watch 5,2] | 1-24 Hours | $ 81.000 |
+| | FMI OFF For iWatch Series 6 [Watch 6,1 - Watch 6,2] | 1-24 Hours | $ 96.000 |
+| | FMI OFF For iWatch Series 7 [Watch 6,6 - Watch 6,7] | 1-24 Hours | $ 106.000 |
+| | FMI OFF For iWatch Series 8 [Watch 6,14 - Watch 6,15] | 1-24 Hours | $ 136.000 |
+| | FMI OFF For iWatch Series 9 [Watch 7,1 - Watch 7,2] | 1-24 Hours | $ 146.000 |
+| | FMI OFF For iWatch Series SE 1st Gen [Watch 5,9 - Watch 5,10] | 1-24 Hours | $ 61.000 |

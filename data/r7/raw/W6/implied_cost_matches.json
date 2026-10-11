@@ -1,0 +1,577 @@
+{
+ "hits": [
+  {
+   "server": "best4unlock.us",
+   "service": "APPLE iPHONE SIM-LOCK + CARRIER S3 → SERIAL",
+   "group": "Apple Check Service",
+   "ht_price": 0.066,
+   "server_price": 0.07,
+   "implied_cost": 0.06,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "best4unlock.us",
+   "service": "Blacklist Prheck (GSMA)",
+   "group": "Apple Check Service",
+   "ht_price": 0.084,
+   "server_price": 0.085,
+   "implied_cost": 0.08,
+   "ht_multiplier": 1.05,
+   "kind": "imei"
+  },
+  {
+   "server": "best4unlock.us",
+   "service": "FIND MY iPHONE/iPAD ON/OFF → SERIAL [BEST]",
+   "group": "Apple Check Service",
+   "ht_price": 0.011,
+   "server_price": 0.012,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "best4unlock.us",
+   "service": "Replaced Status (Original Device)",
+   "group": "Apple Check Service",
+   "ht_price": 0.012,
+   "server_price": 0.013,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "best4unlock.us",
+   "service": "Sprint USA Pro Check S2",
+   "group": "Apple Check Service",
+   "ht_price": 0.048,
+   "server_price": 0.048,
+   "implied_cost": 0.04,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "best4unlock.us",
+   "service": "T-Mobile Pro Check",
+   "group": "Apple Check Service",
+   "ht_price": 0.036,
+   "server_price": 0.036,
+   "implied_cost": 0.03,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "best4unlock.us",
+   "service": "T-Mobile USA Generic Simlock & Unlock Eligibilty Status (Pro)",
+   "group": "Apple Check Service",
+   "ht_price": 0.036,
+   "server_price": 0.037,
+   "implied_cost": 0.03,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "best4unlock.us",
+   "service": "Warranty Check All iPhones Models",
+   "group": "Apple Check Service",
+   "ht_price": 0.012,
+   "server_price": 0.013,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "All-in-one (+ Purchase Date) ⚡",
+   "group": "Apple Check Service",
+   "ht_price": 0.024,
+   "server_price": 0.024,
+   "implied_cost": 0.02,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "APPLE ACTIVATION STATUS",
+   "group": "Apple Check Service",
+   "ht_price": 0.088,
+   "server_price": 0.087,
+   "implied_cost": 0.08,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "APPLE iPHONE SIM-LOCK + CARRIER S3 → SERIAL",
+   "group": "Apple Check Service",
+   "ht_price": 0.066,
+   "server_price": 0.067,
+   "implied_cost": 0.06,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Blacklist Prheck (GSMA)",
+   "group": "Apple Check Service",
+   "ht_price": 0.084,
+   "server_price": 0.082,
+   "implied_cost": 0.08,
+   "ht_multiplier": 1.05,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "MACBOOK / iMAC INFO & ICLOUD STATUS",
+   "group": "Apple Check Service",
+   "ht_price": 0.096,
+   "server_price": 0.091,
+   "implied_cost": 0.08,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Replaced Status (Original Device)",
+   "group": "Apple Check Service",
+   "ht_price": 0.012,
+   "server_price": 0.012,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Sprint USA Pro Check S2",
+   "group": "Apple Check Service",
+   "ht_price": 0.048,
+   "server_price": 0.046,
+   "implied_cost": 0.04,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "T-Mobile Pro Check",
+   "group": "Apple Check Service",
+   "ht_price": 0.036,
+   "server_price": 0.035,
+   "implied_cost": 0.03,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Warranty Check All iPhones Models",
+   "group": "Apple Check Service",
+   "ht_price": 0.012,
+   "server_price": 0.012,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Apple id Blacklist [Lost / Stolen / Clean] Check + Full Blacklist GSMA",
+   "group": "Apple info Checkers",
+   "ht_price": 0.011,
+   "server_price": 0.011,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Apple Warranty Information Checker by IMEI OR SERIAL",
+   "group": "Apple info Checkers",
+   "ht_price": 0.011,
+   "server_price": 0.011,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "iPhone Model Check [TAC]",
+   "group": "Apple info Checkers",
+   "ht_price": 0.013,
+   "server_price": 0.014,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.3,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Model + Colour + Capacity checker by IMEI",
+   "group": "Apple info Checkers",
+   "ht_price": 0.023,
+   "server_price": 0.023,
+   "implied_cost": 0.02,
+   "ht_multiplier": 1.15,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Model + Colour + Capacity checker by Serial",
+   "group": "Apple info Checkers",
+   "ht_price": 0.011,
+   "server_price": 0.011,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Replaced Status Checker by IMEI",
+   "group": "Apple info Checkers",
+   "ht_price": 0.011,
+   "server_price": 0.011,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Replaced Status Checker by Serial",
+   "group": "Apple info Checkers",
+   "ht_price": 0.011,
+   "server_price": 0.011,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "APPLE MDM CHECK INFO - MAC & IOS INSTANT → SN/IMEI",
+   "group": "GSX CHECKER",
+   "ht_price": 0.168,
+   "server_price": 0.159,
+   "implied_cost": 0.16,
+   "ht_multiplier": 1.05,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "iPhone Replacement Check",
+   "group": "GSX CHECKER",
+   "ht_price": 0.011,
+   "server_price": 0.011,
+   "implied_cost": 0.01,
+   "ht_multiplier": 1.1,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "Huawei Warranty Checker Full Info By IMEI",
+   "group": "GENERIC Check Service",
+   "ht_price": 0.024,
+   "server_price": 0.024,
+   "implied_cost": 0.02,
+   "ht_multiplier": 1.2,
+   "kind": "imei"
+  },
+  {
+   "server": "univgsm.com",
+   "service": "KGFixTool 10 Credit Pack",
+   "group": "KGFix Tool",
+   "ht_price": 1.125,
+   "server_price": 0.991,
+   "implied_cost": 1.0,
+   "ht_multiplier": "1.125",
+   "kind": "server"
+  },
+  {
+   "server": "saudi-gsm.com",
+   "service": "Golden-Unlocker Tool (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [OLD Users]",
+   "group": "Golden-Unlocker",
+   "ht_price": 0.644,
+   "server_price": 0.555,
+   "implied_cost": 0.56,
+   "ht_multiplier": "1.15",
+   "kind": "server"
+  },
+  {
+   "server": "saudi-gsm.com",
+   "service": "Golden-Unlocker Tool (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [NEW Users]",
+   "group": "Golden-Unlocker",
+   "ht_price": 0.644,
+   "server_price": 0.555,
+   "implied_cost": 0.56,
+   "ht_multiplier": "1.15",
+   "kind": "server"
+  },
+  {
+   "server": "dmunlocker.com",
+   "service": "F-KEY TOOL V.7 Any Quantity [Existing Users]",
+   "group": "F-KEY TOOL",
+   "ht_price": 1.134,
+   "server_price": 1.09,
+   "implied_cost": 1.08,
+   "ht_multiplier": 1.05,
+   "kind": "server"
+  },
+  {
+   "server": "dmunlocker.com",
+   "service": "F-KEY TOOL V.7 Any Quantity [New User Registration AUTO]",
+   "group": "F-KEY TOOL",
+   "ht_price": 1.134,
+   "server_price": 1.09,
+   "implied_cost": 1.08,
+   "ht_multiplier": 1.05,
+   "kind": "server"
+  },
+  {
+   "server": "dmunlocker.com",
+   "service": "F-KEY TOOL V.7 Any Quantity [Existing Users]",
+   "group": "F-KEY TOOL",
+   "ht_price": 1.134,
+   "server_price": 1.08,
+   "implied_cost": 1.08,
+   "ht_multiplier": 1.05,
+   "kind": "server"
+  },
+  {
+   "server": "dmunlocker.com",
+   "service": "F-KEY TOOL V.7 Any Quantity [New User Registration AUTO]",
+   "group": "F-KEY TOOL",
+   "ht_price": 1.134,
+   "server_price": 1.08,
+   "implied_cost": 1.08,
+   "ht_multiplier": 1.05,
+   "kind": "server"
+  },
+  {
+   "server": "fix4gsm.com",
+   "service": "Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [Old Users] Instant",
+   "group": "Alseery Unlocker",
+   "ht_price": 0.748,
+   "server_price": 0.677,
+   "implied_cost": 0.68,
+   "ht_multiplier": "1.1",
+   "kind": "server"
+  },
+  {
+   "server": "fix4gsm.com",
+   "service": "Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [New Users] Instant",
+   "group": "Alseery Unlocker",
+   "ht_price": 0.748,
+   "server_price": 0.677,
+   "implied_cost": 0.68,
+   "ht_multiplier": "1.1",
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com",
+   "service": "F-KEY TOOL V.7 Any Quantity [Existing Users]",
+   "group": "F-KEY TOOL",
+   "ht_price": 1.134,
+   "server_price": 1.08,
+   "implied_cost": 1.08,
+   "ht_multiplier": 1.05,
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com",
+   "service": "F-KEY TOOL V.7 Any Quantity [New User Registration AUTO]",
+   "group": "F-KEY TOOL",
+   "ht_price": 1.134,
+   "server_price": 1.08,
+   "implied_cost": 1.08,
+   "ht_multiplier": 1.05,
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com",
+   "service": "Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] NEW USER",
+   "group": "Fast Unlocker Pro",
+   "ht_price": 0.616,
+   "server_price": 0.57,
+   "implied_cost": 0.56,
+   "ht_multiplier": 1.1,
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com",
+   "service": "Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] OLD USER",
+   "group": "Fast Unlocker Pro",
+   "ht_price": 0.616,
+   "server_price": 0.57,
+   "implied_cost": 0.56,
+   "ht_multiplier": 1.1,
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com",
+   "service": "Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [New Users] Instant",
+   "group": "Alseery Unlocker",
+   "ht_price": 0.748,
+   "server_price": 0.68,
+   "implied_cost": 0.68,
+   "ht_multiplier": "1.1",
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com",
+   "service": "Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [Old Users] Instant",
+   "group": "Alseery Unlocker",
+   "ht_price": 0.748,
+   "server_price": 0.68,
+   "implied_cost": 0.68,
+   "ht_multiplier": "1.1",
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com(exa-cache)",
+   "service": "F-KEY TOOL V.7 Any Quantity [Existing Users]",
+   "group": "F-KEY TOOL",
+   "ht_price": 1.134,
+   "server_price": 1.08,
+   "implied_cost": 1.08,
+   "ht_multiplier": 1.05,
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com(exa-cache)",
+   "service": "F-KEY TOOL V.7 Any Quantity [New User Registration AUTO]",
+   "group": "F-KEY TOOL",
+   "ht_price": 1.134,
+   "server_price": 1.08,
+   "implied_cost": 1.08,
+   "ht_multiplier": 1.05,
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com(exa-cache)",
+   "service": "Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] NEW USER",
+   "group": "Fast Unlocker Pro",
+   "ht_price": 0.616,
+   "server_price": 0.57,
+   "implied_cost": 0.56,
+   "ht_multiplier": 1.1,
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com(exa-cache)",
+   "service": "Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] OLD USER",
+   "group": "Fast Unlocker Pro",
+   "ht_price": 0.616,
+   "server_price": 0.57,
+   "implied_cost": 0.56,
+   "ht_multiplier": 1.1,
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com(exa-cache)",
+   "service": "Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [New Users] Instant",
+   "group": "Alseery Unlocker",
+   "ht_price": 0.748,
+   "server_price": 0.68,
+   "implied_cost": 0.68,
+   "ht_multiplier": "1.1",
+   "kind": "server"
+  },
+  {
+   "server": "gsmnigeria.com(exa-cache)",
+   "service": "Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [Old Users] Instant",
+   "group": "Alseery Unlocker",
+   "ht_price": 0.748,
+   "server_price": 0.68,
+   "implied_cost": 0.68,
+   "ht_multiplier": "1.1",
+   "kind": "server"
+  }
+ ],
+ "summary": {
+  "code-gsm.com": {
+   "compared": 57,
+   "below_HT": 52,
+   "equal_HT": 2,
+   "above_HT": 3
+  },
+  "code-gsm.com(exa-cache)": {
+   "compared": 55,
+   "below_HT": 47,
+   "above_HT": 7,
+   "equal_HT": 1
+  },
+  "best4unlock.us": {
+   "compared": 70,
+   "above_HT": 41,
+   "below_HT": 25,
+   "equals_implied_cost": 8,
+   "equal_HT": 4
+  },
+  "univgsm.com": {
+   "compared": 698,
+   "below_HT": 359,
+   "equal_HT": 43,
+   "equals_implied_cost": 20,
+   "above_HT": 296
+  },
+  "gsmunlockinfo.com": {
+   "compared": 21,
+   "above_HT": 11,
+   "below_HT": 5,
+   "equal_HT": 5
+  },
+  "wardserver.com": {
+   "compared": 4,
+   "below_HT": 2,
+   "above_HT": 2
+  },
+  "saudi-gsm.com": {
+   "compared": 605,
+   "below_HT": 332,
+   "above_HT": 210,
+   "equal_HT": 63,
+   "equals_implied_cost": 2
+  },
+  "cleanunlocker.com": {
+   "compared": 53,
+   "above_HT": 33,
+   "below_HT": 18,
+   "equal_HT": 2
+  },
+  "unlock-ua.com": {
+   "compared": 37,
+   "above_HT": 12,
+   "equal_HT": 6,
+   "below_HT": 19
+  },
+  "dmunlocker.com": {
+   "compared": 143,
+   "below_HT": 115,
+   "above_HT": 25,
+   "equals_implied_cost": 4,
+   "equal_HT": 3
+  },
+  "fix4gsm.com": {
+   "compared": 38,
+   "above_HT": 20,
+   "below_HT": 14,
+   "equal_HT": 4,
+   "equals_implied_cost": 2
+  },
+  "easyunlocktech.com": {
+   "compared": 5,
+   "below_HT": 4,
+   "above_HT": 1
+  },
+  "unlockresellers.com": {
+   "compared": 1,
+   "above_HT": 1
+  },
+  "gsmnigeria.com": {
+   "compared": 151,
+   "above_HT": 8,
+   "below_HT": 143,
+   "equals_implied_cost": 6
+  },
+  "gsmnigeria.com(exa-cache)": {
+   "compared": 141,
+   "above_HT": 8,
+   "below_HT": 133,
+   "equals_implied_cost": 6
+  }
+ }
+}

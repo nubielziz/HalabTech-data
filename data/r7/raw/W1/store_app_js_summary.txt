@@ -1,0 +1,1 @@
+store.halabtech.com/build/assets/app-D2jpX1vH.js (Firecrawl rawHtml, 2026-10-11T10:19Z): contains only the axios v1.6.8 bundle + window.axios default header X-Requested-With; no absolute URLs, no API base, no third-party services. Store is Laravel+Livewire (server-side), images from api.store.halabtech.com.

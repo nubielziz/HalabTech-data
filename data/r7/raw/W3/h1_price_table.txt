@@ -1,0 +1,15 @@
+# H1 same-day price comparison (USD, guest prices)
+# HalabTech: r7/raw/imei_catalog_1003.json (2026-10-11 10:03Z; identical at 02:00Z)
+# Code-GSM detail pages: Firecrawl maxAge=0, 2026-10-11 10:13Z (15/16/17), ~10:15Z (13/14), ~10:24Z (11/12); listing ~10:10Z
+HT tier            HT price | CG tier      CG detail | CG listing | HT-CG   | HT delivery | CG delivery
+Till Xs            36.99    | Till 11/12   35.99     | 36.000     | +1.00   | 1-10 days   | 1-4 days
+Till 12/14         38.99    | Till 13/14   32.99     | 33.000     | +6.00 (or +3.00 vs CG 11/12) | 1-4 days | 1-4 days
+Till 15            44.99    | Till 15      43.99     | 44.000     | +1.00   | 1-10 days   | 1-4 days
+Till 16            66.45    | Till 16      63.45     | 63.000     | +3.00   | 1-10 days   | 1-4 days
+Till 17            82.49    | Till 17      79.49     | 79.000     | +3.00   | 1-10 days   | 1-4 days
+System Check       0.65     | (none on Code-GSM)     |            |         | Miniutes    | -
+iPhone 18 (Clean)  none     | none
+# Listing shows detail price rounded to whole dollars and formatted '$ NN.000' -> no listing/detail conflict today.
+# R6 listing values (11/12 $45, 13/14 $60, 15 $58, 16 $63, 17 $79) match Code-GSM's own Telegram 'New Price' history (Mar 16: 13/14 59.99, 17 79.99; Apr 19: 15 57.99, 16 62.99) => stale cached copy (Parallel fetch), not a different tier/currency.
+# Code-GSM Telegram 'New Price' history: 2026-03-16: 17=79.99, 16=69.99, 15=64.99, 13/14=59.99 ; 2026-04-19: 11/12=48.75, 16=62.99, 17=71.99, 15=57.99 ; 2026-10-11: 11/12=35.99, 13/14=32.99, 15=43.99, 16=63.45, 17=79.49
+# HalabTech: no 'Service Price Update' posts for this group; Wayback IMEI captures only 2025-08-26, 2025-11-17, 2026-02-10 (no Clean group), 2026-08-01 (403).

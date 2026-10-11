@@ -1,0 +1,92 @@
+##### store_home html_len 104714
+--- META
+   Content-Type => text/html; charset=UTF-8
+   viewport => width=device-width, initial-scale=1
+   description => sells all activation codes for gsm products and gift cards
+   csrf-token => [REDACTED-csrf-token]
+--- JSON-LD blocks 0
+--- FORMS
+   {'wire:submit.prevent': 'submit', 'class': 'd-block d-lg-block w-100 position-relative mb-0 mb-lg-0', 'autocomplete': 'off'}
+   {'wire:submit.prevent': 'submit', 'class': 'd-block d-lg-block w-100 position-relative mb-0 mb-lg-0', 'autocomplete': 'off'}
+--- TAG img total 49 absolute 49
+     img hosts: [('store.halabtech.com', 29), ('api.store.halabtech.com', 20)]
+--- TAG link:icon total 1 absolute 1
+     https://api.store.halabtech.com/storage/images/2025-01-12/173669560606783df36bbdc1.png
+--- TAG link:manifest total 1 absolute 1
+     https://store.halabtech.com/manifest.json
+--- TAG link:modulepreload total 2 absolute 2
+     https://store.halabtech.com/build/assets/app-D2jpX1vH.js
+     https://store.halabtech.com/build/assets/pwa-install-BHe_sYAK.js
+--- TAG link:preload total 4 absolute 4
+     https://store.halabtech.com/build/assets/app-CAIL9Zz7.css
+     https://store.halabtech.com/build/assets/animations-YUxe9rNA.css
+     https://store.halabtech.com/build/assets/plugins-firTmh7M.css
+     https://store.halabtech.com/build/assets/style-qqkDnxHu.css
+--- TAG link:stylesheet total 4 absolute 4
+     https://store.halabtech.com/build/assets/app-CAIL9Zz7.css
+     https://store.halabtech.com/build/assets/animations-YUxe9rNA.css
+     https://store.halabtech.com/build/assets/plugins-firTmh7M.css
+     https://store.halabtech.com/build/assets/style-qqkDnxHu.css
+--- TAG script total 6 absolute 6
+     https://store.halabtech.com/build/assets/app-D2jpX1vH.js
+     https://store.halabtech.com/build/assets/pwa-install-BHe_sYAK.js
+     https://store.halabtech.com/livewire/livewire.min.js?id=40a765a4
+     https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920
+     https://store.halabtech.com/assets/js/plugins.bundle.js
+     https://store.halabtech.com/assets/js/scripts.bundle.js
+--- <a> hosts [('store.halabtech.com', 65), ('support.halabtech.com', 4), ('www.facebook.com', 1), ('www.instagram.com', 1), ('t.me', 1), ('telegram.me', 1), ('htdtech.dev', 1)]
+--- <a> external hrefs (non-halabtech)
+     https://www.facebook.com/HalabTech.official.page
+     https://www.instagram.com/halabtechofficial/
+     https://t.me/halabtech2
+     https://telegram.me/storehalabtechbot
+     https://htdtech.dev/
+--- inline scripts 8 chars 3775
+--- ID PATTERNS (whole html)
+   telegram ['t.me/halabtech2']
+--- URLs inside inline scripts
+--- relative endpoints in inline JS (url:, fetch(, $.post/$.get/ajax)
+--- ALL HOSTS (any absolute URL in html)
+    [('store.halabtech.com', 110), ('api.store.halabtech.com', 21), ('support.halabtech.com', 4), ('www.facebook.com', 1), ('www.instagram.com', 1), ('t.me', 1), ('telegram.me', 1), ('htdtech.dev', 1), ('static.cloudflareinsights.com', 1)]
+--- generator tags []
+--- HTML comments (first 40)
+     Livewire Styles
+     begin::Theme mode setup on page load
+     end::Theme mode setup on page load
+     begin::App
+     begin::Page
+     begin::Header
+     begin::Header container
+     begin::Header wrapper
+     begin::Logo
+     end::Logo
+     begin::Page title
+     begin::Search
+     begin::Search
+     begin::Form
+     begin::Hidden input(Added to disable form autocomplete)
+     end::Hidden input
+     begin::Icon
+     end::Icon
+     begin::Input
+     end::Input
+     begin::Spinner
+     end::Spinner
+     end::Form
+     [if BLOCK]><![endif]
+     [if ENDBLOCK]><![endif]
+     end::Search
+     end::Search
+     end::Page title
+     begin::Navbar
+     begin::Mode
+     begin::Menu- wrapper
+     begin::Menu
+     begin::Menu item
+     end::Menu item
+     begin::Menu item
+     end::Menu item
+     begin::Menu item
+     end::Menu item
+     end::Menu
+     end::Menu wrapper

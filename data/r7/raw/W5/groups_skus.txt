@@ -1,0 +1,642 @@
+== GRP-S-000 TIGER AUTH TOOL | 1
+    TIGER AUTH TOOL Credit Refill (old user) | $ 0.879 | Miniutes
+== GRP-S-001 Eagle Multi Tool | 1
+    Eagle Multi Tool Credit Refill (old user) | $ 0.949 | Miniutes
+== GRP-S-002 053LLM TOOL | 1
+    053LLM TOOL Credit Refill (Old User) AUTO API | $ 0.949 | Miniutes
+== GRP-S-003 DML TOOL PRO | 1
+    DMLTOOL PRO Credit refill (old user) | $ 0.945 | Miniutes
+== GRP-S-005 GPixel Pro Tool | 1
+    GPixel Pro Tool Credit Refill (old user) | $ 0.929 | Miniutes
+== GRP-S-006 IMEIPlus Pixel Tool | 1
+    IMEIPlus Pixel Tool Credit Refill (old user) | $ 0.79 | Miniutes
+== GRP-S-007 GSM Family Tool | 1
+    GSM Family Tool - 1 Year Digital Activation | $ 76.3 | Instant
+== GRP-S-008 S-Tool Pro (Windows Tool) | 2
+    S-Tool Pro (Xiaomi Enter EDL 9008) - Fastboot to EDL (Token) | $ 1.185 | Miniutes
+    S-Tool Pro (Xiaomi FRP) - Reset FRP (Token) | $ 2.685 | Miniutes
+== GRP-S-010 SRK FRP Tool | 1
+    SRK FRP Tool Credit Refill (old user) | $ 0.989 | Miniutes
+== GRP-S-011 Gsmhelptool.com Activation | 6
+    GSM Help Tool Black Screen Remote Service | 12 Months | $ 17.99 | Miniutes
+    GSM Help Tool Black Screen Remote Service | 3 Months | $ 4.99 | Miniutes
+    GSM Help Tool Black Screen Remote Service | 6 Months | $ 7.99 | Miniutes
+    GSM Help Tool USB Port Sharing — Without VPN | 12 Months | $ 17.99 | Miniutes
+    GSM Help Tool USB Port Sharing — Without VPN | 3 Months | $ 4.99 | Miniutes
+    GSM Help Tool USB Port Sharing — Without VPN | 6 Months | $ 8.99 | Miniutes
+== GRP-S-012 Cerberus Tool Pro | 3
+    Cerberus Tool box | $ 39.99 | Instant
+    Cerberus Tool bundle | $ 59.99 | Instant
+    Cerberus Tool Pro Activation | $ 24.99 | Instant
+== GRP-S-013 Aman Remote Technician Edition | 4
+    Aman Remote Technician Edition [ New & Renew ] 1 Month | $ 4.5 | Miniutes
+    Aman Remote Technician Edition [ New & Renew ] 1 Years | $ 22.95 | Miniutes
+    Aman Remote Technician Edition [ New & Renew ] 3 Month | $ 8.1 | Miniutes
+    Aman Remote Technician Edition [ New & Renew ] 6 Month | $ 13.05 | Miniutes
+== GRP-S-014 Knoxwizard Activation | 3
+    Knoxwizard.com Activation (1 pc - 12 Months) | $ 39.99 | Hours
+    Knoxwizard.com Activation (1 pc - 3 Months) | $ 23.99 | Miniutes
+    Knoxwizard.com Activation (1 pc - 6 Months) | $ 28.99 | Miniutes
+== GRP-S-015 Shell Tool Activation | 2
+    Shell Tool Activation - [12 Months - 1 PC] | $ 39.85 | 0-30 Miniutes
+    Shell Tool Activation - [6 Months - 1 PC] | $ 29.84 | 0-30 Miniutes
+== GRP-S-016 Eagle Frp | 1
+    Eagle Frp Credit Refill (Old User) AUTO API | $ 0.89 | Miniutes
+== GRP-S-017 GSMCode.Pro Tools | 2
+    GCPro Black Screen for ultra viewer - 1 Year | $ 25 | 0-30 Miniutes
+    GCPro Black Screen for ultra viewer - LifeTime | $ 60 | 0-30 Miniutes
+== GRP-S-018 MobileProTool Credit | 1
+    MobileProTool Tool Credits Refill (old user) | $ 0.979 | Miniutes
+== GRP-S-019 Robytechtool | 4
+    ROBY TECH TOOL Activation (12 Hours - 1 Pc) | $ 4.99 | Instant
+    ROBY TECH TOOL Activation (12 Months - 1 Pc) | $ 47.99 | Hours
+    ROBY TECH TOOL Activation (3 Months - 1 Pc) | $ 28.99 | Instant
+    ROBY TECH TOOL Activation (6 Months - 1 Pc) | $ 38.99 | Instant
+== GRP-S-021 iDevicePro Tool | 3
+    iDevicePro Tool Activation [12 Months] | $ 29.99 | Miniutes
+    iDevicePro Tool Activation [3 Months] | $ 10.99 | Miniutes
+    iDevicePro Tool Activation [6 Months] | $ 19.99 | Miniutes
+== GRP-S-022 FIRE FRP Tool | 1
+    FIRE FRP Tool Credit Refill (OLD User) | $ 0.69 | Miniutes
+== GRP-S-023 Pixel Service Tool | 1
+    Pixel Service Tool (Unlock Sim Tool) - Refill Credits | $ 0.79 | Miniutes
+== GRP-S-024 MIUI Tool | 2
+    MIUI Tool Credit Refill (New User) | $ 1.246 | Miniutes
+    MIUI Tool Credit Refill (Old User) | $ 1.246 | Miniutes
+== GRP-S-025 Easy Auth Tool | 1
+    Easy Auth Tool Credits Refill (old user) | $ 0.99 | Miniutes
+== GRP-S-026 Mysterio FRP | 1
+    Mysterio FRP Unlock Refill (Old User) [AUTO API] | $ 0.6 | Miniutes
+== GRP-S-028 RADEX FRP TOOL | 1
+    RADEX Credit Transfer (https://radexfrp.com) | $ 0.998 | Miniutes
+== GRP-S-029 UNLOCK SERVICE TOOL ( UST ) | 1
+    UnlockServiceTool Credits Xiaomi Realme OPPO One Plus Vivo Nokia Samsung MOTO MTK SPD QC | $ 0.978 | Miniutes
+== GRP-S-030 UFT-Tool | 6
+    UFT-Tool 12 Months Activation (1 PC) NEW Users | $ 28.75 | Miniutes
+    UFT-Tool 12 Months Activation (1 PC) Old Renew Account | $ 28.75 | Miniutes
+    UFT-Tool 3 Months Activation (1 PC) NEW Users | $ 14.4 | Miniutes
+    UFT-Tool 3 Months Activation (1 PC) Old Renew Account | $ 14.4 | Miniutes
+    UFT-Tool 6 Months Activation (1 PC) NEW Users | $ 19.55 | Miniutes
+    UFT-Tool 6 Months Activation (1 PC) Old Renew Account | $ 19.55 | Miniutes
+== GRP-S-031 MRPROFIXER Auth tool | 1
+    MRPROFIXER AUTH Credit Refill (Old User) | $ 0.99 | Miniutes
+== GRP-S-032 MUDigital Too | 2
+    MUDigital - Create New Account | $ 0.949 | Miniutes
+    MUDigital - Credits Refill For Existing Users | $ 0.949 | Miniutes
+== GRP-S-033 GFS PRO TOOL | 3
+    GFS PRO TOOL Activation (1 Month - 1 Pc) | $ 3.99 | Miniutes
+    GFS PRO TOOL Activation (1 Year - 1 Pc) | $ 8.49 | Miniutes
+    GFS PRO TOOL Activation (lifetime - 1 Pc) | $ 13.49 | Miniutes
+== GRP-S-034 Orbitmobile E-Sim | 2
+    Orbitmobile E-Sim Global interet (10 GB / 30 Days) | $ 14.99 | Miniutes
+    Orbitmobile E-Sim Global interet (3 GB / 30 Days) | $ 9.99 | Miniutes
+== GRP-S-035 OH AUTH TOOL | 1
+    OH AUTH Credits Refill Old User | $ 0.949 | Miniutes
+== GRP-S-036 Xiaomi Beast | 1
+    Xiaomi Beast Refill Credit | $ 0.99 | Miniutes
+== GRP-S-037 EMB AUTH TOOL | 1
+    EMB AUTH TOOL (Credits Refill) | $ 0.989 | Miniutes
+== GRP-S-038 Alien tool | 3
+    Alien Tool For (Moto FRP-UBL) No Need Credits [12 Months] | $ 42.99 | Miniutes
+    Alien Tool For (Moto FRP-UBL) No Need Credits [3 Months] | $ 25.99 | Miniutes
+    Alien Tool For (Moto FRP-UBL) No Need Credits [6 Months] | $ 33.99 | Miniutes
+== GRP-S-039 Anytool Auth | 1
+    Anytool AUTH TOOL Credit Any Qnt [OLD/EXISITNG USER] | $ 0.748 | Miniutes
+== GRP-S-041 Tuna Pro Tool | 1
+    Tuna Pro Tool Credit Any Qnt [OLD/EXISITNG USER] | $ 0.98 | Miniutes
+== GRP-S-042 Droidmod Tool | 3
+    Droidmod Tool Activation [12 Months] | $ 29.99 | Miniutes
+    Droidmod Tool Activation [3 Months] | $ 14.99 | Miniutes
+    Droidmod Tool Activation [6 Months] | $ 19.99 | Miniutes
+== GRP-S-043 SKY AUTH TOOL | 1
+    SKY AUTH TOOL [ FRP/FLASH CREDIT ] | $ 0.978 | Miniutes
+== GRP-S-044 MiAssistant Pro Tool | 1
+    MiAssistant Pro [ FRP/FLASH CREDIT ] | $ 0.99 | Miniutes
+== GRP-S-046 LIKA TOOL | 1
+    LIKA TOOL Credits (Old Use) | $ 0.989 | Miniutes
+== GRP-S-047 Smart Frp Tool | 1
+    Smart Frp Tool Credits (Old User) AUTO API | $ 0.989 | Miniutes
+== GRP-S-048 Moto M Tool | 3
+    Moto M Tool 1 Year Activation - For New User | $ 19.35 | Miniutes
+    Moto M Tool 1 Year Activation - For Old User | $ 19.35 | Miniutes
+    Moto M Tool Credits For (Existing User) | $ 1.11 | Miniutes
+== GRP-S-049 RootMagisk.com Packages | 5
+    1 Day Package Activation For [RootMagisk.com] Root Site | $ 0.39 | Instant
+    1 Month Package Activation For [RootMagisk.com] Root Site | $ 4.99 | Instant
+    1 Year Package Activation For [RootMagisk.com] Root Site | $ 39.99 | Instant
+    15 Days Package Activation For [RootMagisk.com] Root Site | $ 2.79 | Instant
+    3 Months Package Activation For [RootMagisk.com] Root Site | $ 13.99 | Instant
+== GRP-S-053 BMT Pro Tool | 5
+    BMT Pro License 6 Months [ New & Renew ] Support Apple & Android | $ 52.5 | Miniutes
+    BMT Pro Credits [Existing Users] | $ 0.99 | Miniutes
+    BMT Pro License 1 Day [ New & Renew ] Support Apple & Android | $ 12.5 | Miniutes
+    BMT Pro License 1 Week [ New & Renew ] Support Apple & Android | $ 41.25 | Miniutes
+    Btmmultitool - BMT PRO Tool [1 YEAR - 1 PC] Unlimited Operation | $ 54.99 | Miniutes
+== GRP-S-054 MAT AUTH TOOL | 1
+    MAT AUTH TOOL Credit Any Qnt [OLD/EXISITNG USER] | $ 0.199 | Miniutes
+== GRP-S-055 KGFix Tool | 4
+    KGFix Tool Activation [1 Year - 1 PC] | $ 44.99 | Miniutes
+    KGFix Tool Activation [3 Months - 1 PC] | $ 22.99 | 1-24 Hours
+    KGFix Tool Activation [6 Months - 1 PC] | $ 25.34 | 1-24 Hours
+    KGFixTool 10 Credit Pack | $ 1.125 | 1-24 Hours
+== GRP-S-057 ONE CLICK PhoneRepair | 1
+    ONE CLICK PhoneRepair Tools 1 year license accounts | $ 24.99 | 1-12 Hours
+== GRP-S-060 Multi Pro TOOL | 1
+    XIAOMI MULTI PRO TOOL [MTK & QC Auth] | $ 0.99 | Miniutes
+== GRP-S-061 Nemesis Box Activation | 2
+    Nemesis Box Activation Credit Refill Old Users | $ 1.19 | Hours
+    Nemesis Box Activation [1 YEAR - 1 USER] | $ 49.99 | Hours
+== GRP-S-062 Moto King Pro | 5
+    Moto King Pro (active account) [ 6 Months - 1 PC] | $ 25.99 | Miniutes
+    Moto King Pro (active account) [1 YEAR - 1 PC] | $ 36.49 | Miniutes
+    Moto King Pro (active account) [24 Hours 1 Pc] | $ 4.375 | Miniutes
+    Moto King Pro (active account) [3 Months - 1 PC] | $ 15.49 | Miniutes
+    Moto King Pro (active account) [72 Hours 1 Pc] | $ 9.92 | Miniutes
+== GRP-S-063 Adam Tool | 1
+    Adam Tool Credit For Xiaomi/OnePlus/Realme [Existing User] | $ 0.55 | Miniutes
+== GRP-S-064 Mesallah Hardware Tool | 1
+    Mesallah Hardware Tool (مسلة) [1 PC 1 Mobile 12 Months] | $ 17.99 | Miniutes
+== GRP-S-066 RFT Loader | 7
+    RFT Loader Credit Transfer [Existing User] | $ 1.045 | Instant
+    RFT Loader OTP Login For Auth [OnePlus] | $ 12.69 | Instant
+    RFT Loader OTP Login For Auth [OPPO] | $ 30.99 | Instant
+    RFT Loader OTP Login For Auth [Realme] [Realme O+ Not Supported] | $ 6.49 | Instant
+    RFT Loader OTP Login For Auth [Realme] [Realme O+ Supported] | $ 6.99 | Instant
+    RFT Loader OTP Login For Auth [Xiaomi f] | $ 8.99 | Instant
+    RFT Loader OTP Login For Auth [Xiaomi Qc Auth Key] | $ 5.852 | Instant
+== GRP-S-068 Pixel Pro Tool Activation | 3
+    Pixel Pro Tool Activation [1 YEAR - 1 PC] | $ 29.99 | Miniutes
+    Pixel Pro Tool Activation [3 Months - 1 PC] | $ 9.89 | Miniutes
+    Pixel Pro Tool Activation [6 Months - 1 PC] | $ 13.99 | Miniutes
+== GRP-S-069 Apizu Tool | 3
+    Apizu Tool Activation for (1 Year) | $ 26.99 | Miniutes
+    Apizu Tool Activation for (3 Months) | $ 14.99 | Miniutes
+    Apizu Tool Activation for (6 Months) | $ 19.99 | Miniutes
+== GRP-S-070 HXRU (OPPO, Realme and OnePlus) | 1
+    HXRU Tool For OPPO | Realme | OnePlus Support [Old User] | $ 0.99 | Miniutes
+== GRP-S-071 Nice Unlocker Tool | 3
+    Nice Unlocker Tool [1 Year - 1 PC] | $ 38.99 | Miniutes
+    Nice Unlocker Tool [3 Months - 1 PC] | $ 19.85 | Miniutes
+    Nice Unlocker Tool [6 Months - 1 PC] | $ 28.99 | Miniutes
+== GRP-S-073 Artemis Tool | 4
+    Artemis II Credit Refill old user [Artemis2.vip] | $ 0.989 | 1-24 Hours
+    Artemis Tool [1 YEAR - 1 Pc] | $ 24.99 | 1-24 Hours
+    Artemis Tool [5 YEARS - 1 Pc] | $ 42.99 | 1-24 Hours
+    Artemis Tool [Reset PC Count] | $ 4.85 | 1-24 Hours
+== GRP-S-074 MaAnt Maintenance Tool | 2
+    MaAnt Maintenance Assistant Software [1 Pc - 1 Month] Code | $ 4.59 | Miniutes
+    MaAnt Maintenance Assistant Software [1 Pc - 1 Year] Code | $ 38.99 | Miniutes
+== GRP-S-076 HaaFedK Xiaomi Auth | 1
+    HaaFedK Xiaomi Auth Tool Credits | $ 0.167 | Miniutes
+== GRP-S-077 OPlusProLogin | 7
+    Opluspro iRecovery Tool ECID Register | $ 1.49 | Miniutes
+    OPLUSPRO TECNO/INFINIX/ITEL LOADER AntiCrack OTP | $ 10.99 | Miniutes
+    Opluspro Xiaomi ONE CLICK OTP | $ 3 | Miniutes
+    OplusProLogin OnePlus OTP | $ 20.99 | Miniutes
+    OplusProLogin Realme OTP | $ 7.98 | Miniutes
+    OPlusProLogin Tool OPPO OTP | $ 24.2 | Miniutes
+    OPlusProLogin Tool TECNO/INFINIX/ITEL AUTH | $ 11.99 | Miniutes
+== GRP-S-078 Dragon Frp Tool | 1
+    Dragon Frp Tool Credit Any Qnt [OLD/EXISITNG USER] | $ 0.859 | Miniutes
+== GRP-S-083 Xiaomi Speed Tool | 1
+    Xiaomi Speed Tool AUTO API EXISTING USER | $ 0.66 | Miniutes
+== GRP-S-084 HyperAuthTool | 1
+    HyperAuthTool - Xiaomi auth QC/MTK v6 v5 [10 Credits] | $ 12.99 | Miniutes
+== GRP-S-089 Lanrui Gzlanrui Hardware Tool | 2
+    Lanrui Gzlanrui Hardware Tool (1 Year - 1 PC) | $ 49.99 | 1-24 Hours
+    Lanrui Gzlanrui Hardware Tool (1 Year - 3 PCS) | $ 79.99 | 1-24 Hours
+== GRP-S-090 Sam-Token Tool | 2
+    Sam-Token Tool Credits (New Account) | $ 0.975 | Miniutes
+    Sam-Token Tool Credits (Old Account) | $ 0.975 | Miniutes
+== GRP-S-091 RBM (Repair Bussiness Management) | 2
+    RBM (Repair Bussiness Management) New Code | $ 22.99 | 1-24 Hours
+    RBM (Repair Bussiness Management) Re-new Code | $ 22.99 | 1-24 Hours
+== GRP-S-094 PhoneMicroDB | 2
+    PhoneMicroDB (1 PC 1 Month) | $ 4.5 | 1-24 Hours
+    PhoneMicroDB (1 PC 1 Year) | $ 39.99 | 1-24 Hours
+== GRP-S-095 QCDMA Tool | 6
+    QCDMA Tool 12 Months LICENSE NEW Users (INSTANT) | $ 27.99 | Miniutes
+    QCDMA Tool 12 Months LICENSE Renew Users (INSTANT) | $ 27.99 | Miniutes
+    QCDMA Tool 24 Months LICENSE New Users (INSTANT) | $ 50.4 | Miniutes
+    QCDMA Tool 24 Months LICENSE Old Users (INSTANT) | $ 50.4 | Miniutes
+    QCDMA Tool 6 Months LICENSE NEW Users (INSTANT) | $ 21.6 | Miniutes
+    QCDMA Tool 6 Months LICENSE Old Users (INSTANT) | $ 21.6 | Miniutes
+== GRP-S-096 F-KEY TOOL | 2
+    F-KEY TOOL V.7 Any Quantity [Existing Users] | $ 1.134 | Miniutes
+    F-KEY TOOL V.7 Any Quantity [New User Registration AUTO] | $ 1.134 | Miniutes
+== GRP-S-098 HXRU Xiaomi | 2
+    HXRU Auth Tool [Old User] | $ 0.89 | Miniutes
+    HXRU Auth Tool [New User] | $ 0.89 | Miniutes
+== GRP-S-100 FRP BOSS TOOL | 1
+    FRP BOSS TOOL - Instant Credits | $ 0.85 | Miniutes
+== GRP-S-103 Anonymous Tool | 1
+    Anonymouse Anynymouse Anonymous [xiaomiauth.org]Tool [AUTO API ] EXISTING USER | $ 0.39 | Miniutes
+== GRP-S-105 MDMFix Tool | 2
+    MDMFix Tool - MdmFixTool Activation [1 Year 1 Pc] AUTO API | $ 64.19 | Miniutes
+    MDMFix Tool - MdmFixTool Activation [3 Months 1 Pc] AUTO API | $ 35.79 | Miniutes
+== GRP-S-106 Typhon Auth Tool | 2
+    Typhon Auth Tool Any Qnt (AUTH) [Existing User] | $ 0.86 | Instant
+    Typhon Auth Tool Any Qnt (AUTH) [New User] | $ 0.86 | Instant
+== GRP-S-107 Ultra-Unlock Pro | 3
+    Ultra Unlock Pro 15 Credits (Unlimited Operation) Offer عرض | $ 11.99 | Instant
+    Ultra Unlock Tool - Recharge Your Balance [Existing User] [ Auto API ] | $ 0.594 | Miniutes
+    Ultra Unlock Tool - [New User 10 Credit] [ Auto API ] | $ 0.594 | Miniutes
+== GRP-S-109 Gsm Auth Tool | 1
+    GsmAuth.com QUALCOMM/MEDIATEK Credits Refill | Existing User Only | $ 0 | Miniutes
+== GRP-S-110 Soul Auth Tool | 1
+    Soul Auth Tool Credit - Existing User | $ 0.983 | Miniutes
+== GRP-S-111 SRS AUTH TOOL | 2
+    SrsAuth Tool 12 Month Licence Activation/Renew | $ 24.99 | 1-4 Hours
+    SrsAuth Tool 6 Month Licence Activation/Renew | $ 19.99 | Miniutes
+== GRP-S-113 NC AuthTool | 1
+    NC AuthTool Credit - OLD Users | $ 0.19 | Miniutes
+== GRP-S-114 Gsm Future Tool | 2
+    Gsm Future Credit Any Qty [Existing Account] | $ 0.991 | Miniutes
+    Gsm Future Credit Any Qty [New Account] | $ 0.991 | Miniutes
+== GRP-S-115 Powerful Unlocker Pro | 1
+    Powerful Unlocker Pro Tool Credit Any Qty [Existing Account] | $ 0.98 | Miniutes
+== GRP-S-116 Falcon Multi Tool | 1
+    Falcon Multi Tool Credit Refill - Any Quantity (Existing User) | $ 0.95 | Miniutes
+== GRP-S-118 MultiUnlock Service Utility Tool | 3
+    MultiUnlock Service Utility Tool (12 Months - 1 PC) | $ 19.99 | Miniutes
+    MultiUnlock Service Utility Tool (3 Months - 1 PC) | $ 11.85 | Miniutes
+    MultiUnlock Service Utility Tool (6 Months - 1 PC) | $ 16.49 | Miniutes
+== GRP-S-119 Falcon FRP Tool | 1
+    Falcon FRP Tool Credit Any Qty [Existing Account] (falconfrptool.com) | $ 0.79 | Hours
+== GRP-S-120 Lazy Loader | 2
+    Lazy Loader (Realme) | $ 0.986 | Miniutes
+    Lazy Unlocker - VIVO (NO REFUND) | $ 0 | Miniutes
+== GRP-S-121 Nexa Pro Tool | 2
+    Nexa Pro Tool Credit Any Qty [Existing Account] | $ 0.98 | Miniutes
+    Nexus Service Tool Realme Token ( NST ) | $ 5.25 | Miniutes
+== GRP-S-122 Turbo tool (Hardware) | 1
+    Turbo Hardware Tool (bitmap and schematic support) 1 YEAR 1 PC | $ 21.99 | Miniutes
+== GRP-S-123 Gawansmirt Unlocker Pro | 3
+    Gawansmirt Unlocker Pro tool [12 Months - 1 Pc] | $ 34.99 | Miniutes
+    Gawansmirt Unlocker Pro tool [3 Months - 1 Pc] | $ 14.99 | Miniutes
+    Gawansmirt Unlocker Pro tool [6 Months - 1 Pc] | $ 24.99 | Miniutes
+== GRP-S-125 Pulsarunlock | 1
+    Pulsar unlock Credit (Old User) | $ 1.09 | Miniutes
+== GRP-S-126 MIFRPTOOL.COM | 1
+    MiFrp Tool Credits Existing User | $ 0.949 | Miniutes
+== GRP-S-130 XM Auth Tool | 2
+    XM AUTH TOOL Any Quantity (MTK & Qualcom) [New User Registration] AUTO API | $ 1.05 | Miniutes
+    XM AUTH TOOL Any Quantity [Old/Existing Users] (MTK & Qualcom) [Old/Existing Users] AUTO API | $ 1.05 | Miniutes
+== GRP-S-131 AH-Xiaomi Tool | 3
+    AH-REALME OTP TOOL - 1 Device | $ 10 | Miniutes
+    AH-xiaomi Auth Tool Credit Any Qty [Existing Account] | $ 1.003 | Miniutes
+    AH-xiaomi Auth Tool Credit Any Qty [New Account] | $ 1.003 | Miniutes
+== GRP-S-132 Deep Unlocker Tool | 4
+    Deep Unlocker Tool Activation 1 Year ( Existing User) | $ 57.2 | Miniutes
+    Deep Unlocker Tool Activation 1 Year ( New User) | $ 57.2 | Miniutes
+    Deep Unlocker Tool Any Quantity [New Users] | $ 0.572 | Miniutes
+    Deep Unlocker Tool Any Quantity [Old Users] | $ 0.572 | Miniutes
+== GRP-S-133 Smart Tool Pro Tool | 6
+    Smart Tool Pro Activation [10 Hours - 1 Pc] | $ 2.99 | Miniutes
+    Smart Tool Pro Activation [12 Months - 1 Pc] | $ 34.99 | Miniutes
+    Smart Tool Pro Activation [24 Hours - 1 Pc] | $ 3.49 | Miniutes
+    Smart Tool Pro Activation [3 Months - 1 Pc] | $ 18.99 | Miniutes
+    Smart Tool Pro Activation [6 Months - 1 Pc] | $ 28.99 | Miniutes
+    Smart Tool Pro Credits | $ 1.05 | Miniutes
+== GRP-S-134 XIAOMI SERVICE TOOL (XST) | 1
+    Xiaomi service tool Credit Any Qty [Existing Account] AUTO API | $ 0.985 | Miniutes
+== GRP-S-135 Best Auth Tool | 1
+    BestAuthTool ( Bestauthtool.com ) - Credits for Existing User | $ 1.208 | Miniutes
+== GRP-S-137 mifrp Tool | 1
+    mifrp.com Tool Credit Any Qty [Existing Account] | $ 0.95 | Miniutes
+== GRP-S-138 Covva Pro Tool | 1
+    Covva Pro Tool (1 PC - 1 User) | $ 19.99 | Miniutes
+== GRP-S-139 UK-Tools OTP | 1
+    UK-Tools OTP (Realme O+ Support & MTK+QC ALL) | $ 8.99 | Miniutes
+== GRP-S-140 Ultra auth Tool | 1
+    Ultra auth Tool (UAT) QC/ MTK/ FDL Credits refill [Existing User] | $ 0.99 | Miniutes
+== GRP-S-141 FAST FRP TOOL | 2
+    FAST FRP TOOL Credits Any Quantity [Existing USER] (FASTFRPTOOL.COM) | $ 0.95 | Miniutes
+    FFT REALME OTP (1 Click FRP Unlock & MTK+QC / Support ) | $ 18 | Miniutes
+== GRP-S-142 Zen Auth Tool | 1
+    Zen Auth Tool Flash/EFS/Mi Cloud Credit | $ 0.998 | Miniutes
+== GRP-S-143 Nova Auth Tool | 1
+    Nova Auth Tool Any Quantity [Existing Users Only] | $ 0.98 | Miniutes
+== GRP-S-144 Venom Auth Tool Credit | 1
+    Venom Auth Tool Credit Any Qnt [OLD/EXISITNG USER] | $ 0.875 | Miniutes
+== GRP-S-146 CheckerTR PRO | 3
+    Checker TR PRO Activation [12 Months - 1 Pc] | $ 44.99 | 1-5 Miniutes
+    Checker TR PRO Activation [3 Months - 1 Pc] | $ 23.99 | 1-5 Miniutes
+    Checker TR PRO Activation [6 Months - 1 Pc] | $ 33.99 | 1-5 Miniutes
+== GRP-S-147 BEST FRP TOOL | 1
+    BEST FRP TOOL Tool Credit Any Qty (AUTH, FASTBOOT TO EDL) [Existing Account] | $ 0.979 | Miniutes
+== GRP-S-148 P@NDONYMUS Tool | 2
+    P@NDONYMUS Tool (pandonymus Activation) [1 PC - 12 months] | $ 89.99 | Miniutes
+    P@NDONYMUS Tool (pandonymus Activation) [1 PC - 9 months] | $ 69.99 | Miniutes
+== GRP-S-149 TMT Pro Tool | 3
+    TMTPro TMT Pro Tool Activation [12 Months - 1 PC] | $ 38.99 | Miniutes
+    TMTPro TMT Pro Tool Activation [3 Months - 1 PC] | $ 23.99 | Miniutes
+    TMTPro TMT Pro Tool Activation [6 Months - 1 PC] | $ 28.99 | Miniutes
+== GRP-S-150 PENGUINE MULTI TOOL | 1
+    PENGUINE MULTI TOOL Auth Tool Credit Any Qty [Existing Account] | $ 0.985 | Miniutes
+== GRP-S-152 JAT AUTH TOOL | 1
+    JAT AUTH TOOL [Existing Account] | $ 1.045 | Miniutes
+== GRP-S-153 W2R Solutions Schematic | 5
+    W2R Solutions Schematics [1 PC - 1 Year] | $ 23.99 | Instant Miniutes
+    W2R Solutions Schematics [1 PCS - 2 Years] | $ 43.99 | Miniutes
+    W2R Solutions Schematics [1 PCS - 3 Years] | $ 63.99 | Miniutes
+    W2R Solutions Schematics [2 PCS - 1 Year] | $ 40.99 | Miniutes
+    W2R Solutions Schematics [3 PCS - 1 Years] | $ 52.99 | Miniutes
+== GRP-S-154 Relax Auth Tool | 1
+    Relax Tool AUTH Credits Loader | $ 1.111 | Hours
+== GRP-S-156 FRP Unlock TOOL | 1
+    FRP Unlock TOOL Tool Credit Any Qty [Existing Account] | $ 0.949 | Miniutes
+== GRP-S-157 BULK AUTH TOOL | 1
+    BULK AUTH TOOL Credit Any Qty (AUTH, FASTBOOT TO EDL) [Existing Account] | $ 1.05 | Miniutes
+== GRP-S-158 KRAKEN AUTH | 1
+    Kraken AUTH TOOL Credit Any Qnt [OLD/EXISITNG USER] | $ 0.98 | Miniutes
+== GRP-S-159 Fenix Utility Pro | 4
+    Fenix Utility Pro [1 Month - 1 PC] Activation [AUTO API] | $ 14.99 | Miniutes
+    Fenix Utility Pro [1 YEAR - 1 PC] Activation [AUTO API] | $ 48.99 | Miniutes
+    Fenix Utility Pro [1 YEAR - 1 PC] Activation | Renew [AUTO API] | $ 48.99 | Miniutes
+    Fenix Utility Pro [Credits] Any Qnt [AUTO API] | $ 0.969 | Miniutes
+== GRP-S-160 IPRO Tool Credit | 1
+    iPro Tool Credit | $ 0.99 | Miniutes
+== GRP-S-161 TONI PRO TOOL | 1
+    TONI PRO TOOL All Operation Support [Existing User] | $ 0.331 | Miniutes
+== GRP-S-162 XIAOMI FLASHER PRO | 1
+    XFP XIAOMI FLASHER PRO Tool Credit Any Qty (AUTH, FASTBOOT TO EDL) [Existing Account] | $ 0.899 | Miniutes
+== GRP-S-163 Repair-Fix Xiaomi Auth Tool | 1
+    Repair-Fix Xiaomi Auth Tool (RepairFixAuthTools.com) Credit AUTO API [EXISTING USER ] | $ 0 | Miniutes
+== GRP-S-164 PhoeProgramFix Tool | 1
+    PhoeProgramFix Tool Activation [1 PC - 1 YEAR] | $ 33.99 | 1-24 Hours
+== GRP-S-166 CP-Tool | 2
+    CP-Tool CPT Pro Xiaomi Tool Credits | $ 1.06 | Miniutes
+    CP-Tool CPT Pro Xiaomi Tool [1 Year Package] Unlimited Operation | $ 53.99 | Miniutes
+== GRP-S-170 Octoplus Box / Dongle (Renew) | 2
+    Octoplus FRP Tool 1 Year Renew for Box / Dongle | $ 25.99 | 1-5 Miniutes
+    Octoplus Samsung Tool 1 Year Renew for Box / Dongle | $ 23.69 | 1-5 Miniutes
+== GRP-S-171 WorldLinkGSM Tool | 8
+    WorldLinkGSM Credit Refill for old user | $ 0.99 | 1-3 Hours
+    WorldlinkGSM Pro - 1 Day + 10 Credits Activation | $ 14.99 | 1-3 Hours
+    WorldLinkGSM Pro Tool Activation [12 Months - 1 PC] | $ 59.99 | 1-3 Hours
+    WorldLinkGSM Pro Tool Activation [3 Months - 1 PC] | $ 29.99 | 1-3 Hours
+    WorldLinkGSM Pro Tool Activation [6 Months - 1 PC] | $ 44.99 | 1-3 Hours
+    WorldLinkGSM Tool Activation [12 Months - 1 PC] | $ 49.99 | 1-3 Hours
+    WorldLinkGSM Tool Activation [3 Months - 1 PC] | $ 29.99 | 1-3 Hours
+    WorldLinkGSM Tool Activation [6 Months - 1 PC] | $ 44.99 | 1-3 Hours
+== GRP-S-173 FRPTooLPRO | 1
+    FRPToolPRO [SAMSUNG & XIAOMI] Credits | $ 1.058 | Miniutes
+== GRP-S-174 Zhizhen Schematics | 7
+    Zhizhen Schematics Tool - 1 Month Activation (1 PC) | $ 3.49 | Miniutes
+    Zhizhen Schematics Tool - 12 Months Activation (1 User - 1 Pc) | $ 15.89 | Miniutes
+    Zhizhen Schematics Tool - 12 Months Activation (2 Pc) | $ 32.49 | Miniutes
+    Zhizhen Schematics Tool - 6 Months Activation (1 User - 1 Pc) | $ 8.99 | Miniutes
+    Zhizhen Schematics Tool - 6 Months Activation (2 Pc) | $ 18.2 | Miniutes
+    Zhizhen Schematics Tool -3 Months Activation (1 User - 1 Pc) | $ 5.04 | Miniutes
+    Zhizhen Schematics Tool -3 Months Activation (2 Users) | $ 9.99 | Miniutes
+== GRP-S-175 ArabFRP Tool | 5
+    ArabFRP Tool Activation [unlimited PC - 1 Year] | $ 25.99 | Instant
+    ArabFRP Tool Activation [unlimited PC - 2 Years] | $ 32.74 | Instant
+    ArabFRP Tool Activation [unlimited PC - 3 Months] | $ 13.3 | Instant
+    ArabFRP Tool Activation [unlimited PC - 6 Months] | $ 19.19 | Instant
+    ArabFRP Tool Credits | $ 1.08 | Instant
+== GRP-S-177 Mummy Auth Tool | 1
+    Mummy Auth Tool for Xiaomi Credits for Existing User | $ 0.68 | Miniutes
+== GRP-S-178 MDM FIX PRO | 2
+    MFP TOOL FIX PRO TOOL [12 Months] | $ 17.99 | 1-12 Hours
+    MFP TOOL FIX PRO TOOL [3 Months] | $ 11.99 | 1-12 Hours
+== GRP-S-180 Taj AuthTool | 2
+    Xiaomi tajtool.com Tool [TJ] [Existing User] | $ 0.99 | Miniutes
+    Xiaomi tajtool.com Tool [TJ] [New User] | $ 0.99 | Miniutes
+== GRP-S-181 Xiaomi Paid Tool | 1
+    XiaomiPaid EXISTING USER | $ 0.702 | Miniutes
+== GRP-S-183 CLICK FRP TOOL (CFT) | 1
+    CLICK FRP TOOL (CFT) Credit Any Qty [Existing Account] | $ 0.98 | Miniutes
+== GRP-S-184 X-Tool PRO | 1
+    X-Tool PRO Credit Any Qty [Existing Account] | $ 1.131 | Miniutes
+== GRP-S-185 Power Tool Auth | 1
+    Power Auth Tool Credit Any Qty [Existing Account] | $ 0.95 | Miniutes
+== GRP-S-188 YCS Drawing Bitmap | 1
+    YCS intelligent Drawing Schematic Bitmap [1 Year - 1 Pc] | $ 49 | 1-24 Hours
+== GRP-S-190 X-FRP PRO | 2
+    X-Flash PRO Loader OTP Login For Auth [ Infinix - iTel - Tecno ] | $ 7.24 | Miniutes
+    X‑FRP PRO Auth Tool Credit Any Qty [Existing Account] | $ 0.92 | Miniutes
+== GRP-S-191 Global Frp Tool (GFT) | 2
+    ( GFT ) Global Frp Tool Realme 1 Click FRP Unlock Credit Any Qty [Existing Account] | $ 0.998 | Miniutes
+    Global Frp Tool (GFT) Credit Any Qty [Existing Account] | $ 0.999 | Miniutes
+== GRP-S-192 KGPROTOOL | 3
+    KG Pro Tool Activation [12 Month- 1 PC] | $ 34.99 | Miniutes
+    KG Pro Tool Activation [3 Month- 1 PC] | $ 17.99 | Miniutes
+    KG Pro Tool Activation [6 Month- 1 PC] | $ 28.99 | Miniutes
+== GRP-S-194 Android Auth Tool Credit | 1
+    Android Auth Tool Credit Refill (Existing User) | $ 0.99 | Miniutes
+== GRP-S-195 FCK Tool Xiaomi | 2
+    FCK Tool ( Exist User ) | $ 0.799 | Miniutes
+    FCK Tool ( New User ) | $ 0.799 | Miniutes
+== GRP-S-196 HSPRO TOOL Activation | 3
+    HS-PRO HSPRO TOOL Activation [12 Months - 1 Pc] | $ 32.49 | Miniutes
+    HS-PRO HSPRO TOOL Activation [3 Months - 1 Pc] | $ 12.99 | Instant Miniutes
+    HS-PRO HSPRO TOOL Activation [6 Months - 1 Pc] | $ 22.49 | Miniutes
+== GRP-S-197 KRDT Utility Pro Activation | 1
+    KRDT Utility Pro Credit refill (OLD USER) | $ 1.07 | Miniutes
+== GRP-S-198 tojo360 Tool | 4
+    360 TOOL (tojo360.com) Activation [12 Months - 1 Pc] | $ 37.99 | Miniutes
+    360 TOOL (tojo360.com) Activation [3 Months - 1 Pc] | $ 18.85 | Miniutes
+    360 TOOL (tojo360.com) Activation [6 Months - 1 Pc] | $ 23.99 | Hours
+    360 TOOL (tojo360.com) Credit refill (only active user) | $ 0.79 | Miniutes
+== GRP-S-199 Xiaomi Repair Tool XRT | 1
+    Xiaomi Repair Tool (XRT) (AUTH, FASTBOOT TO EDL) [Existing Account] | $ 0.999 | Miniutes
+== GRP-S-200 tool.emmc-ufs | 4
+    EMMC-UFS Tool Activation (https://tool.emmc-ufs.com) 1 Month | $ 9.99 | Miniutes
+    EMMC-UFS Tool Activation (https://tool.emmc-ufs.com) 12 Months | $ 48.99 | Miniutes
+    EMMC-UFS Tool Activation (https://tool.emmc-ufs.com) 3 Months | $ 19.85 | Miniutes
+    EMMC-UFS Tool Activation (https://tool.emmc-ufs.com) 6 Months | $ 28.99 | Miniutes
+== GRP-S-201 Galaxy Auth | 1
+    GALAXY OnePlus FLASH OTP (Galaxy-realme.com) | $ 34.99 | Miniutes
+== GRP-S-202 NEXTG Auth Tool | 1
+    NEXTG Auth Tool Credit Any Qty [Existing Account] | $ 0.249 | 1-60 Miniutes
+== GRP-S-203 Tira unlocker | 2
+    Tira unlocker [ Samsung + LG + XIAOMI + Alcatel + TINNO + Google + Vivo + Realme + MOTO ] Credits for new user [ Auto API ] | $ 0.655 | Miniutes
+    Tira unlocker [ Samsung + LG + XIAOMI + Alcatel + TINNO + Google + Vivo + Realme + MOTO ] Credits for Existing use | $ 0.69 | Miniutes
+== GRP-S-205 Samsung Frp | 1
+    FRP Remove + Samsung Account remove All Samsung Device (Middel east) (شرق الاوسط ) | $ 52 | 5 Miniutes
+== GRP-S-206 Octoplus / Octopus Box Credits | 2
+    Octoplus / Octopus Box Account Credits For Existing/Old Users (Instant) [IF USER NOT EXISIT NO REFUND] | $ 0.107 | 1-2 Miniutes
+    Octoplus / Octopus Box Account Credits For New Users (Instant) [IF YOU USE OLD USER NO REFUND] | $ 0.107 | 1-2 Miniutes
+== GRP-S-207 TFM Pro tool | 3
+    TFM Pro tool Credit (You need Active Account 3-6-12 Months member) For (beta.tfmtool.com) | $ 0.999 | Miniutes
+    TFM Tool Pro Professional Plan 12 Months For (beta.tfmtool.com) | $ 29.39 | Miniutes
+    TFM Tool Pro Standard Plan 6 Months For (beta.tfmtool.com) | $ 20.59 | Miniutes
+== GRP-S-209 ZXW Schematic | 1
+    ZXW Online Account Activation (1 Year) Instant | $ 44.99 | Instant Miniutes
+== GRP-S-210 FCL Schematic | 3
+    WXJ WUXİNJİ FCL ACTİVATİON (1 Year - 3 Pcs) GLOBAL | $ 29.99 | Instant
+    WXJ WUXİNJİ FCL ACTİVATİON (1 Month) Global | $ 4.99 | Instant
+    WXJ WUXİNJİ FCL ACTİVATİON (3 Years - 3 Pcs) offer | $ 48.99 | Instant
+== GRP-S-215 Octoplus FULL Digital License (Online Without Box) | 6
+    Octoplus Full Digital License 6 Months (Without Box) | $ 88.4 | Miniutes
+    Octoplus Full Digital License 1 Day (Without Box) | $ 6.39 | Miniutes
+    Octoplus Full Digital License 1 Day License with 100 Octoplus Server Credits (Without Box) | $ 17.89 | Miniutes
+    Octoplus Full Digital License 1 Year (Without Box) | $ 118.8 | 1-5 Miniutes
+    Octoplus Full Digital License 3 Days (Without Box) | $ 10.39 | Miniutes
+    Octoplus Full Digital License 3 Months (Without Box) | $ 63 | 1-5 Miniutes
+== GRP-S-216 Xiaomi Authorized Account | 1
+    Custom Xiaomi | $ 1 | 1-24 Hours
+== GRP-S-225 GSMunlock | 2
+    GSMUnlock- Create New Account (Instant/Auto API) | $ 0.85 | Instant
+    GSMUnlock- Transfer Credits to Existing Account (Instant/Auto API) | $ 0.85 | Instant
+== GRP-S-226 The Magic Tool | 2
+    The Magic Tool (New User) | $ 0.959 | 1-5 Miniutes
+    The Magic Tool (Old User) | $ 0.959 | 1-5 Miniutes
+== GRP-S-227 Dr.Fone | 2
+    Dr.Fone - WhatsApp Transfer ( iOS And Android ) 1 Year License | 10 Mobile Devices 1 PC | $ 31.99 | Miniutes
+    Dr.Fone - WhatsApp Transfer ( iOS And Android ) 1 Year License | 5 Mobile Devices 1 PC | $ 22.99 | Miniutes
+== GRP-S-228 E-GSM | 6
+    E-GSM 10 Credits (NOT FOR AUTH-FLASH) | $ 1.05 | 1-24 Hours
+    E-GSM KEY Credti refill (old user) [egsmkey.com] | $ 1.01 | Miniutes
+    E-GSM TOOL ACTIVATION [New Users - Old Users] 1 Year (Need Register In Tool Before) | $ 54.99 | Miniutes
+    E-GSM TOOL ACTIVATION [New Users - Old Users] 24 Hours (Need Register In Tool Before) | $ 9.99 | Miniutes
+    E-GSM TOOL ACTIVATION [New Users - Old Users] 3 Months (Need Register In Tool Before) | $ 24.99 | Miniutes
+    E-GSM TOOL ACTIVATION [New Users - Old Users] 6 Months (Need Register In Tool Before) | $ 34.99 | Miniutes
+== GRP-S-229 MI Byass Tool | 2
+    MI-Byass MI Byass Tool Credit [XIAOMI & LG & MOTO & Oppo & Realme & Vivo] (New User) | $ 0.68 | Miniutes
+    Mi-Bypass MI Bypass Tool Any Credit [XIAOMI & LG & MOTO & Oppo & Realme & Vivo] (Old and existing User) | $ 0.68 | 1-5 Miniutes
+== GRP-S-231 General Unlocker Pro | 2
+    General Unlocker Pro [ Samsung + LG + Alcatel + TINNO + Google + Moto ] Credits for new user [ Auto API ] | $ 0.599 | Hours
+    General Unlocker Pro [ Samsung + LG + Alcatel + TINNO + Google + Moto] Credits for Existing user [ Auto API ] | $ 0.599 | Hours
+== GRP-S-232 Samsung Sim-Unlocker | 2
+    Sim-Unlocker Pro - The Cheapest Samsung Unlock credits New account ANY Quantity | $ 0.81 | Instant
+    Sim-Unlocker Pro - The Cheapest Samsung Unlock credits Refill / ReCharge Old Account ANY Quantity | $ 0.81 | Instant
+== GRP-S-233 Setool | 3
+    LG Tool Activation setool | $ 53.65 | 1-6 Hours
+    LGE Credits 1x100 credits per each | $ 29.45 | 1-6 Hours
+    LGE Credits [ 1 Packet (x100 credits per each) ] Instant | $ 30.5 | Instant Miniutes
+== GRP-S-239 Odin Activations | 4
+    Muslim Odin Activation [1 YEAR ] | $ 21.99 | Instant
+    Muslim Odin Activation [2 YEARS ] | $ 42.9 | Instant
+    Muslim Odin Activation [3 YEARS] | $ 64.99 | Instant
+    Xiaomi Sideload Activation [1 YEAR - 1 PC] | $ 21.99 | 1-24 Hours
+== GRP-S-245 king Tools | 2
+    KING TOOLS Credits for existing User | $ 0.49 | 1-30 Miniutes
+    KING Unlock (KINGUNLOCK) Credits for existing User | $ 0.45 | 0 Instant
+== GRP-S-246 T-Unlock | 1
+    T-UNLOCK TUNLOCK Credits Any Quantity {Support Samsung , LG & Kyocera} ( new user , refill existing/Old user ) Auto API | $ 0.377 | Miniutes
+== GRP-S-250 Laelo Samsung Unlock tool | 2
+    iNfinity Laelo Samsung Unlock tool (New User Service) | $ 0.275 | Instant Instant
+    iNfinity Laelo Samsung Unlock tool (Refill Existing User) | $ 0.275 | Instant Instant
+== GRP-S-251 Octoplus/Octopus Activation (Box & Dongle) | 4
+    Octoplus / Octopus Box Medusa LG (Activation For Box Or Dongle) | $ 64.49 | 1-5 Miniutes
+    Octoplus / Octopus Box Samsung Activation (Activation For Box Or Dongle) NOT FOR RENEW | $ 64.99 | 1-5 Miniutes
+    Octoplus / Octopus FRP Tool (Activation For Box Or Dongle) [NOT UNLIMITED] NOT FOR RENEW ليس للتجديد انتبه | $ 42.49 | 1-10 Miniutes
+    Octoplus / Octopus Huawei Tool Activation (Activation For Box Or Dongle) | $ 73.99 | 0-5 Instant
+== GRP-S-260 HTD | 3
+    HTD Build Your Store Online Bronze 1-Year Subscription (Website) [Hosting included] | $ 299 | 1-24 Hours
+    HTD Build Your Store Online Gold 1-Year Subscription (Website + App) [Hosting included] | $ 789 | 1-24 Hours
+    HTD Build Your Store Online Platinum 1-Year Subscription (Website + App + All Features) [Hosting included] | $ 1199 | 1-24 Hours
+== GRP-S-261 Tera Tool | 3
+    TeraTool Activation (1 Pc) 12 Months (INSTANT) | $ 53.5 | Miniutes
+    TeraTool Activation (1 Pc) 3 Months (INSTANT) | $ 20.25 | Miniutes
+    TeraTool Activation (1 Pc) 6 Months (INSTANT) | $ 33.4 | Miniutes
+== GRP-S-262 Alseery Unlocker | 2
+    Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [New Users] Instant | $ 0.748 | Miniutes
+    Alseery Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [Old Users] Instant | $ 0.748 | Miniutes
+== GRP-S-263 CF-Tools Credit | 1
+    CF-Tools Credits | $ 0.999 | Miniutes
+== GRP-S-265 SimTool | 1
+    SIMTool - Create New User + Credits(Instant/Auto API) | $ 0.87 | Miniutes
+== GRP-S-266 inmobile Activation | 4
+    inmobile Activation (IC & Hardware Fault Finder) 1 Month | $ 5.5 | Miniutes
+    inmobile Activation (IC & Hardware Fault Finder) 12 Months | $ 18.99 | Miniutes
+    inmobile Activation (IC & Hardware Fault Finder) 3 Months | $ 10.89 | Miniutes
+    inmobile Activation (IC & Hardware Fault Finder) 6 Months | $ 16.25 | Miniutes
+== GRP-S-267 Meow Realme | 1
+    Meow Tool Realme ( No Refund any issue) | $ 0.621 | Instant
+== GRP-S-268 Mobile Unlocker Tool | 3
+    Mobile Unlocker Tool (12 Months) | $ 25.99 | Miniutes
+    Mobile Unlocker Tool (3 Months) | $ 9.99 | Miniutes
+    Mobile Unlocker Tool (6 Months) | $ 14.99 | Miniutes
+== GRP-S-269 GAPro Tool | 4
+    GAPro Login Tool - Oneplus OTP (Flash AUTH) | $ 23.99 | Miniutes
+    GAPro Login Tool - OPPO RCSM OTP (Flash AUTH) | $ 17.99 | Miniutes
+    GAPro Login Tool - Realme RCSM OTP + Realme | $ 3.99 | Miniutes
+    GAProLogin Tool - Xiaomi Credits | $ 1.19 | Miniutes
+== GRP-S-270 MR AUTH | 1
+    MR AUTH Tool Credits For All ( EDL - FLASH) Xiaomi- OnePlus - Realme - Oppo | $ 0.459 | Miniutes
+== GRP-S-273 Android Remove Lock Screen | 3
+    Mobiledit 9.8 | $ 8.99 | 1-24 Hours
+    Oxygen 17 | $ 9.99 | 1-24 Hours
+    Oxygen 18.3 | $ 14.99 | 1-24 Hours
+== GRP-S-275 Sampro A.i.O | 1
+    Sampro tool (activation 2 years) | $ 14.99 | Miniutes
+== GRP-S-276 Fast Unlocker Pro | 2
+    Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] NEW USER | $ 0.616 | Miniutes
+    Fast Unlocker Pro [ Samsung + LG + Alcatel + TINNO ...etc ] OLD USER | $ 0.616 | Miniutes
+== GRP-S-277 Android Root Tool [ART] | 2
+    Android Root Tool [ART] 1 Year Activation 1 Pc | $ 18.99 | Miniutes
+    Android Root Tool [ART] 6 Months Activation 1 Pc | $ 9.49 | Miniutes
+== GRP-S-280 Golden-Unlocker | 2
+    Golden-Unlocker Tool (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [NEW Users] | $ 0.644 | Miniutes
+    Golden-Unlocker Tool (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [OLD Users] | $ 0.644 | Miniutes
+== GRP-S-282 A.N TOOL | 1
+    A.N TOOL Activation [2 Years - 1 PC] | $ 19.89 | Miniutes
+== GRP-S-283 Xyno Miflash | 1
+    Xyno Tool For Xiaomi Credits (OLD Users) AUTO API | $ 1.09 | Miniutes
+== GRP-S-287 MIFIXPRO | 1
+    Xiaomi Fix Pro (MIFIXPRO Mifix Pro) TOOL [Existing User] | $ 0.972 | Instant
+== GRP-S-288 Octoplus Samsung Digital License (Online Without Box) | 3
+    Octoplus Samsung Digital License 6 Months (Without Box) | $ 52.49 | Miniutes
+    Octoplus Samsung Digital License 1 Year (Without Box) | $ 63.49 | 1-5 Miniutes
+    Octoplus Samsung Digital License 3 Months (Without Box) | $ 29.49 | 1-5 Miniutes
+== GRP-S-289 Octoplus LG Digital License (Online Without Box) | 3
+    Octoplus LG Digital 1 License Year (Without Box) | $ 60.1 | 1-5 Miniutes
+    Octoplus LG Digital 6 License Months (Without Box) | $ 49.99 | 1-5 Miniutes
+    Octoplus LG Digital License 3 Months (Without Box) | $ 35 | 1-5 Miniutes
+== GRP-S-290 Octoplus FRP Digital License (Online Without Box) | 3
+    Octoplus FRP Digital License 1 Year (Without Box) | $ 55.59 | 1-5 Miniutes
+    Octoplus FRP Digital License 3 Months (Without Box) | $ 28.79 | 1-5 Miniutes
+    Octoplus FRP Digital License 6 Months (Without Box) | $ 49.99 | 1-5 Miniutes
+== GRP-S-291 Octoplus HUAWEI Digital License (Online Without Box) | 3
+    Octoplus Huawei Digital Licens 1 Year (Without Box) | $ 51.995 | 1-5 Miniutes
+    Octoplus Huawei Digital License 3 Months (Without Box) | $ 28.05 | 1-5 Miniutes
+    Octoplus Huawei Digital License 6 Months (Without Box) | $ 48.685 | 1-5 Miniutes
+== GRP-S-292 Orion Schematics | 5
+    Orion Schematics [1 Month] By ESTECH | $ 3.75 | Instant
+    Orion Schematics [12 Months] (1 User) By ESTECH | $ 22.99 | Instant
+    Orion Schematics [12 Months] (2 Users) By ESTECH | $ 37.99 | Miniutes
+    Orion Schematics [3 Months] By ESTECH | $ 6.99 | Instant
+    Orion Schematics [6 Months] By ESTECH | $ 12.99 | Instant
+== GRP-S-294 FD Tool pro | 4
+    FD Tool pro Activation [12 Months] | $ 33.5 | 1-3 Hours
+    FD Tool pro Activation [3 Months] | $ 11.99 | Miniutes
+    FD Tool pro Activation [6 Months] | $ 23.79 | Miniutes
+    FD Tool pro Clean [Credits] | $ 4.99 | 1-3 Hours
+== GRP-S-295 Xiaomi King Tool | 1
+    Xiaomi King Tool Any Qnt (AUTH) INSTANT | $ 0.75 | Instant
+== GRP-S-296 RDPower Tools | 3
+    Rd Power Tool Activation [RD Power LG] + [Stool] (Support for LG, Stool cell phones) + Gift 10 Credits INSTANT | $ 39.99 | Miniutes
+    Rd Power Tool Activation [RDPowerPlus] + [Stool] (Support for ZTE, Coolpad, Kyocera, Samsung, Pixel, Stool cell phones) + Gift 10 Credits INSTANT | $ 39.99 | Miniutes
+    Rd Power Tool Credits INSTANT | $ 0.834 | Miniutes
+== GRP-S-299 IMFC | 1
+    iMFC Function Activation (1 Year) [NOT FOR RENEW] | $ 70.5 | Miniutes
+== GRP-S-300 Guerratool MOTO | 2
+    The GuerraTool Motorola - EXISTING USER | $ 0.968 | Miniutes
+    The GuerraTool Motorola - NEW USER | $ 0.968 | Miniutes
+== GRP-S-302 DT PRO TOOL | 2
+    DT PRO TOOL ACTIVATION | $ 14.99 | Miniutes
+    DTpro Credit For Existing user (Only Activated) | $ 1.19 | 0-12 Hours
+== GRP-S-305 JC programmer | 4
+    JCID WatchTools Software 200 points one card | $ 39.99 | Miniutes
+    JCprogrammer Tool (1 Month) Online JCID Intelligent Drawing | $ 5.9 | Miniutes
+    JCprogrammer Tool (1 Year) Online JCID Intelligent Drawing | $ 40.99 | Miniutes
+    JCprogrammer Tool (3 Months) Online JCID Intelligent Drawing | $ 11.99 | Miniutes
+== GRP-S-307 Xiaomi Fire Tool XFT | 1
+    Xiaomi Fire Tool XFT Credit Any Qnt (AUTH, FASTBOOT TO EDL) [OLD/EXISITNG USER ONLY] | $ 3.369 | Miniutes
+== GRP-S-312 S-Tool Pro | 1
+    S-Tool Pro Credit (New/Existing User) - SCoin Deposit | $ 0 | Miniutes
+== GRP-S-316 MTK GOGO Tool | 2
+    MTK GoGo Create New User + Credits(Instant/Auto API) | $ 1.055 | Miniutes
+    MTK GoGo Transfer Credits to Existing Account (Instant/Auto API) | $ 1.055 | Miniutes
+== GRP-S-319 CF-Tools Activation | 4
+    CF-Tools (1 Month) New/Renew Activation | $ 4.592 | Miniutes
+    CF-Tools (12 Months) New/Renew Activation | $ 21.99 | Miniutes
+    CF-Tools (3 Months) New/Renew Activation | $ 9.53 | Miniutes
+    CF-Tools (6 Months) New/Renew Activation | $ 15.499 | Miniutes
+== GRP-S-320 Refoxteam schematic | 2
+    Refoxteam Schematic (BitMap) 1 Month INSTANT | $ 9.99 | Miniutes
+    Refoxteam Schematic (BitMap) 1 Year INSTANT | $ 59.99 | Miniutes

@@ -1,0 +1,1169 @@
+{
+ "stream": "W4-tool-chains",
+ "generated_utc": "2026-10-11T10:27Z",
+ "method_note": "HalabTech prices = r7/raw/server_catalog_1003.json (10:03 UTC); implied costs = r7/raw/markup_server.json. Candidate prices collected 10:09-10:24 UTC; 'search snippet' rows come from the Parallel index (page date unknown) and are marked as such; 'full page' rows were fetched live (Firecrawl maxAge 0 or Parallel live fetch). Raw captures: r7/raw/W4/*.json (+ ady/ subfolder).",
+ "tool_log": [
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "GsmServer Chimera credits/licence prices (3 queries)",
+   "ok": true,
+   "note": "GsmServer Chimera Server Credits USD 0.10; Basic 99.90; Pro 149.90; Premium 189.90; Pro dongle 174.80; Premium dongle 214.80; Small Function Pack 150cr USD 15.00; chimeratool.com Premium $189.9/yr (index snippets)",
+   "utc": "2026-10-11T10:09Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Sigma Plus credits per licence; GsmServer Sigma credits (3 queries)",
+   "ok": true,
+   "note": "sigmakey.com/content/15258: 1000cr=870 (0.87), 2000=1700 (0.85), 5000=4150 (0.83); RRP 3D 9.99cr, 1M 39cr, 3M 69cr; GsmServer Sigma Plus box/dongle 1Y renew 69.00, 6M renew 49.00; 3D 9.99, 1M 39, 3M 69",
+   "utc": "2026-10-11T10:09Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "EFT Pro/EFT Dongle prices (3 queries)",
+   "ok": true,
+   "note": "GsmServer EFT Pro 1Y 56.00, 1Y renew 30.00, dongle 2Y 35.00; GSM Africa dongle 1Y 22/2Y 29/1M 10/3M 22/6M 37/renew 32; GSMFATHER 21.5/29/54/22/10.5/38/32.5; gsmserver.al two EFT sets (base 50.5/25.5/20.7/27.5/8.35/20.2/35 and same x1.1); eftprodongle.com/packages snippet empty",
+   "utc": "2026-10-11T10:09Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://chimeratool.com/en/docs/resellers-sales-system",
+   "ok": true,
+   "note": "Current rule: resellers buy only from GsmEasy/GsmServer, min 20,000 CRD, fixed 8% discount (20k = $1840 = $0.092/cr), resellers get 3% margin on end-user prices",
+   "utc": "2026-10-11T10:10Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "GsmEasy/imei.us/unlock.eu Chimera prices (4 queries)",
+   "ok": true,
+   "note": "imei.us: Pro 145.40/Basic 96.90/Premium 184.50; 'Chimera Tool Reseller Credits 0.0920'; unlock.eu: Basic 999CRD/96.90, Pro 1499/145.40, Premium 1899/184.20, Bronze 20000CRD/$1840, Silver 40000/$3680, Gold 60000/$5520",
+   "utc": "2026-10-11T10:10Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://gsmserver.com/en/chimera-tool-server-credits (maxAge 0)",
+   "ok": true,
+   "note": "Live: USD 0.10 per credit, minimum order 10 credits; no wholesale tiers on page",
+   "utc": "2026-10-11T10:10Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "web.archive.org CDX gsmserver.com/en/chimera-tool-server-credits/ 2021-2023",
+   "ok": true,
+   "note": "Only one capture: 20230102235640",
+   "utc": "2026-10-11T10:11Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "web.archive.org CDX imei.us/ 2021-2023",
+   "ok": true,
+   "note": "Captures incl. 20220106182312, 20221129181455, 20230127144839",
+   "utc": "2026-10-11T10:11Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Sigma Plus activation reseller pricing / peer servers (3 queries)",
+   "ok": true,
+   "note": "Peer Dhru prices: gsm-syria 1Y 55.99/6M 41; activeunlocker 55.201/40.201, digital 31.9/8.3/56.2; click-unlock 1Y 69/6M 45, digital 10.699/34.6/59.5; alltimeunlocker 56.6/41.6; GsmServer 1Y 69/6M 49; no admin-panel credit cost for box/dongle activations found",
+   "utc": "2026-10-11T10:11Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://web.archive.org/web/20220106182312/https://imei.us/",
+   "ok": true,
+   "note": "Capture renders only slider images; prices not in static HTML",
+   "utc": "2026-10-11T10:12Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://web.archive.org/web/20221129181455/https://imei.us/",
+   "ok": true,
+   "note": "Same: sliders only (incl. 'Chinera promo'); no price",
+   "utc": "2026-10-11T10:12Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://web.archive.org/web/20230102235640/https://gsmserver.com/en/chimera-tool-server-credits/",
+   "ok": true,
+   "note": "Jan 2023: USD 0.12 struck / USD 0.11; ChimeraTool PRO = 1199 credits, Samsung Module 699 credits",
+   "utc": "2026-10-11T10:12Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://eft-dongle.easy-firmware.com/distributor-reseller (full_content)",
+   "ok": true,
+   "note": "Full list read; HalabTech absent under any spelling; Syria/Turkey agents listed (Mobiley, VIP CENTER, NTC-FASTUNLOCKERS incl. Aleppo ALNOOR CENTER, Syria4Soft, Gsm-Boss etc.)",
+   "utc": "2026-10-11T10:13Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://eftprodongle.com/packages (maxAge 0, waitFor 4000)",
+   "ok": true,
+   "note": "Official EFT Tool: renew 1Y $35, 363d $70, 180d $45, 90d $25, 30d $10; dongle tab not rendered",
+   "utc": "2026-10-11T10:13Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "UMT/NCK/Avengers activation prices (4 queries)",
+   "ok": true,
+   "note": "fastunlocking: AVB 20, NCK box/dongle 22, UMT 20, NCK Online 7/10/15/25/40; GsmServer NCK 1Y 29.90, NCK Online 6.95/14.90/24.90, Ult Huawei 69; imeiserver.com AVB 19.5/UMT 23.4/NCK cr 1.54/NCK 22.5; Martview prices JS (NaN)",
+   "utc": "2026-10-11T10:13Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://eftprodongle.com/distributor-reseller (full_content)",
+   "ok": true,
+   "note": "Page shell only (JS); no reseller list rendered",
+   "utc": "2026-10-11T10:14Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://www.martview.com/1-year-nck-dongle-activation.html (maxAge 0, waitFor 6000)",
+   "ok": true,
+   "note": "Martview NCK 1Y $26.90 (10+: 25.50); NCK Online 1M 8.37/3M 11.96/6M 16.84/1Y 26.45/2Y 40.85; UMT for NCK 30.78; Ult Huawei 77.70",
+   "utc": "2026-10-11T10:14Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Furious Gold credits/packs prices (4 queries)",
+   "ok": true,
+   "note": "List (gsmfather description): renew 69, packs 19/29/59/79/143, +1Y 89/99/179, all packs 279; GsmServer credits 1.00, Pack4 18.99, renew+Pack7 88.99, Pack13 149.90; gsmfather credits 0.88; heartunlocks credits 1.39, renew 63.5, renew+Pack1 83.25, Pack1 19.1",
+   "utc": "2026-10-11T10:14Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "ADY Unlocker prices Furious/Global Unlocker/Cheetah (4 queries)",
+   "ok": true,
+   "note": "No adyunlocker.com page surfaced; got peer Dhru prices (gsmreseller INR, fmifix Furious 0.907/Deep 0.605/Hydra 100=79.31, unlockresellers Furious 0.97 + 'HalabTech Credits' 1.12, centerunlock Furious 0.96, cheetahtoolpro.com GsmGenesis 27/37/49/0.80, Furious distributors page)",
+   "utc": "2026-10-11T10:15Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Hydra credits/digital prices (4 queries)",
+   "ok": true,
+   "note": "srv.hydradongle.com/shop: 10cr $10, 20 $20, 50 $50, 100 $100; digital 3M $10, 6M $15, 1Y $25; Pro Pack $40; GsmServer Hydra credits 0.95",
+   "utc": "2026-10-11T10:15Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Global Unlocker / Deep Unlocker prices (4 queries)",
+   "ok": true,
+   "note": "GUP official 100cr $90; GsmServer 0.85; gsmserver.al 0.757/0.75 & 0.837/0.83; allunlocker 0.849/0.809; deepunlocker.net 100cr $95, 1000cr $900, annual $60; gsmlegion identical HalabTech SKU names Deep Unlocker 0.539/53.828",
+   "utc": "2026-10-11T10:15Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://www.adyunlocker.com/resellerpricing/server (full_content)",
+   "ok": true,
+   "note": "52k chars saved; no Furious/GUP/Cheetah/Hydra groups; DFT 1Y $100, FlexUnlock 15.69/21.19/29.19/55.19, Avengers $19; SKU strings identical to HalabTech for DFT/FlexUnlock",
+   "utc": "2026-10-11T10:16Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Dhru Fusion prices (4 queries)",
+   "ok": true,
+   "note": "gsmafrica (Dhru official distributor): new $500, renewal $450, supplier panel $170, telegram $70, wallet $1; dhru.com cloud $29/$99/$388 per month",
+   "utc": "2026-10-11T10:16Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "UnlockTool/DFT/TFM/TSM/Octoplus prices (5 queries)",
+   "ok": true,
+   "note": "UnlockTool 3M $20/6M $30/12M $50 (unlocktool.org GsmGenesis); TFM ci.tfmtool.com 6M 15/1Y 20/2Y 35; gsmpak TSM 0.92/32.5/47/63, TFM 0.87/26/43/17.5, DFT 71.5; yemunlocker TSM 42.7/34.445, TFM 0.729/30.01",
+   "utc": "2026-10-11T10:16Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://www.dhru.com/pricing",
+   "ok": true,
+   "note": "Only cloud Fusion Pro plans priced ($29/$99/$388 per month); owned/self-hosted licence price not published",
+   "utc": "2026-10-11T10:18Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://gsmserver.com/en/credits-and-activations/manufacturer/halabtech (maxAge 0)",
+   "ok": true,
+   "note": "GsmServer sells 10 HalabTech products (Support Credits $1.00, Silver/Gold/Platinum/etc. memberships) - GsmServer is downstream reseller of HalabTech's own products",
+   "utc": "2026-10-11T10:18Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Octoplus/DC-Unlocker/NCK credits reseller prices (4 queries)",
+   "ok": true,
+   "note": "Octoplus official 0.14; GsmServer 0.14->0.12; powerunlock 0.12; alltimeunlocker 0.105; DC/HCU credits unlockresellers 0.664 (TOP 0.584), gsmserver.al 0.554/0.614; dc-unlocker.com price pages exist (not fetched)",
+   "utc": "2026-10-11T10:18Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "exact HalabTech Furious/EFT SKU strings (4 queries)",
+   "ok": true,
+   "note": "No server found with the exact strings (search engines ignore quotes); GSM Africa EFT dongle note 'incorrect Serial: FF20000940' parallels HalabTech '(DONT PUT FF IN Order)' - generic EFT instruction",
+   "utc": "2026-10-11T10:18Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "exact HalabTech NCK/Sigma/UMT SKU strings (4 queries)",
+   "ok": true,
+   "note": "No exact matches; fastunlocking.com shop: NCK 22, UMT 20, eMMC 12, Ult Huawei 69, AVB 20; GsmServer UMT 1Y 29.90",
+   "utc": "2026-10-11T10:18Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://www.furiousgold.com/en/product-category/credits",
+   "ok": true,
+   "note": "No prices in fetched text (JS)",
+   "utc": "2026-10-11T10:18Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://gsmserver.com/en/sigma-plus-credits (maxAge 0)",
+   "ok": false,
+   "note": "404 Not Found (guessed URL); 404 page lists Sigma Plus 3D 9.99 / 1M 39.00 / 3M 69.00 live",
+   "utc": "2026-10-11T10:19Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Chimera 20000 reseller pack at GsmServer/GsmEasy (3 queries)",
+   "ok": true,
+   "note": "No public GsmServer 20k reseller pack; licensing-policy names GsmServer & GsmEasy as only B2B wholesale resellers",
+   "utc": "2026-10-11T10:19Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Global Unlocker reseller/agent price 0.76 (4 queries)",
+   "ok": true,
+   "note": "GsmServer GUP Reseller Account 1000cr USD 850->800 (0.80/cr), credits 0.85, annual 84.90; official wholesale price on request; haliunlock 'Resellers Credits New Agent' (no price); gsmjordan 0.82/77.7",
+   "utc": "2026-10-11T10:19Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "web.archive.org CDX gsmserver.com/en/chimera* 2021-2022",
+   "ok": true,
+   "note": "Empty [] - no 2021-2022 captures of any gsmserver /en/chimera* URL",
+   "utc": "2026-10-11T10:20Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://easy-unlocker.com/",
+   "ok": true,
+   "note": "Homepage only: 'licensed distributor for all professional GSM tools'; no EFT prices",
+   "utc": "2026-10-11T10:20Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://www.fastunlocking.co.uk/ (full_content)",
+   "ok": true,
+   "note": "UMT/NCK team direct source; public PayPal prices AVB 20, NCK 22, UMT 20, NCK Online 7/10/15/25/40; reseller/distributor pricing by account only",
+   "utc": "2026-10-11T10:20Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "web.archive.org CDX imei.us/* 2021-2023 filter chimera",
+   "ok": true,
+   "note": "Empty [] - no archived imei.us Chimera pages",
+   "utc": "2026-10-11T10:20Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Dhru owned licence official price (4 queries)",
+   "ok": true,
+   "note": "dhru.com only lists cloud plans; GSM Sector: renewal 424.2, new lifetime 467.1; GSM Africa: 500/450/170/70/1",
+   "utc": "2026-10-11T10:20Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "GsmFastest/NckShop/Click-Unlocker Furious prices (3 queries)",
+   "ok": true,
+   "note": "No GsmFastest/Click-Unlocker price surfaced; Martview Furious page lists official credit price list (renew 69, packs 19/29/59/79/143, +1Y 89/99/179, all 279); paklink renew+pack 88.99; store.halabtech.com/service/968 Furious credit $0.878 'Details api' 'AUTO API'",
+   "utc": "2026-10-11T10:21Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "GsmServer Cheetah prices (3 queries)",
+   "ok": true,
+   "note": "GsmServer Cheetah Pro 6M 37.00, 3M 27.00; cheetah-tool.com official 12M 49 / 6M 37; GsmGenesis credits 0.80; HalabTech below all retail",
+   "utc": "2026-10-11T10:21Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Deep Unlocker distributors / 0.55 (3 queries)",
+   "ok": true,
+   "note": "No public $0.55 source; vendor-API naming used by haliunlock/idunlocker/fmifix differs from HalabTech; gsmservice.net UZS prices; activeunlocker & unlocktrue carry HalabTech credit groups (downstream)",
+   "utc": "2026-10-11T10:21Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://store.halabtech.com/service/968 (full_content)",
+   "ok": false,
+   "note": "Error: Too Many Requests (Parallel rate limit)",
+   "utc": "2026-10-11T10:22Z"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "store.halabtech.com service pages (4 queries)",
+   "ok": true,
+   "note": "store.halabtech.com exists (Halabtech Store); news.halabtech.com GUP changelog says 'Buy Global Unlocker Tool credits -> www.gsmservice.net'; gsm-service.com Chimera/UnlockTool/EFT list prices",
+   "utc": "2026-10-11T10:22Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://store.halabtech.com/service/968 (maxAge 0, waitFor 3000)",
+   "ok": true,
+   "note": "HTD-platform store (footer (c)2026 HTD htdtech.dev); 'Furious gold credit' $0.878; Details: api; Category Furious Gold Credits (category/243); 1-5 min; qty 1-10000; 'AUTO API'",
+   "utc": "2026-10-11T10:23Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://www.imei.us/ (maxAge 0, waitFor 3000)",
+   "ok": true,
+   "note": "LIVE GsmEasy: Chimera Tool Reseller Credits 0.0920; Chimera licences Pro 145.40/Basic 96.90/Premium 184.50; UMT 1Y 23.00; UnlockTool 12M 42.20; Sigma box/dongle 6M renew 44.00",
+   "utc": "2026-10-11T10:24Z"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://unlock.eu/ (maxAge 0, waitFor 3000)",
+   "ok": true,
+   "note": "LIVE: Basic 999CRD/96.90, Pro 1499/145.40, Premium 1899/184.20; Bronze 20000CRD/$1840, Silver 40000/$3680, Gold 60000/$5520",
+   "utc": "2026-10-11T10:24Z"
+  },
+  {
+   "tool": "ToolSearch (non-MCP)",
+   "input": "select:mcp__Parallel_Search__web_search,web_fetch,mcp__Exa__web_search_exa,web_fetch_exa",
+   "ok": true,
+   "note": "schema load only; Exa not used",
+   "utc": "2026-10-11T10:08Z"
+  }
+ ],
+ "findings": [
+  {
+   "tid": "W4-01",
+   "entity": "Chimera distributor tier: GsmEasy (imei.us) / GsmServer / Unlock.eu - fixed reseller price $0.092 per credit (non-discriminating)",
+   "entity_website": "https://www.imei.us/ ; https://gsmserver.com/ ; https://unlock.eu/",
+   "role_for_halabtech": "Master Distributor",
+   "chain_layer": "Original Developer (ChimeraTool) -> Distributor (GsmEasy | GsmServer | Unlock.eu) -> HalabTech (reseller, 20k-credit tier) -> Customer",
+   "direction": "GsmEasy/GsmServer/Unlock.eu -> HalabTech",
+   "halabtech_groups_affected": [
+    "Chimera Activation"
+   ],
+   "skus_affected": [
+    "Chimera Tool Credits [NOT FOR WEB OWNER]",
+    "Chimera Tool Basic (100 Device - 1 Year) [NOT FOR WEB OWNER]",
+    "Chimera Tool Professional (Username/Dongle) (1500 Devices - 1 Year) [NOT FOR WEB OWNER]",
+    "Chimera Tool Premium (Username/Dongle) (5000 Devices - 1 Year) [NOT FOR WEB OWNER]"
+   ],
+   "claim": "Costing Chimera's credit-denominated licences (999/1,499/1,899 CRD) at the live distributor reseller price of $0.092/credit gives $91.91/$137.91/$174.71, which HalabTech sells at $99.99/$149/$189 - a consistent x1.080-1.088 across three SKUs (credits $0.11 = x1.196); Pro/Premium are below GsmServer retail ($149.90/$189.90), so HalabTech must hold reseller-tier credits.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://www.imei.us/",
+   "retrieved_utc": "2026-10-11T10:24Z",
+   "excerpt": "Chimera Tool Reseller Credits ... 0.0920",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape (+ mcp__Parallel_Search__web_fetch chimeratool.com/en/docs/resellers-sales-system 10:10Z; Firecrawl unlock.eu 10:24Z; Firecrawl gsmserver.com/en/chimera-tool-server-credits 10:10Z)",
+   "confidence": "STRONG",
+   "alternative_explanations": "Chimera fixes the reseller discount for every distributor ('Resellers can buy credits from our distributors at a fixed 8% discount rate compared to end-user prices'), so GsmEasy (0.0920), Unlock.eu (20,000 CRD/$1,840) and GsmServer (non-public, same rule) all yield the identical $0.092 cost - the match is vendor-imposed and cannot discriminate between them. HalabTech could also buy credits from another 20k-tier reseller at <= end-user price, but Pro/Premium would then be sold at a loss.",
+   "contradicting_evidence": "Basic ($99.99) is $0.09 above Chimera list ($99.9) while Pro/Premium are 0.6%/0.5% below list - within Chimera's 3% reseller-discount band (floor $96.90/$145.40/$184.20 as priced by GsmEasy/Unlock.eu). GsmServer publishes no 20k reseller pack (only USD 0.10, min 10 credits) so its reseller price is inferred from the vendor rule, not observed.",
+   "what_would_confirm": "A HalabTech/Chimera/distributor statement naming HalabTech's credit source; Chimera reseller directory or distributor page listing HalabTech as its sub-reseller; HalabTech Telegram posts about 20k-credit purchases from a named distributor.",
+   "what_would_reject": "Evidence that HalabTech's Chimera SKUs are API-forwarded to another reseller at end-user price, or that HalabTech lost reseller status (no 20k purchase per 4 months).",
+   "supports_or_contradicts": "Supports A1-21, C-01, C-02, C-03, C-06, V-03 (distributor-only rule) and extends 'Chimera -> GsmEasy OR GsmServer -> HalabTech' with Unlock.eu as a third, price-identical reseller-pack seller.",
+   "notes": "Live GsmEasy licence prices: Pro USD145.40, Basic USD96.90, Premium USD184.50 (=0.97 x list, the maximum reseller discount). GsmServer live: credits USD 0.10, Basic 99.90, Pro 149.90, Premium 189.90 (snippets), Pro dongle 174.80, Premium dongle 214.80."
+  },
+  {
+   "tid": "W4-02",
+   "entity": "Unlock.eu ('Unlock.eu API Upgrade and Extend' - Distributor-labelled card on chimeratool.com/resellers)",
+   "entity_website": "https://unlock.eu/",
+   "role_for_halabtech": "Master Distributor",
+   "chain_layer": "ChimeraTool -> Unlock.eu (reseller packs) -> [HalabTech?]",
+   "direction": "Unlock.eu -> HalabTech (hypothesis)",
+   "halabtech_groups_affected": [
+    "Chimera Activation"
+   ],
+   "skus_affected": [
+    "Chimera Tool Credits [NOT FOR WEB OWNER]"
+   ],
+   "claim": "Unlock.eu publicly sells Chimera 'Reseller Packs' (20,000 CRD $1,840; 40,000 $3,680; 60,000 $5,520 = $0.092/CRD) and licences at 0.97 x list, i.e. exactly the reseller tier HalabTech's prices imply, making it an equally price-consistent third source besides GsmEasy and GsmServer.",
+   "evidence_type": "vendor page",
+   "source_url": "https://unlock.eu/",
+   "retrieved_utc": "2026-10-11T10:24Z",
+   "excerpt": "Bronze Pack 20000 CRD / $1840.00",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "Unlock.eu may be a Chimera-operated sales/API portal ('API Upgrade and Extend') rather than an independent distributor; identical pricing is vendor-mandated.",
+   "contradicting_evidence": "Chimera's help page still says 'We have two distributors currently: GsmEasy and GsmServer ... The circle of distributors will not be expanded.' Page carries robots noindex,nofollow.",
+   "what_would_confirm": "RDAP/ownership tying unlock.eu to Chimera (Griff Gate) or to a reseller that serves HalabTech; HalabTech referencing Unlock.eu.",
+   "what_would_reject": "Proof HalabTech's Chimera credits come from GsmEasy or GsmServer.",
+   "supports_or_contradicts": "Supports C-03 (third 'Distributor' card); qualifies C-01/V-03 ('only two distributors').",
+   "notes": ""
+  },
+  {
+   "tid": "W4-03",
+   "entity": "GsmServer (historical Chimera credit price, Wayback) vs HalabTech 2022 '[Reseller Package]'",
+   "entity_website": "https://gsmserver.com/",
+   "role_for_halabtech": "Master Distributor",
+   "chain_layer": "ChimeraTool -> distributor (GsmServer/GsmEasy) -> HalabTech -> sub-resellers (2022)",
+   "direction": "GsmServer or GsmEasy -> HalabTech (2022)",
+   "halabtech_groups_affected": [
+    "Chimera Credit & Activation (2022 group, archived)"
+   ],
+   "skus_affected": [
+    "Chimera Credit & Activation (Reseller 20.000 Credit) $0.112 (2022-01-17)",
+    "(Min 20000 Credits) [Reseller Package] $0.101 (2022-12-16)"
+   ],
+   "claim": "GsmServer's only 2021-2023 capture (2023-01-02) shows Chimera credits at USD 0.11 (struck USD 0.12); the distributor reseller cost implied by Chimera's discount (8%: $0.1012; 2021 rule 10%: $0.099) brackets HalabTech's Dec-2022 reseller-package price $0.101 (margin -0.2% to +2%), i.e. HalabTech passed reseller-tier credits on at about distributor cost.",
+   "evidence_type": "Wayback",
+   "source_url": "https://web.archive.org/web/20230102235640/https://gsmserver.com/en/chimera-tool-server-credits/",
+   "retrieved_utc": "2026-10-11T10:12Z",
+   "excerpt": "USD 0.12 USD 0.11 ... ChimeraTool PRO | 1199 credits | 1 year",
+   "pub_date": "2023-01-02",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "LIKELY",
+   "alternative_explanations": "In 2021-22 Chimera priced in EUR (R6 C-05), so the USD conversion and discount (8% vs 10%) at Dec-2022 are uncertain; HalabTech may have sold near cost as a promotion; GsmEasy's 2022 price could not be recovered.",
+   "contradicting_evidence": "No 2021-2022 capture of any gsmserver.com/en/chimera* URL (CDX empty) and imei.us 2022 captures are JS-only (no prices), so the Jan-2022 $0.112 cannot be compared; the 2023-01-02 price is 2-3 weeks after HalabTech's 2022-12-16 capture.",
+   "what_would_confirm": "A 2022 GsmEasy/GsmServer reseller price list (Telegram/forum) showing $0.099-0.101; evidence HalabTech had a sub-distributor deal.",
+   "what_would_reject": "A 2022 distributor reseller price materially below $0.099 (then HalabTech earned normal margin) or above $0.101 (then HalabTech sold below cost).",
+   "supports_or_contradicts": "Supports V-10, C-06 (2022 reseller packages) and C-07 (concurrent 'GsmServer Products' group); tension with C-02 (B2C resellers may not sell to each other) if the policy applied in 2022.",
+   "notes": "GsmServer 2023 page also priced 'ChimeraTool PRO' at 1199 credits and 'Samsung Module' 699 credits (old licence scheme)."
+  },
+  {
+   "tid": "W4-04",
+   "entity": "GsmServer - Sigma Plus exclusive distributor (admin-panel credits 0.87/0.85/0.83)",
+   "entity_website": "https://gsmserver.com/",
+   "role_for_halabtech": "Master Distributor",
+   "chain_layer": "Sigma team -> GsmServer (exclusive, sells panel credits) -> HalabTech (licence reseller panel) -> Customer",
+   "direction": "GsmServer -> HalabTech",
+   "halabtech_groups_affected": [
+    "Sigma Plus Digital (Without Box)"
+   ],
+   "skus_affected": [
+    "Sigma Plus Digital License (Without Box) Activation [3 Days]",
+    "Sigma Plus Digital License (Without Box) Activation [1 Month]",
+    "Sigma Plus Digital License (Without Box) Activation [3 Months]"
+   ],
+   "claim": "At GsmServer's panel-credit tiers ($0.87/0.85/0.83 per credit; licences 9.99/39/69 credits) HalabTech's costs are $8.29-8.69, $32.37-33.93 and $57.27-60.03; its prices $8.99/$36.66/$60.26 lie above every tier and below RRP, consistent with a GsmServer-funded Sigma reseller panel (margin 0.4-13%).",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://sigmakey.com/en/content/15258",
+   "retrieved_utc": "2026-10-11T10:09Z",
+   "excerpt": "End users can purchase licenses through our exclusive distributor GsmServer and official resellers.",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "STRONG",
+   "alternative_explanations": "Because GsmServer is the exclusive credit source, any panel reseller's cost is the same, so the price fit is non-discriminating; HalabTech could instead buy finished licences from another panel holder (peers sell below HalabTech: old.activeunlocker 8.3/31.9/56.2, alltimeunlocker 9.5/34.3/59.5, click-unlock 10.699/34.6/59.5).",
+   "contradicting_evidence": "No common multiplier (x1.034-1.084, x1.081-1.133, x1.004-1.052) - prices are hand-set; HalabTech is 10%/6%/12.7% below Sigma's RRP although Sigma says 'All resellers must adhere to the recommended retail prices'; a peer (activeunlocker 1M $31.9) undercuts GsmServer's best public tier, so deeper non-public tiers exist.",
+   "what_would_confirm": "Sigma listing HalabTech as licence-panel reseller; HalabTech Telegram/receipts for Sigma Plus credits bought on gsmserver.com.",
+   "what_would_reject": "HalabTech Sigma licence SKUs proven to be API-forwarded from another panel reseller.",
+   "supports_or_contradicts": "Supports A1-07, A1-08, V-01 (Sigma -> GsmServer -> HalabTech).",
+   "notes": "GsmServer live 404 page (10:19Z) lists Sigma Plus 3 Day USD 9.99, 1 Month USD 39.00, 3 Month USD 69.00 (RRP)."
+  },
+  {
+   "tid": "W4-05",
+   "entity": "Sigma Plus box/dongle activations - wholesale tier ~$54/$40.5 (GsmEasy near-match; source unresolved)",
+   "entity_website": "https://www.imei.us/",
+   "role_for_halabtech": "Intermediate Supplier",
+   "chain_layer": "Sigma team -> (GsmServer wholesale | Sigma dealer | GsmEasy) -> HalabTech",
+   "direction": "unknown -> HalabTech",
+   "halabtech_groups_affected": [
+    "Sigma Activation For (Box Or Dongle)"
+   ],
+   "skus_affected": [
+    "Sigma Plus 12 Months Activation [BOX or Dongle]",
+    "Sigma Plus 6 Months Activation [BOX or Dongle]"
+   ],
+   "claim": "HalabTech's $59.40/$44.55 equal exactly x1.10 of $54.00/$40.50 (or 0.99 x $60/$45); GsmServer retail ($69/$49) is above HalabTech and excluded, while market wholesale levels ($55-56.6 / $40.2-42 at peers) and GsmEasy's live 6-month renew $44.00 (HalabTech +1.25%) sit just below HalabTech.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://www.imei.us/",
+   "retrieved_utc": "2026-10-11T10:24Z",
+   "excerpt": "Sigma Plus Box / Dongle 6 Month Access Renew ... 44.0000",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "HalabTech is itself a listed Sigma dealer (A1-07) and may buy activation codes directly at a dealer price (~$54/$40.5); peers show similar wholesale (gsm-syria 55.99/41, activeunlocker 55.201/40.201, alltimeunlocker 56.6/41.6).",
+   "contradicting_evidence": "GsmEasy's 12-month price was not visible; a single-SKU ratio (x1.0125) is not a fingerprint.",
+   "what_would_confirm": "GsmEasy 12-month box/dongle price of ~$58.67 (consistent x1.0125) or any public source at $54.00/$40.50.",
+   "what_would_reject": "GsmEasy 12-month price inconsistent with x1.0125 and no $54/$40.5 source found.",
+   "supports_or_contradicts": "Neutral to A1-07/A1-08 (activations are not covered by the panel-credit rule).",
+   "notes": "GsmServer: Sigma Plus Box/Dongle 1 Year Access Renew USD 69.00 (id 904488), 6 Month USD 49.00 (id 911824)."
+  },
+  {
+   "tid": "W4-06",
+   "entity": "Easy-Firmware team (EFT Pro/EFT Dongle) and its distributors (Easy-Unlocker official; SimSim, GsmServer, GSM-Sources, MartView, SharkGSM, GsmEasy, GsmFastest, FoneFunShop, IRAQ SERVER)",
+   "entity_website": "https://eftprodongle.com/ ; https://easy-unlocker.com/",
+   "role_for_halabtech": "Original Developer",
+   "chain_layer": "Easy-Firmware team -> EFT distributor (unidentified) -> HalabTech",
+   "direction": "unknown EFT distributor -> HalabTech",
+   "halabtech_groups_affected": [
+    "EFT"
+   ],
+   "skus_affected": [
+    "EFT Dongle 1 Year (DONT PUT FF IN Order)",
+    "EFT Dongle 2 Year (DONT PUT FF IN Order)",
+    "EFT Pro Activation Without Dongle [1 Month] New User/Old User",
+    "EFT Pro Activation Without Dongle [3 Months] New User/Old User",
+    "EFT Pro Activation Without Dongle [6 Months] New User/Old User",
+    "EFT Pro Activation Without Dongle [1 Year] New User",
+    "EFT Pro Activation Without Dongle [1 Year] Extend Old User"
+   ],
+   "claim": "Official EFT Tool retail is $70 (1Y), $45 (6M), $25 (3M), $10 (1M), $35 (1Y renew); HalabTech sells at 77%/88%/97%/116%/100% of that, below GsmServer's public 1Y ($56) and dongle-2Y ($35), and no candidate price explains >=2 HalabTech EFT SKUs with one multiplier.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://eftprodongle.com/packages",
+   "retrieved_utc": "2026-10-11T10:13Z",
+   "excerpt": "EFT Tool Renew 1 Year Plan $35 363 days",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "HalabTech may buy from any EFT distributor's non-public reseller/API tier; the cheapest visible tier (gsmserver.al base set 50.5/25.5/20.7/27.5/8.35/20.2/35, resold there at x1.10) gives inconsistent HalabTech ratios x1.055-1.389; HalabTech dongle prices equal round costs $21 x1.04 and $30 x1.06 (gsm-service.com, an EFT official reseller, lists dongle 1Y $22 / 2Y $30).",
+   "contradicting_evidence": "HalabTech is absent from the full EFT distributor/reseller list under any spelling (re-checked 10:13Z); eftprodongle.com/distributor-reseller renders no list.",
+   "what_would_confirm": "A distributor whose public/API EFT prices map to HalabTech's 7 SKUs by one multiplier; HalabTech naming its EFT source.",
+   "what_would_reject": "N/A (no positive hypothesis).",
+   "supports_or_contradicts": "Supports C-10 (HalabTech not an EFT distributor), C-18/C-19 (distributors unlinked).",
+   "notes": "Syria/Turkey agents on the EFT list include NTC-FASTUNLOCKERS (incl. 'SYRIA - ALEPPO : ALNOOR CENTER'), Syria 4 Soft.Com, Gsm-Boss.Com, Mobiley, VIP CENTER, Mobitec, UnlockerGroup.com - none is HalabTech."
+  },
+  {
+   "tid": "W4-07",
+   "entity": "Fast Unlocking (fastunlocking.co.uk / fastunlocking.com) - UMT/NCK/Avengers team activation server",
+   "entity_website": "https://www.fastunlocking.co.uk/",
+   "role_for_halabtech": "Master Distributor",
+   "chain_layer": "UMT/NCK team -> Fast Unlocking (direct source, reseller API) -> HalabTech -> Customer",
+   "direction": "Fast Unlocking -> HalabTech",
+   "halabtech_groups_affected": [
+    "UMT Products",
+    "NCK Products",
+    "NCK Online Digital",
+    "Avengers Box",
+    "UMT ACTIVATION FOR NCK USERS"
+   ],
+   "skus_affected": [
+    "UMT Box/Dongle 1 Year Activation",
+    "NCK Box Activation 1 Year",
+    "NCK Dongle Activation 1 Year",
+    "Avengers Box 1 Year Activation",
+    "Ultimate NCK Huawei Activation ( unlimited ) NCK - AVB - UMT",
+    "NCK Online Tool [Digital License Activation] 1 Year",
+    "NCK Online Tool [Digital License Activation] 6 Months",
+    "NCK Online Tool [Digital License Activation] 2 Years"
+   ],
+   "claim": "Fast Unlocking is the only UMT/NCK distributor whose public prices sit at or just below HalabTech's (UMT 20 vs 22.85, AVB 20 vs 21.89, NCK 22 vs 23.24, Ultimate Huawei 69 vs 69.68, NCK Online 1Y/6M/2Y 25/15/40 vs 24.786/15.125/39.94) and it offers non-public reseller/API pricing; GsmServer (29.90) and Martview (26.90; 10+ $25.50) are above HalabTech.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://www.fastunlocking.co.uk/",
+   "retrieved_utc": "2026-10-11T10:20Z",
+   "excerpt": "Here is your direct source for our services, if you are a small reseller or a big distributor you can buy from us direct",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "alternative_explanations": "Other UMT distributors (GsmEasy, SimSim, GSM-Sources, SharkGSM, Martview wholesale membership) may offer similar non-public reseller tiers; HalabTech may simply benchmark FU retail.",
+   "contradicting_evidence": "Ratios are inconsistent (x0.92-x1.38); HalabTech's NCK Dongle $20.24 and NCK Online 1Y $24.786 are below FU's public price, so FU's public price cannot be HalabTech's cost; GsmEasy live UMT 1Y $23.00 is above HalabTech's $22.85.",
+   "what_would_confirm": "FU reseller price list (account tier) yielding one HalabTech multiplier; HalabTech naming FU; identical NCK-Online/UMT strings between FU's Dhru API and HalabTech.",
+   "what_would_reject": "FU reseller tier above HalabTech's prices, or HalabTech naming another UMT distributor.",
+   "supports_or_contradicts": "Refines A1-14 and A1-15 (unnamed UMT/NCK/AVB distributor) toward Fast Unlocking; Martview/GsmServer de-prioritised.",
+   "notes": "FU site claims 18 customer accounts and 1,958 orders. HalabTech UMT eMMC $11.875 = $9.50 x1.25 (FU public $12). imeiserver.com uses HalabTech's exact string 'Ultimate NCK Huawei Activation ( unlimited ) NCK - AVB - UMT'."
+  },
+  {
+   "tid": "W4-08",
+   "entity": "Furious Gold official distributors (GsmServer, GsmEasy, GsmFastest/NckShop, ADYunlocker, Click-Unlocker, acellsorios, HACK3R2K)",
+   "entity_website": "https://www.furiousgold.com/en/distributors",
+   "role_for_halabtech": "Master Distributor",
+   "chain_layer": "FuriousTeam -> Furious distributor (unidentified, non-public tier) -> HalabTech",
+   "direction": "unknown Furious distributor -> HalabTech",
+   "halabtech_groups_affected": [
+    "Furious Gold Credits",
+    "Furious Gold Packages"
+   ],
+   "skus_affected": [
+    "Furious gold credit",
+    "Furious 1 Year Account Renew",
+    "Furious Pack 1",
+    "Furious PACK 13",
+    "Furious 1 Year Account Renew + PACK 1"
+   ],
+   "claim": "HalabTech's Furious credit ($0.878) undercuts every public offer found (GsmServer $1.00, gsmfather $0.88, fmifix $0.907, centerunlock $0.96, unlockresellers $0.97), and its pack prices are not one function of Furious's credit list (renew 69 -> 72.45 x1.05; Pack1 19 -> 21.39 x1.126; Pack13 143 -> 159.5 x1.115; renew+pack 89 -> 91.025 x1.023), so no distributor match was obtained.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://www.martview.com/furious-gold-credits-processing-time-24-hours-server-service.html",
+   "retrieved_utc": "2026-10-11T10:21Z",
+   "excerpt": "RENEW ACCOUNT FOR 1 YEAR SUPPORT = 69$ PACK1 = 19$ or (PACK1 + 1 YEAR SUPPORT = 89$)",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "GsmServer's pack prices (Pack4 $18.99, renew+Pack7 $88.99, Pack13 $149.90) are below HalabTech's and could feed packs at retail (x1.023-1.064), but not credits; HalabTech's flat $32.89 for Packs 2/5/6/12 (list 19/29/29/79) suggests stale manual pricing; ADYunlocker (Furious distributor and HalabTech 'World Agent') shows no Furious group on its public page.",
+   "contradicting_evidence": "Furious names seven distributors and HalabTech is not one (A1-13); no candidate priced below $0.878 publicly.",
+   "what_would_confirm": "A distributor reseller/API price < $0.878 matching HalabTech's credit and pack prices by a common multiplier.",
+   "what_would_reject": "N/A (no positive candidate).",
+   "supports_or_contradicts": "Supports A1-13 (unnamed Furious distributor).",
+   "notes": "heartunlocks.com uses HalabTech's exact string 'Furious 1 Year Account Renew + Huawei Resurrector for PACK 7 Owners' ($107.5 vs HalabTech $117.7)."
+  },
+  {
+   "tid": "W4-09",
+   "entity": "store.halabtech.com (Halabtech Store on the HTD platform, htdtech.dev)",
+   "entity_website": "https://store.halabtech.com/",
+   "role_for_halabtech": "Platform",
+   "chain_layer": "server.halabtech.com catalog -> store.halabtech.com storefront (HalabTech-owned)",
+   "direction": "HalabTech -> HalabTech storefront",
+   "halabtech_groups_affected": [
+    "Furious Gold Credits"
+   ],
+   "skus_affected": [
+    "Furious gold credit"
+   ],
+   "claim": "A second HalabTech storefront (HTD platform) sells 'Furious gold credit' at the same $0.878 as server.halabtech.com and exposes a per-service 'Details: api' field and 'AUTO API' description, i.e. a public fulfilment-type marker.",
+   "evidence_type": "public JS/HTML",
+   "source_url": "https://store.halabtech.com/service/968",
+   "retrieved_utc": "2026-10-11T10:23Z",
+   "excerpt": "$ 0.878 Price Details api Category Furious Gold Credits",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "LIKELY",
+   "alternative_explanations": "'api' may only mean the store pulls the service from server.halabtech.com via API (same price), not an external supplier.",
+   "contradicting_evidence": "No supplier name is shown; footer credits HTD (htdtech.dev).",
+   "what_would_confirm": "Other public service pages showing 'manual'/'code' vs 'api' consistently with known in-house vs supplier groups.",
+   "what_would_reject": "All services showing 'api' regardless of fulfilment.",
+   "supports_or_contradicts": "Supports OWN-01 context (HalabTech multi-storefront); new channel not in R1-R6.",
+   "notes": "Parallel fetch of the same URL failed (429)."
+  },
+  {
+   "tid": "W4-10",
+   "entity": "Hydra Tool team (hydradongle.com) - direct agent supply",
+   "entity_website": "https://srv.hydradongle.com/shop",
+   "role_for_halabtech": "Original Developer",
+   "chain_layer": "Hydra team -> HalabTech (official licence/dongle agent) -> Customer",
+   "direction": "Hydra team -> HalabTech",
+   "halabtech_groups_affected": [
+    "Hydra Credits Package",
+    "Hydra Digital Actiavtion",
+    "Hydra Pro"
+   ],
+   "skus_affected": [
+    "Hydra Any Quantity Credits (10 Credits)",
+    "Hydra Any Quantity Credits (20 Credits)",
+    "Hydra Any Quantity Credits (50 Credits)",
+    "Hydra Any Quantity Credits (100 Credits)"
+   ],
+   "claim": "Hydra's own shop sells credits at $1.00 each (10/20/50/100 for $10/$20/$50/$100) and GsmServer at $0.95, while HalabTech sells at $0.949/0.8995/0.8798/0.8799 per credit - below all public retail - consistent with HalabTech's documented agent status buying at an unpublished agent tier.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://srv.hydradongle.com/shop",
+   "retrieved_utc": "2026-10-11T10:15Z",
+   "excerpt": "Hydra 100 Credit Pack Basic Solution $ 100",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "STRONG",
+   "alternative_explanations": "HalabTech could buy from worldwide licence agents (GsmServer, Martview, FAST PROVISION) at wholesale; fmifix.com sells 100 credits at $79.31, so sub-$0.80 tiers exist in the market.",
+   "contradicting_evidence": "HalabTech's digital licences ($18.99/$28.99/$47.99) are ~1.9x Hydra's direct prices ($10/$15/$25), so its licence pricing is not cost-based (imeiexpress also lists 12M $49.55).",
+   "what_would_confirm": "Hydra agent price list or HalabTech invoices from Hydra.",
+   "what_would_reject": "Evidence HalabTech's Hydra orders are API-forwarded to another agent.",
+   "supports_or_contradicts": "Supports A1-01, A1-02 (HalabTech is Hydra agent).",
+   "notes": ""
+  },
+  {
+   "tid": "W4-11",
+   "entity": "Deep Unlocker team (deepunlocker.net) - unpublished wholesale tier",
+   "entity_website": "https://www.deepunlocker.net/",
+   "role_for_halabtech": "Original Developer",
+   "chain_layer": "Deep Unlocker team -> (distributor?) -> HalabTech",
+   "direction": "unknown -> HalabTech",
+   "halabtech_groups_affected": [
+    "Deep Unlocker Tool"
+   ],
+   "skus_affected": [
+    "Deep Unlocker Tool Any Quantity [New Users]",
+    "Deep Unlocker Tool Any Quantity [Old Users]",
+    "Deep Unlocker Tool Activation 1 Year ( New User)",
+    "Deep Unlocker Tool Activation 1 Year ( Existing User)"
+   ],
+   "claim": "HalabTech's Deep Unlocker prices imply round costs $0.55/credit and $55.00/1-year at the same x1.04 (two independent SKU types), but no public source at those costs was found: official retail is 100 CRD $95 / 1000 CRD $900 / annual $60, with wholesale 'reseller discounts' on request.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://www.deepunlocker.net/",
+   "retrieved_utc": "2026-10-11T10:15Z",
+   "excerpt": "Business 1000 CRDs Price: $900 ... Custom Wholesale Get in touch for reseller discounts",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "$0.55/$55 is likely the vendor's distributor/wholesale tier, which would make any direct or distributor source price-identical.",
+   "contradicting_evidence": "fmifix.com sells credits at $0.605 and gsmservice.net at 8,060 UZS - above $0.55; gsmlegion.com sells below HalabTech ($0.539/$53.828) but appears to be HalabTech-derived (W4-12).",
+   "what_would_confirm": "A Deep Unlocker distributor/wholesale list at $0.55 and $55.",
+   "what_would_reject": "Vendor wholesale tier materially different from $0.55/$55.",
+   "supports_or_contradicts": "New (Deep Unlocker not covered in R6 findings).",
+   "notes": "Peers using the vendor's API naming ('Deep Unlocker Tool (Samsung + LG + MOTO + TCL + WIKO unlock, FRP ) Credits New user'): haliunlock.com, idunlocker.com, fmifix.com."
+  },
+  {
+   "tid": "W4-12",
+   "entity": "gsmlegion.com (Dhru server mirroring HalabTech strings)",
+   "entity_website": "https://www.gsmlegion.com/",
+   "role_for_halabtech": "Downstream Customer",
+   "chain_layer": "HalabTech -> gsmlegion.com (API client, discounted group?)",
+   "direction": "HalabTech -> gsmlegion.com",
+   "halabtech_groups_affected": [
+    "Deep Unlocker Tool",
+    "DC-Unlocker Products On Infinity Activation",
+    "Global Unlocker Tool Credits"
+   ],
+   "skus_affected": [
+    "Deep Unlocker Tool Any Quantity [New Users]",
+    "Deep Unlocker Tool Activation 1 Year ( New User)"
+   ],
+   "claim": "gsmlegion.com carries HalabTech's exact Deep Unlocker SKU strings (incl. odd spacing '( New User)') plus HalabTech group names 'DC-Unlocker Products On Infinity Activation', 'Global Unlocker Tool Credits' and 'GsmServer Products', at prices 5.8-5.9% below HalabTech ($0.539/$53.828 vs $0.572/$57.20).",
+   "evidence_type": "catalog genealogy",
+   "source_url": "https://www.gsmlegion.com/resellerpricing/server",
+   "retrieved_utc": "2026-10-11T10:15Z",
+   "excerpt": "Deep Unlocker Tool Any Quantity [New Users] Miniutes | Miniutes | $ 0.539",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "LIKELY",
+   "alternative_explanations": "Both may import from the same upstream that coined these names; gsmlegion may have copied HalabTech's catalog manually.",
+   "contradicting_evidence": "gsmlegion is cheaper than HalabTech's public price, so it would need a discounted HalabTech client group; the two discount ratios are close but not identical.",
+   "what_would_confirm": "gsmlegion naming HalabTech as source, or HalabTech reseller-group pricing matching gsmlegion.",
+   "what_would_reject": "An upstream with these exact strings priced at or below $0.539.",
+   "supports_or_contradicts": "Supports B-19 pattern (servers built on HalabTech's catalog/API).",
+   "notes": ""
+  },
+  {
+   "tid": "W4-13",
+   "entity": "Global Unlocker Pro distributors (Global Store official, ADY Unlocker, Hali Unlock, FAST PROVISION TEAM; GsmServer)",
+   "entity_website": "https://global-unlocker-pro.com/Reseller",
+   "role_for_halabtech": "Master Distributor",
+   "chain_layer": "Global Unlocker team -> distributor (unidentified, <= $0.76 tier) -> HalabTech",
+   "direction": "unknown GUP distributor -> HalabTech",
+   "halabtech_groups_affected": [
+    "Global Unlocker Tool Credits",
+    "Global Unlocker Pro"
+   ],
+   "skus_affected": [
+    "Global Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [New Users] API",
+    "Global Unlocker (Samsung + LG+ Motorola + Alcatel + TINNO + Google) Any Quantity [Old/Existing Users] API"
+   ],
+   "claim": "HalabTech's implied cost of $0.76/credit (x1.025) is below GsmServer's best public tier (Reseller Account 1,000 credits $800 = $0.80) and the official direct price ($90/100), so GsmServer is excluded at public prices; sub-$0.76 tiers exist (gsmserver.al lists $0.75/$0.757), pointing to an unpublished distributor tier.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://gsmserver.com/en/credits-and-activations/manufacturer/global-unlocker-pro",
+   "retrieved_utc": "2026-10-11T10:19Z",
+   "excerpt": "Global Unlocker Pro Reseller Account (1000 credits) 3 (2) USD 850 .00 USD 800 .00",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "The vendor offers 'special price for quantities' via WhatsApp, so HalabTech may buy directly; any distributor using the vendor's wholesale tier would match.",
+   "contradicting_evidence": "HalabTech annual activation $77.29/$77.49 is below GsmServer's $84.90 too; ADY Unlocker's public page (10:16Z) has no Global Unlocker group.",
+   "what_would_confirm": "A distributor/agent price list showing $0.76 credits and ~$75.4-75.6 annual.",
+   "what_would_reject": "All distributor tiers above $0.779.",
+   "supports_or_contradicts": "Supports A2-07 (HalabTech regional reseller, not distributor).",
+   "notes": "Peers: allunlocker 0.849/0.809, gsmjordan 0.82, smartfixunlock (Official Distributor) 0.8, gsmserver.al 0.83/0.837 and 0.75/0.757."
+  },
+  {
+   "tid": "W4-14",
+   "entity": "gsmservice.net (referenced on news.halabtech.com Global Unlocker changelog)",
+   "entity_website": "https://www.gsmservice.net/",
+   "role_for_halabtech": "Content Partner",
+   "chain_layer": "gsmservice.net announcement -> news.halabtech.com auto-post",
+   "direction": "gsmservice.net -> HalabTech (content)",
+   "halabtech_groups_affected": [
+    "Global Unlocker Tool Credits"
+   ],
+   "skus_affected": [],
+   "claim": "HalabTech's own news page for the Global Unlocker Tool update ends with a purchase link to www.gsmservice.net (a UZS-priced Dhru seller), indicating HalabTech's news pipeline copies posts from that seller.",
+   "evidence_type": "public JS/HTML",
+   "source_url": "https://news.halabtech.com/global-unlocker-tool-en-2026-07-30",
+   "retrieved_utc": "2026-10-11T10:22Z",
+   "excerpt": "Buy Global Unlocker Tool credits 👉 www.gsmservice.net",
+   "pub_date": "2026-07-30",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "Copied vendor/third-party changelog text; not a supply relationship.",
+   "contradicting_evidence": "gsmservice.net is not on Global Unlocker's distributor list.",
+   "what_would_confirm": "HalabTech GUP orders or channel posts referencing gsmservice.net as source.",
+   "what_would_reject": "Changelog text traced to the vendor's own channel reposted by many sellers.",
+   "supports_or_contradicts": "Similar to D-31 (HalabTech republishing vendor broadcasts).",
+   "notes": ""
+  },
+  {
+   "tid": "W4-15",
+   "entity": "Octoplus team - standard $0.10 reseller credit price",
+   "entity_website": "https://octoplusbox.com/en/products/octoplus-server-credits",
+   "role_for_halabtech": "Original Developer",
+   "chain_layer": "Octoplus team -> HalabTech (official reseller) -> Customer",
+   "direction": "Octoplus team -> HalabTech",
+   "halabtech_groups_affected": [
+    "Octoplus / Octopus Box Credits"
+   ],
+   "skus_affected": [
+    "Octoplus / Octopus Box Account Credits For Existing/Old Users (Instant) [IF USER NOT EXISIT NO REFUND]",
+    "Octoplus / Octopus Box Account Credits For New Users (Instant) [IF YOU USE OLD USER NO REFUND]"
+   ],
+   "claim": "HalabTech's $0.107 is $0.10 x1.07 and alltimeunlocker's $0.105 is $0.10 x1.05, so $0.10 is a shared reseller cost (29% below Octoplus's $0.14 retail; GsmServer's promo $0.12 is above HalabTech), consistent with HalabTech buying directly as an Octoplus official reseller.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://octoplusbox.com/en/products/octoplus-server-credits",
+   "retrieved_utc": "2026-10-11T10:18Z",
+   "excerpt": "Octoplus-Server-Credits Price: 0.14 USD",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "LIKELY",
+   "alternative_explanations": "The $0.10 tier is common to all Octoplus resellers, so the match does not identify the seller.",
+   "contradicting_evidence": "No published Octoplus reseller price list was obtained.",
+   "what_would_confirm": "Octoplus reseller-panel price $0.10.",
+   "what_would_reject": "Octoplus reseller tier materially different from $0.10.",
+   "supports_or_contradicts": "Supports A1-10 (HalabTech Octoplus official reseller).",
+   "notes": ""
+  },
+  {
+   "tid": "W4-16",
+   "entity": "Cheetah Tool distributors (GSMserver HK, GsmGenesis, ADY Unlocker, Gsmfastest, Gsm Africa, Unlock UA, 3GSM, Esim unlocker)",
+   "entity_website": "https://cheetah-tool.com/en/resellers",
+   "role_for_halabtech": "Master Distributor",
+   "chain_layer": "Cheetah team -> distributor (unidentified) -> HalabTech (reseller)",
+   "direction": "unknown Cheetah distributor -> HalabTech",
+   "halabtech_groups_affected": [
+    "Cheetah Tool"
+   ],
+   "skus_affected": [
+    "Cheetah Tool/Cheetah Tool Pro Credit Any Qnt",
+    "Cheetah Tool PRO activation - 1 Year",
+    "Cheetah Tool PRO activation - 6 Months",
+    "Cheetah Tool PRO activation - 3 Months"
+   ],
+   "claim": "Distributor retail is $0.80 credit / $27 / $37 / $49 (GsmGenesis; GsmServer 3M $27, 6M $37) while HalabTech sells at $0.77 / $24.99 / $34.89 / $47.99 (92.6-97.9% of retail), so HalabTech needs a non-public reseller tier; only the LG module fits a round cost ($13.75 x1.10).",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://www.cheetahtoolpro.com/",
+   "retrieved_utc": "2026-10-11T10:21Z",
+   "excerpt": "Activation is $27 for 3 months, $37 for 6 months and $49 for a year. Credits are $0.80 each in any quantity.",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "Any of eight distributors' reseller tiers.",
+   "contradicting_evidence": "Peers price higher (unlockresellers credit $1.3, TOP $1.13).",
+   "what_would_confirm": "Distributor reseller list at ~$0.70 credit (x1.10).",
+   "what_would_reject": "N/A.",
+   "supports_or_contradicts": "Supports A1-09 (HalabTech Cheetah 'Reseller').",
+   "notes": ""
+  },
+  {
+   "tid": "W4-17",
+   "entity": "UnlockTool sellers (GsmEasy imei.us; GsmGenesis unlocktool.org)",
+   "entity_website": "https://www.imei.us/",
+   "role_for_halabtech": "Intermediate Supplier",
+   "chain_layer": "UnlockTool team -> reseller (unidentified) -> HalabTech",
+   "direction": "unknown -> HalabTech",
+   "halabtech_groups_affected": [
+    "UnlockTool"
+   ],
+   "skus_affected": [
+    "UnlockTool 12 months License Active/Renew [Must Register In Unlock Tool Sitte Before Order]"
+   ],
+   "claim": "HalabTech prices UnlockTool at list minus pennies ($19.99/$29.99/$49.94 vs $20/$30/$50), while GsmEasy sells the 12-month licence at $42.20 (HalabTech x1.183) - a possible but non-discriminating cost source.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://www.imei.us/",
+   "retrieved_utc": "2026-10-11T10:24Z",
+   "excerpt": "UnlockTool License [ 12 Months ] [ New/Renew ] ... 42.2000",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "Retail-anchored pricing gives no cost signal; many resellers sell at ~$42.",
+   "contradicting_evidence": "Single SKU only.",
+   "what_would_confirm": "GsmEasy 3/6-month prices giving the same x1.183.",
+   "what_would_reject": "Inconsistent ratios on 3/6-month SKUs.",
+   "supports_or_contradicts": "New.",
+   "notes": "unlocktool.org (GsmGenesis): 3M $20, 6M $30, 12M $50."
+  },
+  {
+   "tid": "W4-18",
+   "entity": "ADY Unlocker (adyunlocker.com, Jordan)",
+   "entity_website": "https://www.adyunlocker.com/",
+   "role_for_halabtech": "Downstream Customer",
+   "chain_layer": "HalabTech (DFT official distributor) -> ADY Unlocker",
+   "direction": "HalabTech -> ADY Unlocker",
+   "halabtech_groups_affected": [
+    "DFT Tool",
+    "FlexUnlock Tool"
+   ],
+   "skus_affected": [
+    "DFT PRO TOOL ACTIVATION [New Users] 1 Year",
+    "DFT PRO TOOL ACTIVATION [Old Users] 1 Year",
+    "FlexUnlock Tool Activation [1 PC - 1 Month]",
+    "FlexUnlock Tool Activation [1 PC - 3 Months]",
+    "FlexUnlock Tool Activation [1 PC - 6 Months]",
+    "FlexUnlock Tool Activation [1 PC - 12 Months]"
+   ],
+   "claim": "ADY's live public price list reuses HalabTech's exact DFT and FlexUnlock strings (DFT with an added '( INSTANT )' at $100 vs HalabTech $78.99; FlexUnlock $15.69-55.19) and contains no Furious, Global Unlocker, Cheetah or Hydra groups, so ADY looks like a HalabTech-catalog consumer rather than HalabTech's supplier for those chains.",
+   "evidence_type": "catalog genealogy",
+   "source_url": "https://www.adyunlocker.com/resellerpricing/server",
+   "retrieved_utc": "2026-10-11T10:16Z",
+   "excerpt": "DFT PRO TOOL ACTIVATION [New Users] 1 Year ( INSTANT ) | | 1-15 Miniutes |1-15 Miniutes |USD 100",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "alternative_explanations": "Both may use names coined by the DFT/FlexUnlock vendors' APIs; ADY may keep its Furious/GUP/Cheetah distribution off its public Dhru page.",
+   "contradicting_evidence": "ADY's FlexUnlock prices are mixed relative to HalabTech (1M/3M above, 6M/12M below), which an API client marking up HalabTech would not show.",
+   "what_would_confirm": "ADY naming HalabTech as DFT/FlexUnlock source; HalabTech reseller-group prices below ADY's.",
+   "what_would_reject": "A third upstream with these exact strings.",
+   "supports_or_contradicts": "Consistent with D-17 (ADY on HalabTech's World Agents page), C-16/D-10 (HalabTech DFT distributor); weakens ADY as HalabTech's Furious/GUP/Cheetah supplier.",
+   "notes": "Peers selling DFT 1Y: gsmpak (Direct Source) $71.5, gsmserver.al $71, old.activeunlocker '{OFFICIAL DISTRIBUTOR}' $70.99 (same 'DFT PRO TOOL ACTIVATION [New Users] 1 Year' string)."
+  },
+  {
+   "tid": "W4-19",
+   "entity": "TSM / TFM tool sellers (GsmServer TSM Pro Plan; gsmpak, yemunlocker, gsmjordan)",
+   "entity_website": "https://gsmserver.com/en/tsm-tool-pro-plan-1-year",
+   "role_for_halabtech": "Not linked",
+   "chain_layer": "TSM team -> HalabTech (official distributor); TFM team -> unknown -> HalabTech",
+   "direction": "n/a",
+   "halabtech_groups_affected": [
+    "TSM TOOL",
+    "TFM Pro tool"
+   ],
+   "skus_affected": [
+    "TSM Tool Pro Add Credits",
+    "TSM TOOL / TSM TOOL PRO - 1 Year 1 Pc [AUTO API]",
+    "TFM Pro tool Credit (You need Active Account 3-6-12 Months member) For (beta.tfmtool.com)"
+   ],
+   "claim": "No public seller matches HalabTech's implied TSM credit cost ($0.75 x1.30) or TFM credit cost ($0.90 x1.11); 'Direct Source' sellers list TSM credits at $0.92 and TFM at $0.87-0.924, and GsmServer's 'TSM Tool Pro Plan (1 Year)' is $35 vs HalabTech's $64.99 1-year SKU.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://gsmserver.com/en/tsm-tool-pro-plan-1-year",
+   "retrieved_utc": "2026-10-11T10:21Z",
+   "excerpt": "TSM Tool Pro Plan (1 Year) ... USD 35 .00",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "HalabTech is TSM's official distributor (A2-05) and likely buys direct at an unpublished tier; the GsmServer plan may be a different TSM product generation.",
+   "contradicting_evidence": "",
+   "what_would_confirm": "TSM/TFM distributor price lists.",
+   "what_would_reject": "",
+   "supports_or_contradicts": "Supports A2-05, D-09.",
+   "notes": "TFM official (ci.tfmtool.com/package): 6M $15, 1Y $20, 2Y $35 (HalabTech sells beta.tfmtool.com 'Professional Plan 12 Months' $29.39 / 'Standard Plan 6 Months' $20.59)."
+  },
+  {
+   "tid": "W4-20",
+   "entity": "DC-Unlocker / HCU (direct, HalabTech official reseller) - no distributor fingerprint",
+   "entity_website": "https://www.dc-unlocker.com/",
+   "role_for_halabtech": "Original Developer",
+   "chain_layer": "DC-Unlocker -> HalabTech (official reseller) -> Customer",
+   "direction": "DC-Unlocker -> HalabTech",
+   "halabtech_groups_affected": [
+    "DC-UNLOCKER",
+    "HCU & DC-PHOENIX"
+   ],
+   "skus_affected": [
+    "Dc Unlocker Phoenix / HCU Add Credits To New User/Old Users {{{For Normal Users}}}",
+    "DC Unlocker Dongle 2 Year Support"
+   ],
+   "claim": "HalabTech's DC/HCU credit ($0.61) sits inside the public reseller band ($0.554-0.698: gsmserver.al, gsmjordan, unlockresellers TOP $0.584), giving no distributor fingerprint; HalabTech lists 'DC Unlocker Dongle 2 Year Support' twice ($17.99 and computed $18.313), suggesting two parallel sources for one product.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://unlockresellers.com/resellerpricing/server",
+   "retrieved_utc": "2026-10-11T10:18Z",
+   "excerpt": "DC-Unlocker and HCU credits for existing user/reseller Miniutes | Miniutes | USD 0.664 USD",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "HalabTech buys direct from DC-Unlocker as a listed dealer (A1-06).",
+   "contradicting_evidence": "",
+   "what_would_confirm": "dc-unlocker.com reseller price page vs HalabTech credits.",
+   "what_would_reject": "",
+   "supports_or_contradicts": "Supports A1-06.",
+   "notes": "dc-unlocker.com price pages (buy/user_prices) were not fetched (budget)."
+  },
+  {
+   "tid": "W4-21",
+   "entity": "Dhru Fusion (dhru.com) and Dhru distributors (GSM Africa, GSM Sector)",
+   "entity_website": "https://www.dhru.com/pricing",
+   "role_for_halabtech": "Original Developer",
+   "chain_layer": "Dhru -> (Dhru distributor?) -> HalabTech (licence reseller) -> server-builder customers",
+   "direction": "Dhru or a Dhru distributor -> HalabTech",
+   "halabtech_groups_affected": [
+    "Build Your Server DHRU Services"
+   ],
+   "skus_affected": [
+    "Dhru Fusion New License for Wholesale Server (Make Your Server Live) انشاء سيرفر خاص بك",
+    "Dhru Fusion - Dhru Fusion License Renewal [Support and Maintenance]",
+    "Dhru Fusion - Dhru Fusion Supplier panel",
+    "Dhru Fusion - Dhru Fusion Wallet Credits"
+   ],
+   "claim": "dhru.com publishes only cloud plans ($29/$99/$388 per month), so no vendor ratio exists; versus distributor GSM Africa ($500 new, $450 renewal, $170 supplier panel, $1 wallet, $70 Telegram) HalabTech's $605/$461/$220.5/$1.162/$49.99 give inconsistent ratios 1.21/1.024/1.297/1.162/0.714.",
+   "evidence_type": "price fingerprint",
+   "source_url": "https://www.gsmafrica.com/product/?alias=dhru-fusion-new-license-for-wholesale-server-include-free-6-months-support",
+   "retrieved_utc": "2026-10-11T10:16Z",
+   "excerpt": "Dhru Fusion - New License for Wholesale Server ( include Free 6 Months Support ) ... $ 500",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "alternative_explanations": "HalabTech may buy directly from Dhru (cp.dhru.com) at an unpublished owned-licence price; its Telegram add-on is 29% below GSM Africa's, so GSM Africa retail is excluded for that SKU.",
+   "contradicting_evidence": "GSM Sector lists $467.1 new / $424.2 renewal (HalabTech ratios 1.295/1.087).",
+   "what_would_confirm": "Dhru owned-licence price list or Dhru distributor list naming HalabTech.",
+   "what_would_reject": "",
+   "supports_or_contradicts": "Supports D-29, OWN-01.",
+   "notes": "HalabTech's double prefix 'Dhru Fusion - Dhru Fusion ...' resembles a Dhru-to-Dhru API import (group 'Dhru Fusion' + product name)."
+  },
+  {
+   "tid": "W4-22",
+   "entity": "GsmServer (gsmserver.com) - sells HalabTech's own products",
+   "entity_website": "https://gsmserver.com/en/credits-and-activations/manufacturer/halabtech",
+   "role_for_halabtech": "Reseller (peer)",
+   "chain_layer": "HalabTech (developer of Halabtech memberships/credits) -> GsmServer -> end users; simultaneously GsmServer -> HalabTech for Sigma (and possibly Chimera)",
+   "direction": "HalabTech -> GsmServer",
+   "halabtech_groups_affected": [],
+   "skus_affected": [
+    "Halabtech Support Credits",
+    "Halabtech Silver (3 Months Access)",
+    "Halabtech Gold",
+    "Halabtech Platinum",
+    "Halabtech Super Platinum",
+    "Halabtech Bronze (1 Month Access)",
+    "Halabtech Copper (1 Day Support Access)",
+    "Halabtech Ultra Platinum 12 Month Access (Blog + Support + Facebook Group)"
+   ],
+   "claim": "GsmServer lists 'Halabtech' as a manufacturer brand with 10 products (Support Credits $1.00 'Intended for support.halabtech.com only', Silver $23.99, Gold $39.99, Platinum $59.99, Super Platinum $79, Bronze $12.99, Copper $4.99, upgrades $45/$25, Ultra Platinum $99), so the GsmServer-HalabTech relationship is two-way.",
+   "evidence_type": "vendor page",
+   "source_url": "https://gsmserver.com/en/credits-and-activations/manufacturer/halabtech",
+   "retrieved_utc": "2026-10-11T10:18Z",
+   "excerpt": "Using these credits, you can buy Halabtech Packs or Paid Solutions. Intended for support.halabtech.com only.",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "alternative_explanations": "None for the resale fact; it does not itself prove GsmServer supplies HalabTech.",
+   "contradicting_evidence": "",
+   "what_would_confirm": "",
+   "what_would_reject": "",
+   "supports_or_contradicts": "Supports C-07/C-08 (HalabTech-GsmServer commercial ties) and A1-08 context.",
+   "notes": "Product IDs 909490-909495, 914121-914133, 916714."
+  }
+ ],
+ "negative_findings": [
+  {
+   "entity": "EFT Dongle distributor/reseller directory",
+   "url": "https://eft-dongle.easy-firmware.com/distributor-reseller",
+   "what_was_checked": "Full page text for HalabTech/Halab Tech/HALABTECH/Hosam/htsupport/+905300229173 (10:13Z)",
+   "result": "Not present under any spelling; Syria/Turkey agents are other companies",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "eftprodongle.com reseller page",
+   "url": "https://eftprodongle.com/distributor-reseller",
+   "what_was_checked": "Reseller list on the new EFT Pro site",
+   "result": "JS shell only, no list rendered",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "ADY Unlocker public price list",
+   "url": "https://www.adyunlocker.com/resellerpricing/server",
+   "what_was_checked": "Furious, Global Unlocker, Cheetah, Hydra, Octoplus, UMT/NCK, EFT, Sigma, Chimera groups",
+   "result": "None present (115 groups, mostly gift cards); only DFT, FlexUnlock, Avengers ($19) relevant",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "GsmServer Chimera reseller pack",
+   "url": "https://gsmserver.com/en/chimera-tool-server-credits",
+   "what_was_checked": "Public 20,000-credit reseller pack / wholesale tier",
+   "result": "Only USD 0.10 retail (min 10 credits) and 'Buy wholesale and save' link; no public reseller price",
+   "tool": "mcp__Firecrawl__firecrawl_scrape; mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "GsmServer Chimera history (Wayback)",
+   "url": "https://web.archive.org/cdx/search/cdx?url=gsmserver.com/en/chimera*&from=2021&to=2022",
+   "what_was_checked": "2021-2022 captures of GsmServer Chimera pages",
+   "result": "No captures (CDX empty); only 2023-01-02 capture of credits page exists",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "GsmEasy imei.us history (Wayback)",
+   "url": "https://web.archive.org/web/20220106182312/https://imei.us/",
+   "what_was_checked": "Jan-2022 and Nov-2022 Chimera credit prices; CDX for imei.us/*chimera* 2021-2023",
+   "result": "Captures render only slider banners (prices JS-loaded); no Chimera-specific URLs archived",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "GsmServer Sigma Plus credits page",
+   "url": "https://gsmserver.com/en/sigma-plus-credits",
+   "what_was_checked": "Live panel-credit tiers on GsmServer",
+   "result": "HTTP 404 (guessed URL); tiers taken from sigmakey.com/en/content/15258",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "Martview UMT/NCK",
+   "url": "https://www.martview.com/1-year-nck-dongle-activation.html",
+   "what_was_checked": "Live NCK/UMT/NCK Online prices vs HalabTech",
+   "result": "NCK 1Y $26.90 (10+: $25.50), NCK Online 8.37-40.85, UMT-for-NCK $30.78, Ultimate Huawei $77.70 - above HalabTech for NCK box/dongle and Ultimate Huawei; unlikely source",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "GsmServer UMT/NCK/EFT/GUP retail",
+   "url": "https://gsmserver.com/en/umt-box-dongle-1-year-activation",
+   "what_was_checked": "GsmServer public prices vs HalabTech",
+   "result": "UMT 1Y $29.90, NCK 1Y $29.90, EFT 1Y $56, EFT dongle 2Y $35, GUP reseller account $0.80/credit - all above HalabTech's selling prices",
+   "tool": "mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "GsmEasy UMT",
+   "url": "https://www.imei.us/",
+   "what_was_checked": "UMT 1 Year Activation price",
+   "result": "$23.00 > HalabTech $22.85 - not a cost source at public price",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "dhru.com owned-licence pricing",
+   "url": "https://www.dhru.com/pricing",
+   "what_was_checked": "Self-hosted Dhru Fusion new licence/renewal/add-on prices",
+   "result": "Only cloud subscription plans published",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "furiousgold.com credit prices",
+   "url": "https://www.furiousgold.com/en/product-category/credits",
+   "what_was_checked": "Official credit/pack prices",
+   "result": "No prices in fetched text (JS shop)",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "Exact-string search (Furious/EFT/NCK/Sigma)",
+   "url": "",
+   "what_was_checked": "Other servers carrying HalabTech's exact EFT/Furious/NCK Online/Sigma SKU strings",
+   "result": "No matches returned (quotes not honoured by index)",
+   "tool": "mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "Easy-Unlocker (EFT official distributor)",
+   "url": "https://easy-unlocker.com/",
+   "what_was_checked": "Public EFT prices",
+   "result": "Homepage text only, no prices",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  }
+ ],
+ "new_leads": [
+  "store.halabtech.com (HTD platform, htdtech.dev) is a second HalabTech storefront whose public service pages show a 'Details' fulfilment field ('api' for Furious credits) - comparing linked service pages could separate API-fulfilled from manual groups.",
+  "news.halabtech.com Global Unlocker changelog (2026-07-30) links 'Buy Global Unlocker Tool credits -> www.gsmservice.net' - check gsmservice.net's GUP/Deep Unlocker prices and whether HalabTech news posts systematically copy it.",
+  "gsmlegion.com mirrors HalabTech SKU/group strings (Deep Unlocker, 'DC-Unlocker Products On Infinity Activation', 'Global Unlocker Tool Credits', 'GsmServer Products') ~5.8% below HalabTech - probable API client on a discounted group.",
+  "gsmserver.al shows two price sets per tool (EFT base 50.5/25.5/20.7/27.5/8.35/20.2/35 and the same x1.10; GUP 0.75/0.757/76 and 0.83/0.837/83.6) - its base set looks like an upstream API price list worth identifying.",
+  "GsmEasy (imei.us) live: Sigma box/dongle 6M renew $44.00 (HalabTech $44.55); check its 12-month price (fingerprint if ~$58.67).",
+  "Fast Unlocking (fastunlocking.co.uk) offers non-public reseller/distributor API pricing for UMT/NCK/AVB - its account price list would test W4-07.",
+  "HalabTech lists 'DC Unlocker Dongle 2 Year Support' twice ($17.99 and computed $18.313) - two sources for one product.",
+  "GsmServer sells 10 HalabTech membership products (ids 909490-916714) - Wayback dates of these pages would date the two-way GsmServer relationship.",
+  "imeiserver.com and heartunlocks.com share individual HalabTech SKU strings (Ultimate NCK Huawei; Furious renew + Huawei Resurrector).",
+  "GsmServer 'TSM Tool Pro Plan (1 Year)' $35 vs HalabTech TSM 1-year $64.99 - different product generation or mispricing."
+ ],
+ "open_questions": [
+  "Which Chimera distributor (GsmEasy, GsmServer or Unlock.eu) sells HalabTech its 20k-credit packs? All three are price-identical by vendor rule.",
+  "Does HalabTech run its own Sigma licence admin panel (credits from GsmServer) or buy licences from another panel reseller? Its prices undercut Sigma's mandatory RRP.",
+  "Who sells Deep Unlocker at $0.55/$55 and Global Unlocker at $0.76 (HalabTech's implied costs at x1.04 / x1.025)?",
+  "Which Furious distributor supplies credits below $0.878, and why are HalabTech's pack prices inconsistent with Furious's credit list?",
+  "Is Fast Unlocking HalabTech's UMT/NCK/AVB source (requires FU reseller tier below $20.24 for NCK dongle)?",
+  "Did HalabTech's 2022 Chimera '[Reseller Package]' (priced at about distributor cost) reflect a sub-distributor arrangement, and was it compatible with Chimera's B2C rule?"
+ ],
+ "tool_call_counts": {
+  "mcp__Parallel_Search__web_search": 22,
+  "mcp__Parallel_Search__web_fetch": 9,
+  "mcp__Firecrawl__firecrawl_scrape": 15,
+  "total_mcp": 46,
+  "failures": [
+   "https://gsmserver.com/en/sigma-plus-credits (maxAge 0)",
+   "https://store.halabtech.com/service/968 (full_content)"
+  ]
+ }
+}

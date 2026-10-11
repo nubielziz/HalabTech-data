@@ -1,0 +1,85 @@
+##### server_home html_len 221377
+--- META
+   Content-Type => text/html; charset=UTF-8
+   X-UA-Compatible => IE=edge
+   Description => HALAB TECH Server unlocking site
+   keywords => UNLOCK, iphone, blackberry , Samsung, huawei, sony, zte, mobile, smart phone, pc
+   viewport => width=device-width, initial-scale=1, maximum-scale=1
+   Content-Type => text/html; charset=UTF-8
+   viewport => width=device-width, initial-scale=1.0
+--- JSON-LD blocks 0
+--- FORMS
+   {'method': 'post', 'id': 'newsltter'}
+   {'method': 'post', 'class': 'm-auto card', 'id': 'login_forms12'}
+--- TAG img total 19 absolute 17
+     img hosts: [('server.halabtech.com', 9), ('img.icons8.com', 4), ('upload.wikimedia.org', 2), ('support.halabtech.com', 2), ('(relative)', 2)]
+--- TAG link:icon total 1 absolute 1
+     https://server.halabtech.com/images/gallery/banners/logo.png
+--- TAG link:stylesheet total 11 absolute 11
+     https://server.halabtech.com/templates/default/css/bootstrap.min.css
+     https://server.halabtech.com/templates/default/css/chosen.min.css
+     https://server.halabtech.com/templates/default/css/lightSlider.css
+     https://server.halabtech.com/templates/default/css/bootstrap-datepicker.min.css
+     https://server.halabtech.com/templates/default/css/animate.min.css
+     https://server.halabtech.com/templates/default/css/typekit-offline.css
+     https://server.halabtech.com/templates/default/css/all.css
+     https://server.halabtech.com/includes/icons/menu-icon.css
+     https://server.halabtech.com/includes/icons/flags/flags.css
+     https://server.halabtech.com/templates/default/css/theme.css?228d6304dd6d05d172bd2c2ad4fe98d0bebabf4de
+     https://server.halabtech.com/templates/default/css/themes/theme5.css?28d6304dd6d05d172bd2c2ad4fe98d0bebabf4de186621
+--- TAG script total 15 absolute 15
+     https://server.halabtech.com/templates/default/js/jquery-3.2.1.min.js
+     https://server.halabtech.com/templates/default/js/popper.min.js
+     https://server.halabtech.com/templates/default/js/bootstrap.min.js
+     https://server.halabtech.com/templates/default/js/theme.js?28d6304dd6d05d172bd2c2ad4fe98d0bebabf4de
+     https://server.halabtech.com/includes/js/custom.js?28d6304dd6d05d172bd2c2ad4fe98d0bebabf4de
+     https://server.halabtech.com/templates/default/js/chosen.jquery.min.js
+     https://server.halabtech.com/templates/default/js/Chart.bundle.min.js
+     https://server.halabtech.com/templates/default/js/bootstrap-datepicker.min.js
+     https://server.halabtech.com/templates/default/js/jquery.lightSlider.min.js
+     https://server.halabtech.com/templates/default/js/table-cell-selector.js
+     https://server.halabtech.com/templates/default/js/wow.min.js
+     https://server.halabtech.com/includes/js/imei.js
+     https://server.halabtech.com/templates/default/js/jquery.steps.min.js
+     https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920
+--- <a> hosts [('server.halabtech.com', 72), ('t.me', 4), ('wa.me', 3), ('support.halabtech.com', 3), ('www.facebook.com', 3), ('telegram.me', 2), ('whatsapp.com', 1), ('(relative)', 1), ('www.youtube.com', 1), ('www.instagram.com', 1), ('www.dhru.com', 1)]
+--- <a> external hrefs (non-halabtech)
+     https://wa.me/+963992951910
+     https://telegram.me/htsupport
+     https://t.me/halabtech2
+     https://whatsapp.com/channel/0029VaAn8rHEquiRidi09Z3F
+     https://t.me/HTSupport
+     https://www.facebook.com/halabtech.official.page
+     https://www.facebook.com/groups/officialhalabtech
+     https://t.me/htsupport
+     https://www.youtube.com/channel/ucpw4pbw0qw55veerd_sg1gg
+     https://www.facebook.com/https://www.facebook.com/HalabTech.official.page/
+     https://www.instagram.com/https://www.instagram.com/accounts/login/?next=/halabtechofficial/
+     http://www.dhru.com/?fromaid=server.halabtech.com
+--- inline scripts 7 chars 52319
+--- ID PATTERNS (whole html)
+   telegram ['t.me/HTSupport', 't.me/halabtech2', 't.me/htsupport']
+--- URLs inside inline scripts
+     https://chat.halabtech.com
+--- relative endpoints in inline JS (url:, fetch(, $.post/$.get/ajax)
+--- ALL HOSTS (any absolute URL in html)
+    [('server.halabtech.com', 108), ('www.w3.org', 6), ('support.halabtech.com', 6), ('img.icons8.com', 4), ('telegram.me', 4), ('t.me', 4), ('wa.me', 3), ('www.facebook.com', 3), ('www.bohemiancoding.com', 2), ('upload.wikimedia.org', 2), ('static.cloudflareinsights.com', 2), ('whatsapp.com', 1), ('chat.halabtech.com', 1), ('www.youtube.com', 1), ('www.instagram.com', 1), ('www.dhru.com', 1)]
+--- generator tags []
+--- HTML comments (first 40)
+     [if lt IE 10]> <html  lang="en" class="iex"> <![endif]
+     [if (gt IE 10)|!(IE)]><!
+     <![endif]
+     Custom CSS for Slider
+     Header Slider HTML
+     Row 1: GSM Tools Distributor
+     Row 2: Upload Files
+     Row 3: Tool Owner Deal
+     AUTO-HIDE ITEMS
+     ALWAYS VISIBLE CHAT BUTTON
+     HalabTech AI Chat Widget
+     Float Button
+     HalabTech Logo - Uses icon.jpg with SVG fallback
+     Chat Widget
+     HalabTech Logo - Uses icon.jpg with SVG fallback
+     Form Flow Indicator
+     Typing Indicator

@@ -1,0 +1,7 @@
+{"retrieved_utc":"2026-10-11T10:09Z","tool":"mcp__Parallel_Search__web_fetch (full_content)",
+"server.halabtech.com/robots.txt":"Dhru 404 page ('# Error 404 / Page does not exist!') - no robots.txt",
+"support.halabtech.com/robots.txt":"User-agent: Mediapartners-Google Allow: / ; Google-Display-Ads-Bot Allow: / ; PetalBot, GPTBot, Amazonbot, meta-externalagent, AhrefsBot, SemrushBot, DotBot, proximic, SleepBot, TTD-Content Disallow: / ; * Disallow: /index.php?a=login, a=register, a=cart, a=account, a=forget-password, a=downloads&b=search, a=downloads&b=file&c=download, /admin/, /userapi/ ; Sitemap: https://support.halabtech.com/sitemap.xml",
+"news.halabtech.com/robots.txt":"User-agent: * Disallow: /wp-admin/ Allow: /wp-admin/admin-ajax.php Sitemap: https://news.halabtech.com/sitemap_index.xml",
+"store.halabtech.com/robots.txt":"User-agent: * Disallow:",
+"tools.halabtech.com/robots.txt":"SPA catch-all: returns index page titled 'CoreUI for React - Open Source Bootstrap Admin Template' (no robots.txt)",
+"www.halabtech.com/robots.txt (halabtech.com)":"Mediapartners-Google Allow /; Google-Display-Ads-Bot Allow /; Sitemaps: https://halabtech.com/sitemap_index.xml, post-sitemap.xml, post-sitemap2.xml, post-sitemap3.xml, page-sitemap.xml, category-sitemap.xml, /en/wp-sitemap.xml; * Allow / and /en/; meta-externalagent Disallow /"}
