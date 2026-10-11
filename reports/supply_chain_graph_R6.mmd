@@ -1,0 +1,82 @@
+%% HalabTech supply chain - Rounds 1-6 (verified 2026-10-11)
+%% solid = CONFIRMED, thick = STRONG, dashed orange = LIKELY, dashed grey = UNKNOWN
+graph LR
+  SIG["Sigma / Sigma Plus<br/>(VEN-020)"]
+  CHI["ChimeraTool<br/>(VEN-002)"]
+  OMIT["8 vendors OMIT HalabTech<br/>Furious Gold · UMT/NCK · Avengers · UFI<br/>SamKey · AMT · MH Unlocker · EFT"]
+  SOLE["Sole-distributor vendors<br/>T-Tool Pro · CellTool · Panda"]
+  HQ["Hunter Unlocker · Q-Unlocker<br/>(distributors-only)  ·  XTP"]
+  LIST["62 vendors LIST HalabTech<br/>DFT · Octoplus · Hydra · Z3X · Infinity #7<br/>DC-Unlocker · TSM · UAT · RapidFlash · Ameer …"]
+  IRM["iRemove (iCloud FMI OFF)<br/>(VEN-079)"]
+  GSV["GsmServer<br/>(SUP-001)"]
+  GEZ["GsmEasy<br/>(SUP-012)"]
+  UEU["Unlock.eu<br/>(SUP-013)"]
+  POOL["Distributor pool<br/>GsmServer · GsmEasy · Martview · Fast Unlocking<br/>SimSim · SharkGSM · GSM-Sources · ADY · Easy-Firmware"]
+  SOLED["GSM T-Tool · Smart Tool WW · ADY"]
+  CODE["Code-GSM<br/>(SUP-014)"]
+  UPRO["UnlocksPro<br/>(SUP-015)"]
+  SRC["Unnamed IMEI sources<br/>Source #1 / #2 / #3<br/>"Server Direct""]
+  DHRU["Dhru Fusion (platform)<br/>joudiSoft Real Easy Store"]
+  HT(("HalabTech<br/>server / support / news<br/>383 groups · 1,455 SKUs"))
+  DOWN["35+ downstream stores<br/>(API clients / resellers)"]
+  AG["29 World Agents"]
+  GSVD["GsmServer (resells HalabTech<br/>since 14.10.2022)"]
+  CHID["ChimeraTool<br/>"HalabTech Add-On" content"]
+  SIG -->|"exclusive distributor (CONFIRMED)"| GSV
+  CHI -->|"contracted distributor (CONFIRMED)"| GSV
+  CHI -->|"contracted distributor (CONFIRMED)"| GEZ
+  CHI -.->|"3rd "Distributor" card (UNKNOWN)"| UEU
+  OMIT -->|"named distributors (CONFIRMED)"| POOL
+  SOLE -->|"sole distributor (CONFIRMED)"| SOLED
+  GSV ==>|"Sigma credits (vendor rule) (STRONG)"| HT
+  GEZ ==>|"Chimera: GsmEasy OR GsmServer (STRONG)"| HT
+  GSV -.->|""GsmServer Products" 2022-24 (LIKELY)"| HT
+  UEU -.->|"Chimera alt. (UNKNOWN)"| HT
+  POOL -.->|"identity unknown (LIKELY)"| HT
+  SOLED -.->|"or direct (LIKELY)"| HT
+  HQ ==>|"direct (vendor rule / main seller) (STRONG)"| HT
+  LIST -->|"authorised channel (status only) (CONFIRMED)"| HT
+  IRM -.->|"channel unknown (UNKNOWN)"| HT
+  CODE -.->|"T-Mobile Clean & Paid Off (LIKELY)"| HT
+  UPRO -.->|"36 identical IMEI items (LIKELY)"| HT
+  SRC -->|"existence confirmed, names hidden (CONFIRMED)"| HT
+  DHRU -->|"platform (CONFIRMED)"| HT
+  HT -->|"resale / API (CONFIRMED)"| DOWN
+  HT -->|"agents (CONFIRMED)"| AG
+  HT -->|"downstream resale (CONFIRMED)"| GSVD
+  HT -->|"content supply (CONFIRMED)"| CHID
+  linkStyle 0 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 1 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 2 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 3 stroke:#9e9e9e,stroke-width:1.5px
+  linkStyle 4 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 5 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 6 stroke:#1565c0,stroke-width:3px
+  linkStyle 7 stroke:#1565c0,stroke-width:3px
+  linkStyle 8 stroke:#ef6c00,stroke-width:1.5px
+  linkStyle 9 stroke:#9e9e9e,stroke-width:1.5px
+  linkStyle 10 stroke:#ef6c00,stroke-width:1.5px
+  linkStyle 11 stroke:#ef6c00,stroke-width:1.5px
+  linkStyle 12 stroke:#1565c0,stroke-width:3px
+  linkStyle 13 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 14 stroke:#9e9e9e,stroke-width:1.5px
+  linkStyle 15 stroke:#ef6c00,stroke-width:1.5px
+  linkStyle 16 stroke:#ef6c00,stroke-width:1.5px
+  linkStyle 17 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 18 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 19 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 20 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 21 stroke:#2e7d32,stroke-width:1.5px
+  linkStyle 22 stroke:#2e7d32,stroke-width:1.5px
+  classDef vendor fill:#fff8e1,stroke:#8d6e63
+  classDef inter fill:#e3f2fd,stroke:#1565c0
+  classDef imei fill:#fce4ec,stroke:#ad1457
+  classDef down fill:#e8f5e9,stroke:#2e7d32
+  classDef hub fill:#263238,color:#ffffff,stroke:#000
+  classDef platform fill:#ede7f6,stroke:#5e35b1
+  class SIG,CHI,OMIT,SOLE,HQ,LIST,IRM vendor
+  class GSV,GEZ,UEU,POOL,SOLED inter
+  class CODE,UPRO,SRC imei
+  class DOWN,AG,GSVD,CHID down
+  class HT hub
+  class DHRU platform

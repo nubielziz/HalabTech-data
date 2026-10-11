@@ -1,0 +1,1003 @@
+{
+ "stream": "D-halabtech-disclosures",
+ "tool_log": [
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2",
+   "ok": true,
+   "note": "Latest ~20 posts (39417-39436, Oct 6-10 2026); 'We are the direct source for Premium Services', 'SOURCE 2' labels"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://support.halabtech.com/index.php?a=pages&b=world-agents",
+   "ok": true,
+   "note": "Full page: '29 resellers found', every agent with country + link captured"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/htsupport",
+   "ok": true,
+   "note": "Redirects to t.me/htsupport contact card (user/bot), not a channel; no posts"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2?q=distributor",
+   "ok": false,
+   "note": "Rate limit exceeded (shared Firecrawl quota)"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2?q=source",
+   "ok": true,
+   "note": "Source #2 labels, 'direct source', DFT PRO distributor post 39381"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://halabtech.com/resellers-halabtech/",
+   "ok": true,
+   "note": "Arabic agents page (individual agents per country), modified 2026-09-07"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2?q=distributor (retry)",
+   "ok": false,
+   "note": "Rate limit exceeded"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2?q=official",
+   "ok": false,
+   "note": "Rate limit exceeded"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2?q=api",
+   "ok": false,
+   "note": "Rate limit exceeded"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2?q=API+access",
+   "ok": false,
+   "note": "Rate limit exceeded"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2?q=Official+Distributor",
+   "ok": false,
+   "note": "Rate limit exceeded; switched to Parallel/Exa fetch for Telegram search pages"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "HalabTech server credit / Official Reseller HalabTech / Halabtech Official Distributor / HALABTECH PLATINUM / dhru price list (5 queries used)",
+   "ok": true,
+   "note": "Found gsmgenesis.me, superunlockmx.com downstream groups; server.halabtech.com Offer page"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "site:news.halabtech.com official distributor / We are only a reseller / site:halabtech.com موزع رسمي / official partner",
+   "ok": true,
+   "note": "No distributorship announcement articles found on news./halabtech.com"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "mrunlockers HalabTech / rgsmrio Halabtech / Easy Firmware & HalabTech Server Credit / HalabTech Support Credits / Official Reseller group",
+   "ok": true,
+   "note": "mrunlockers.com groups 'Official Reseller HalabTech' + 'Easy Firmware & HalabTech Server Credit'; GsmServer item 909490"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Sultankoo Store iPhone / متجر سلطانكو / EC Store iPhone / Sultankoo Gold Package",
+   "ok": true,
+   "note": "sultankoo.net identified; EC Store not identified"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "site:forum.gsmhosting.com halabtech / owner / company registration / whois / linkedin",
+   "ok": true,
+   "note": "Only HalabTech Tool release threads (2018, 2020) and a 2024 user complaint; no registry/owner data"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "\"Syriatel 2403.85 SYP\" / \"Syriatel 144.23 SYP\" / [Syria Country] / MTN 2000 LS / PAY CELL 100 TL",
+   "ok": true,
+   "note": "Negative: no other store uses identical telecom product names"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "site:gsmfastest.com / kbgsmstore.com / myunlockshop.com / gsmexpert.in / gsmunlockfather.com halabtech",
+   "ok": true,
+   "note": "Negative: index returned only halabtech.com pages"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "iRemoval PRO / OnlineFRPTool / TSM Tool / Scylla Zeus resellers halabtech",
+   "ok": true,
+   "note": "Snippets: anonyshu.com, frpservice.com, hwkey.com list HalabTech as distributor"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "t.me/s/halabtech2?q=API+access ; ?q=Official+Distributor (full_content)",
+   "ok": true,
+   "note": "Posts 26555, 30726, 38045/38471/38517/38590 (API access list), 37712-39381 'official distributor' posts, 38828 OnlineFRPTool"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "t.me/s/halabtech2?q=Sultankoo / EC+Store / Syriatel / YEMEN / server+down / supplier",
+   "ok": true,
+   "note": "Service-launch posts for unusual groups; outage posts (Zeus, Mina, UMT, Phoenix, Plist)"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "store./point./digital./ip./pass./techub./hardware./course./tool./tools./news.halabtech.com",
+   "ok": true,
+   "note": "digital. and course. returned HTTP 403; others fetched; none name suppliers"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://sultankoo.net/",
+   "ok": true,
+   "note": "Contact +97455005128, slt-nn@hotmail.com, distributor panel /distributor/login"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "t.me/s/halabtech2?q=HEMRES / Zeus / وكيل رسمي / المصدر / reseller ; t.me/s/HalabtechChannel2",
+   "ok": true,
+   "note": "Zeus/Scylla/Kratos posts; TSM 'official resellers'; 'وكيل رسمي' = No posts found; HalabtechChannel2 = 5.59K-sub status channel"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "Telegram embeds 25386, 38045, 38828, 26555, 30726, 25686, 37824 + ?q=وكلاء رسميين",
+   "ok": true,
+   "note": "Exact dates obtained"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "t.me/s/halabtech2?q=new+source / Source+#1 / official+reseller / authorized / Lexusypay",
+   "ok": true,
+   "note": "iRemoval PRO 'We are Official Distributor'; 'Official Main Seller: HalabTech'; HW-Key owner post; LexusyPay integration"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "Telegram embeds 36505, 34173, 34727 + ?q=firmware+download+sources",
+   "ok": true,
+   "note": "36505 dated Nov 5 2025; firmware-source purchase requests with contact Mohamad Al-Soliman"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://t.me/s/halabtech2?before=36507",
+   "ok": true,
+   "note": "Identifies tool behind 36505 as XTP - Xiaomi Tool Pro (post 36504, same timestamp); Source 1#/2#/3# cert services"
+  },
+  {
+   "tool": "mcp__Exa__web_search_exa",
+   "input": "GSM unlock server price list with group HalabTech credits / Official Reseller HalabTech",
+   "ok": true,
+   "note": "gsmunlockinfo.com, gsmunlockingstore.com, bregsm, gsm-flash, gsmmanager, gsmexpertzone; news.halabtech.com 'We are only a reseller'"
+  },
+  {
+   "tool": "mcp__Exa__web_search_exa",
+   "input": "EC Store iOS signing service dual apps 300 paid apps without jailbreak",
+   "ok": true,
+   "note": "Negative: only generic iOS-certificate sellers; EC Store operator not identified"
+  },
+  {
+   "tool": "mcp__Exa__web_search_exa",
+   "input": "category:company HalabTech mobile repair firmware GSM unlock server Syria Turkey",
+   "ok": true,
+   "note": "Company-profile snippet: 6 employees, Morocco and Syria; no legal entity"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "t.me/s/halabtech2?q=distributor ; ?q=api ; ?q=partner",
+   "ok": true,
+   "note": "Text without post URLs; iRemoval PRO '@iBoCloud exclusive partner'; 'directly available from me' API list; 'sync api' notices"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "news.halabtech.com Infinity Best Reseller page ; gsmunlockinfo.com/resellerpricing/server ; gsmmanager.com/service/halabtech-credits-refill",
+   "ok": true,
+   "note": "Verbatim 'We are only a reseller'; gsmunlockinfo many '(Official Distributor)' groups; gsmmanager 'Auto Api'"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "rgsmrio.in/resellerpricing/server ; gsmunlockingstore.com group 157 ; unlock.bregsm.com halab-tech-credits",
+   "ok": true,
+   "note": "rgsmrio only showed Fck Tool + Hydra groups (claimed HalabTech group not visible); gsmunlockingstore 'HalabTech Server Credit' group verified"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "xiaomitoolpro.com ; xiaomitoolpro.com/resellers.php ; iremovalpro.com/resellers",
+   "ok": true,
+   "note": "XTP resellers page lists Halabtech first; iremovalpro.com/resellers fetch error"
+  }
+ ],
+ "findings": [
+  {
+   "tid": "D-01",
+   "entity": "HalabTech (self-disclosure on news.halabtech.com service pages) re Infinity-Box / CM2",
+   "entity_website": "https://news.halabtech.com/",
+   "role_for_halabtech": "Original Vendor",
+   "direction": "Infinity-Box team (CM2) -> [unnamed supplier?] -> HalabTech -> technicians",
+   "halabtech_groups_affected": [
+    "Infinity & Best Online Service",
+    "Infinity [CM2] Online [Without Box]",
+    "Infinity Server / CM2 Logs Credits"
+   ],
+   "claim": "HalabTech's own service pages state it is only a reseller and not the original developer, disclaiming responsibility for upstream server downtime.",
+   "source_url": "https://news.halabtech.com/infinity-best-reseller-min-5000-credits-reseller-package-english-2/",
+   "source_type": "HalabTech official",
+   "excerpt": "We are not responsible for server downtime or fake operations. We are only a reseller.",
+   "pub_date": "undated (news.halabtech.com service page; related posts May 2026)",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports model of HalabTech as wholesale aggregator relying on upstream servers; contradicts its own marketing 'Official Distributor ... represent all market-leading tools'.",
+   "notes": "Cons box on same page: 'Reseller service – not the original developer'. Text appears to be a templated block on auto-generated news.halabtech.com pages, so it is a generic disclaimer, not Infinity-specific."
+  },
+  {
+   "tid": "D-02",
+   "entity": "Unnamed party 'me' (HalabTech admin or copied supplier broadcast) offering API access for ~40 tools",
+   "entity_website": "https://t.me/halabtech2/38045",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech (or unnamed supplier) -> API clients",
+   "halabtech_groups_affected": [
+    "Hydra Credits Package",
+    "Hydra Digital Actiavtion",
+    "UnlockTool",
+    "TSM TOOL",
+    "UMT Products",
+    "Phoenix Service Tool",
+    "Ghost Auth Tool",
+    "HW-Key Tool Credits",
+    "Moto King Pro",
+    "Nice Unlocker Tool",
+    "Artemis Tool",
+    "MIFIXPRO",
+    "A.N TOOL",
+    "RTC Tool",
+    "Orion Schematics",
+    "Hello AIO Tool Activation",
+    "XIAOMI FLASHER PRO",
+    "Fenix Utility Pro",
+    "HSPRO TOOL Activation",
+    "KRDT Utility Pro Activation",
+    "tojo360 Tool",
+    "FCK Tool",
+    "BD XIAOMI AUTH TOOL",
+    "CP-Tool",
+    "Worldwide Auth Xiaomi",
+    "Infinix Tecno Itel MDM Source 1\\# [Premium]",
+    "SAMSUNG FRP BY IMEI [Source 3]",
+    "Xiaomi Mi Account",
+    "HONOR Services"
+   ],
+   "claim": "A post on HalabTech's channel (not marked as forwarded) offers 'API access' for a list of ~40 tools/services 'directly available from me', i.e. HalabTech advertising itself as an API source to other servers.",
+   "source_url": "https://t.me/halabtech2/38045",
+   "source_type": "Social",
+   "excerpt": "These services are directly available from me at very competitive prices ... If you’re interested in API access , feel free to reach out",
+   "pub_date": "2026-04-28",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Supports HalabTech acting as API wholesaler to downstream servers; does not identify HalabTech's own upstream.",
+   "notes": "Reposted as 38471, 38517 (photo_2026-04-28), 38590. First-person 'from me' wording is also used in relayed vendor posts (e.g., HW-Key 34727), so authorship is not certain; check whether identical text circulates on other supplier channels."
+  },
+  {
+   "tid": "D-03",
+   "entity": "HalabTech (claims to be the direct/own source) - Tecno/iTel/Infinix MDM premium",
+   "entity_website": "https://t.me/halabtech2/39429",
+   "role_for_halabtech": "Direct API Supplier",
+   "direction": "HalabTech (self-fulfilled, claimed) -> resellers",
+   "halabtech_groups_affected": [
+    "Infinix Tecno Itel MDM Source 1\\# [Premium]"
+   ],
+   "claim": "HalabTech repeatedly states it is 'the direct source' for the premium Tecno/iTel/Infinix MDM-by-IMEI service (Source #1).",
+   "source_url": "https://t.me/halabtech2/39429",
+   "source_type": "Social",
+   "excerpt": "We are the direct source for Premium Services ... Premium Source #1 – Tested & Trusted",
+   "pub_date": "2026-10-08",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Contradicts the assumption that every HalabTech service is resold via API; suggests at least this service is fulfilled in-house or via an exclusive private source.",
+   "notes": "Same text posted many times since at least 2026-07 (38611, 38628, 38889, 38913, 38927, 38946, 39019, 39029, 39058, 39078, 39172, 39220, 39362). Claim is self-reported marketing."
+  },
+  {
+   "tid": "D-04",
+   "entity": "Unnamed upstream sources labelled 'Source 1#/2#/3#'",
+   "entity_website": "https://t.me/halabtech2/36495",
+   "role_for_halabtech": "Direct API Supplier",
+   "direction": "Unnamed Source #1/#2/#3 -> HalabTech",
+   "halabtech_groups_affected": [
+    "Infinix Tecno Itel MDM Source 1\\# [Premium]",
+    "Infinix Tecno Itel MDM Source 2\\# [Cheap]",
+    "SAMSUNG FRP BY IMEI [Source 3]",
+    "Infinix - Tecno - Itel ID",
+    "HONOR Services",
+    "Xiaomi Unlock Bootloader"
+   ],
+   "claim": "HalabTech runs several parallel upstream sources per service and deliberately labels them only by number (Source 1#, 2#, 3#), never by supplier name.",
+   "source_url": "https://t.me/halabtech2/36495",
+   "source_type": "Social",
+   "excerpt": "Xiaomi CPID Cert Devices [2 Sim] (Manually 0–12 Hours) – Source 1# Fast & High",
+   "pub_date": "2025-11-04 (approx; neighbouring post 36505 is 2025-11-05)",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports existence of multiple API suppliers per service; identities remain UNKNOWN.",
+   "notes": "Other examples: 'HONOR FRP CODE – SOURCE 2' (t.me/halabtech2/39423, 2026-10-07), 'MDM REMOVE – SOURCE #2' (39424), 'Xiaomi Dual SIM Cert Critical File ... Source # 2' (39149, 2026-09-09). 'When global sources are down … your first choice is Halab Tech Server' (t.me/halabtech2/37824, 2026-04-04) implies an independent Honor FRP route."
+  },
+  {
+   "tid": "D-05",
+   "entity": "Zeus Team (Zeus Tool / Scylla / Kratos iCloud plist services); 'HEMRES' alternative route",
+   "entity_website": "https://t.me/halabtech2/25386",
+   "role_for_halabtech": "Direct API Supplier",
+   "direction": "Zeus Tool server -> HalabTech (2023); fallback 'HEMRES' -> HalabTech",
+   "halabtech_groups_affected": [],
+   "claim": "In 2023 HalabTech routed iCloud/plist orders to the Zeus server and, when Zeus was down, told customers to submit via 'HEMRES' instead; it also relayed Zeus Team status notices.",
+   "source_url": "https://t.me/halabtech2/25386",
+   "source_type": "Social",
+   "excerpt": "ZEUS DOWN ON OUR SERVER SEND ON HEMRES",
+   "pub_date": "2023-06-22",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "First named upstream (historical) for iCloud/plist services; adds to 'zero direct API suppliers identified'.",
+   "notes": "Related: 'PRICES UPDATED Zeus Tool / scylla/ auto plist Make sync then reconnect with new prices' (t.me/halabtech2/25277, ~Jun 2023) and relayed 'PLIST SERVER OFF WORLDWIDE ... Zeus Team' (t.me/halabtech2/25686, 2023-07-15). 'HEMRES' unidentified (possibly 'Hermes' tool). These services are not in the current catalog."
+  },
+  {
+   "tid": "D-06",
+   "entity": "iRemoval PRO (and its 'exclusive partner' @iBoCloud)",
+   "entity_website": "https://iremovalpro.com/",
+   "role_for_halabtech": "Official Distributor",
+   "direction": "iRemoval PRO -> (@iBoCloud exclusive partner?) -> HalabTech",
+   "halabtech_groups_affected": [
+    "Apple info Checkers"
+   ],
+   "claim": "HalabTech relayed iRemoval PRO's broadcast directing would-be official resellers to its exclusive partner @iBoCloud (2023), and later posted 'We are Official Distributor' for iRemoval PRO v7.1.",
+   "source_url": "https://t.me/s/halabtech2?q=official+reseller",
+   "source_type": "Social",
+   "excerpt": "We are Official Distributor 👑 iRemoval PRO v7.1 – New Update Released!",
+   "pub_date": "~2025 (post URL not captured; adjacent to post 34173 dated 2025-03-18)",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "New vendor relationship claim not in Round 1-3 list; not yet corroborated by iRemoval PRO's own reseller page (fetch failed).",
+   "notes": "2023 relayed text (t.me/s/halabtech2?q=partner): 'If you want to become our official reseller, please contact our exclusive partner @iBoCloud'. iBoCloud is a candidate intermediate supplier for iRemoval credits. Current catalog shows 'iRemoval PRO A12+' on HalabTech's IMEI page (seen in a search snippet) and 'iRemoval Pro & Mina Checker' in group 'Apple info Checkers'."
+  },
+  {
+   "tid": "D-07",
+   "entity": "XTP – Xiaomi Tool Pro",
+   "entity_website": "https://xiaomitoolpro.com/resellers.php",
+   "role_for_halabtech": "Official Distributor",
+   "direction": "XTP vendor -> HalabTech (Official Main Seller) -> resellers",
+   "halabtech_groups_affected": [
+    "XTP – Xiaomi Tool Pro"
+   ],
+   "claim": "The XTP announcement on HalabTech's channel names HalabTech as the tool's 'Official Main Seller', and the vendor's own resellers page lists Halabtech first as worldwide distributor.",
+   "source_url": "https://t.me/halabtech2/36505",
+   "source_type": "Social",
+   "excerpt": "If you would like to become a Distributor or Reseller of this tool — please contact our Main Seller. Official Main Seller: HalabTech",
+   "pub_date": "2025-11-05",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "New vendor not in Round 1-3 list; makes direct vendor->HalabTech supply LIKELY for XTP credits.",
+   "notes": "Post 36504 (same 14:49 timestamp) is the XTP launch text with official channels t.me/xtpupdate and xiaomitoolpro.com. Vendor page (Exa full page) lists: 'Halabtech Distributor/Reseller WorldWide', Martlobs GSM, SISTEMAS, Ssmartbeunlock, Puntodigitalserver. xiaomitoolpro.com, frpservice.com and hwkey.com use the same reseller-card template."
+  },
+  {
+   "tid": "D-08",
+   "entity": "OnlineFRPTool (OFT)",
+   "entity_website": "https://t.me/halabtech2/38828",
+   "role_for_halabtech": "Official Distributor",
+   "direction": "OnlineFRPTool -> HalabTech",
+   "halabtech_groups_affected": [
+    "OnlineFRP Tool (OFT)"
+   ],
+   "claim": "HalabTech announced it is the official distributor of OnlineFRPTool.",
+   "source_url": "https://t.me/halabtech2/38828",
+   "source_type": "Social",
+   "excerpt": "OnlineFRPTool is now officially available at HALAB TECH! ... Official Distributor",
+   "pub_date": "2026-08-05",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "New self-claimed distributorship; vendor-side listing not verified.",
+   "notes": "Self-claim only; vendor reseller list not found in search."
+  },
+  {
+   "tid": "D-09",
+   "entity": "TSM TOOL PRO",
+   "entity_website": "https://t.me/s/halabtech2?q=%D9%88%D9%83%D9%84%D8%A7%D8%A1+%D8%B1%D8%B3%D9%85%D9%8A%D9%8A%D9%86",
+   "role_for_halabtech": "Official Reseller",
+   "direction": "TSM Tool vendor -> HalabTech",
+   "halabtech_groups_affected": [
+    "TSM TOOL"
+   ],
+   "claim": "HalabTech's Eid 2026 promotion states it is an official reseller/agent of TSM TOOL PRO.",
+   "source_url": "https://t.me/s/halabtech2?q=%D9%88%D9%83%D9%84%D8%A7%D8%A1+%D8%B1%D8%B3%D9%85%D9%8A%D9%8A%D9%86",
+   "source_type": "Social",
+   "excerpt": "As official resellers, we are bringing you the biggest bonus of the year.",
+   "pub_date": "~2026-03 (search page dated 2026-03-10; post id not captured)",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "New self-claimed vendor relationship; not vendor-verified.",
+   "notes": "Arabic: 'وبصفتنا وكلاء رسميين لأداة TSM TOOL PRO'. A 'TSM TOOL - 6 Months 1 Pc [AUTO API]' new-service post also exists (Exa fetch of ?q=api)."
+  },
+  {
+   "tid": "D-10",
+   "entity": "DFT Pro",
+   "entity_website": "https://t.me/halabtech2/39381",
+   "role_for_halabtech": "Official Distributor",
+   "direction": "DFT Pro -> HalabTech",
+   "halabtech_groups_affected": [
+    "DFT Tool"
+   ],
+   "claim": "HalabTech states it is a distributor for DFT PRO TOOL and markets itself as 'the official distributor' in activation-guide videos.",
+   "source_url": "https://t.me/halabtech2/39381",
+   "source_type": "Social",
+   "excerpt": "HalabTech is a distributor for DFT PRO TOOL and many other popular software activations available on the market.",
+   "pub_date": "2026-10-01",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports Round 1-3 (dftpro.com/dealers lists HalabTech).",
+   "notes": "Forwarded from t.me/HalabtechChannel2/10003. Generic banner posts (e.g. 38293, 38515) also claim 'Official Distributor: We're delighted to represent all market-leading tools' - marketing, low evidential value. Similar guide videos for TR Tool (37712) and DFT (38005) say 'always purchase from the official distributor only'."
+  },
+  {
+   "tid": "D-11",
+   "entity": "AnonySHU Tool",
+   "entity_website": "https://anonyshu.com/distributors_resellers.html",
+   "role_for_halabtech": "Official Distributor",
+   "direction": "AnonySHU -> HalabTech",
+   "halabtech_groups_affected": [
+    "AnonySHU Tool"
+   ],
+   "claim": "AnonySHU's distributors page lists HalabTech as a worldwide distributor with @htsupport and a +249 (Sudan) phone number.",
+   "source_url": "https://anonyshu.com/distributors_resellers.html",
+   "source_type": "Vendor official",
+   "excerpt": "Distributor HalabTech ... +249116472371 * @htsupport ... worldwide Distributor & Reseller",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "STRONG",
+   "supports_or_contradicts": "New vendor listing beyond Round 1-4 list.",
+   "notes": "Phone +249116472371 differs from HalabTech's Syrian/Turkish numbers; HalabTech's agent list names 'Walid Tadmory 00249116988665' for Sudan/UAE. Peer gsmunlockinfo.com also sells 'AnonySHU Tool ( Official Distributor )' credits at $1.49, same as HalabTech."
+  },
+  {
+   "tid": "D-12",
+   "entity": "FRP Service Tool",
+   "entity_website": "https://frpservice.com/",
+   "role_for_halabtech": "Official Distributor",
+   "direction": "FRP Service Tool -> HalabTech",
+   "halabtech_groups_affected": [],
+   "claim": "frpservice.com's Official Resellers block lists halabtech as Distributor/Reseller WorldWide with HalabTech's cert email.",
+   "source_url": "https://frpservice.com/",
+   "source_type": "Vendor official",
+   "excerpt": "Distributor/Reseller WorldWide halabtech Web: server.halabtech.com Telegram: https://telegram.me/htsupport ... Email: halabtech.cert@gmail.com",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "STRONG",
+   "supports_or_contradicts": "New vendor listing; no matching group name found in current HalabTech catalog.",
+   "notes": "Same reseller-card template as xiaomitoolpro.com and hwkey.com (HalabTech listed first)."
+  },
+  {
+   "tid": "D-13",
+   "entity": "HW-Key Tool",
+   "entity_website": "https://hwkey.com/resellers",
+   "role_for_halabtech": "Official Distributor",
+   "direction": "HW-Key -> HalabTech",
+   "halabtech_groups_affected": [
+    "HW-Key Tool Credits"
+   ],
+   "claim": "hwkey.com lists Halabtech as WorldWide Distributor, and HalabTech's channel carried the HW-Key owner's first-person promo referring to 'our official resellers'.",
+   "source_url": "https://hwkey.com/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "WorldWide Distributor Halabtech About: Halabtech (Distributor) Web: server.halabtech.com Telegram: @htsupport",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "STRONG",
+   "supports_or_contradicts": "Verifies Round-4 smoke-test lead for HW-Key.",
+   "notes": "Telegram t.me/halabtech2/34727 (2025-04-26): 'You can buy directly from me or through any of our official resellers.' - vendor-owner voice republished by HalabTech."
+  },
+  {
+   "tid": "D-14",
+   "entity": "Sultankoo Store (متجر سلطان)",
+   "entity_website": "https://sultankoo.net/",
+   "role_for_halabtech": "Original Vendor",
+   "direction": "Sultankoo (sultankoo.net, distributor panel) -> HalabTech",
+   "halabtech_groups_affected": [
+    "Sultankoo Store"
+   ],
+   "claim": "Sultankoo is an Arabic iOS 'plus apps' signing store (Qatar +974 phone) that runs a distributor panel; HalabTech has sold its packages since July 2022.",
+   "source_url": "https://sultankoo.net/",
+   "source_type": "Vendor official",
+   "excerpt": "متجر سلطان متجر متخصص في توفير تطبيقات البلس المعدلة بأحدث الإصدارات",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Identifies the vendor behind the unusual 'Sultankoo Store' group; HalabTech probably buys via sultankoo.net/distributor/login (not verified).",
+   "notes": "Contacts: +97455005128 (WhatsApp), slt-nn@hotmail.com, Snapchat lbeek-27. HalabTech launch posts: t.me/halabtech2/20341-20345 (New Service Sultankoo Store Gold/Silver/Jailbreak Package, ~Jul 2022); later promos 24595, 25375, 25548, 30689, 32057."
+  },
+  {
+   "tid": "D-15",
+   "entity": "EC Store (iOS app store / signing)",
+   "entity_website": "https://t.me/halabtech2/30428",
+   "role_for_halabtech": "Original Vendor",
+   "direction": "EC Store operator (unidentified) -> HalabTech",
+   "halabtech_groups_affected": [
+    "EC Store iPads"
+   ],
+   "claim": "HalabTech has sold 'EC Store' iPhone/iPad signed-app packages since May 2022, but never names the operator.",
+   "source_url": "https://t.me/halabtech2/30428",
+   "source_type": "Social",
+   "excerpt": "Service / خدمة EC STORE IPADS ... للطلب من سيرفركم حلب تك / Make Your Order From HalabTech",
+   "pub_date": "2024-06-12",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "No supplier identified.",
+   "notes": "Earlier launch: t.me/halabtech2/18493 (2022-05-10) 'تفعيل متجر EC الجديد للايفون بدون جليبريك وبدون مشاكل'. Exa search found only generic certificate sellers (UCerts, FlareStore, iOSRocket etc.)."
+  },
+  {
+   "tid": "D-16",
+   "entity": "YEMEN SERVER BOX SERVICES / CDMA YEMEN TOOL PRO (vendor unnamed)",
+   "entity_website": "https://t.me/halabtech2/30176",
+   "role_for_halabtech": "Original Vendor",
+   "direction": "Yemeni tool vendor (unidentified) -> HalabTech",
+   "halabtech_groups_affected": [
+    "YEMEN SERVER BOX SERVICES",
+    "CDMA YEMEN TOOL"
+   ],
+   "claim": "HalabTech launched Yemen Server Box activations in May 2024 and CDMA Yemen Tool Pro in May 2025 without naming the supplier.",
+   "source_url": "https://t.me/halabtech2/30176",
+   "source_type": "Social",
+   "excerpt": "New Service YEMEN SERVER BOX SERVICES | 6 Months Activation",
+   "pub_date": "2024-05-19",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "No supplier identified.",
+   "notes": "CDMA YEMEN TOOL PRO posts: t.me/halabtech2/35102 (2025-05-21), 35276-35278 (2025-05-29). HalabTech's Yemen agent on halabtech.com agents page: يوسف المصعبي +967773007778 (possible local link, unverified)."
+  },
+  {
+   "tid": "D-17",
+   "entity": "HalabTech World Agents (29 listed resellers)",
+   "entity_website": "https://support.halabtech.com/index.php?a=pages&b=world-agents",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> listed agents",
+   "halabtech_groups_affected": [
+    "HALABTECH"
+   ],
+   "claim": "The World Agents page lists 29 entries: HALABTECH SERVER (Worldwide, t.me/htsupport); Arabic Countries (halabtech.com/resellers-halabtech/); Distributor USA (mygsm24.com); ADY Unlocker (Jordan, adyunlocker.com); GSMFastest (Pakistan/China/UAE, gsmfastest.com); GsmServer (Worldwide, gsmserver.com/en/); KB GSM Store (Pakistan, kbgsmstore.com); Experts Unlocker (Pakistan, expertsunlocker.com); Safe Unlocker (Pakistan, safeunlocker.com); SEN Unlock Tool (Senegal, sen-unlocktool.com); GSM Unlock Father (Sri Lanka, gsmunlockfather.com); Mehr Info (Iran, mehrinfo.net); Phone Parts IR (Iran, phoneparts.ir); Unlocker Group (Turkey, unlockergroup.com); Dost Service (Turkey, dostservice.com); Bee Unlock (Vietnam, beeunlock.com); GSM Service Center (Russia/Uzbekistan, gsmservice.center); 3GSM Russia (Russia/Kazakhstan, 3gsm.ru); MyGSM24 India (mygsm24.com); GSM Source India (gsmsource.in); GSM Expert India (gsmexpert.in); GSM Africa (South Africa, gsmafrica.com); Gifted GSM (Nigeria, giftedgsm.com); Apple Unlockers BD (Bangladesh, appleunlockers.com); My Unlock Shop (Algeria/Morocco, myunlockshop.com); Phone Style Server (Philippines, phonestyleserver.com); Unlock Price BD (Bangladesh, unlockprice.com); GSM Server Ecuador (gsmserverecuador.com); Bypass Station CD (DR Congo, bypassstationcd.com).",
+   "source_url": "https://support.halabtech.com/index.php?a=pages&b=world-agents",
+   "source_type": "HalabTech official",
+   "excerpt": "29 resellers found HALABTECH SERVER ... Worldwide ... Distributor USA ... GSMFastest ... Pakistan · China · UAE",
+   "pub_date": "live 2026-10-11",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Extends Round-3 list (GsmServer, Dost Service, GSMFastest, GSM Africa, MyGSM24). New vs Round 3: ADY Unlocker, KB GSM Store, Experts Unlocker, Safe Unlocker, SEN Unlock Tool, GSM Unlock Father, Mehr Info, Phone Parts IR, Unlocker Group, Bee Unlock, GSM Service Center, 3GSM Russia, GSM Source India, GSM Expert India, Gifted GSM, Apple Unlockers BD, My Unlock Shop, Phone Style Server, Unlock Price BD, GSM Server Ecuador, Bypass Station CD.",
+   "notes": "Agents are downstream resellers of HalabTech (mainly support.halabtech.com packages), not suppliers. 'Distributor USA' and 'MyGSM24 India' both link to mygsm24.com. ADY Unlocker logo is hosted on themagictool.net. Apple Unlockers is also a HW-Key worldwide distributor (peer). GsmServer listed as agent supports 'downstream/peer', not supplier."
+  },
+  {
+   "tid": "D-18",
+   "entity": "HalabTech individual agents (Arabic agents page)",
+   "entity_website": "https://halabtech.com/resellers-halabtech/",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> local agents (Turkey, Syria, Egypt, Iraq, KSA, Lebanon, Jordan, UAE, Morocco, Algeria, Tunisia, Mauritania, Oman, Yemen, Libya, Sudan, BVI, Austria, Germany)",
+   "halabtech_groups_affected": [
+    "HALABTECH"
+   ],
+   "claim": "halabtech.com lists named phone agents per city (19 in Turkey, 28 in Syria, plus other Arab countries and Europe), including MYUNLOCKSHOP for Algeria.",
+   "source_url": "https://halabtech.com/resellers-halabtech/",
+   "source_type": "HalabTech official",
+   "excerpt": "اذا لم تجد دولتك أو مدينتك ضمن القائمة — تواصل معنا إذا أردت أن تكون مندوبنا",
+   "pub_date": "published 2025-01-22, modified 2026-09-07",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Downstream mapping only; no supplier disclosed.",
+   "notes": "Notable: 'عبدالله 0992951910' (= HalabTech main WhatsApp +963992951910); 'سرمدا والدانا — محمد السليمان 0997722349' (= Mohamad Al-Soliman, see D-24); Yemen 'يوسف المصعبي 967773007778+'; Sudan/UAE 'Walid Tadmory 00249116988665'; BVI 'Mutaz Alomar +1 284 543 9360'. Page author 'Haitham'."
+  },
+  {
+   "tid": "D-19",
+   "entity": "MrUnlockers (mrunlockers.com)",
+   "entity_website": "https://mrunlockers.com/resellerpricing/server",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> MrUnlockers",
+   "halabtech_groups_affected": [
+    "HALABTECH"
+   ],
+   "claim": "MrUnlockers (Bangladesh WhatsApp +8801635674436) has server groups 'Official Reseller HalabTech' and 'Easy Firmware & HalabTech Server Credit' selling HalabTech membership packages and firmware credits.",
+   "source_url": "https://mrunlockers.com/resellerpricing/server",
+   "source_type": "Reseller store",
+   "excerpt": "Official Reseller HalabTech MobileSea Tool (MST) ... Easy Firmware & HalabTech Server Credit Z3X Box Activation",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Confirms downstream lead from task brief; does not call HalabTech its API 'source'.",
+   "notes": "Service names identical to gsmunlockinfo.com incl. typo 'HALABTECH (Upgrade From 6 Months Sliver To 12 Months Platinum)' and 'HalabTech Firmware Tool Credits Any Quantity' - shared upstream (LIKELY HalabTech API or one store feeding the other)."
+  },
+  {
+   "tid": "D-20",
+   "entity": "GSMUnlockInfo (gsmunlockinfo.com)",
+   "entity_website": "https://gsmunlockinfo.com/resellerpricing/server",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> GSMUnlockInfo",
+   "halabtech_groups_affected": [
+    "HALABTECH"
+   ],
+   "claim": "GSMUnlockInfo sells a 'HalabTech' group (Bronze to Ultra Platinum, firmware tool credits) and an 'Easy Firmware & HalabTech Server Credit' group, alongside many '( Official Distributor )' tool groups.",
+   "source_url": "https://gsmunlockinfo.com/resellerpricing/server",
+   "source_type": "Reseller store",
+   "excerpt": "HalabTech Firmware Tool Credits Any Quantity 1-10 Miniutes ... Easy Firmware & HalabTech Server Credit",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Exa__web_search_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Downstream; also a possible peer (claims Official Distributor for AnonySHU, Cheetah, TSM, CF Tools, MultiUnlock, SmartTool Pro, Falcon, Xiaomi Service Tool, AAT, MRST).",
+   "notes": "Full page fetched via Exa (first ~6k chars): many groups labelled '( Official Distributor )'; AnonySHU credits $1.49 = HalabTech price."
+  },
+  {
+   "tid": "D-21",
+   "entity": "GsmUnlockingStore (gsmunlockingstore.com)",
+   "entity_website": "https://gsmunlockingstore.com/cart/group/157/service/server/groupname/HalabTech-Server-Credit-",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> GsmUnlockingStore",
+   "halabtech_groups_affected": [
+    "HALABTECH"
+   ],
+   "claim": "GsmUnlockingStore has a group 'HalabTech Server Credit' with HalabTech packages, firmware-tool credits and single-file requests from support.halabtech.com.",
+   "source_url": "https://gsmunlockingstore.com/cart/group/157/service/server/groupname/HalabTech-Server-Credit-",
+   "source_type": "Reseller store",
+   "excerpt": "HalabTech Server Credit ... Request Firmware from support.halabtech.com Exclusive Firmware Single File Buy $ 1.5",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Downstream mapping.",
+   "notes": "Includes 'HALABTECH (Copper 1 Day) [ SUPPORT]' $5.85, not present in HalabTech's current server catalog. GsmUnlockingStore has its own GSM-Forum vendor section."
+  },
+  {
+   "tid": "D-22",
+   "entity": "GSM Manager (gsmmanager.com)",
+   "entity_website": "https://gsmmanager.com/service/halabtech-credits-refill",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> GSM Manager (auto API)",
+   "halabtech_groups_affected": [
+    "HALABTECH"
+   ],
+   "claim": "GSM Manager sells 'HalabTech Credits Refill Any Quantity (Instant - Auto Api)', implying an automated API feed for HalabTech credits.",
+   "source_url": "https://gsmmanager.com/service/halabtech-credits-refill",
+   "source_type": "Reseller store",
+   "excerpt": "HalabTech Credits Refill Any Quantity (Instant - Auto Api) Price 1.09 USD Delivery 1-10 Miniutes",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Closest example of a store using HalabTech (or a HalabTech reseller) as an auto-API source; does not name the API source explicitly.",
+   "notes": "HalabTech's own catalog has 'HalabTech Credits Any Quantity (instant) (Support Only)' at $1."
+  },
+  {
+   "tid": "D-23",
+   "entity": "Other downstream stores: SuperUnlockMx, GsmGenesis, BreGsm, GSM Expert Zone, gsm-flash, GsmServer",
+   "entity_website": "https://www.superunlockmx.com/server-services",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> listed stores",
+   "halabtech_groups_affected": [
+    "HALABTECH"
+   ],
+   "claim": "Several more stores resell HalabTech memberships and support credits under groups named 'Halabtech', 'HalabTech Support Credits Any Quantity', 'Halab Tech Credits', 'HalabTech Firmware credit'.",
+   "source_url": "https://www.superunlockmx.com/server-services",
+   "source_type": "Reseller store",
+   "excerpt": "Halabtech ... Halabtech Platinum 1 año (Blog+Support+Grupo De Facebook) | 1 hora | $1,180.88",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Downstream mapping; none calls HalabTech its API 'source'.",
+   "notes": "Other URLs: gsmgenesis.me/store?category=official-server-credits ('HalabTech Support Credits Any Quantity' $1.1, under 'Official Server Credits'); unlock.bregsm.com/server-service/halab-tech-credits ('Order processing: Manual', Pakistan +92 300 8655126); gsmexpertzone.com 'HalabTech Firmware credit'; gsm-flash.com (2021) 'This credits is only for support.halabtech.com'; gsmserver.com/en/halabtech-support-credits (id 909490). SuperUnlockMx prices in MXN."
+  },
+  {
+   "tid": "D-24",
+   "entity": "HalabTech as API supplier to other servers (sync-API notices)",
+   "entity_website": "https://t.me/halabtech2/30726",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> downstream API clients",
+   "halabtech_groups_affected": [
+    "UK O2 / Tesco Unlock Services",
+    "Other USA Networks",
+    "TR TOOLS",
+    "OnlineFRP Tool (OFT)"
+   ],
+   "claim": "HalabTech invites other servers to connect via API and tells API clients to 'sync' after price changes.",
+   "source_url": "https://t.me/halabtech2/30726",
+   "source_type": "Social",
+   "excerpt": "Direct Access With Cheap Price ... Canada Telus/Koodo iPhone All Models ... Connect API NOW",
+   "pub_date": "2024-07-12",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Confirms HalabTech operates as an API wholesaler (downstream side).",
+   "notes": "Other posts (Exa fetch of ?q=api, URLs not captured): 'tr tool price update please sync api'; 'Best Prices Ever! Please sync your API'; 'Mysterio FRP Unlock Refill (Old User) [AUTO API] · $0.79 → $0.60'. Reseller tiers on server.halabtech.com/pages/DISTRIBUTOR: Reseller $299, Big Reseller $499, Web Owner $1999, Distributor $2999."
+  },
+  {
+   "tid": "D-25",
+   "entity": "Firmware content sources (BLU, ZTE, Meizu, ASUS, Huawei) - purchase requests by Mohamad Al-Soliman for HalabTech",
+   "entity_website": "https://t.me/MohamadAlSoliman",
+   "role_for_halabtech": "Content Partner",
+   "direction": "Third-party firmware-source holders -> HalabTech (support.halabtech.com)",
+   "halabtech_groups_affected": [
+    "HALABTECH",
+    "Request Files (Combination & Debug)"
+   ],
+   "claim": "HalabTech publicly seeks to buy access to official firmware download sources (FTP/server access) for several brands, naming Mohamad Al-Soliman as contact.",
+   "source_url": "https://t.me/s/halabtech2?q=firmware+download+sources",
+   "source_type": "Social",
+   "excerpt": "I am looking to purchase official access to firmware download sources for the following brands: BLU ZTE Meizu ASUS HUAWEI",
+   "pub_date": "~2026-01 (post 37081); follow-ups 37784/37785, 37894/37895, 38320/38321 ~Mar-May 2026",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Shows the firmware portal's content is partly acquired from third-party sources; complements the ChimeraTool 'HalabTech Add-On' content-supplier finding.",
+   "notes": "Earlier post t.me/halabtech2/32284 (~late 2024): 'Any One Have FTP * Firmware Download of Official Firmware source* ... We can make deal for it'. Contact: t.me/MohamadAlSoliman, WhatsApp +963997722349."
+  },
+  {
+   "tid": "D-26",
+   "entity": "HalabTech corporate identity / people",
+   "entity_website": "https://halabtech.com/",
+   "role_for_halabtech": "Not listed",
+   "direction": "n/a",
+   "halabtech_groups_affected": [],
+   "claim": "No company registration found; names publicly tied to HalabTech are 'Haitham' (blog author), 'Abdullah' (main number 0992951910) and Mohamad Al-Soliman (0997722349, Sarmada/Dana, Idlib).",
+   "source_url": "https://halabtech.com/resellers-halabtech/",
+   "source_type": "HalabTech official",
+   "excerpt": "عبدالله 0992951910 ... سرمدا والدانا — محمد السليمان 0997722349",
+   "pub_date": "modified 2026-09-07",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Corporate identity context; no supplier implication.",
+   "notes": "Exa company profile: 'Halabtech employs 6 people ... across Morocco and Syria'. Tracxn 'Halab Tech' (halab-tech.com, founded 2020) may be a different site. GSM-Forum has only HalabTech Tool release threads (f200, 2018/2020). Other channels: t.me/HalabtechChannel2 (5.59K subs, auto status/price notices) and t.me/halabtechChannel ('New official telegram channel', t.me/halabtech2/36506, Nov 2025)."
+  },
+  {
+   "tid": "D-27",
+   "entity": "LexusyPay (lexusypay.com)",
+   "entity_website": "https://lexusypay.com/",
+   "role_for_halabtech": "Platform",
+   "direction": "LexusyPay -> HalabTech (payments)",
+   "halabtech_groups_affected": [],
+   "claim": "HalabTech heavily promotes LexusyPay, a payment gateway integrated with server.halabtech.com and with DHRU Fusion/Joudisoft stores.",
+   "source_url": "https://t.me/s/halabtech2?q=Lexusypay",
+   "source_type": "Social",
+   "excerpt": "You can now automatically add funds to your server.halabtech.com account using LexusyPay.com .",
+   "pub_date": "2026-06/09 (posts 38521-39231)",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "Payments platform, not a goods supplier; ownership link to HalabTech unverified.",
+   "notes": "Also promoted: SentWallet ('Dhru Fashion Auto Payment Gateway ... Contact Our Authorized Reseller/Distributor https://sentwallet.com/resellers.php')."
+  },
+  {
+   "tid": "D-28",
+   "entity": "HalabTech subdomains (store., point., pass., ip., hardware., techub., tools./tool., news., digital., course.)",
+   "entity_website": "https://store.halabtech.com/",
+   "role_for_halabtech": "Not listed",
+   "direction": "n/a",
+   "halabtech_groups_affected": [
+    "HalabTech Point",
+    "HTD"
+   ],
+   "claim": "Subdomains are HalabTech's own utilities and storefronts; none discloses suppliers.",
+   "source_url": "https://store.halabtech.com/",
+   "source_type": "HalabTech official",
+   "excerpt": "sells all activation codes for gsm products and gift cards",
+   "pub_date": "live 2026-10-11",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Negative for supplier disclosure.",
+   "notes": "store.: API-backed storefront (api.store.halabtech.com) with categories Games|Gift Cards (16), Activation|Credits Tools (82), IMEI Services (8), Mobile Recharge (5), Voucher Cards Server Halabtech (1), Ready Account (0), HTD Build Your Store (3); 'No agents are available'. point.: 'POINTS CHECKER'. pass.: 'PASSWORD CHECKER' for Platinum files. ip.: 'HALABTECH IP RESET TOOL'. hardware.: hardware search encyclopedia. techub.: technician directory. tools./tool.: Halabtech Tool v1.1 download, contact Halabtech.cert@gmail.com. news.: auto-generated per-service/per-device SEO pages (Furious Gold, Sigma ops). digital. and course.: HTTP 403."
+  },
+  {
+   "tid": "D-29",
+   "entity": "Dhru Fusion (licences resold by HalabTech)",
+   "entity_website": "https://t.me/halabtech2/31085",
+   "role_for_halabtech": "Platform",
+   "direction": "Dhru Fusion -> HalabTech -> server owners",
+   "halabtech_groups_affected": [
+    "Build Your Server DHRU Services",
+    "Web Hosting",
+    "Custom Email",
+    "HTD"
+   ],
+   "claim": "HalabTech resells Dhru Fusion licences and add-ons (including the 'Supplier panel') and hosting, i.e. it builds downstream servers that can consume its API.",
+   "source_url": "https://t.me/halabtech2/31085",
+   "source_type": "Social",
+   "excerpt": "New Service Dhru Fusion - Dhru Fusion Supplier panel",
+   "pub_date": "2024-08-01",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Explains 'Build Your Server DHRU Services' group; downstream-building, not a GSM-service supplier.",
+   "notes": "MrUnlockers also lists 'DHRU FUSION {OFFICIAL RESELLER}' (peer). HTD = HalabTech's own store-builder ('How to Use the Agents Section in HTD (Build your GSM Server)' post)."
+  },
+  {
+   "tid": "D-30",
+   "entity": "Syrian/Turkish telecom top-up supplier (unidentified)",
+   "entity_website": "https://t.me/halabtech2/32932",
+   "role_for_halabtech": "Direct API Supplier",
+   "direction": "Unidentified top-up provider -> HalabTech",
+   "halabtech_groups_affected": [
+    "Syriatel",
+    "MTN",
+    "PAY CELL (TL)",
+    "Turkcell (TL)"
+   ],
+   "claim": "HalabTech launched Syriatel top-ups in Dec 2024 without naming a provider; current denominations (e.g. 144.23, 951.92, 2403.85 SYP) equal round amounts divided by 1.04, suggesting a provider fee.",
+   "source_url": "https://t.me/halabtech2/32932",
+   "source_type": "Social",
+   "excerpt": "New Service Syriatel 2013 SYP [Syria Country]",
+   "pub_date": "~2024-12-10",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "No supplier identified; exact-name web search returned no other store with the same product names.",
+   "notes": "150/1.04=144.23; 990/1.04=951.92; 2500/1.04=2403.85 (analyst inference). Syriatel Cash is also a HalabTech payment method."
+  },
+  {
+   "tid": "D-31",
+   "entity": "Unlocker-Pro (unlocker-pro.com) and other vendor broadcasts relayed by HalabTech",
+   "entity_website": "https://t.me/halabtech2/26555",
+   "role_for_halabtech": "Original Vendor",
+   "direction": "Unlocker-Pro / HFZ Team / Fenris / UMT / Phoenix / Mina -> HalabTech (relayed notices)",
+   "halabtech_groups_affected": [
+    "UMT Products",
+    "Phoenix Service Tool"
+   ],
+   "claim": "HalabTech republishes vendor-team broadcasts and outage notices (Unlocker-Pro API offer, HFZ Team status, Fenris resellers rule, Mina/UMT/Phoenix server down), consistent with direct vendor channels but not proof of supply.",
+   "source_url": "https://t.me/halabtech2/26555",
+   "source_type": "Social",
+   "excerpt": "Resellers & Distributors can contact direct for any API Access Unlocker-Pro Download : https://unlocker-pro.com/home/download.php",
+   "pub_date": "2023-09-11",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "Context only; no direct supplier proof.",
+   "notes": "Outage posts (t.me/s/halabtech2?q=server+down): 17902 NST 'Server Down' (~Apr 2022), 21993 'Mina Server Down' (~2022), 23025 'UMT SERVER DOWN PLEASE WAIT' (~2023), 26606 Fenris rules 'Only buy credits from our resellers websites' (~2023), 29475 'Phoenix SERVER DOWN' (~2024), HFZ Team status (~2024)."
+  }
+ ],
+ "negative_findings": [
+  {
+   "entity": "HalabTech Telegram @htsupport",
+   "url": "https://t.me/s/htsupport",
+   "what_was_checked": "Public post preview",
+   "result": "It is a user/bot contact card ('Only if we didnt repsond after 24 hours'), not a channel; no posts.",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "HalabTech Telegram (halabtech2)",
+   "url": "https://t.me/s/halabtech2?q=%D9%88%D9%83%D9%8A%D9%84+%D8%B1%D8%B3%D9%85%D9%8A",
+   "what_was_checked": "Search 'وكيل رسمي' (official agent)",
+   "result": "No posts found",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "HalabTech Telegram (halabtech2)",
+   "url": "https://t.me/s/halabtech2?q=supplier",
+   "what_was_checked": "Search 'supplier'",
+   "result": "Only hit: 'New Service Dhru Fusion - Dhru Fusion Supplier panel' (2024-08-01); no named supplier.",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "HalabTech Telegram (halabtech2)",
+   "url": "https://t.me/s/halabtech2?q=new+source",
+   "what_was_checked": "Search 'new source' / 'Source #1'",
+   "result": "No source-change announcement naming a provider; sources only numbered.",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "news.halabtech.com / halabtech.com",
+   "url": "https://news.halabtech.com/",
+   "what_was_checked": "Search for distributorship/partnership announcement articles",
+   "result": "None found; news. pages are templated per-service SEO pages with generic reseller disclaimer.",
+   "tool": "mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "digital.halabtech.com, course.halabtech.com",
+   "url": "https://digital.halabtech.com/",
+   "what_was_checked": "Homepage fetch",
+   "result": "HTTP 403 for both",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "store./point./pass./ip./hardware./techub./tools.halabtech.com",
+   "url": "https://store.halabtech.com/",
+   "what_was_checked": "Homepages for supplier names",
+   "result": "No supplier, partner or company name disclosed.",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "Syriatel/MTN/PayCell/Turkcell top-up product names",
+   "url": "n/a (web search query: \"Syriatel 2403.85 SYP\")",
+   "what_was_checked": "Exact product-name web search for upstream",
+   "result": "No other store or API provider uses the same names; upstream unidentified.",
+   "tool": "mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "EC Store",
+   "url": "https://t.me/halabtech2/30428",
+   "what_was_checked": "Operator identity via Exa search",
+   "result": "Not identified; only generic iOS certificate sellers returned.",
+   "tool": "mcp__Exa__web_search_exa"
+  },
+  {
+   "entity": "rgsmrio.in",
+   "url": "https://rgsmrio.in/resellerpricing/server",
+   "what_was_checked": "Claimed group 'Halabtech [Official Distributor]'",
+   "result": "Fetched page showed only 'Fck Tool' and 'Hydra Digital Actiavtion' groups; HalabTech group not visible (may need group filter). Header claims 'All Carriers Direct Source'.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "iRemoval PRO",
+   "url": "https://iremovalpro.com/resellers",
+   "what_was_checked": "Vendor reseller list for HalabTech",
+   "result": "Fetch error; not verified.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "World Agents' own stores (GSMFastest, KB GSM Store, MyUnlockShop, GSM Expert, GSM Unlock Father)",
+   "url": "https://www.gsmfastest.com/",
+   "what_was_checked": "site: searches for HalabTech-named groups",
+   "result": "Search index returned no pages from those domains naming HalabTech.",
+   "tool": "mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "Downstream stores",
+   "url": "https://mrunlockers.com/resellerpricing/server",
+   "what_was_checked": "Any store explicitly calling HalabTech its API 'source'",
+   "result": "None found; stores use 'Official Reseller HalabTech', 'HalabTech Server Credit', '(Instant - Auto Api)' wording only.",
+   "tool": "mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "GSM-Forum (forum.gsmhosting.com)",
+   "url": "https://forum.gsmhosting.com/vbb/f200/halabtech-tool-0-9-a-2760908",
+   "what_was_checked": "Official HalabTech threads mentioning sources",
+   "result": "Only HalabTech Tool release threads (2018, 2020) and a 2024 user thread about password-protected files; no supplier mentions.",
+   "tool": "mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "HalabTech company registration",
+   "url": "https://halabtech.com/",
+   "what_was_checked": "Registry / LinkedIn / Exa category:company",
+   "result": "No legal entity found; only a company-profile snippet (6 employees, Morocco/Syria).",
+   "tool": "mcp__Exa__web_search_exa"
+  }
+ ],
+ "new_leads": [
+  "XTP (xiaomitoolpro.com), FRP Service Tool (frpservice.com) and HW-Key (hwkey.com) use the same reseller-card template and list HalabTech first. Check whether they share a developer/panel and whether HalabTech is 'main seller' for a family of auth tools, which would make it a first-tier distributor.",
+  "iBoCloud (@iBoCloud), named in a relayed iRemoval PRO post as its 'exclusive partner' for reseller onboarding, is a candidate intermediate supplier for HalabTech's iRemoval credits.",
+  "Zeus Team (Zeus Tool / Scylla / Kratos plist) was a named 2023 upstream. Identify 'HEMRES' (possibly 'Hermes') as the fallback route.",
+  "mrunlockers.com and gsmunlockinfo.com carry identical HalabTech service text, including a shared typo. Check whether either is an API client of HalabTech or of the other. GSMUnlockInfo claims 'Official Distributor' for many tools at HalabTech-matching prices (possible peer or intermediate).",
+  "Post t.me/halabtech2/38045 ('directly available from me ... API access', 40 tools): search other GSM Telegram channels for identical text to find out whether it is a supplier's broadcast copied by HalabTech.",
+  "Sultankoo distributor panel (sultankoo.net/distributor/login; Qatar +97455005128): confirm HalabTech is a registered distributor.",
+  "AnonySHU lists HalabTech with Sudan number +249116472371. Map who holds it (compare agent 'Walid Tadmory' +249116988665).",
+  "Mohamad Al-Soliman (t.me/MohamadAlSoliman, +963997722349; agent for Sarmada/Dana): likely a HalabTech principal handling content sourcing.",
+  "Yemen agent يوسف المصعبي (+967773007778): possible link to the 'YEMEN SERVER BOX SERVICES' and 'CDMA YEMEN TOOL' groups.",
+  "LexusyPay and SentWallet: check ownership links to HalabTech."
+ ],
+ "open_questions": [
+  "Which providers are behind HalabTech's numbered 'Source 1#/2#/3#' services (Tecno/iTel/Infinix MDM, Honor FRP, Xiaomi CPID cert, Samsung FRP by IMEI)?",
+  "Is HalabTech's claim to be 'the direct source' for premium Tecno/iTel/Infinix MDM real in-house fulfilment, or an exclusive upstream?",
+  "Do the vendors of OnlineFRPTool, TSM Tool Pro and iRemoval PRO list HalabTech on their own reseller pages? HalabTech's claims are not yet vendor-verified.",
+  "Who operates EC Store, and who supplies the Syriatel/MTN/PayCell/Turkcell top-ups and gift cards?",
+  "Is the 'We are only a reseller' disclaimer on news.halabtech.com a deliberate statement or auto-generated template text?"
+ ]
+}

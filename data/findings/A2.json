@@ -1,0 +1,1084 @@
+{
+ "stream": "A2-vendors-longtail",
+ "tool_log": [
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: vendor reseller pages listing HalabTech; queries 'Halabtech distributor reseller tool','\"server.halabtech.com\" resellers','\"halabtech\" resellers list tool credits','\"htsupport\" reseller telegram tool','\"halabtech.cert@gmail.com\"' (6th query dropped by tool, max 5)",
+   "ok": true,
+   "note": "Only HalabTech-owned pages (server./pages/DISTRIBUTOR, /Offer) returned; no vendor pages"
+  },
+  {
+   "tool": "mcp__Exa__web_search_exa",
+   "input": "GSM unlock tool official resellers page listing HALABTECH Syria server.halabtech.com",
+   "ok": true,
+   "note": "Only HalabTech-owned pages/news/telegram; no vendor pages"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "hwkey.com/resellers, devicesavior.com/en/reseller, s-k-unlocer.com/distributors.html, oumsegsm.com/resellers",
+   "ok": true,
+   "note": "All 4 full pages list HalabTech (HW-Key Distributor; DeviceSavior WW Distributor/Reseller; SK Unlocker Syria; OumseGsm Distributor)"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"halabtech\" resellers OR distributors -site:halabtech.com",
+   "ok": true,
+   "note": "Leads: sfinder.app, piranhatool.com, turboschematics, pegasus-tools, z3x-team, uni-android UAT, hw-pro, panda-tools, mgunlocker, phoenixservicetool"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"info@halabtech.com\" OR \"@htsupport\" OR \"halabtech.cert@gmail.com\" -site:halabtech.com",
+   "ok": true,
+   "note": "Leads: beta.tfmtool, infinity-box buy, brutalforensic, hydradongle agents, ghostauthtool, gpt-tool agents, devicesavior"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: vendor sites listing HalabTech; queries '\"Halabtech\" distributor -site:halabtech.com','\"Halab Tech\" official reseller tool','\"server.halabtech.com\" distributor tool','\"HALABTECH\" Syria resellers credits'",
+   "ok": true,
+   "note": "Leads: dftpro reseller.php, hydradongle agents (Syria+Turkey), globalauthtool.com (Halab Tech DISTRIBUTOR), ghostauthtool.com, fastprovision 'Halabtech File Server [Official Distributor]'"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"server.halabtech.com\" reseller OR distributor OR agent -site:halabtech.com -site:gsmserver.com -site:facebook.com",
+   "ok": true,
+   "note": "Leads: trtools.pro, flexunlock, helloaiotool, dash.m-protool.net, flameauthtool.cloud, authflash, kgfrptool, gsmunbrick (Ameer Tool)"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Halab Tech\" distributor tool credits -site:halabtech.com -site:facebook.com -site:youtube.com",
+   "ok": true,
+   "note": "Lead: xiaomibdteam.net (Xiaomi BD Auth) lists Halab Tech; rest are downstream Dhru resellers selling HalabTech packages"
+  },
+  {
+   "tool": "mcp__Exa__web_search_exa",
+   "input": "Our official distributors and resellers: Halab Tech (WorldWide) - buy credits and activations for the auth tool",
+   "ok": true,
+   "note": "Lead: worldwideauth.com/Reseller (Halab Tech Distributor); rest HalabTech-owned"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "phoenixservicetool.com, trtools.pro/en/reseller, flexunlock.com/reseller.php, helloaiotool.com/reseller.html, dash.m-protool.net/reseller, flameauthtool.cloud/reseller.php, kgfrptool.com/index.php/resellers, mail.uni-android.com/resellers.php, gpt-tool.com/agents.html",
+   "ok": true,
+   "note": "8/9 list HalabTech; helloaiotool returned empty JS shell (re-scraped with Firecrawl)"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "piranhatool.com/reseller, sfinder.app/resellers, mgunlocker.com/resellers, globalauthtool.com, ghostauthtool.com, xiaomibdteam.net, worldwideauth.com/Reseller, panda-tools.net/resellers, gsmunbrick.com/ameer-tool/where-to-buy",
+   "ok": true,
+   "note": "7 list HalabTech in full text; globalauthtool rendered labels without names; xiaomibdteam list not rendered"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official reseller pages for TSM Tool, Fenix Utility Pro, Global Unlocker Pro, SamKey, DT Pro Tool",
+   "ok": true,
+   "note": "Found tsm-tool.com, samkey.org (has Resellers page); dftpro dealers; Fenix/DT Pro vendor pages not found"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official reseller pages for Pragmafix, CF-Tools, KEY-Tool, MobileSea, T-Tool Pro",
+   "ok": true,
+   "note": "Found mobileseaservice.net (partner regions incl. Syria); others not found"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official reseller pages for Hunter Unlocker, T-Unlock, Tira Unlocker, Mysterio FRP, Scorpion Tool",
+   "ok": true,
+   "note": "Found hunter-unlocker.com, tiraunlocker.com (Yemen); others not found"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official reseller pages for XM Auth, Ultra-Unlock Pro, GSMunlock, SimTool, RTC Tool",
+   "ok": true,
+   "note": "rtc-tool.com excerpt: 'HALABTECH Distributor WorldWide'; globalauthtool excerpt with names; others not found"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official reseller pages for MTK GoGo, AMT, KG Killer, Cerberus, Eagle Multi Tool",
+   "ok": true,
+   "note": "Found androidmultitool.com/resellers, kgkiller.com"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official reseller pages for Smart Frp Tool, Xyno, MH Unlocker Pro, Tera Tool, Galaxy Multi Tool",
+   "ok": true,
+   "note": "Found galaxymultitool.com, tera-tool.com"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official reseller pages for S-Tool Pro, Moto King Pro, UST, SamsungTool.us CellTool, X-Tool Pro",
+   "ok": true,
+   "note": "Found motokingprotool.com ('Buy now only from official resellers'), x-tool-pro.com, svr1.samsungtool.us"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official reseller pages for Q-Unlocker, Mi Pro Tool, xiaomiauth Anonymous, Apizu, AWT, RBM, Alien",
+   "ok": true,
+   "note": "Found xiaomiprotool.com (HalabTech Distributor), q-unlocker.com (HalabTech WW Distributor), androidwintool.com (Halabtech Reseller), apizutool.one reseller API, xiaomiauth.net"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "androidmultitool.com/resellers, kgkiller.com/reseller, galaxymultitool.com/resellers, tera-tool.com/resellers, motokingprotool.com/resellers, x-tool-pro.com/resellers, samkey.org/resellers, mobileseaservice.net/partners",
+   "ok": true,
+   "note": "AMT and SamKey full lists: HalabTech ABSENT. galaxymultitool empty JS shell. 5 URLs failed (CRAWL_NOT_FOUND/UNKNOWN)"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "tsm-tool.com/resellers, hunter-unlocker.com/Home/Reseller, rtc-tool.com, q-unlocker.com/Home/Reseller, xiaomiprotool.com/resellers_and_distributors, androidwintool.com/resellers, tiraunlocker.com, svr1.samsungtool.us",
+   "ok": true,
+   "note": "7/8 list HalabTech; tiraunlocker homepage has no list"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "halabtech resellers (\"Fenix Utility\" OR \"Global Unlocker\" OR Pragmafix OR \"DT Pro\" OR \"CF-Tools\" OR \"KEY-Tool\" OR \"T-Tool\")",
+   "ok": true,
+   "note": "Found pragmafix.net/purchasing, key-tool.com/home/resellers.php, t-tool-pro.net/our-resellers, global-unlocker-pro.com/Reseller"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "halabtech distributor (Mysterio OR Scorpion OR \"XM Auth\" OR \"Ultra-Unlock\" OR SimTool OR GSMunlock OR \"MTK GoGo\" OR \"KG Killer\" OR Cerberus) -site:halabtech.com",
+   "ok": true,
+   "note": "Found scptool.com/resellers.php snippet listing Halabtech; rest downstream Dhru stores"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "halabtech reseller (\"Eagle Multi\" OR \"Smart Frp\" OR Xyno OR \"MH Unlocker\" OR \"Tera Tool\" OR \"Galaxy Multi\" OR \"S-Tool\" OR \"Moto King\" OR \"Unlock Service Tool\" OR \"X-Tool\" OR Tira OR MobileSea) -site:halabtech.com",
+   "ok": true,
+   "note": "Only downstream Dhru stores; no new vendor pages"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "pragmafix.net/purchasing, key-tool.com/home/resellers.php, t-tool-pro.net/our-resellers, global-unlocker-pro.com/Reseller?lang=en, scptool.com/resellers.php, kgkiller.com, motokingprotool.com, x-tool-pro.com, mobileseaservice.net",
+   "ok": true,
+   "note": "Pragmafix, T-Tool Pro, Global Unlocker list HalabTech; key-tool list not rendered; scptool returned a version WITHOUT HalabTech (stale/cached; contradicted by live Firecrawl scrape)"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://scptool.com/resellers.php (maxAge 0)",
+   "ok": true,
+   "note": "Live page: Halabtech under 'Official Resellers', label 'Distributor/Reseller', World Wide / Middle East / Africa"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://helloaiotool.com/reseller.html (maxAge 0, waitFor 3000)",
+   "ok": true,
+   "note": "Halabtech Worldwide 'Authorized Distributor', WhatsApp +963992951910"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://galaxymultitool.com/resellers (maxAge 0, waitFor 3000)",
+   "ok": true,
+   "note": "HALAB TECH 'WorldWide - Distributor'"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://www.mobileseaservice.net/ (links)",
+   "ok": true,
+   "note": "Found partner page path /team"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "mobileseaservice.net/team, kgkiller.com/resellers, kgkiller.com/reseller.php, tera-tool.com/reseller, motokingprotool.com/reseller, tiraunlocker.com/resellers, tiraunlocker.com/distributor, x-tool-pro.com/reseller",
+   "ok": true,
+   "note": "MobileSea team: HALABTECH Distributor; KG Killer: Halab Tech Distributor/Reseller WW; x-tool-pro/reseller is a login panel; 5 URLs failed"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://key-tool.com/home/resellers.php (maxAge 0)",
+   "ok": true,
+   "note": "'Our Resellers' logo list includes 'HalabTech حلب تك'"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "official resellers distributors (\"Fenix Utility Pro\" OR \"DT Pro Tool\" OR \"CF-Tools\" OR \"Ultra Unlock Pro\" OR \"MH Unlocker Pro\" OR \"Xyno\" OR \"Eagle Multi Tool\" OR \"Mysterio\" OR \"MTK GoGo\" OR \"Cerberus Tool\")",
+   "ok": true,
+   "note": "Found mhunlocker.com/Resellers.html, cftoolsid.com terms, cerberustoolpro.com"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "mhunlocker.com/Resellers.html, cerberustoolpro.com, cftoolsid.com/generic/terms_conditions, xiaomiauth.net, apizutool.one/reseller-api/docs.php, apizutool.one",
+   "ok": true,
+   "note": "MH Unlocker: HalabTech ABSENT; CF-Tools terms describe Distributor->Reseller tiers with DHRU API; Apizu offers vendor Reseller API for Dhru; cerberus timed out"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "objective: official sites/reseller pages for Fenix Utility Pro, DT Pro Tool, Ultra Unlock Pro, Xyno, S-Tool Pro",
+   "ok": true,
+   "note": "DT Pro official site = emmcpro.com (via fenix-gsm.com listing); Fenix Utility Pro official site not found"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "emmcpro.com, emmcpro.com/Resellers, emmcpro.com/Distributors, tiraunlocker.com/Home/Reseller, tera-tool.com",
+   "ok": true,
+   "note": "No reseller lists rendered (emmcpro SPA returns home; tira 404; tera homepage only template text)"
+  }
+ ],
+ "findings": [
+  {
+   "tid": "A2-01",
+   "entity": "HW-Key Tool",
+   "entity_website": "hwkey.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "HW-Key -> HalabTech",
+   "halabtech_groups_affected": [
+    "HW-Key Tool Credits"
+   ],
+   "claim": "HW-Key's official reseller page lists Halabtech first, labelled Distributor, with server.halabtech.com, @htsupport and info@halabtech.com.",
+   "source_url": "https://hwkey.com/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "Halabtech About: Halabtech (Distributor) Web: server.halabtech.com Telegram: @htsupport",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Verifies Round-4 smoke-test lead; Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Other distributors: AppleUnlockers (Gsm Anik), Martlobs GSM, AdyUnlocker, Seydaxsoft (kgunlocker.com), Ra1n Unlocker; resellers: Easy GSM Server, GsmNinja, Punto Digital, UZB Unlocker, Unlock724."
+  },
+  {
+   "tid": "A2-02",
+   "entity": "DeviceSavior Tool",
+   "entity_website": "devicesavior.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "DeviceSavior -> HalabTech",
+   "halabtech_groups_affected": [
+    "DeviceSavior Tool"
+   ],
+   "claim": "DeviceSavior's Official Reseller page lists Halab Tech first as 'World Wide Distributor/Reseller'.",
+   "source_url": "https://devicesavior.com/en/reseller",
+   "source_type": "Vendor official",
+   "excerpt": "Halab Tech World Wide Distributor/Reseller Website: www.server.halabtech.com Phone: - Email: info@halabtech.com",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Verifies Round-4 smoke-test lead; Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Label is 'Distributor/Reseller'. ~35 others incl. Gem-Flash, GSMFastest, GsmServer, GsmNinja, Azaad Unlockers, server.devicesavior.com (vendor's own WorldWide Distributor)."
+  },
+  {
+   "tid": "A2-03",
+   "entity": "SK Unlocker",
+   "entity_website": "s-k-unlocer.com",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "SK Unlocker -> HalabTech",
+   "halabtech_groups_affected": [
+    "SK.UNLOCKER"
+   ],
+   "claim": "SK Unlocker's 'Global Resellers Network' (Official SK Unlocker partners) lists HalabTech (Syria) first.",
+   "source_url": "https://s-k-unlocer.com/distributors.html",
+   "source_type": "Vendor official",
+   "excerpt": "Global Resellers Network Official SK Unlocker partners worldwide ### HalabTech Syria",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Verifies Round-4 smoke-test lead; Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Page URL says 'distributors' but heading says Resellers; no tiering. Mostly Egyptian partners (gem-flash etc.). A separate unnamed entry 'وكيل سوريا الرسمي' (official Syria agent) also exists - identity unknown, may or may not be HalabTech."
+  },
+  {
+   "tid": "A2-04",
+   "entity": "OumseGsm Tool Pro",
+   "entity_website": "oumsegsm.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "OumseGsm -> HalabTech",
+   "halabtech_groups_affected": [
+    "OumseGsm Tool"
+   ],
+   "claim": "OumseGsm's Official Network shows only 2 Distributors: GsmGenesis and HalabTech (Halabtech.cert@gmail.com); 37 resellers below.",
+   "source_url": "https://oumsegsm.com/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "HalabTech WorldWide · WorldWide ✈ Telegram 🌐 Website 📧 Email (Halabtech.cert@gmail.com)",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Verifies Round-4 smoke-test lead; Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Tier: top (Distributor, 1 of 2). Vendor->distributor model makes direct purchase LIKELY."
+  },
+  {
+   "tid": "A2-05",
+   "entity": "TSM Tool / TSM Tool Pro (Turbo Service Mobile)",
+   "entity_website": "tsm-tool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "TSM Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "TSM TOOL"
+   ],
+   "claim": "tsm-tool.com 'Official Partners' lists Halab Tech in the 'Official Distributors' section covering Syria/Middle East/Algeria/Morocco/World Wide.",
+   "source_url": "https://tsm-tool.com/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "⭐ Official Distributors ... ### Halab Tech location_on Syria /Middle East /Algeria /Morocco /World Wide",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Other official distributors: FRP King Server, adyunlocker, Gsm Africa, Gsm Fastest, GsmUnlock info, Gsm Server, Clean Unlocker, AsUnlocker, Fast Provision, Martlobs GSM, Ethio Server, Active Unlocker, Ohidera. tsm-tool.net and tsmtoolpro.com are third-party 'official distributor' sites, not the vendor."
+  },
+  {
+   "tid": "A2-06",
+   "entity": "Phoenix Service Tool",
+   "entity_website": "phoenixservicetool.com",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "Phoenix Service Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "Phoenix Service Tool"
+   ],
+   "claim": "Phoenix Service Tool's homepage 'Official Resellers' section lists only two resellers: Server.halabtech.com (first) and Asunlocker.com.",
+   "source_url": "https://phoenixservicetool.com/",
+   "source_type": "Vendor official",
+   "excerpt": "## Official Resellers Purchase credits from our trusted and verified resellers worldwide. ### Server.halabtech.com ### Asunlocker.com",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Only 2 sellers worldwide -> HalabTech is a top-tier channel; direct purchase from vendor LIKELY."
+  },
+  {
+   "tid": "A2-07",
+   "entity": "Global Unlocker Pro",
+   "entity_website": "global-unlocker-pro.com",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "Global Unlocker Pro -> [distributor?] -> HalabTech",
+   "halabtech_groups_affected": [
+    "Global Unlocker Pro",
+    "Global Unlocker Tool Credits"
+   ],
+   "claim": "Global Unlocker Pro lists HALABTECH only among regional resellers; the 'Official store & distributors' are Global Store, ADY Unlocker, Hali Unlock, GSM Server and Fast Provision Team.",
+   "source_url": "https://global-unlocker-pro.com/Reseller?lang=en",
+   "source_type": "Vendor official",
+   "excerpt": "You can only buy credits or activate licenses through authorized agents.",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports an intermediate-supplier hypothesis for this line (HalabTech is not a distributor)",
+   "notes": "HalabTech is reseller-tier here, so ADY Unlocker / Hali Unlock / GsmServer / Fast Provision are candidate intermediate suppliers (UNKNOWN which). Anomaly: entry 'All Unlocker' (allunlocker.com, WhatsApp +962789940944) is listed with Email: info@halabtech.com. Vendor office: 'YE · Global Office' (Yemen)."
+  },
+  {
+   "tid": "A2-08",
+   "entity": "TR Tools PRO",
+   "entity_website": "trtools.pro",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "TR Tools -> HalabTech",
+   "halabtech_groups_affected": [
+    "TR TOOLS",
+    "HTD"
+   ],
+   "claim": "Trtools PRO's reseller page lists HALABTECH (country ALL) as the second entry, with server.halabtech.com/contactus links.",
+   "source_url": "https://www.trtools.pro/en/reseller",
+   "source_type": "Vendor official",
+   "excerpt": "### HALABTECH ALL ALL https://server.halabtech.com/contactus",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Page has Reseller/Distributor toggles; text extraction cannot tell which tab HalabTech sits under, so tier is ambiguous. HalabTech also sells a 'HALABTECH PLATINUM + Tr Tool' bundle (HTD offer)."
+  },
+  {
+   "tid": "A2-09",
+   "entity": "Pragmafix Schematics",
+   "entity_website": "pragmafix.net",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Pragmafix -> HalabTech",
+   "halabtech_groups_affected": [
+    "Pragmafix"
+   ],
+   "claim": "Pragmafix's Purchasing page lists server.halabtech.com under DISTRIBUTOR (after GsmEasy) and again as HALABTECH under RESELLER.",
+   "source_url": "https://pragmafix.net/purchasing/",
+   "source_type": "Vendor official",
+   "excerpt": "## DISTRIBUTOR ... https://server.halabtech.com/ telegram: https://telegram.me/htsupport whatstapp: https://server.halabtech.com/contactus",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Distributors: GsmEasy (imei.us / gsmeasyshop.com), HalabTech, FRTech, GenuineUnlocker. Vendor is Micromedia, Malang, Indonesia."
+  },
+  {
+   "tid": "A2-10",
+   "entity": "KEY-Tool",
+   "entity_website": "key-tool.com",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "KEY-Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "KEY-Tool"
+   ],
+   "claim": "KEY-Tool's 'Our Resellers' page includes a HalabTech (حلب تك) logo card.",
+   "source_url": "https://key-tool.com/home/resellers.php",
+   "source_type": "Vendor official",
+   "excerpt": "## Our Resellers ... HalabTech حلب تك",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Exa fetch could not render the list; Firecrawl live scrape could. List is unlabelled (no tiers); haliunlock is first. Vendor sales team is in Yemen (+967736002600). HalabTech sells 'Make & Recharged Distributor 200/500/1000 Credit [Auto API]', so it can create KEY-Tool sub-distributor accounts. That points to a high-tier account but does not prove it."
+  },
+  {
+   "tid": "A2-11",
+   "entity": "MobileSea Service Tool (MST)",
+   "entity_website": "mobileseaservice.net",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "MobileSea -> HalabTech",
+   "halabtech_groups_affected": [
+    "MobileSea"
+   ],
+   "claim": "MobileSea's Team & Partners page lists HALABTECH as a Distributor for Turkey, Syria, Arabic Countries and Worldwide.",
+   "source_url": "https://www.mobileseaservice.net/team",
+   "source_type": "Vendor official",
+   "excerpt": "### HALABTECH Distributor — Turkey · Syria · Arabic Countries / Worldwide",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "One of 7 distributors (GSM Genesis, GSM Africa, HalabTech, Vikas Bhadu, Dicky GSM Server Indo, Khaine Zaw Hein, Nguyen Dien). Developers include Gautam Kumar."
+  },
+  {
+   "tid": "A2-12",
+   "entity": "UNI-Android Tool (UAT PRO)",
+   "entity_website": "uni-android.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "UAT -> HalabTech",
+   "halabtech_groups_affected": [
+    "UNI Tool"
+   ],
+   "claim": "UAT's 'Distributors & Resellers Official' page lists HALABTECH first and tells buyers to buy only from these or the official web shop.",
+   "source_url": "https://mail.uni-android.com/resellers.php",
+   "source_type": "Vendor official",
+   "excerpt": "Buy only from Official Distributors & Resellers or from the Official Web Shop. HALABTECH - Halabtech - Worldwide",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Unlabelled list; HalabTech is first. Others: Adyunlocker, Gsm Server, GSM-Fastest, GsmNinja, eSimUnlocker, Gsm Easy."
+  },
+  {
+   "tid": "A2-13",
+   "entity": "T-Tool Pro",
+   "entity_website": "t-tool-pro.net",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "T-Tool Pro -> GSM T-Tool (sole distributor)? -> HalabTech",
+   "halabtech_groups_affected": [
+    "T-TOOL PRO"
+   ],
+   "claim": "T-Tool Pro names a single Official Worldwide Distributor (GSM T-Tool) and lists Halabtech as '#2 Worldwide Reseller'.",
+   "source_url": "https://t-tool-pro.net/our-resellers",
+   "source_type": "Vendor official",
+   "excerpt": "⭐ Official Worldwide Distributor ## GSM T-Tool ... #2 Worldwide Reseller Halabtech +905300229173 hosamkashto@gmail.com",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Single-distributor model: evidence for a possible intermediate supplier (GSM T-Tool) for this line",
+   "notes": "New HalabTech identifiers: +905300229173 and hosamkashto@gmail.com (also used on Xiaomi Pro Tool and AuthFlash). Whether resellers must buy through GSM T-Tool is not stated: UNKNOWN."
+  },
+  {
+   "tid": "A2-14",
+   "entity": "Hunter Unlocker Pro",
+   "entity_website": "hunter-unlocker.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Hunter Unlocker -> HalabTech",
+   "halabtech_groups_affected": [
+    "Hunter Unlocker"
+   ],
+   "claim": "Hunter Unlocker lists 'HALBTECH / HALAB TECH Server' as one of only 3 WorldWide Distributors and says agents may buy only through official distributors.",
+   "source_url": "https://www.hunter-unlocker.com/Home/Reseller",
+   "source_type": "Vendor official",
+   "excerpt": "contact one of the official distributors only , we do not have direct sales to agents. ##### HALBTECH HALAB TECH Server WorldWide Distributor",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Strong support for vendor->HalabTech direct supply (HalabTech is itself one of the official distributors that all agents must buy from)",
+   "notes": "Distributors: HALBTECH (HalabTech), Easy Team, HALIUNLOCK (Yemen). Same Yemen-built site template as Q-Unlocker and Global Unlocker Pro."
+  },
+  {
+   "tid": "A2-15",
+   "entity": "Q-Unlocker Pro",
+   "entity_website": "q-unlocker.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Q-Unlocker -> HalabTech",
+   "halabtech_groups_affected": [
+    "Q-UNLOCKER Tool"
+   ],
+   "claim": "Q-Unlocker lists HalabTech as one of 3 WorldWide Distributors (with GSM-T-TOOL and Hali-Unlock); it does not sell directly to agents.",
+   "source_url": "https://www.q-unlocker.com/Home/Reseller",
+   "source_type": "Vendor official",
+   "excerpt": "##### HalabTech halabtech WorldWide Distributor +90507058 5173 Spoken Language : Arabic , English",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Strong support for direct vendor supply to HalabTech",
+   "notes": "Same 'distributors only, no direct sales to agents' policy as Hunter Unlocker. Phone +905070585173 matches HalabTech's Turkish number."
+  },
+  {
+   "tid": "A2-16",
+   "entity": "Scorpion Tool Pro",
+   "entity_website": "scptool.com",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "Scorpion Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "Scorpion Tool"
+   ],
+   "claim": "On the live page HalabTech is the first entry under 'Official Resellers', labelled 'Distributor/Reseller' (World Wide / Middle East / Africa).",
+   "source_url": "https://scptool.com/resellers.php",
+   "source_type": "Vendor official",
+   "excerpt": "## Official Resellers ... ### Halabtech World Wide / Middle East / Africa Distributor/Reseller",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Partially contradicts the Exa-cached copy (Exa fetch showed an older/different list WITHOUT HalabTech); the live Firecrawl scrape (maxAge 0) is authoritative",
+   "notes": "Worldwide Distributors (live): Gsm Amir Hossain (cleanunlocker.com), FAST PROVISION TEAM, Leope-GSM, Amin Khan (akgsmzone.com), plus developer James Damian. HalabTech sits in the reseller section, so a distributor intermediary is possible: UNKNOWN."
+  },
+  {
+   "tid": "A2-17",
+   "entity": "RTC Tool",
+   "entity_website": "rtc-tool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "RTC Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "RTC Tool"
+   ],
+   "claim": "RTC-Tool's reseller list includes HALABTECH labelled 'Distributor WorldWide' (info@halabtech.com).",
+   "source_url": "https://rtc-tool.com/",
+   "source_type": "Vendor official",
+   "excerpt": "HALABTECH Distributor WorldWide",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_search + mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Label taken from the Parallel page excerpt; the Exa full fetch of the redesigned page shows HALABTECH (info@halabtech.com) with no visible label. Other distributors: PLUK-GSM (WorldWide), Hanuman GSM, Smart Unlock, S-Unlock Server, PowerUnlock; adyunlocker listed."
+  },
+  {
+   "tid": "A2-18",
+   "entity": "KG Killer Tool",
+   "entity_website": "kgkiller.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "KG Killer -> HalabTech",
+   "halabtech_groups_affected": [
+    "KG KILLER TOOL"
+   ],
+   "claim": "KG Killer's 'Official Resellers & Distributors' page lists Halab Tech first as 'Distributor/Reseller Worldwide'.",
+   "source_url": "https://kgkiller.com/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "#### Halab Tech Distributor/Reseller Worldwide #### FRP King Server BIG Distributor/Reseller",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "FRP King Server and Gsm Africa are labelled 'BIG Distributor/Reseller' (higher tier label than HalabTech)."
+  },
+  {
+   "tid": "A2-19",
+   "entity": "Galaxy Multi Tool (GalaxyUnlock)",
+   "entity_website": "galaxymultitool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Galaxy Multi Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "Galaxy Multi Tool"
+   ],
+   "claim": "Galaxy Multi Tool's Distributors & Resellers page lists HALAB TECH as 'WorldWide - Distributor'.",
+   "source_url": "https://galaxymultitool.com/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "### HALAB TECH WorldWide - Distributor",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "JS-rendered: Exa fetch returned an empty shell. Other distributors: HeartUnlocks, GsmFastPro, GsmToolWorld, Smart Unlocker."
+  },
+  {
+   "tid": "A2-20",
+   "entity": "Hello AIO Tool",
+   "entity_website": "helloaiotool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Hello AIO -> HalabTech",
+   "halabtech_groups_affected": [
+    "Hello AIO Tool Activation"
+   ],
+   "claim": "Hello AIO's authorized-reseller page lists Halabtech (Worldwide) as 'Authorized Distributor', WhatsApp +963992951910.",
+   "source_url": "https://helloaiotool.com/reseller.html",
+   "source_type": "Vendor official",
+   "excerpt": "Halabtech Worldwide server.halabtech.com 24/7 Support English, Arabic Authorized Distributor",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "3 Authorized Distributors: Hellounlocker, FixMobileUnlock, Halabtech; the rest are resellers."
+  },
+  {
+   "tid": "A2-21",
+   "entity": "AndroidWinTool (AWT)",
+   "entity_website": "androidwintool.com",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "AWT -> [Hiunlock/adyunlocker?] -> HalabTech",
+   "halabtech_groups_affected": [
+    "AWT - AndroidWinTool"
+   ],
+   "claim": "AndroidWinTool lists Halabtech as 'Reseller' under Global Resellers; only Hiunlock and adyunlocker are 'Global - Main Resellers' (Distributor / Reseller).",
+   "source_url": "https://androidwintool.com/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "##### Global Resellers ##### Easy-Unlocker Reseller ##### Iraq Server Reseller ##### Halabtech Reseller",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Reseller-tier listing; possible intermediary (Hiunlock/adyunlocker) - UNKNOWN",
+   "notes": "Vendor based in Sheung Wan, Hong Kong (+44 7450 036 485)."
+  },
+  {
+   "tid": "A2-22",
+   "entity": "CellTool (SamsungTool.us)",
+   "entity_website": "samsungtool.us",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "CellTool -> Smart Tool Worldwide (sole distributor)? -> HalabTech",
+   "halabtech_groups_affected": [
+    "SamsungTool.us CellTool"
+   ],
+   "claim": "CellTool names one Official Distributor (Smart Tool Worldwide) and lists Halabtech among 'Authorized Resellers & Technical Partners'.",
+   "source_url": "https://svr1.samsungtool.us/",
+   "source_type": "Vendor official",
+   "excerpt": "🏆 Official Distributors ... 🔸 Smart Tool Worldwide +48 732 097 282 @smartunlock_tool",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Single-distributor model: evidence for a possible intermediate supplier (Smart Tool Worldwide)",
+   "notes": "Halabtech entry: Telegram htsupport, server.halabtech.com. ~35 resellers incl. GsmServer, GsmEasy, Adyunlocker, GsmGenesis. HalabTech's catalog also has a 'Smart Tool Pro Tool' group; a link to 'Smart Tool Worldwide' is a lead only."
+  },
+  {
+   "tid": "A2-23",
+   "entity": "Xiaomi Pro Tool (GautamGreat)",
+   "entity_website": "xiaomiprotool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Xiaomi Pro Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "XTP – Xiaomi Tool Pro",
+    "Mi Pro Tool"
+   ],
+   "claim": "Xiaomi Pro Tool's 'Official Resellers and Distributors' lists HalabTech as Distributor (+905300229173, @HTSupport).",
+   "source_url": "https://www.xiaomiprotool.com/resellers_and_distributors",
+   "source_type": "Vendor official",
+   "excerpt": "HalabTech Distributor HalabTech HalabTech +905300229173 @HTSupport",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_search + mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Which catalog group is this tool is uncertain: probably 'XTP – Xiaomi Tool Pro' (could be 'Mi Pro Tool'). GsmServer is also a distributor."
+  },
+  {
+   "tid": "A2-24",
+   "entity": "Global Auth Tool",
+   "entity_website": "globalauthtool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Global Auth Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "Global Auth Tool"
+   ],
+   "claim": "Global Auth Tool's 'Our Distributors & Resellers' lists Halab Tech first as DISTRIBUTOR (Worldwide).",
+   "source_url": "https://www.globalauthtool.com/",
+   "source_type": "Vendor official",
+   "excerpt": "Reseller 1 Halab Tech DISTRIBUTOR Country: Worldwide.",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "STRONG",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "The Exa full fetch rendered only labels, not names, so the name-label pairing comes from the Parallel page excerpt. 19 of 20 partners are labelled DISTRIBUTOR."
+  },
+  {
+   "tid": "A2-25",
+   "entity": "Piranha Tool",
+   "entity_website": "piranhatool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Piranha Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "Piranha Tool"
+   ],
+   "claim": "Piranha Tool's 'Our Official Distributors' section lists HalabTech first (WorldWide), then GsmServer.",
+   "source_url": "https://piranhatool.com/reseller",
+   "source_type": "Vendor official",
+   "excerpt": "## Our Official Distributors ... ### HalabTech Distributor 🌍 WorldWide Web server.halabtech.com/ E-mail info@halabtech.com Skype htsupport",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Other distributors: GsmServer, GSM-FASTEST, acilserver, Gsm Service (Armenia), GsmGenesis, etc."
+  },
+  {
+   "tid": "A2-26",
+   "entity": "MG Unlocker Pro",
+   "entity_website": "mgunlocker.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "MG Unlocker -> HalabTech",
+   "halabtech_groups_affected": [
+    "MG Unlock Pro"
+   ],
+   "claim": "MG Unlocker Pro names Halabtech as one of three 'Official Distributor' entries (with GsmGenesis and Adyunlocker).",
+   "source_url": "https://mgunlocker.com/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "⭐ Official Distributor ### Halabtech WorldWide https://server.halabtech.com/ @htsupport",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Vendor states 'Full API access, your own user panel' for partners."
+  },
+  {
+   "tid": "A2-27",
+   "entity": "FlexUnlock Tool",
+   "entity_website": "flexunlock.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "FlexUnlock -> HalabTech",
+   "halabtech_groups_affected": [
+    "FlexUnlock Tool"
+   ],
+   "claim": "FlexUnlock lists HALABTECH SERVER first among its 'BIG Distributor(s)'.",
+   "source_url": "https://flexunlock.com/reseller.php",
+   "source_type": "Vendor official",
+   "excerpt": "## BIG Distributor(s) ## HALABTECH SERVER BIG Distributor SR htsupport info@halabtech.com https://server.halabtech.com",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Highest tier on the page."
+  },
+  {
+   "tid": "A2-28",
+   "entity": "M-PRO TOOL",
+   "entity_website": "m-protool.net",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "M-PRO -> HalabTech",
+   "halabtech_groups_affected": [
+    "M-PRO TOOL"
+   ],
+   "claim": "M-PRO TOOL's 'List of Official Resellers' includes HALABTECH.",
+   "source_url": "https://dash.m-protool.net/reseller",
+   "source_type": "Vendor official",
+   "excerpt": "### HALABTECH - 🌐 server.halabtech.com/ - 📱 server.halabtech.com/contactus - 💬 @htsupportl",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Telegram handle misspelt '@htsupportl' on vendor page."
+  },
+  {
+   "tid": "A2-29",
+   "entity": "FLAME AUTH TOOL",
+   "entity_website": "flameauthtool.cloud",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "Flame Auth -> HalabTech",
+   "halabtech_groups_affected": [
+    "FLAME AUTH TOOL"
+   ],
+   "claim": "Flame Auth Tool's 'Our Trusted Resellers' lists HALAB TECH with the country field 'Distributor/Reseller WorldWide'.",
+   "source_url": "https://flameauthtool.cloud/reseller.php",
+   "source_type": "Vendor official",
+   "excerpt": "##### HALAB TECH Country: Distributor/Reseller WorldWide server.halabtech.com @htsupport",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Also lists NTC GSM 'Turkey-Syria Distributor' (a possible regional peer)."
+  },
+  {
+   "tid": "A2-30",
+   "entity": "KGFRP Tool",
+   "entity_website": "kgfrptool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "KGFRP -> HalabTech",
+   "halabtech_groups_affected": [
+    "KG Frp Tool"
+   ],
+   "claim": "KGFRP Tool's Official Resellers page lists Halabtech first, labelled [Distributor].",
+   "source_url": "https://www.kgfrptool.com/index.php/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "### Halabtech Halabtech [Distributor] - server.halabtech.com - @htsupport - Contact Us Page - info@halabtech.com",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Also lists syrgsm.com (Syria, +963) as Distributor: a possible Syrian peer."
+  },
+  {
+   "tid": "A2-31",
+   "entity": "GPT-PRO Tool",
+   "entity_website": "gpt-tool.com",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "GPT-PRO -> HalabTech",
+   "halabtech_groups_affected": [
+    "GPT-PRO Tool"
+   ],
+   "claim": "GPT-PRO's agents page lists only two agents: Crown-Server (Sudan) and Halab Tech, both 'Reseller WorldWide'.",
+   "source_url": "https://www.gpt-tool.com/agents.html",
+   "source_type": "Vendor official",
+   "excerpt": "### Halab Tech Reseller WorldWide server.halabtech.com",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Egyptian vendor (Mohamed Raafat, Hossam Eldin Mostafa)."
+  },
+  {
+   "tid": "A2-32",
+   "entity": "S-Finder app",
+   "entity_website": "sfinder.app",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "S-Finder -> HalabTech",
+   "halabtech_groups_affected": [
+    "S-FINDER APP"
+   ],
+   "claim": "S-Finder's resellers page lists HALABTECH (WorldWide); the search snippet labels it Distributor.",
+   "source_url": "https://sfinder.app/resellers",
+   "source_type": "Vendor official",
+   "excerpt": "HALABTECH. HALABTECH. Distributor. Mobile: +249116472371. Email: halabtech.cert@gmail.com.",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Firecrawl__firecrawl_search + mcp__Exa__web_fetch_exa",
+   "confidence": "STRONG",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "The full fetch confirms the HALABTECH WorldWide entry but not the label. Anomaly: the phone listed for HALABTECH is +249116472371 (a Sudanese number)."
+  },
+  {
+   "tid": "A2-33",
+   "entity": "Ghost Auth Tool",
+   "entity_website": "ghostauthtool.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Ghost Auth -> HalabTech",
+   "halabtech_groups_affected": [
+    "Ghost Auth Tool"
+   ],
+   "claim": "Ghost Auth Tool's 'Distributors & Resellers' lists Halab Tech first as Distributor (WorldWide, +963992951910).",
+   "source_url": "https://www.ghostauthtool.com/",
+   "source_type": "Vendor official",
+   "excerpt": "### Halab Tech Distributor 🌐WorldWide 📞+963992951910",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": ""
+  },
+  {
+   "tid": "A2-34",
+   "entity": "WorldWideAuth (Xiaomi)",
+   "entity_website": "worldwideauth.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "WorldWideAuth -> HalabTech",
+   "halabtech_groups_affected": [
+    "Worldwide Auth Xiaomi"
+   ],
+   "claim": "WorldWideAuth's reseller page lists Halab Tech first as 'Distributor for All Country (Worldwide)'.",
+   "source_url": "https://worldwideauth.com/Reseller",
+   "source_type": "Vendor official",
+   "excerpt": "##### Halab Tech Distributor Distributor for All Country (Worldwide) (Asia EU IN Global).",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Co-distributors include GSM-T-TOOL, Iraq Server, Martlobs, DarknessGsm, and 'Murat (GSM NET SUPPORT)' for Turkey/Syria."
+  },
+  {
+   "tid": "A2-35",
+   "entity": "Xiaomi BD Auth Tool",
+   "entity_website": "xiaomibdteam.net",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "BD Auth -> HalabTech",
+   "halabtech_groups_affected": [
+    "BD XIAOMI AUTH TOOL"
+   ],
+   "claim": "Xiaomi BD Auth Tool's 'Our Distributors & Resellers' section shows Halab Tech first.",
+   "source_url": "https://xiaomibdteam.net/",
+   "source_type": "Vendor official",
+   "excerpt": "## Our Distributors & Resellers Halab Tech ... Hellounlocker Activeunlocker Fix unlocker",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "confidence": "STRONG",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Exa full fetch did not render the partner block; section heading is \"Our Distributors & Resellers\" and tier label is not visible, so recorded conservatively as reseller (may be distributor)."
+  },
+  {
+   "tid": "A2-36",
+   "entity": "Panda Tools",
+   "entity_website": "panda-tools.net",
+   "role_for_halabtech": "Official Reseller (vendor-listed)",
+   "direction": "Panda Tools -> [ADY Unlocker?] -> HalabTech",
+   "halabtech_groups_affected": [
+    "Panda Tools"
+   ],
+   "claim": "Panda Tools lists HALABTECH as 'Reseller'; ADY Unlocker is the only 'Distribuitor'.",
+   "source_url": "https://www.panda-tools.net/resellers/",
+   "source_type": "Vendor official",
+   "excerpt": "## ADY Unlocker Distribuitor ... ## HALABTECH Reseller",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Reseller-tier listing under a single distributor (ADY Unlocker): weak evidence of an intermediate supplier",
+   "notes": "US vendor (NY)."
+  },
+  {
+   "tid": "A2-37",
+   "entity": "Ameer Tool (GSMUnbrick)",
+   "entity_website": "gsmunbrick.com",
+   "role_for_halabtech": "Official Distributor (vendor-listed)",
+   "direction": "Ameer Tool -> HalabTech",
+   "halabtech_groups_affected": [
+    "Ameer Tool (Hardware Tool)"
+   ],
+   "claim": "Ameer Tool's 'Where to Buy' page lists server.halabtech.com as 'Distributor/Reseller WorldWide' directly after the vendor's own worldwide distributor.",
+   "source_url": "http://gsmunbrick.com/ameer-tool/where-to-buy",
+   "source_type": "Vendor official",
+   "excerpt": "Distributor/Reseller WorldWide https://server.halabtech.com/ telegram: https://telegram.me/htsupport",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports 'HalabTech is a vendor-authorised channel'; does NOT prove a direct API link",
+   "notes": "Syrian-origin tool (mahmoud takieldeen, +963)."
+  }
+ ],
+ "negative_findings": [
+  {
+   "entity": "SamKey",
+   "url": "https://samkey.org/resellers",
+   "what_was_checked": "Full public reseller list (Exa web_fetch, ~40 entries)",
+   "result": "HalabTech ABSENT. Worldwide distributors: GsmEasy (imei.us) and SiRoYa (Dubai). Resellers include GsmGenesis, GsmServer, Acil, KhaledGsm, SimSim Electronics. HalabTech sells 8 'SamKey Services' items, so it must source them via an intermediary (UNKNOWN which; GsmEasy/GsmServer are candidates).",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Android Multi Tool (AMT)",
+   "url": "https://www.androidmultitool.com/resellers",
+   "what_was_checked": "Full Distributors & Resellers page (Exa web_fetch)",
+   "result": "HalabTech ABSENT. Only 3 distributors: GSM Credit, GSM Genesis, Ady Unlocker (androidmultitool.org is an 'authorised reseller operated by GsmGenesis'). HalabTech sells 4 AMT items, so an intermediary is LIKELY (one of these three).",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "MH Unlocker Pro",
+   "url": "https://www.mhunlocker.com/Resellers.html",
+   "what_was_checked": "Full Official Team & Partners page (Exa web_fetch)",
+   "result": "HalabTech ABSENT. Super Distributor: iUnlocking Store. Distributors: GsmFastest, Gsm Africa, Gsm Tech Africa, Leope-Gsm, Infinity-Box. Resellers: Unlock Easy, GSM PAK, Clean Unlocker etc. HalabTech's 'MH Unlocker Pro' credits (API) must come via an intermediary.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Scorpion Tool Pro (cached copy)",
+   "url": "https://scptool.com/resellers.php",
+   "what_was_checked": "Exa web_fetch copy of the reseller page",
+   "result": "Cached/stale version lists distributors Gsm Anik, James Damian, Gsm Amir Hossain and resellers without HalabTech. Superseded by the live Firecrawl scrape, which DOES list Halabtech (see A2-16).",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "DT Pro Tool (DTpro / emmcpro)",
+   "url": "https://emmcpro.com/ ; /Resellers ; /Distributors",
+   "what_was_checked": "Vendor site pages",
+   "result": "INCONCLUSIVE: SPA returns homepage text only; no reseller list retrievable. Downstream Dhru sites advertise 'DT Pro Tool [OFFICIAL DISTRIBUTOR]'.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Tera Tool",
+   "url": "https://tera-tool.com/ (+ /resellers, /reseller)",
+   "what_was_checked": "Homepage (template text) and reseller paths",
+   "result": "INCONCLUSIVE: the 'Resellers' nav exists but /resellers errored and /reseller timed out; the homepage has no list.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Moto King Pro",
+   "url": "https://www.motokingprotool.com/ (+ /resellers, /reseller)",
+   "what_was_checked": "Homepage and reseller paths",
+   "result": "INCONCLUSIVE: homepage says 'Buy now only from official resellers' but the reseller list was not retrievable (404 / source unavailable).",
+   "tool": "mcp__Parallel_Search__web_search + mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "X-Tool Pro",
+   "url": "https://x-tool-pro.com/reseller",
+   "what_was_checked": "Reseller path",
+   "result": "INCONCLUSIVE: /reseller is a reseller login panel; no public list found.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Tira Unlocker",
+   "url": "https://www.tiraunlocker.com/ (+ /resellers, /distributor, /Home/Reseller)",
+   "what_was_checked": "Homepage and guessed list paths",
+   "result": "INCONCLUSIVE: homepage (Yemen, Ibb) has DISTRIBUTOR/RESELLERS nav but the list pages were not found.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Cerberus Tool Pro",
+   "url": "https://cerberustoolpro.com/",
+   "what_was_checked": "Homepage fetch",
+   "result": "INCONCLUSIVE: Exa live-crawl timeout.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Xiaomi Anonymous Tool",
+   "url": "http://xiaomiauth.net/",
+   "what_was_checked": "Homepage",
+   "result": "INCONCLUSIVE: no reseller list on page (HalabTech's catalog item references xiaomiauth.org).",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Apizu Tool",
+   "url": "https://apizutool.one/ ; https://apizutool.one/reseller-api/docs.php",
+   "what_was_checked": "Homepage + Reseller API docs",
+   "result": "No reseller list. The vendor (Dar es Salaam, Tanzania) offers its own Reseller API for Dhru Fusion ('Other Fusion'), so direct vendor API supply to HalabTech is POSSIBLE but unproven. Homepage notes '[Alien] Available' (possible link to HalabTech's 'Alien tool' group).",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "CF-Tools (RBW-Tech)",
+   "url": "https://cftoolsid.com/generic/terms_conditions",
+   "what_was_checked": "Terms & Conditions",
+   "result": "No reseller list. Terms define a Distributor -> Reseller hierarchy with DHRU Fusion API integration (cftools.php). HalabTech's position is UNKNOWN.",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Global Auth Tool / Xiaomi BD Auth (full-render check)",
+   "url": "https://www.globalauthtool.com/ ; https://xiaomibdteam.net/",
+   "what_was_checked": "Exa full fetch",
+   "result": "Names not rendered in full fetch; HalabTech listing rests on search excerpts (STRONG, not CONFIRMED).",
+   "tool": "mcp__Exa__web_fetch_exa"
+  },
+  {
+   "entity": "Fenix Utility Pro, Mysterio FRP, XM Auth Tool, Ultra-Unlock Pro, GSMunlock, SimTool, MTK GoGo, Eagle Multi Tool, Smart Frp Tool, Xyno, S-Tool Pro, UST, Pixel tools, Mi Pro Tool, RBM, Alien tool, T-Unlock",
+   "url": "(no vendor reseller page found)",
+   "what_was_checked": "1-2 Parallel/Firecrawl searches each (combined OR queries)",
+   "result": "NOT CHECKED (no official vendor reseller page surfaced). Search results were only downstream Dhru stores labelling themselves 'Official Distributor' for these tools.",
+   "tool": "mcp__Parallel_Search__web_search / mcp__Firecrawl__firecrawl_search"
+  }
+ ],
+ "new_leads": [
+  "Recurring top-tier co-distributors alongside HalabTech: Adyunlocker (Dubai/Jordan), GsmServer (HK), GsmGenesis (US/India), GSM-T-TOOL (Iraq), Hali-Unlock (Yemen), GsmEasy (China), Fast Provision (BD), Clean Unlocker, Gsm Fastest. These are the best candidates for intermediate suppliers on lines where HalabTech is reseller-tier or absent (SamKey, AMT, MH Unlocker, Global Unlocker Pro, T-Tool Pro, CellTool, Panda, AWT).",
+  "Yemen tool family (Hunter Unlocker, Q-Unlocker, Global Unlocker Pro, KEY-Tool, Tira Unlocker, likely T-Unlock): shared site template and 'distributors only' policy. HalabTech is a top distributor for Hunter and Q-Unlocker but only a reseller for Global Unlocker Pro. Hali-Unlock (haliunlock.com, +967) is a distributor across all of them and a candidate source for Global Unlocker/KEY-Tool/Tira.",
+  "Thai tool family (RTC Tool, MTK GoGo, SimTool, GSMunlock): HalabTech's catalog uses an identical service template ('Create New User + Credits (Instant/Auto API)' / 'Transfer Credits to Existing Account (Instant/Auto API)'), which suggests one common upstream API source. LIKELY at most; PLUK-GSM (RTC 'Distributor WorldWide', RTC.Tool2021@gmail.com) is a candidate.",
+  "New HalabTech identifiers seen on vendor pages: +905300229173 with hosamkashto@gmail.com (T-Tool Pro, Xiaomi Pro Tool, AuthFlash +90 5300229173); +905070585173 (Q-Unlocker); skype 'htsupport' (Piranha); +249116472371 (S-Finder; Sudanese number, anomaly).",
+  "Global Unlocker Pro lists 'All Unlocker' (allunlocker.com, WhatsApp +962789940944) with Email info@halabtech.com. This is either an affiliate or front of HalabTech, or a data-entry error; worth checking allunlocker.com (KEY-Tool also lists 'All UnLocker').",
+  "Vendor pages not in the catalog that also list HalabTech (snippet only): HW Pro Tool (hw-pro.com/resellers, Distributor), Pegasus Tools (pegasus-tools.com/resellers), TurboSchematics (Trusted Resellers), Brutal Forensic Tool (Official Seller, support.halabtech.com), z3x-team.com/where-to-buy (Halabtech for Syria/Lebanon/Germany/Turkey), hydradongle.com/agents (Syria + Turkey), infinity-box.com/buy. These belong to major-vendor streams.",
+  "Apizu Tool publishes a vendor-run Dhru Fusion Reseller API (apizutool.one/reseller-api/api.php), and CF-Tools provides a DHRU integration script (cftools.php). These are concrete examples of direct vendor-to-Dhru API supply that HalabTech could use; check HalabTech's service delivery times/labels for these lines.",
+  "KEY-Tool: HalabTech sells 'Make & Recharged Distributor 200/500/1000 Credit [Auto API]', so it can create KEY-Tool distributor accounts. Ask whether that needs a vendor-level (master) account."
+ ],
+ "open_questions": [
+  "Do vendors with a 'distributors only' policy (Hunter Unlocker, Q-Unlocker, UAT) supply HalabTech by direct API, or does HalabTech buy credit blocks manually? The listing proves an authorised channel only.",
+  "For reseller-tier or absent lines (SamKey, AMT, MH Unlocker, Global Unlocker Pro, T-Tool Pro, CellTool, Panda, AWT, Scorpion), which listed distributor actually fulfils HalabTech orders?",
+  "Is the unnamed 'وكيل سوريا الرسمي' (official Syria agent) on SK Unlocker's page HalabTech or another Syrian seller (e.g., syrgsm.com, NTC GSM)?",
+  "Which catalog group maps to xiaomiprotool.com: 'XTP – Xiaomi Tool Pro' or 'Mi Pro Tool'?",
+  "Why does Scorpion Tool's page differ between the Exa cache (no HalabTech) and the live page (HalabTech listed)? Was HalabTech added recently? Check the Wayback history to date the onboarding."
+ ]
+}

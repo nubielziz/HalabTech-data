@@ -1,0 +1,762 @@
+{
+ "stream": "B-imei-upstream",
+ "tool_log": [
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "\"#33225\" \"Case History Check\"; \"#225 Sold By Info\"; GSX Checker variants",
+   "ok": true,
+   "note": "Generic GSX check servers (gsximei, sickw, anycodeunlock); no exact #33225 origin"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "\"BY EDL Binary\" / \"Unlock / Repair Network / Fix Demo\" \"By EDL Cable\" / \"NEW JDM V4 V5\"",
+   "ok": true,
+   "note": "Found HalabTech support portal entry + ingsm CPID YouTube; no origin"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "\"Keylock NEW CODE\" / \"Rocket Super Fast\" Mi Account",
+   "ok": true,
+   "note": "Generic Xiaomi check sites; no exact match"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Case History Check\" \"From GSX Checker\"",
+   "ok": true,
+   "note": "15 Dhru servers carrying #33225 (gsmhakimactivations, axiomunlocker, ethio-gsm, adexgsm, amirgsm, dragonunlock...)"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Unlock / Repair Network / Fix Demo\" \"By EDL Cable\"",
+   "ok": true,
+   "note": "gsmrktools, radnusunlockers, gsmsrinuunlocker, gsmfriday, upunlocker, galaxyunlocks; GSM-Forum f1116 (Best4unlock) and Martview (HALABTECH SUPPORT) posts"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Keylock NEW CODE\"",
+   "ok": true,
+   "note": "Best4unlock GSM-Forum post 2024-02-12; unlockspro #23737; many resellers"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://unlockspro.com/resellerpricing/imei",
+   "ok": false,
+   "note": "Rate limit exceeded (shared Firecrawl quota); retried with Exa"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "https://unlockspro.com/resellerpricing/imei",
+   "ok": true,
+   "note": "Full list (95KB) saved to scratchpad/B_raw/unlockspro_imei.md; 36 exact-prefix name matches with HalabTech IMEI list"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Sold By Info\" \"ALL MODELS SUPPORTED (IMEI Or Sn) FAST\"",
+   "ok": true,
+   "note": "mwunlocker, gsmtiger, univgsm, reunlocker, eagleunlocker, vip-unlock, haliunlock, khulnaunlock + HalabTech full pricing page snippet"
+  },
+  {
+   "tool": "mcp__Exa__web_search_exa",
+   "input": "GSM unlock server IMEI service list \"#33225\" GSX Checker Case History",
+   "ok": true,
+   "note": "mwunlocker/myphoneunlocker/dragonunlock GSX groups; rest noise (CPT codes)"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Apple check names with arrows (SIM-LOCK + CARRIER S3 -> IMEI etc.) / sickw service list",
+   "ok": true,
+   "note": "sickw uses own names/IDs (Tool [105] Sold By); no match to HalabTech naming"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "unlockspro.com operator / contact",
+   "ok": true,
+   "note": "UnlocksPro: 'Main/Direct Source Many Services', tiers DISTRIBUTORS|WEB OWNER|RESELLER, only support@unlockspro.com; also HalabTech homepage 'Source or Tool owner' line"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://unlockspro.com/resellerpricing",
+   "ok": true,
+   "note": "Live list; prices hidden for guests now (no price comparison possible); saved B_raw/unlockspro_pricing.md"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"iREMOVE FMI OFF\" \"WiFi Model Only\"",
+   "ok": true,
+   "note": "Name family on gsmserver.com, vpunlocker (#9816), gsm-supporters, gsmseba, afghanunlock (FlexiHub)"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Signal Labs Technology Tool\"",
+   "ok": true,
+   "note": "unlockspro, gem-flash (svc 16689), beeunlock (4389#), triatech, kfunlocker, gsmak, HalabTech Telegram Sept 19"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://t.me/s/halabtech2?before=39264",
+   "ok": true,
+   "note": "Only self-forwards (HalabtechChannel2); 'Looking to Buy FTP Access & Solutions' post 39246"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "GSM-Forum f1116 EDL thread 3356646; Keylock thread 3269699; Martview S908N thread 158954",
+   "ok": true,
+   "note": "f1116 = Best4unlock section (poster unlokookkii); Martview S908N thread by HALABTECH SUPPORT 2025-12-04"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://www.best4unlock.us/resellerpricing/imei",
+   "ok": true,
+   "note": "Apple Check Service group ~33 names identical to HalabTech incl. typos; guest prices mixed vs HalabTech"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Blacklist Prheck\"",
+   "ok": true,
+   "note": "Typo carried by mobiling.us, zs-server, p2punlocker, ntc-fastunlockers, ismart, basitunlock, unlockpanel; HalabTech Martview 2022 thread; Best4unlock 2025 forum"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Tecno/iTel/Infinix ONLY MDM\" \"Source 1#\"",
+   "ok": true,
+   "note": "Many variants; unlockspro has exact group 'Infinix Tecno Itel MDM Source 1# [Premium]'"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"halabtech\" resellerpricing imei service -site:halabtech.com",
+   "ok": true,
+   "note": "Only downstream resellers selling HalabTech packages/credits; no server naming HalabTech as IMEI source"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://www.martview-forum.com/threads/imei-check-service-...73096/",
+   "ok": true,
+   "note": "HALABTECH SUPPORT thread 2022-12-06 listing '32596 Part Number (Mac/Watch) INSTANT', 'Blacklist Prheck (GSMA)' etc."
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"32596\" \"Part Number (Mac/Watch)\"",
+   "ok": true,
+   "note": "Only the HalabTech Martview thread"
+  },
+  {
+   "tool": "mcp__Exa__web_search_exa",
+   "input": "Signal Labs Technology tool Google Pixel carrier unlock owner",
+   "ok": true,
+   "note": "Only reseller listings (HalabTech, sppunlocker, gs-server, ultimat-unlock, kfunlocker); vendor not identified"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Part Number (Mac/Watch) INSTANT\"",
+   "ok": true,
+   "note": "ntc-fastunlockers, galaxyunlocks carry it without number prefix"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Case History Check] By IMEI From GSX Checker\" -\"#33225\"",
+   "ok": true,
+   "note": "Older '(IMEI)' variant of #225 on amirgsm/dragonunlock/axiomunlocker; Axiom group slug in Arabic"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"EMEA Premium Service (FAST SERVICE - MULTI REAPLY)\"",
+   "ok": true,
+   "note": "Widely resold (khulnaunlock, gsmhakim, slunlock, vip-unlock, ismart, ch-unlocker, gsmrktools, globalgsmmobilenepal #1906); no origin"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Altice Dominican Republica Premium All iPhones\"",
+   "ok": true,
+   "note": "gsm-supporters, radnusunlockers, ismart, eagleunlocker, gsmtiger, ethio-gsm; no origin"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Infinix ID - Tecno ID - Itel ID - Official Service\"",
+   "ok": true,
+   "note": "Arabic-text variant (HalabTech wording) on ssteamunlocker, akgsmsolutions, ismart, reunlocker; HalabTech FB + Telegram"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "iremove.tools official resellers / partner program / FMI OFF iPad",
+   "ok": true,
+   "note": "iRemove partner program via DHRU API (bulk.iremove.tools login); public per-model iPad prices; no public partner list"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "Samsung JDM 'Patch 1.7.2023' / EDL Cable / CPID V4 V5 source",
+   "ok": true,
+   "note": "cpidserver.com, in-gsm.com (V1-V4 taxonomy), cpidunlocker; none use HalabTech's exact names"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://in-gsm.com/index.php/resellerpricing/imei",
+   "ok": false,
+   "note": "404 (site migrated to Dhru Fusion Pro store); category list captured"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "site:in-gsm.com Samsung \"Repair Network\" \"Fix Demo\"",
+   "ok": true,
+   "note": "IN-GSM CPID V4 product + /wholesale/ page"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://www.in-gsm.com/store/?category=samsung-service",
+   "ok": true,
+   "note": "7 remote Samsung products; names differ from HalabTech EDL/JDM names"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "https://sickw.com/?page=services&service=225 ; https://sickw.com/?page=services",
+   "ok": true,
+   "note": "No service 225 page (falls back to homepage); Sold By = Tool [105]"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Nothing Phone All Model Any Region Direct By Imei\"",
+   "ok": true,
+   "note": "Exact HalabTech wording on avigsm, ismart, khulnaunlock, p2punlocker, gsmrex, reunlocker, mwunlocker, express-unlocker; UnlocksPro/gsmglobalserver use '...Direct Unlock By Imei'"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"METROPCS POLICY USA\" \"Clean & Paid Off Only\"",
+   "ok": true,
+   "note": "Code-GSM (code-gsm.com) pages + its GSM-Forum section f1152 'NEW SERVICE' posts"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "\"Sprint Official Check API (Pro Details)\"",
+   "ok": true,
+   "note": "Best4unlock GSM-Forum post 2023-12-22; widely resold"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "input": "GSM-Forum f1152 thread 3442124 (Code-GSM) ; f1116 thread 3240944 (Best4unlock)",
+   "ok": true,
+   "note": "f1152 = 'CODE-GSM (Wholesale Supplier)', poster technico (Canada); Best4unlock 'Trusted & Reliable Source Since 2013'"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "input": "https://www.code-gsm.com/home/servicedtl/t-mobile-sprint-metropcs-policy-usa-iphone-till-16-series-clean-amp-paid-off-onl",
+   "ok": true,
+   "note": "Identical name/description; guest price $63.45 vs HalabTech $66.45"
+  },
+  {
+   "tool": "mcp__Exa__web_fetch_exa",
+   "input": "code-gsm.com Till 17 / Till 15 / Till Xs servicedtl pages",
+   "ok": true,
+   "note": "Till 17 $79.49 (HT $82.49), Till 15 $43.99 (HT $44.99); Xs slug guess returned Till 17 page"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "site:code-gsm.com \"US Reseller Flex Policy\"",
+   "ok": true,
+   "note": "Code-GSM Reseller Flex names differ from HalabTech's"
+  },
+  {
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "input": "site:code-gsm.com Altice Dominican OR EMEA OR Softbank OR Spectrum",
+   "ok": true,
+   "note": "0 results"
+  },
+  {
+   "tool": "mcp__Parallel_Search__web_search",
+   "input": "\"Signal Labs Technology\" owner / official site / resellers",
+   "ok": true,
+   "note": "Only unrelated Signal Labs companies (Web3, cyber training, enterprise AI); sppunlocker mirrors HalabTech groups"
+  }
+ ],
+ "findings": [
+  {
+   "tid": "B-01",
+   "entity": "Code-GSM (code-gsm.com; Wajih Boukadida; Levis QC, Canada / Tunisia support)",
+   "entity_website": "https://www.code-gsm.com",
+   "role_for_halabtech": "Direct API Supplier",
+   "direction": "Code-GSM -> HalabTech (suspected)",
+   "halabtech_groups_affected": [
+    "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)"
+   ],
+   "claim": "Code-GSM sells the T-Mobile/Sprint/MetroPCS 'Clean & Paid Off Only' services with identical names and description, and HalabTech's guest prices sit $1-3 above Code-GSM's on every tier checked.",
+   "source_url": "https://www.code-gsm.com/home/servicedtl/t-mobile-sprint-metropcs-policy-usa-iphone-till-16-series-clean-amp-paid-off-onl",
+   "source_type": "Distributor",
+   "excerpt": "iPhone Till 16 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty ... Price: $ 63.45",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape + mcp__Exa__web_fetch_exa",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Fills the 'zero direct API suppliers' gap with a first concrete candidate; not yet corroborated by any statement of supply.",
+   "notes": "Price shadowing (Code-GSM guest vs HalabTech guest): Till 15 $43.99 vs $44.99; Till 16 $63.45 vs $66.45; Till 17 $79.49 vs $82.49. Same emoji (✅) and same policy list (supports T-Mobile/Sprint/MetroPCS, not Reseller Flex / 2421 Dish Boost). Common upstream remains possible. Code-GSM's Reseller Flex names do NOT match HalabTech's (see negatives)."
+  },
+  {
+   "tid": "B-02",
+   "entity": "Code-GSM (GSM-Forum section f1152)",
+   "entity_website": "https://forum.gsmhosting.com/vbb/f1152/",
+   "role_for_halabtech": "Intermediate Supplier",
+   "direction": "Code-GSM -> resellers (self-described wholesale supplier)",
+   "halabtech_groups_affected": [
+    "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)"
+   ],
+   "claim": "Code-GSM brands itself 'Wholesale Supplier' and announces the Clean & Paid Off T-Mobile policy services as NEW SERVICE for resellers.",
+   "source_url": "https://forum.gsmhosting.com/vbb/f1152/t-mobile-sprint-metropcs-policy-usa-iphone-till-15-series-clean-paid-off-3442124/",
+   "source_type": "Forum",
+   "excerpt": "CODE-GSM (Wholesale Supplier) ... Resellers Welcome - Best Pricing Available! ... JOIN TELEGRAM FOR UPDATES: https://t.me/codegsmofficial",
+   "pub_date": "2026-10-10 (shown as 'Yesterday, 20:49')",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Supports B-01 (Code-GSM operates at wholesale/API level).",
+   "notes": "Poster 'technico', Product Manager, location CANADA, member since 2005. WhatsApp +1 367 321 2566, wajih@code-gsm.com, Tunisia WhatsApp +216 55707055. Platform: GSM Tool v2 (not Dhru)."
+  },
+  {
+   "tid": "B-03",
+   "entity": "UNLOCKSPRO Premium Server (unlockspro.com)",
+   "entity_website": "https://unlockspro.com",
+   "role_for_halabtech": "Direct API Supplier",
+   "direction": "UnlocksPro -> HalabTech (suspected; direction not proven)",
+   "halabtech_groups_affected": [
+    "Signal Labs Technology Service",
+    "Infinix Tecno Itel MDM Source 1# [Premium]",
+    "Infinix Tecno Itel MDM Source 2# [Cheap]",
+    "Xiaomi Checker",
+    "Xiaomi Mi Account",
+    "Japan - SoftBank",
+    "Apple Check Service",
+    "ZTE",
+    "WIKO",
+    "UK O2 / Tesco Unlock Services",
+    "iWatch WIFI Only (iCloud Remove)"
+   ],
+   "claim": "UnlocksPro's public list shares 36 exact service names with HalabTech's IMEI catalog, including the identical group name 'Infinix Tecno Itel MDM Source 1# [Premium]' and all Signal Labs tools under its own native #IDs.",
+   "source_url": "https://unlockspro.com/resellerpricing/imei",
+   "source_type": "Distributor",
+   "excerpt": "Infinix Tecno Itel MDM Source 1# [Premium] ... #26234 Signal Labs Technology Tool (Google Pixel Carrier Unlock 100% Windows Tool | One Click",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa + mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "New candidate upstream; no prior round evidence.",
+   "notes": "Overlap breakdown (normalized 60-char prefix match, script B_scripts/overlap.py): Xiaomi Mi Account 11, Xiaomi Checker 8, Signal Labs 4, Japan-SoftBank 4, Infinix MDM Source 1/2 4, plus Apple GSX Next Tether (#26004), ZTE (#21475), iWatch 1st Gen (#26374), UK O2 Tesco (#23540), Wiko (#25727). UnlocksPro prefixes its own IDs (#21xxx-#26xxx) which HalabTech names lack; HalabTech uses {{{Country}}} where UnlocksPro uses [ Country ]. Guest prices hidden on UnlocksPro, so no price test was possible. Direction (UnlocksPro->HalabTech vs common upstream) unresolved."
+  },
+  {
+   "tid": "B-04",
+   "entity": "UNLOCKSPRO Premium Server",
+   "entity_website": "https://unlockspro.com",
+   "role_for_halabtech": "Intermediate Supplier",
+   "direction": "UnlocksPro -> distributors / web owners / resellers",
+   "halabtech_groups_affected": [],
+   "claim": "UnlocksPro describes itself as main/direct source and prices at three tiers including DISTRIBUTORS and WEB OWNER (i.e. API-connected sites).",
+   "source_url": "https://unlockspro.com/index",
+   "source_type": "Distributor",
+   "excerpt": "We are Main/Direct Source Many Services ... Price | DISTRIBUTORS | WEB OWNER | RESELLER",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Supports B-03 plausibility (UnlocksPro sells wholesale to other web servers).",
+   "notes": "Only public contact: support@unlockspro.com. Operator/country not identified. Tier line came from the /resellerpricing snippet; live page now hides prices."
+  },
+  {
+   "tid": "B-05",
+   "entity": "UNLOCKSPRO Premium Server - JDM [ V4 V5 ] group",
+   "entity_website": "https://unlockspro.com/resellerpricing/imei",
+   "role_for_halabtech": "Direct API Supplier",
+   "direction": "UnlocksPro -> HalabTech (suspected) or common CPID upstream",
+   "halabtech_groups_affected": [
+    "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock"
+   ],
+   "claim": "UnlocksPro lists seven Samsung JDM/TFN network-repair services (#22343-#22349) with the same model lists and 'Patch 1.7.2023 And After' tag as HalabTech's [NEW JDM V4 V5] group.",
+   "source_url": "https://unlockspro.com/resellerpricing/imei",
+   "source_type": "Distributor",
+   "excerpt": "JDM [ V4 V5 ] SAMSUNG REPAIR NETWORK | DEMO | UNLOCK ... Fix Demo [ Patch 1.7.2023 And After ]",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Candidate source for Samsung JDM/TFN repair; EDL Binary group origin still unknown.",
+   "notes": "HalabTech: 'SAMSUNG JDM (A022M A025AZ ... M013) Unlock / Repair Network / Fix Demo [PATCH 1/7/2023 And after]' $29.99; TFN items $34.99. Same model order in both lists."
+  },
+  {
+   "tid": "B-06",
+   "entity": "UNLOCKSPRO Premium Server - US Reseller Flex / Nothing Phone / Rocket Mi Account",
+   "entity_website": "https://unlockspro.com/resellerpricing/imei",
+   "role_for_halabtech": "Direct API Supplier",
+   "direction": "UnlocksPro -> HalabTech (suspected)",
+   "halabtech_groups_affected": [
+    "USA Reseller Flex",
+    "Nothing Phone",
+    "Xiaomi Mi Account"
+   ],
+   "claim": "UnlocksPro labels its Reseller Flex group 'DIRECT SOURCE' with names close to HalabTech's (SEMI PREMIUM; Clean & Blacklist Unlock [ Full Premium ] 100% Success) and carries the 'Rocket Super Fast' Europe Mi Account pair.",
+   "source_url": "https://unlockspro.com/resellerpricing/imei",
+   "source_type": "Distributor",
+   "excerpt": "US Reseller Flex Policy [ DIRECT SOURCE ] ... US Reseller Flex Policy Unlock - All iPhone XR - 16 Pro Max [ SEMI PREMIUM ]",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Exa__web_fetch_exa",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Extends B-03.",
+   "notes": "Also #25729 'US Reseller Flex Policy | iPhone Up to 17 Series | Clean & Blacklist Unlock [ Full Premium ] 100% Success | Direct Source' vs HalabTech '...Up to 18 Series...' (HalabTech updated model range). #22005/#22006 '(Rocket Super Fast) instant To Few Min 24/7' and 'REAL AUTO instant 24/7' match HalabTech. Nothing Phone: UnlocksPro '#21470 ...Direct Unlock By Imei' vs HalabTech '...Direct By Imei' (minor variant)."
+  },
+  {
+   "tid": "B-07",
+   "entity": "Best4unlock (best4unlock.us)",
+   "entity_website": "https://best4unlock.us",
+   "role_for_halabtech": "Peer",
+   "direction": "Best4unlock <- common upstream -> HalabTech (sibling)",
+   "halabtech_groups_affected": [
+    "Apple Check Service"
+   ],
+   "claim": "Best4unlock's 'Apple Check Service' group repeats about 33 HalabTech names verbatim, typos included ('Blacklist Prheck', 'Eligibilty'), but its guest prices are higher than HalabTech's on many lines, so it is not clearly HalabTech's supplier.",
+   "source_url": "https://www.best4unlock.us/resellerpricing/imei",
+   "source_type": "Reseller store",
+   "excerpt": "Blacklist Prheck (GSMA) | Miniutes | $ 0.085 ... T-Mobile USA Generic Simlock & Unlock Eligibilty Status (Pro) | Miniutes | $ 0.037",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Identifies common-upstream sibling for Apple checks; does not identify HalabTech's supplier.",
+   "notes": "Price comparison B4U vs HT: identical on Sprint USA Pro Check S2 ($0.048) and T-Mobile Pro Check ($0.036); HT cheaper on SIM-LOCK S3 IMEI ($0.007 vs $0.072), All-in-one ($0.024 vs $0.071); HT dearer on Refurbished Status ($0.359 vs $0.013), Repair Status ($1.98 vs $0.15). Pattern = both resell one Apple-check API with independent markups. B4U public list has no #225/#33225, no EDL group, different Mi Account names."
+  },
+  {
+   "tid": "B-08",
+   "entity": "Best4unlock (GSM-Forum section f1116, poster 'unlokookkii')",
+   "entity_website": "https://forum.gsmhosting.com/vbb/f1116/",
+   "role_for_halabtech": "Peer",
+   "direction": "unknown",
+   "halabtech_groups_affected": [
+    "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+    "Xiaomi Checker",
+    "Apple info Checkers"
+   ],
+   "claim": "Best4unlock posted the exact EDL Samsung repair, Keylock checker and 'Sprint Official Check API (Pro Details)' service names on GSM-Forum (Dec 2023-Jan 2025), calling itself a source since 2013.",
+   "source_url": "https://forum.gsmhosting.com/vbb/f1116/s916b-s916x-unlock-repair-network-fix-demo-u2-u3-edl-cable-3356646/",
+   "source_type": "Forum",
+   "excerpt": "Best4unlock Trusted & Reliable Source Since 2013 For IMEI & Server Service",
+   "pub_date": "2025-01-21 (EDL); 2024-02-12 (Keylock); 2023-12-22 (Sprint Official Check)",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "Neutral; Best4unlock mass-posts its whole catalogue (41,876 posts), so posting order is weak evidence of origin.",
+   "notes": "Contact WhatsApp +49 151 63759377; Telegram t.me/best4unlocknews; location 'Germany,BD,China'. HALABTECH SUPPORT posted the S908N EDL service on Martview on 2025-12-04 (later than B4U's Jan 2025 post for S916B)."
+  },
+  {
+   "tid": "B-09",
+   "entity": "HalabTech (Martview 'HALABTECH SUPPORT')",
+   "entity_website": "https://www.martview-forum.com/forums/halabtech-server/",
+   "role_for_halabtech": "Not listed",
+   "direction": "HalabTech self-publication",
+   "halabtech_groups_affected": [
+    "Apple Check Service",
+    "GENERIC Check Service",
+    "GSX CHECKER"
+   ],
+   "claim": "By 6 Dec 2022 HalabTech already sold the arrow-style Apple check names (incl. 'Blacklist Prheck'), and one carried a 5-digit numeric prefix ('32596 Part Number...'), the same artefact as today's '#33225'.",
+   "source_url": "https://www.martview-forum.com/threads/imei-check-service-%D8%AA%D8%B4%D9%8A%D9%8A%D9%83-%D9%85%D9%86-%D8%A7%D8%AC%D9%84-%D8%A7%D9%8A%D9%81%D9%88%D9%86.73096/",
+   "source_type": "HalabTech official",
+   "excerpt": "32596 Part Number (Mac/Watch) INSTANT ACER IMEI CHECK INFO All-in-one (+ Purchase Date) ⚡ APPLE ACTIVATION STATUS",
+   "pub_date": "2022-12-06",
+   "access": "full page",
+   "tool": "mcp__Parallel_Search__web_fetch",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Shows HalabTech's Apple-check naming predates Best4unlock's forum posts; implies an upstream (unidentified) that put its own service IDs in names (~32.5k-33.2k range in 2022).",
+   "notes": "The thread is in Martview's 'HalabTechServer - WorldWide Credit,IMEI Services' sub-forum; title Arabic 'تشييك من اجل ايفون'."
+  },
+  {
+   "tid": "B-10",
+   "entity": "'#225' / '#33225' GSX CHECKER service family (origin unidentified)",
+   "entity_website": "",
+   "role_for_halabtech": "Not listed",
+   "direction": "unknown upstream -> HalabTech -> many resellers (suspected)",
+   "halabtech_groups_affected": [
+    "GSX CHECKER"
+   ],
+   "claim": "HalabTech's whole 'GSX CHECKER' group, including '#225 Sold By Info' and '#33225 ... From GSX Checker', recurs on 15+ Dhru servers; an older '(IMEI)' variant of #225 survives on some while HalabTech and others show '(IMEI Or Sn)'.",
+   "source_url": "https://www.mwunlocker.com/resellerpricing/imei",
+   "source_type": "Reseller store",
+   "excerpt": "#225 Sold By Info ⚡ ALL MODELS SUPPORTED (IMEI Or Sn) FAST | 1-48 Hours | #33225 IPhone/IPad/IWatch [Case History Check]",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Exa__web_search_exa + mcp__Firecrawl__firecrawl_search",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "No origin found; the numeric prefixes are upstream ID artefacts but no server was found that uses 225/33225 as native IDs.",
+   "notes": "'(IMEI Or Sn)' variant: HalabTech, mwunlocker, gsmtiger, univgsm, reunlocker, eagleunlocker, vip-unlock, haliunlock, khulnaunlock (svc 3909), gsmrenttool. '(IMEI)' variant: amirgsm, dragonunlock, axiomunlocker. #33225 also on gsmhakimactivations, ethio-gsm, adexgsm, myphoneunlocker, globalgsmmobilenepal, sharafatgsm, gsmelitefrp. mwunlocker's GSX CHECKER group is item-for-item the same as HalabTech's (likely a HalabTech downstream)."
+  },
+  {
+   "tid": "B-11",
+   "entity": "Axiom Unlocker (axiomunlocker.com)",
+   "entity_website": "https://axiomunlocker.com",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> Axiom Unlocker (suspected)",
+   "halabtech_groups_affected": [
+    "GSX CHECKER"
+   ],
+   "claim": "Axiom Unlocker's GSX group slug transliterates the Arabic 'تشييك من اجل الايفون', HalabTech's own label for its check services, and contains #225/#33225, indicating it imports from HalabTech rather than the reverse.",
+   "source_url": "https://axiomunlocker.com/group/gsx-check-tshyyk-mn-agl-alayfon",
+   "source_type": "Reseller store",
+   "excerpt": "#225 Sold By Info ⚡ ALL MODELS SUPPORTED (IMEI) FAST · #33225 IPhone/IPad/IWatch [Case History Check] By IMEI From GSX Checker",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Caveat for all fingerprint matches: many identical-string servers are HalabTech's customers, not its suppliers.",
+   "notes": "HalabTech's 2022 Martview thread title: 'IMEI CHECK SERVICE |||تشييك من اجل ايفون'."
+  },
+  {
+   "tid": "B-12",
+   "entity": "Resellers carrying HalabTech's Arabic-language Infinix/Tecno/Itel ID service (ssteamunlocker, akgsmsolutions, ISMART server, reunlocker, khangsm24)",
+   "entity_website": "https://ssteamunlocker.com",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> these servers (suspected)",
+   "halabtech_groups_affected": [
+    "Infinix - Tecno - Itel ID"
+   ],
+   "claim": "Other servers resell the Infinix/Tecno/Itel ID removal service under HalabTech's Arabic wording, typo 'انتببه' included, which points to HalabTech as their naming source.",
+   "source_url": "https://ssteamunlocker.com/service/infinix-id-tecno-id-itel-id-official-service-bshkl-rsmy-id-azal-hsab-anfynks-tykno-antbbh-llosf-check-description-no-verify-no-refund-for-any-order",
+   "source_type": "Reseller store",
+   "excerpt": "Infinix ID - Tecno ID - Itel ID - Official Service [بشكل رسمي ID إزالة حساب انفينكس تيكنو ] انتببه للوصف Check Description",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "confidence": "LIKELY",
+   "supports_or_contradicts": "Same caveat as B-11; HalabTech itself labels this 'Source 1#' / 'Source 2#', so its own suppliers remain unnamed.",
+   "notes": "HalabTech posted the service on Facebook and on Telegram (t.me/s/halabtech2/38708, July 24). ISMART server (ismart-eshop.com) also shows HalabTech's shortened 'ONLY MDM Permanent By Imei' wording plus Arabic category names; it is probably downstream too, but this is unverified."
+  },
+  {
+   "tid": "B-13",
+   "entity": "iRemove Software / iRemove Tools (iremove.tools)",
+   "entity_website": "https://iremove.tools",
+   "role_for_halabtech": "Original Vendor",
+   "direction": "iRemove -> (unknown channel) -> HalabTech",
+   "halabtech_groups_affected": [
+    "iPads WIFI Only (iCloud Remove)",
+    "iWatch WIFI Only (iCloud Remove)"
+   ],
+   "claim": "iRemove runs the FMI OFF iPad WiFi service itself and offers a partner program wired into DHRU via API, but it publishes no reseller list, and its public per-model prices sit $25-70 below HalabTech's.",
+   "source_url": "https://iremove.tools/ipad-fmi-off-service",
+   "source_type": "Vendor official",
+   "excerpt": "The iRemove Partnership Program supports GSM Fusion, DHRU, and other popular GSM services. We use API connections for connecting reseller websites",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "Vendor identified; HalabTech's channel (direct partner vs via GsmServer/UnlocksPro) not established.",
+   "notes": "iRemove public prices vs HalabTech: iPad13,18 $100 vs $150; iPad12,1 $95 vs $135; iPad8,1 $80 vs $125; iPad14,3 $115 vs $155; iPad15,7 $110 vs $180; iPad16,5 $170 vs $195. Partner tiers Bronze to Platinum discount further (iremove_pricing.pdf). Wholesale portal bulk.iremove.tools is login-only. UnlocksPro labels several iRemove groups '[ DIRECT SOURCE ]'."
+  },
+  {
+   "tid": "B-14",
+   "entity": "GsmServer (gsmserver.com)",
+   "entity_website": "https://gsmserver.com",
+   "role_for_halabtech": "Peer",
+   "direction": "unknown",
+   "halabtech_groups_affected": [
+    "iPads WIFI Only (iCloud Remove)"
+   ],
+   "claim": "GsmServer sells the iRemove iPad FMI OFF products under the same name pattern HalabTech uses, but no evidence shows it supplies HalabTech.",
+   "source_url": "https://gsmserver.com/en/iremove-fmi-off-ipad-11th-gen-a16-wifi-model-only-ipad15-7/",
+   "source_type": "Reseller store",
+   "excerpt": "iRemove FMI OFF - iPad (11th Gen) A16 - WiFi Model Only - [iPad15,7]",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "Consistent with prior finding that GsmServer is a HalabTech peer/agent; no supply link.",
+   "notes": "The name pattern probably comes from iRemove's own API service names (also on vpunlocker '#9816 iREMOVE FMI OFF - iPad Pro 13-inch M4 - WiFi Model Only - [iPad16,5]')."
+  },
+  {
+   "tid": "B-15",
+   "entity": "Signal Labs Technology (GSM tool vendor, unidentified)",
+   "entity_website": "",
+   "role_for_halabtech": "Original Vendor",
+   "direction": "Signal Labs Technology -> (UnlocksPro? / others) -> HalabTech",
+   "halabtech_groups_affected": [
+    "Signal Labs Technology Service"
+   ],
+   "claim": "HalabTech added Signal Labs Technology tools in Sept 2026; the same four names appear on UnlocksPro under sequential IDs #26234/#26235/#26267/#26268 and on several other servers, but no vendor site or reseller list was found.",
+   "source_url": "https://t.me/s/halabtech2?before=39264",
+   "source_type": "HalabTech official",
+   "excerpt": "Signal Labs Technology Tool (Google Pixel Carrier Unlock Windows Tool ). 982 views 02:37. September 19.",
+   "pub_date": "2026-09-19",
+   "access": "search snippet",
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "Supports B-03 as candidate path (UnlocksPro holds the services under native IDs).",
+   "notes": "Also on gem-flash.com (service 16689), beeunlock ('4389# Signal Labs...'), triatech, kfunlocker, gsmak, gsmcodeunlock, galaxyunlocks, gsmeasyunlocker, haliunlock, reunlocker, sppunlocker, ultimat-unlock. gsmzone describes 'Download : Signals Labs Technology Tools'."
+  },
+  {
+   "tid": "B-16",
+   "entity": "IN-GSM (in-gsm.com)",
+   "entity_website": "https://www.in-gsm.com",
+   "role_for_halabtech": "Not listed",
+   "direction": "unknown",
+   "halabtech_groups_affected": [
+    "[V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+    "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+    "[V2 V3] SAMSUNG Repair Netowrk/Demo/Unlock",
+    "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock"
+   ],
+   "claim": "IN-GSM runs its own Samsung CPID server with the same V1-V4 security-level taxonomy and JDM/TFN categories HalabTech uses, but its service names do not match HalabTech's.",
+   "source_url": "https://www.in-gsm.com/store/?category=samsung-service",
+   "source_type": "Other",
+   "excerpt": "⭐ cpid samsung ⭐ imei repair & fix demo & unlock (( jdm / tfn ))",
+   "pub_date": "",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "Candidate original operator for CPID repair; no evidence of HalabTech link.",
+   "notes": "Syria-oriented (Syriatel/MTN cash categories, Arabic), has /wholesale/ page; YouTube 'SAMSUNG CPID Server BY EDL' (2024-12-16, #ingsm). V-levels per in-gsm.com/index.php/pages/SAMSUNGCPID: V1-V4 patch levels."
+  },
+  {
+   "tid": "B-17",
+   "entity": "CPID Server (cpidserver.com)",
+   "entity_website": "https://www.cpidserver.com",
+   "role_for_halabtech": "Not listed",
+   "direction": "unknown",
+   "halabtech_groups_affected": [
+    "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock"
+   ],
+   "claim": "cpidserver.com sells 'Samsung JDM unlock' itself, without EDL, and says it offers no direct server access, only remote service over USB redirector.",
+   "source_url": "https://www.cpidserver.com/product/samsung-jdm-unlock",
+   "source_type": "Vendor official",
+   "excerpt": "Currently, we don't offer direct access to CPID Server. We focus on remote services like IMEI repair and network unlocking through USB redirector.",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Parallel_Search__web_search",
+   "confidence": "UNKNOWN",
+   "supports_or_contradicts": "Candidate original operator; no link to HalabTech found.",
+   "notes": "Also cpidunlocker.com (t.me/CPID_UNLOCKER) exists as another CPID operator."
+  },
+  {
+   "tid": "B-18",
+   "entity": "HalabTech (server homepage + Telegram)",
+   "entity_website": "https://server.halabtech.com",
+   "role_for_halabtech": "Not listed",
+   "direction": "HalabTech seeking sources",
+   "halabtech_groups_affected": [],
+   "claim": "HalabTech publicly invites source/tool owners to supply it and is posting to buy FTP access and official brand service solutions.",
+   "source_url": "https://t.me/s/halabtech2?before=39264",
+   "source_type": "HalabTech official",
+   "excerpt": "I'm looking to purchase FTP Access or official service solutions for mobile brands.",
+   "pub_date": "2026-09-19",
+   "access": "full page",
+   "tool": "mcp__Firecrawl__firecrawl_scrape",
+   "confidence": "CONFIRMED",
+   "supports_or_contradicts": "Supports the model that HalabTech assembles its catalogue from multiple third-party sources; names no supplier.",
+   "notes": "Contact in that post: WhatsApp +963997722349 (not in the brief's known contacts). Homepage line (search snippet, Parallel): 'If you're Source or Tool owner, contact us for a deal'. All 'Forwarded from' items on the page are HalabTech's own channels (HalabtechChannel2)."
+  },
+  {
+   "tid": "B-19",
+   "entity": "Servers reselling HalabTech membership/credits (sourceforunlock, kz-unlock, itunlocker, asiagsm, bulkimeis, source4unlocker, modernunlocker, nhunlocker, adil-soft, xserverhup, ultimat-unlock, unlockon)",
+   "entity_website": "https://sourceforunlock.com",
+   "role_for_halabtech": "Downstream Reseller",
+   "direction": "HalabTech -> these servers",
+   "halabtech_groups_affected": [],
+   "claim": "At least 12 Dhru servers list HalabTech firmware membership or credit packages for sale, some as reseller/distributor packages; none names HalabTech as an IMEI source.",
+   "source_url": "https://sourceforunlock.com/cart/group/2416/service/server/groupname/HALABTECH-Reseller-Distributor-Package",
+   "source_type": "Reseller store",
+   "excerpt": "HALABTECH [Reseller/ Distributor Package]",
+   "pub_date": "",
+   "access": "search snippet",
+   "tool": "mcp__Firecrawl__firecrawl_search",
+   "confidence": "STRONG",
+   "supports_or_contradicts": "Confirms HalabTech's downstream footprint (Round 1-3); no server names HalabTech as its IMEI-service source in public text.",
+   "notes": "kz-unlock: 'HALABTECH Support Reseller (Min 5.000 Credits) [Reseller Package]'; itunlocker: '06-HALABTECH (Super Platinum 12 Months) $ 76.2'; unlockfull/likebuit: 'Files Archivos HalabTech Premium MEDIAFIRE'."
+  }
+ ],
+ "negative_findings": [
+  {
+   "entity": "SICKW.COM",
+   "url": "https://sickw.com/?page=services&service=225",
+   "what_was_checked": "Whether '#225 Sold By Info' maps to sickw service ID 225; sickw service naming vs HalabTech",
+   "result": "No service 225 page (falls back to homepage); sickw's Sold By is Tool [105] 'APPLE SOLD BY & COUNTRY INFO'; no HalabTech-style names. Not the origin of #225.",
+   "tool": "mcp__Parallel_Search__web_fetch"
+  },
+  {
+   "entity": "UNLOCKSPRO",
+   "url": "https://unlockspro.com/resellerpricing/imei",
+   "what_was_checked": "Presence of #225/#33225 GSX CHECKER names, Altice, EMEA, Infinix ID, HeyTap, EDL Binary group; prices",
+   "result": "None of these names present (its GSX group uses own #25994-#26007 names); guest prices hidden, so no price test.",
+   "tool": "mcp__Exa__web_fetch_exa / mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "Best4unlock",
+   "url": "https://www.best4unlock.us/resellerpricing/imei",
+   "what_was_checked": "Public IMEI list for #225/#33225, EDL Binary, Mi Account {{{ }}} names",
+   "result": "Absent from public list (19 groups only); Mi Account names differ ('Lock Remove (Country) Clean Only').",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "iRemove Software",
+   "url": "https://bulk.iremove.tools/",
+   "what_was_checked": "Public official reseller/partner list naming HalabTech or wholesalers",
+   "result": "No public list; reseller area is login-only. HalabTech not verifiable as iRemove partner.",
+   "tool": "mcp__Parallel_Search__web_search"
+  },
+  {
+   "entity": "Signal Labs Technology",
+   "url": "https://www.signal-labs.io/",
+   "what_was_checked": "Vendor identity / official site / reseller list",
+   "result": "Searches only returned unrelated 'Signal Labs' companies (Web3 agency, cyber-training signal-labs.com, signallabs.ai). GSM tool vendor unidentified.",
+   "tool": "mcp__Parallel_Search__web_search / mcp__Exa__web_search_exa"
+  },
+  {
+   "entity": "IN-GSM",
+   "url": "https://www.in-gsm.com/store/?category=samsung-service",
+   "what_was_checked": "Whether HalabTech's '[BY EDL Binary]' / JDM service names originate at IN-GSM",
+   "result": "IN-GSM Samsung product names differ completely; old /resellerpricing/imei URL returns 404.",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "Code-GSM",
+   "url": "https://www.code-gsm.com/home/imei_services",
+   "what_was_checked": "Whether Code-GSM also sources HalabTech's Reseller Flex, Altice, EMEA, SoftBank, Spectrum groups",
+   "result": "Reseller Flex names differ (e.g. 'US Reseller Flex Policy Service - iPhone upto 17 Series Premium 100% Success' $123); site search for Altice/EMEA/Softbank/Spectrum returned 0 results.",
+   "tool": "mcp__Firecrawl__firecrawl_search"
+  },
+  {
+   "entity": "HalabTech Telegram t.me/halabtech2",
+   "url": "https://t.me/s/halabtech2?before=39264",
+   "what_was_checked": "'Forwarded from' supplier channels that might reveal upstream",
+   "result": "All forwards are from HalabTech's own channels (HalabtechChannel2 / halabtech2); no supplier channel visible on this page.",
+   "tool": "mcp__Firecrawl__firecrawl_scrape"
+  },
+  {
+   "entity": "Any Dhru server",
+   "url": "firecrawl_search query: \"halabtech\" resellerpricing imei service -site:halabtech.com",
+   "what_was_checked": "Server pricing text naming HalabTech as the source of an IMEI service",
+   "result": "None found; HalabTech appears only as a product (membership/credits) on other servers.",
+   "tool": "mcp__Firecrawl__firecrawl_search"
+  },
+  {
+   "entity": "'#225' / '#33225' native-ID origin",
+   "url": "",
+   "what_was_checked": "A server using 225 / 33225 (or 32596) as its own service IDs",
+   "result": "Not found in Firecrawl/Exa/Parallel results; every hit carries the numbers as part of the name.",
+   "tool": "mcp__Firecrawl__firecrawl_search / mcp__Exa__web_search_exa"
+  },
+  {
+   "entity": "'Keylock'",
+   "url": "https://server.halabtech.com/resellerpricing/imei",
+   "what_was_checked": "Whether 'Keylock' is a vendor",
+   "result": "Not a vendor: HalabTech's own name 'By [Keylock Or CodeLock Or Lock Code]' shows it is the Xiaomi Mi-lock code input field.",
+   "tool": "mcp__Firecrawl__firecrawl_search"
+  }
+ ],
+ "new_leads": [
+  "Code-GSM (code-gsm.com, wajih@code-gsm.com, +1 367 321 2566, t.me/codegsmofficial): scrape /home/imei_services in full and price-compare every shared service with HalabTech; check if Code-GSM also carries HalabTech's 'T-MOBILE | SPRINT | METROPCS POLICY USA (Premium)', Spectrum, Xfinity and Other USA Networks groups.",
+  "UnlocksPro: identify operator (WHOIS, Telegram, Facebook); try Wayback snapshots of unlockspro.com/resellerpricing from when guest prices were visible (the Parallel snippet showed '$ 27.4' Xiaomi WW) and price-compare with HalabTech.",
+  "Wayback snapshots of server.halabtech.com/resellerpricing/imei for 2022-2023: look for more 5-digit ID prefixes (like '32596', '33225') and 'Source' wording, which would point to the upstream that embeds its IDs in names.",
+  "ISMART server (ismart-eshop.com): Arabic category names and HalabTech-shortened wording; work out whether it is downstream, sibling or upstream (service IDs 11932, 12044, 12252, 12888, 13976).",
+  "gsmhakimactivations.com shows '#33225' at 330.35 USD (probably BDT or a pricing error) and 'GSX Check [ Sold By + CASE] - {AUTO API}': check whether it names its API source.",
+  "Best4unlock (t.me/best4unlocknews, +49 151 63759377): check its server list (not only the public IMEI page) for EDL Binary / JDM groups and prices.",
+  "iRemove partner tiers (iremove.tools/iremove_pricing.pdf): compute HalabTech's implied margin per tier to judge direct partnership vs reselling through GsmServer/UnlocksPro.",
+  "New HalabTech contact found: WhatsApp +963997722349 (Telegram post 39246, 'Looking to Buy FTP Access & Solutions')."
+ ],
+ "open_questions": [
+  "Is Code-GSM HalabTech's direct supplier for the 'Clean & Paid Off Only' T-Mobile group, or do both buy from a third wholesaler? The +$1-3 price shadowing fits either.",
+  "Does UnlocksPro supply HalabTech, or does UnlocksPro import from HalabTech? Both carry 'Source 1#' labelling and identical Signal Labs, Keylock and Rocket names.",
+  "Which server originally put '#225' and '#33225' (and in 2022 '32596') into these GSX service names?",
+  "Who owns 'Signal Labs Technology' (the GSM tool) and does it publish distributors?",
+  "Which operator actually runs the '[BY EDL Binary]' Samsung repair (CPID) behind the $134.99 HalabTech services: IN-GSM, cpidserver.com, cpidunlocker or another?",
+  "Is HalabTech an iRemove API partner, given that its iPad FMI OFF prices are well above iRemove's public prices?"
+ ]
+}

@@ -1,0 +1,2059 @@
+{
+ "Dashboard": {
+  "header": [
+   "Metric",
+   "Value"
+  ],
+  "rows": [
+   {
+    "Metric": "Service groups discovered",
+    "Value": "≥240 (page truncated at group #239)"
+   },
+   {
+    "Metric": "Service records investigated",
+    "Value": "34"
+   },
+   {
+    "Metric": "Original vendors identified",
+    "Value": "16 (incl. HalabTech, Dhru, joudiSoft)"
+   },
+   {
+    "Metric": "Vendor-confirmed official status for HalabTech",
+    "Value": "11"
+   },
+   {
+    "Metric": "Confirmed direct API suppliers",
+    "Value": "0"
+   },
+   {
+    "Metric": "Likely direct-from-vendor",
+    "Value": "4 (DFT Pro, E-GSM, Deep Unlocker, Xiaomi King)"
+   },
+   {
+    "Metric": "Unknown-supplier records",
+    "Value": "16 of 34 (+~225 uninvestigated groups)"
+   },
+   {
+    "Metric": "Disputed records",
+    "Value": "4"
+   },
+   {
+    "Metric": "Pages analyzed",
+    "Value": "52"
+   },
+   {
+    "Metric": "Rounds completed",
+    "Value": "3"
+   },
+   {
+    "Metric": "Last verification",
+    "Value": "2026-10-11"
+   }
+  ]
+ },
+ "All Services": {
+  "header": [
+   "Research ID",
+   "Service Name (as listed)",
+   "Category",
+   "Price",
+   "Delivery",
+   "Orig. Vendor",
+   "Actual Supplier",
+   "Potential",
+   "Confidence",
+   "Status",
+   "Notes"
+  ],
+  "rows": [
+   {
+    "Research ID": "SVC-001",
+    "Service Name (as listed)": "UnlockTool 12 months License Active/Renew",
+    "Category": "License",
+    "Price": "49.94",
+    "Delivery": "3-6 h",
+    "Orig. Vendor": "VEN-007",
+    "Actual Supplier": "",
+    "Potential": "VEN-007; SUP-001; SUP-008",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": "Listed as reseller"
+   },
+   {
+    "Research ID": "SVC-002",
+    "Service Name (as listed)": "UnlockTool 3/6 months License",
+    "Category": "License",
+    "Price": "19.99/29.99",
+    "Delivery": "3-6 h",
+    "Orig. Vendor": "VEN-007",
+    "Actual Supplier": "",
+    "Potential": "VEN-007",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-003",
+    "Service Name (as listed)": "DFT PRO TOOL ACTIVATION 1 Year",
+    "Category": "License",
+    "Price": "78.99 (store 76.69)",
+    "Delivery": "1-10 min",
+    "Orig. Vendor": "VEN-001",
+    "Actual Supplier": "",
+    "Potential": "VEN-001",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": "Two price lists"
+   },
+   {
+    "Research ID": "SVC-004",
+    "Service Name (as listed)": "DFT PRO 2 Year",
+    "Category": "License",
+    "Price": "158",
+    "Delivery": "1 h",
+    "Orig. Vendor": "VEN-001",
+    "Actual Supplier": "",
+    "Potential": "VEN-001",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-005",
+    "Service Name (as listed)": "Chimera Tool Basic (100 Device - 1 Year) [NOT FOR WEB OWNER]",
+    "Category": "License",
+    "Price": "99.99",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-002",
+    "Actual Supplier": "",
+    "Potential": "VEN-002",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": "Pro 149/Premium 189"
+   },
+   {
+    "Research ID": "SVC-006",
+    "Service Name (as listed)": "Octoplus Full Digital License 1 Year (Without Box)",
+    "Category": "License",
+    "Price": "118.8",
+    "Delivery": "1-5 min",
+    "Orig. Vendor": "VEN-003",
+    "Actual Supplier": "",
+    "Potential": "VEN-003",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-007",
+    "Service Name (as listed)": "Octoplus / Octopus Box Account Credits",
+    "Category": "Credits",
+    "Price": "0.107",
+    "Delivery": "1-2 min",
+    "Orig. Vendor": "VEN-003",
+    "Actual Supplier": "",
+    "Potential": "VEN-003",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-008",
+    "Service Name (as listed)": "Xiaomi King Tool Any Qnt (AUTH) INSTANT",
+    "Category": "Credits",
+    "Price": "0.75",
+    "Delivery": "Instant",
+    "Orig. Vendor": "VEN-004",
+    "Actual Supplier": "",
+    "Potential": "VEN-004",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-009",
+    "Service Name (as listed)": "E-GSM TOOL ACTIVATION 1 Year",
+    "Category": "License",
+    "Price": "54.99",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-005",
+    "Actual Supplier": "",
+    "Potential": "VEN-005",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-010",
+    "Service Name (as listed)": "E-GSM KEY Credit refill [egsmkey.com]",
+    "Category": "Credits",
+    "Price": "1.01",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-005",
+    "Actual Supplier": "",
+    "Potential": "VEN-005",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-011",
+    "Service Name (as listed)": "Deep Unlocker Tool Activation 1 Year",
+    "Category": "License",
+    "Price": "57.2",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-006",
+    "Actual Supplier": "",
+    "Potential": "VEN-006",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": "Credits 0.572"
+   },
+   {
+    "Research ID": "SVC-012",
+    "Service Name (as listed)": "Rapid Flash Tool Auth Tool Credit",
+    "Category": "Credits",
+    "Price": "0.81",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-014",
+    "Actual Supplier": "",
+    "Potential": "VEN-014",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-013",
+    "Service Name (as listed)": "EFT Pro Activation Without Dongle [1 Year] New User",
+    "Category": "License",
+    "Price": "53.89",
+    "Delivery": "1-10 min",
+    "Orig. Vendor": "VEN-013",
+    "Actual Supplier": "",
+    "Potential": "SUP-001/006/007",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": "Not on EFT lists"
+   },
+   {
+    "Research ID": "SVC-014",
+    "Service Name (as listed)": "EFT Dongle 1 Year",
+    "Category": "License",
+    "Price": "21.84",
+    "Delivery": "5 min",
+    "Orig. Vendor": "VEN-013",
+    "Actual Supplier": "",
+    "Potential": "same",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-015",
+    "Service Name (as listed)": "MDMFix Tool Activation [1 Year] AUTO API",
+    "Category": "License",
+    "Price": "64.19",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-008",
+    "Actual Supplier": "",
+    "Potential": "VEN-008",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-016",
+    "Service Name (as listed)": "General Unlocker Pro Credits [Auto API]",
+    "Category": "Credits",
+    "Price": "0.599",
+    "Delivery": "h",
+    "Orig. Vendor": "VEN-009",
+    "Actual Supplier": "",
+    "Potential": "VEN-009",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-017",
+    "Service Name (as listed)": "TFM Tool Pro Professional Plan 12 Months",
+    "Category": "License",
+    "Price": "29.39",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-010",
+    "Actual Supplier": "",
+    "Potential": "VEN-010",
+    "Confidence": "LIKELY",
+    "Status": "Partial",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-018",
+    "Service Name (as listed)": "Dhru Fusion New License for Wholesale Server",
+    "Category": "Platform",
+    "Price": "605",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-012",
+    "Actual Supplier": "",
+    "Potential": "VEN-012",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-019",
+    "Service Name (as listed)": "Dhru Fusion - Supplier panel",
+    "Category": "Platform",
+    "Price": "220.5",
+    "Delivery": "min",
+    "Orig. Vendor": "VEN-012",
+    "Actual Supplier": "",
+    "Potential": "VEN-012",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-020",
+    "Service Name (as listed)": "HALABTECH (Platinum 12 Months)",
+    "Category": "Firmware membership",
+    "Price": "59.99",
+    "Delivery": "60 min",
+    "Orig. Vendor": "VEN-000",
+    "Actual Supplier": "VEN-000",
+    "Potential": "—",
+    "Confidence": "CONFIRMED",
+    "Status": "Resolved",
+    "Notes": "Own product"
+   },
+   {
+    "Research ID": "SVC-021",
+    "Service Name (as listed)": "HalabTech Credits Any Quantity (Support Only)",
+    "Category": "Credits",
+    "Price": "1",
+    "Delivery": "Instant",
+    "Orig. Vendor": "VEN-000",
+    "Actual Supplier": "VEN-000",
+    "Potential": "—",
+    "Confidence": "CONFIRMED",
+    "Status": "Resolved",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-022",
+    "Service Name (as listed)": "HALABTECH Support Reseller (Min 5.000 Credits)",
+    "Category": "Wholesale credits",
+    "Price": "(1.01 at Saudi-GSM)",
+    "Delivery": "Auto",
+    "Orig. Vendor": "VEN-000",
+    "Actual Supplier": "VEN-000",
+    "Potential": "—",
+    "Confidence": "CONFIRMED",
+    "Status": "Resolved",
+    "Notes": "news.halabtech.com"
+   },
+   {
+    "Research ID": "SVC-023",
+    "Service Name (as listed)": "Halabtech Tool v1.1",
+    "Category": "Own software",
+    "Price": "",
+    "Delivery": "",
+    "Orig. Vendor": "VEN-000",
+    "Actual Supplier": "VEN-000",
+    "Potential": "—",
+    "Confidence": "CONFIRMED",
+    "Status": "Resolved",
+    "Notes": "tools.halabtech.com"
+   },
+   {
+    "Research ID": "SVC-024",
+    "Service Name (as listed)": "T-MOBILE/SPRINT/METROPCS POLICY USA – iPhone Till 17",
+    "Category": "IMEI",
+    "Price": "82.49",
+    "Delivery": "1-10 d",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": "/resellerpricing/imei"
+   },
+   {
+    "Research ID": "SVC-025",
+    "Service Name (as listed)": "iREMOVE FMI OFF – iPad (10th gen) WiFi",
+    "Category": "iCloud",
+    "Price": "160",
+    "Delivery": "1-72 h",
+    "Orig. Vendor": "iRemove (unverified)",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": "/imei"
+   },
+   {
+    "Research ID": "SVC-026",
+    "Service Name (as listed)": "Xiaomi Mi Account Unlock {JAPAN} Server Direct",
+    "Category": "Account",
+    "Price": "13.99",
+    "Delivery": "1-72 h",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": "/imei"
+   },
+   {
+    "Research ID": "SVC-027",
+    "Service Name (as listed)": "Ameer Tool (Hardware Tool) [1 Year]",
+    "Category": "License",
+    "Price": "57.99",
+    "Delivery": "min",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "\"Amir Tech\"?",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": "Name match only"
+   },
+   {
+    "Research ID": "SVC-028",
+    "Service Name (as listed)": "Hydra Credits (100)",
+    "Category": "Credits",
+    "Price": "87.99",
+    "Delivery": "1-3 min",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Not investigated",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-029",
+    "Service Name (as listed)": "Z3X SamsTool Online (1 Year)",
+    "Category": "License",
+    "Price": "54.49",
+    "Delivery": "min",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Not investigated",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-030",
+    "Service Name (as listed)": "Infinity [CM2] Online (1 Month) AUTO API",
+    "Category": "License",
+    "Price": "17.99",
+    "Delivery": "min",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Not investigated",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-031",
+    "Service Name (as listed)": "Pubg Mobile 660 UC (AUTO API)",
+    "Category": "Game top-up",
+    "Price": "8.99",
+    "Delivery": "min",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-032",
+    "Service Name (as listed)": "Syriatel / MTN [Syria] top-ups",
+    "Category": "Telecom",
+    "Price": "0.32–23.99",
+    "Delivery": "1-3 h",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-033",
+    "Service Name (as listed)": "AI Tools (ChatGPT/Claude/Cursor)",
+    "Category": "Accounts",
+    "Price": "19.49/24.99/18.99",
+    "Delivery": "1-24 h",
+    "Orig. Vendor": "",
+    "Actual Supplier": "",
+    "Potential": "",
+    "Confidence": "UNKNOWN",
+    "Status": "Open",
+    "Notes": ""
+   },
+   {
+    "Research ID": "SVC-034",
+    "Service Name (as listed)": "AuthFlash services",
+    "Category": "Credits",
+    "Price": "",
+    "Delivery": "",
+    "Orig. Vendor": "VEN-011",
+    "Actual Supplier": "",
+    "Potential": "VEN-011",
+    "Confidence": "UNKNOWN",
+    "Status": "Partial",
+    "Notes": "SKU not located"
+   }
+  ]
+ },
+ "Original Vendors": {
+  "header": [
+   "Vendor ID",
+   "Vendor",
+   "Website",
+   "Products",
+   "Relationship with HalabTech",
+   "Evidence"
+  ],
+  "rows": [
+   {
+    "Vendor ID": "VEN-000",
+    "Vendor": "HalabTech",
+    "Website": "halabtech.com",
+    "Products": "Firmware memberships, credits, Halabtech Tool",
+    "Relationship with HalabTech": "Self",
+    "Evidence": "EV-020,027–031,046"
+   },
+   {
+    "Vendor ID": "VEN-001",
+    "Vendor": "DFTPro Tool",
+    "Website": "dftpro.com",
+    "Products": "DFT PRO",
+    "Relationship with HalabTech": "\"Distributor And Reseller\"",
+    "Evidence": "EV-009,010"
+   },
+   {
+    "Vendor ID": "VEN-002",
+    "Vendor": "ChimeraTool",
+    "Website": "chimeratool.com",
+    "Products": "Chimera, add-ons",
+    "Relationship with HalabTech": "Listed reseller; content partner",
+    "Evidence": "EV-011–015"
+   },
+   {
+    "Vendor ID": "VEN-003",
+    "Vendor": "Octoplus Box",
+    "Website": "octoplusbox.com",
+    "Products": "Octoplus",
+    "Relationship with HalabTech": "Official reseller (Worldwide)",
+    "Evidence": "EV-016"
+   },
+   {
+    "Vendor ID": "VEN-004",
+    "Vendor": "Xiaomi King Tool",
+    "Website": "xiaomikingtool.com",
+    "Products": "Xiaomi King",
+    "Relationship with HalabTech": "\"Distributor\"",
+    "Evidence": "EV-017"
+   },
+   {
+    "Vendor ID": "VEN-005",
+    "Vendor": "E-GSM",
+    "Website": "egsmtool.com; egsmkey.com",
+    "Products": "E-GSM Tool/Key",
+    "Relationship with HalabTech": "\"Distributer\"/\"Reseller\"",
+    "Evidence": "EV-018,019"
+   },
+   {
+    "Vendor ID": "VEN-006",
+    "Vendor": "Deep Unlocker",
+    "Website": "deepunlocker.net",
+    "Products": "Deep Unlocker",
+    "Relationship with HalabTech": "\"Distributor/Reseller\", first of 6",
+    "Evidence": "EV-020b"
+   },
+   {
+    "Vendor ID": "VEN-007",
+    "Vendor": "UnlockTool",
+    "Website": "unlocktool.net",
+    "Products": "UnlockTool",
+    "Relationship with HalabTech": "Under \"RESELLER\" block",
+    "Evidence": "EV-021,022"
+   },
+   {
+    "Vendor ID": "VEN-008",
+    "Vendor": "MDMFix Tool",
+    "Website": "mdmfixtool.com",
+    "Products": "MDMFix",
+    "Relationship with HalabTech": "\"Distributor/Reseller\"",
+    "Evidence": "EV-023"
+   },
+   {
+    "Vendor ID": "VEN-009",
+    "Vendor": "General Unlocker",
+    "Website": "general-unlocker.com",
+    "Products": "General Unlocker Pro",
+    "Relationship with HalabTech": "\"WorldWide distributor\"",
+    "Evidence": "EV-024"
+   },
+   {
+    "Vendor ID": "VEN-010",
+    "Vendor": "TFM Tool",
+    "Website": "tfmtool.com",
+    "Products": "TFM Tool Pro",
+    "Relationship with HalabTech": "\"Distributor\"",
+    "Evidence": "EV-025"
+   },
+   {
+    "Vendor ID": "VEN-011",
+    "Vendor": "Auth Flash Tool",
+    "Website": "authflash.com",
+    "Products": "Auth-Flash",
+    "Relationship with HalabTech": "Official seller/distributor",
+    "Evidence": "EV-026"
+   },
+   {
+    "Vendor ID": "VEN-012",
+    "Vendor": "Dhru",
+    "Website": "dhru.com",
+    "Products": "Dhru Fusion",
+    "Relationship with HalabTech": "Platform (LIKELY); license resale self-claimed",
+    "Evidence": "EV-006,034–036"
+   },
+   {
+    "Vendor ID": "VEN-013",
+    "Vendor": "Easy-Firmware team",
+    "Website": "eft-dongle.easy-firmware.com",
+    "Products": "EFT Dongle/Pro",
+    "Relationship with HalabTech": "Not found on list",
+    "Evidence": "EV-037"
+   },
+   {
+    "Vendor ID": "VEN-014",
+    "Vendor": "RapidFlashTool (Baba Tools, candidate)",
+    "Website": "rapidflashtool.com",
+    "Products": "RapidFlashTool",
+    "Relationship with HalabTech": "Unknown",
+    "Evidence": "EV-041,042"
+   },
+   {
+    "Vendor ID": "VEN-015",
+    "Vendor": "joudiSoft ltd.",
+    "Website": "joudisoft.com",
+    "Products": "Real Easy Store",
+    "Relationship with HalabTech": "Platform of support.halabtech.com",
+    "Evidence": "EV-008"
+   }
+  ]
+ },
+ "Suppliers and Distributors": {
+  "header": [
+   "Supplier ID",
+   "Company",
+   "Role",
+   "Distribution Status",
+   "Relationship with HalabTech",
+   "Evidence",
+   "Confidence"
+  ],
+  "rows": [
+   {
+    "Supplier ID": "SUP-001",
+    "Company": "GsmServer (gsmserver.com)",
+    "Role": "Global distributor",
+    "Distribution Status": "DFT Pro distributor; UnlockTool & E-GSM Key reseller; EFT worldwide distributor (forum)",
+    "Relationship with HalabTech": "Resells HalabTech; HalabTech agent; upstream unproven",
+    "Evidence": "EV-027–029,014,009,019",
+    "Confidence": "CONFIRMED downstream / UNKNOWN upstream"
+   },
+   {
+    "Supplier ID": "SUP-002",
+    "Company": "DOSTService (dostservice.com)",
+    "Role": "Turkish distributor",
+    "Distribution Status": "DFT Pro \"Distributor And Reseller\"",
+    "Relationship with HalabTech": "Peer; HalabTech agent",
+    "Evidence": "EV-009,007",
+    "Confidence": "CONFIRMED"
+   },
+   {
+    "Supplier ID": "SUP-003",
+    "Company": "GSM Africa (gsmafrica.com)",
+    "Role": "Distributor ZA",
+    "Distribution Status": "Xiaomi King, TFM",
+    "Relationship with HalabTech": "Resells HalabTech; agent",
+    "Evidence": "EV-040,017,025",
+    "Confidence": "CONFIRMED"
+   },
+   {
+    "Supplier ID": "SUP-004",
+    "Company": "GSMFastest (gsmfastest.com)",
+    "Role": "Distributor PK/CN/UAE",
+    "Distribution Status": "TFM, EFT",
+    "Relationship with HalabTech": "HalabTech agent",
+    "Evidence": "EV-007,025",
+    "Confidence": "CONFIRMED (listing)"
+   },
+   {
+    "Supplier ID": "SUP-005",
+    "Company": "Martview (martview.com)",
+    "Role": "Distributor CN/MY",
+    "Distribution Status": "EFT",
+    "Relationship with HalabTech": "Resells HalabTech credits",
+    "Evidence": "EV-030",
+    "Confidence": "CONFIRMED"
+   },
+   {
+    "Supplier ID": "SUP-006",
+    "Company": "SimSim Electronics",
+    "Role": "EFT distributor",
+    "Distribution Status": "EFT",
+    "Relationship with HalabTech": "Candidate EFT intermediary",
+    "Evidence": "EV-037",
+    "Confidence": "UNKNOWN"
+   },
+   {
+    "Supplier ID": "SUP-007",
+    "Company": "SharkGSM / GSM-Sources",
+    "Role": "EFT distributors",
+    "Distribution Status": "EFT",
+    "Relationship with HalabTech": "Candidate EFT intermediary",
+    "Evidence": "EV-037",
+    "Confidence": "UNKNOWN"
+   },
+   {
+    "Supplier ID": "SUP-008",
+    "Company": "GsmGenesis / MyGSM24",
+    "Role": "UnlockTool & TFM distributor",
+    "Distribution Status": "UnlockTool",
+    "Relationship with HalabTech": "HalabTech agent; candidate UnlockTool upstream",
+    "Evidence": "EV-007,021,025",
+    "Confidence": "UNKNOWN (upstream)"
+   },
+   {
+    "Supplier ID": "SUP-009",
+    "Company": "Downstream stores (CleanUnlocker, Unlock-UA, Click-Unlock, FFUnlocker, Saudi-GSM, GSMToolHub, Territorio Remoto, GSMPunjab, GSMXE, GsmKart, BreGSM, All-Spares, RGSM Rio, GsmServer.in)",
+    "Role": "Resellers",
+    "Distribution Status": "—",
+    "Relationship with HalabTech": "Sell HalabTech products (direct vs via GsmServer unknown)",
+    "Evidence": "EV-031–033",
+    "Confidence": "CONFIRMED (sell)"
+   },
+   {
+    "Supplier ID": "SUP-010",
+    "Company": "DM Unlocker",
+    "Role": "Reseller",
+    "Distribution Status": "—",
+    "Relationship with HalabTech": "Cross-store comparison only",
+    "Evidence": "EV-038",
+    "Confidence": "UNKNOWN"
+   },
+   {
+    "Supplier ID": "SUP-011",
+    "Company": "Easy-Unlocker",
+    "Role": "Xiaomi King reseller",
+    "Distribution Status": "—",
+    "Relationship with HalabTech": "Peer on Xiaomi King list",
+    "Evidence": "EV-017",
+    "Confidence": "UNKNOWN"
+   }
+  ]
+ },
+ "Supply Chain Relationships": {
+  "header": [
+   "Rel ID",
+   "Source",
+   "Target",
+   "Service",
+   "Type",
+   "Evidence",
+   "Confidence"
+  ],
+  "rows": [
+   {
+    "Rel ID": "REL-001",
+    "Source": "VEN-001",
+    "Target": "VEN-000",
+    "Service": "SVC-003/004",
+    "Type": "Distributor authorization",
+    "Evidence": "EV-009,010",
+    "Confidence": "CONFIRMED (status)"
+   },
+   {
+    "Rel ID": "REL-002",
+    "Source": "VEN-002",
+    "Target": "VEN-000",
+    "Service": "SVC-005",
+    "Type": "Reseller authorization",
+    "Evidence": "EV-011",
+    "Confidence": "CONFIRMED (status)"
+   },
+   {
+    "Rel ID": "REL-003",
+    "Source": "VEN-000",
+    "Target": "VEN-002",
+    "Service": "Halabtech Add-On",
+    "Type": "Content supply",
+    "Evidence": "EV-012,013,015",
+    "Confidence": "CONFIRMED"
+   },
+   {
+    "Rel ID": "REL-004",
+    "Source": "VEN-003",
+    "Target": "VEN-000",
+    "Service": "SVC-006/007",
+    "Type": "Official reseller",
+    "Evidence": "EV-016",
+    "Confidence": "CONFIRMED (status)"
+   },
+   {
+    "Rel ID": "REL-005",
+    "Source": "VEN-004",
+    "Target": "VEN-000",
+    "Service": "SVC-008",
+    "Type": "Distributor",
+    "Evidence": "EV-017",
+    "Confidence": "CONFIRMED (status)"
+   },
+   {
+    "Rel ID": "REL-006",
+    "Source": "VEN-005",
+    "Target": "VEN-000",
+    "Service": "SVC-009/010",
+    "Type": "Distributer/Reseller",
+    "Evidence": "EV-018,019",
+    "Confidence": "CONFIRMED status / DISPUTED tier"
+   },
+   {
+    "Rel ID": "REL-007",
+    "Source": "VEN-006",
+    "Target": "VEN-000",
+    "Service": "SVC-011",
+    "Type": "Distributor/Reseller",
+    "Evidence": "EV-020b",
+    "Confidence": "CONFIRMED (status)"
+   },
+   {
+    "Rel ID": "REL-008",
+    "Source": "VEN-007",
+    "Target": "VEN-000",
+    "Service": "SVC-001/002",
+    "Type": "Reseller",
+    "Evidence": "EV-021",
+    "Confidence": "STRONG EVIDENCE"
+   },
+   {
+    "Rel ID": "REL-009",
+    "Source": "VEN-008",
+    "Target": "VEN-000",
+    "Service": "SVC-015",
+    "Type": "Distributor/Reseller",
+    "Evidence": "EV-023",
+    "Confidence": "STRONG EVIDENCE"
+   },
+   {
+    "Rel ID": "REL-010",
+    "Source": "VEN-009",
+    "Target": "VEN-000",
+    "Service": "SVC-016",
+    "Type": "Distributor",
+    "Evidence": "EV-024",
+    "Confidence": "STRONG EVIDENCE"
+   },
+   {
+    "Rel ID": "REL-011",
+    "Source": "VEN-010",
+    "Target": "VEN-000",
+    "Service": "SVC-017",
+    "Type": "Distributor",
+    "Evidence": "EV-025",
+    "Confidence": "CONFIRMED (status)"
+   },
+   {
+    "Rel ID": "REL-012",
+    "Source": "VEN-011",
+    "Target": "VEN-000",
+    "Service": "SVC-034",
+    "Type": "Official seller",
+    "Evidence": "EV-026",
+    "Confidence": "CONFIRMED (status)"
+   },
+   {
+    "Rel ID": "REL-013",
+    "Source": "VEN-000",
+    "Target": "SUP-001",
+    "Service": "SVC-020/021",
+    "Type": "Downstream resale since 14.10.2022",
+    "Evidence": "EV-027–029",
+    "Confidence": "CONFIRMED"
+   },
+   {
+    "Rel ID": "REL-014",
+    "Source": "SUP-001",
+    "Target": "VEN-000",
+    "Service": "3rd-party tools",
+    "Type": "Possible upstream supply",
+    "Evidence": "—",
+    "Confidence": "UNKNOWN"
+   },
+   {
+    "Rel ID": "REL-015",
+    "Source": "VEN-013",
+    "Target": "SUP-001/006/007",
+    "Service": "EFT",
+    "Type": "Worldwide distribution",
+    "Evidence": "EV-037",
+    "Confidence": "STRONG EVIDENCE"
+   },
+   {
+    "Rel ID": "REL-016",
+    "Source": "SUP-001/006/007",
+    "Target": "VEN-000",
+    "Service": "SVC-013/014",
+    "Type": "Possible intermediary",
+    "Evidence": "—",
+    "Confidence": "UNKNOWN"
+   },
+   {
+    "Rel ID": "REL-017",
+    "Source": "VEN-012",
+    "Target": "VEN-000",
+    "Service": "Platform, SVC-018/019",
+    "Type": "Platform + license resale",
+    "Evidence": "EV-006,034",
+    "Confidence": "LIKELY"
+   },
+   {
+    "Rel ID": "REL-018",
+    "Source": "VEN-015",
+    "Target": "VEN-000",
+    "Service": "support platform",
+    "Type": "Platform licensor",
+    "Evidence": "EV-008",
+    "Confidence": "CONFIRMED"
+   },
+   {
+    "Rel ID": "REL-019",
+    "Source": "VEN-000",
+    "Target": "SUP-009, SUP-005",
+    "Service": "Credits/packs",
+    "Type": "Downstream resale",
+    "Evidence": "EV-030–033",
+    "Confidence": "CONFIRMED"
+   },
+   {
+    "Rel ID": "REL-020",
+    "Source": "VEN-000",
+    "Target": "SUP-002/003/004/008",
+    "Service": "Services",
+    "Type": "World-agent listing",
+    "Evidence": "EV-007",
+    "Confidence": "CONFIRMED (listing)"
+   },
+   {
+    "Rel ID": "REL-021",
+    "Source": "VEN-001",
+    "Target": "SUP-001, SUP-002",
+    "Service": "DFT Pro",
+    "Type": "Distributor",
+    "Evidence": "EV-009",
+    "Confidence": "CONFIRMED"
+   },
+   {
+    "Rel ID": "REL-022",
+    "Source": "VEN-014",
+    "Target": "VEN-000",
+    "Service": "SVC-012",
+    "Type": "Possible authorization",
+    "Evidence": "—",
+    "Confidence": "UNKNOWN"
+   }
+  ]
+ },
+ "Evidence Register": {
+  "header": [
+   "EV ID",
+   "Service",
+   "Source URL",
+   "Type",
+   "Pub. Date",
+   "Excerpt (≤20 words)",
+   "Strength",
+   "S/C"
+  ],
+  "rows": [
+   {
+    "EV ID": "EV-001",
+    "Service": "—",
+    "Source URL": "https://halabtech.com",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "Nav: Support, tool, hardware, techub, news, ip, pass, server, digital, course",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-002",
+    "Service": "—",
+    "Source URL": "https://server.halabtech.com/",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"If you're Source or Tool owner, contact us for a deal\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-003",
+    "Service": "—",
+    "Source URL": "https://server.halabtech.com/pages/DISTRIBUTOR",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Distributor – Maximum Discount… $2999 lifeTime (This will be balance in site also)\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-004",
+    "Service": "SVC-001–034",
+    "Source URL": "https://server.halabtech.com/resellerpricing/server",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "Groups numbered 0…239; \"Chimera Activation\" truncated",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-005",
+    "Service": "SVC-024–026",
+    "Source URL": "https://server.halabtech.com/resellerpricing/imei",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"iREMOVE FMI OFF - iPad (10th generation)… $160\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-006",
+    "Service": "SVC-018/019",
+    "Source URL": "https://server.halabtech.com/resellerpricing/server",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Dhru Fusion New License for Wholesale Server (Make Your Server Live)… $605\"",
+    "Strength": "High",
+    "S/C": "S (indirect)"
+   },
+   {
+    "EV ID": "EV-007",
+    "Service": "—",
+    "Source URL": "https://support.halabtech.com/index.php?a=pages&b=world-agents",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"GsmServer Worldwide… Dost Service Turkey… GSMFastest Pakistan · China · UAE\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-008",
+    "Service": "—",
+    "Source URL": "https://support.halabtech.com/",
+    "Type": "Official footer",
+    "Pub. Date": "2026",
+    "Excerpt (≤20 words)": "\"Powered by Real Easy Store ( joudiSoft ltd. )\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-009",
+    "Service": "SVC-003",
+    "Source URL": "https://www.dftpro.com/reseller.php",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH(Distributor And Reseller)… Web: https://server.halabtech.com/contactus\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-010",
+    "Service": "SVC-003",
+    "Source URL": "https://www.dftpro.com/dealers",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH (Distributor And Reseller) Worldwide,Any Country, Turkey, Syria\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-011",
+    "Service": "SVC-005",
+    "Source URL": "https://chimeratool.com/en/resellers",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"ChimeraTool has 141 resellers and 3 distributors… HALABTECH… server.halabtech.com\"",
+    "Strength": "High",
+    "S/C": "S (HalabTech listed) / C: the \"3 distributors\" count conflicts with Chimera's \"Resellers Sales System\" doc (\"two distributors currently: GsmEasy and GsmServer… The circle of distributors will not be expanded.\")"
+   },
+   {
+    "EV ID": "EV-012",
+    "Service": "—",
+    "Source URL": "https://chimeratool.com/en/docs/halabtech-add-on-in-chimeratool",
+    "Type": "Vendor docs",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"The Halabtech Add-on is our collaboration with the Halabtech team\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-013",
+    "Service": "—",
+    "Source URL": "https://chimeratool.com/en/shop",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Limited to 682 GB or 1000 files\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-014",
+    "Service": "—",
+    "Source URL": "https://gsmserver.com/en/chimera-tool-halabtech-add-on/",
+    "Type": "Distributor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"USD 59.90… we will add 529 Chimera Server Credits\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-015",
+    "Service": "—",
+    "Source URL": "https://forum.gsmhosting.com/vbb/f898/halabtech-addon-3262159/",
+    "Type": "Forum (vendor staff)",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"These are not our firmwares, but HalabTech firmwares. We integrated them\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-016",
+    "Service": "SVC-006",
+    "Source URL": "https://octoplusbox.com/buynow/",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH – Country: Worldwide – Distributors and Resellers are most welcome\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-017",
+    "Service": "SVC-008",
+    "Source URL": "https://xiaomikingtool.com/resellers",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH – Distributor… Telegram: @HTSupport… WhatsApp: +90507058173\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-018",
+    "Service": "SVC-009",
+    "Source URL": "https://egsmtool.com/resellers",
+    "Type": "Vendor",
+    "Pub. Date": "footer 2021–2026",
+    "Excerpt (≤20 words)": "\"halabtech",
+    "Strength": "Distributer… Web http://server.halabtech.com/ · Telegram @htsupport\"",
+    "S/C": "High | S"
+   },
+   {
+    "EV ID": "EV-019",
+    "Service": "SVC-010",
+    "Source URL": "https://egsmkey.com/resellers",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"halabtech",
+    "Strength": "Reseller… Web: server.halabtech.com · E-mail: info@halabtech.com\"",
+    "S/C": "High | S/C (tier)"
+   },
+   {
+    "EV ID": "EV-020",
+    "Service": "SVC-020",
+    "Source URL": "https://server.halabtech.com/resellerpricing/server",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH (Platinum 12 Months) [BLOG + SUPPORT + FACEBOOK GROUP]… $59.99\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-020b",
+    "Service": "SVC-011",
+    "Source URL": "https://deepunlocker.net/resellers.php",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Halabtech · Distributor/Reseller WorldWide · https://server.halabtech.com/contactus\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-021",
+    "Service": "SVC-001",
+    "Source URL": "https://unlocktool.net/reseller/",
+    "Type": "Vendor (snippet)",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"##### HALABTECH / PAKISTAN - WORLDWIDE\" under RESELLER block",
+    "Strength": "Medium",
+    "S/C": "S/C (country)"
+   },
+   {
+    "EV ID": "EV-022",
+    "Service": "SVC-001",
+    "Source URL": "t.me/s/UnlockToolOfficial",
+    "Type": "Social (unverified)",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Worldwide Unlock Tool Official Distributor/Reseller (HALABTECH)\"",
+    "Strength": "Low",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-023",
+    "Service": "SVC-015",
+    "Source URL": "https://mdmfixtool.com/distributors_and_resellers",
+    "Type": "Vendor (snippet)",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HalabTech… +963992951910… @htsupport… Distributor/Reseller\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-024",
+    "Service": "SVC-016",
+    "Source URL": "https://general-unlocker.com/reseller/",
+    "Type": "Vendor (snippet)",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH · WorldWide distributor · HALABTECH (Distributor And Reseller)\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-025",
+    "Service": "SVC-017",
+    "Source URL": "https://tfmtool.com/reseller",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH (Distributor)… Country: WorldWide… Web: https://server.halabtech.com\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-026",
+    "Service": "SVC-034",
+    "Source URL": "https://authflash.com/sellers",
+    "Type": "Vendor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH – Advanced mobile solutions and professional unlocking services\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-027",
+    "Service": "SVC-020/021",
+    "Source URL": "https://gsmserver.com/en/news/halabtech-welcome-on-board/",
+    "Type": "Distributor news",
+    "Pub. Date": "14.10.2022",
+    "Excerpt (≤20 words)": "\"Halabtech joins GsmServer digital family\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-028",
+    "Service": "SVC-020",
+    "Source URL": "https://gsmserver.com/en/halabtech-platinum/",
+    "Type": "Distributor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"USD 69.99 USD 59.99… Daily downoading limit: 682 GB\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-029",
+    "Service": "SVC-021",
+    "Source URL": "https://gsmserver.com/en/halabtech-support-credits/",
+    "Type": "Distributor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Intended for support.halabtech.com only… Minimum order is 3 credits\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-030",
+    "Service": "SVC-021",
+    "Source URL": "https://www.martview.com/halabtech-firmware-tool-credits.html",
+    "Type": "Distributor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"For Platinum Buy 59 Quantity\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-031",
+    "Service": "SVC-021",
+    "Source URL": "https://all-spares.com/en/halabtech-support-credits/",
+    "Type": "Retailer",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Intended for support.halabtech.com only\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-032",
+    "Service": "—",
+    "Source URL": "https://rgsmrio.in/cart/group/414/service/server/groupname/Halabtech-Official-Distributor",
+    "Type": "Reseller",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Halabtech [Official Distributor]\"",
+    "Strength": "Low",
+    "S/C": "S (self-claim)"
+   },
+   {
+    "EV ID": "EV-033",
+    "Service": "SVC-022",
+    "Source URL": "https://saudi-gsm.com/resellerpricing/server (+cleanunlocker, unlock-ua, gsmtoolhub, gsmxe…)",
+    "Type": "Resellers",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"HALABTECH Support Reseller (Min 5.000 Credits) [Reseller Package]… $1.01\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-034",
+    "Service": "—",
+    "Source URL": "https://www.dhru.com/software/dhru-fusion",
+    "Type": "Vendor docs",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Connect multiple providers, compare pricing, route orders by rule\"",
+    "Strength": "High",
+    "S/C": "S (generic)"
+   },
+   {
+    "EV ID": "EV-035",
+    "Service": "—",
+    "Source URL": "https://help.dhru.com/en/articles/10892898-api-integration",
+    "Type": "Vendor docs",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"connect to another DHRU server as a client, or build your own API listener\"",
+    "Strength": "High",
+    "S/C": "S (generic)"
+   },
+   {
+    "EV ID": "EV-036",
+    "Service": "—",
+    "Source URL": "https://support.dhru.com/Dhru-Fusion/article/Orders/?aid=31&cid=1&pid=1",
+    "Type": "Vendor docs",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Verify before sending to supplier\"",
+    "Strength": "High",
+    "S/C": "S (generic)"
+   },
+   {
+    "EV ID": "EV-037",
+    "Service": "SVC-013/014",
+    "Source URL": "https://eft-dongle.easy-firmware.com/distributor-reseller/ ; forum-gsmdevelopers.com thread 53",
+    "Type": "Vendor/forum",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"WORLDWIDE DISTRIBUTOR - Hong Kong, China… Company name: GsmServer\"",
+    "Strength": "Medium",
+    "S/C": "HalabTech absent"
+   },
+   {
+    "EV ID": "EV-038",
+    "Service": "SVC-001,011",
+    "Source URL": "https://dmunlocker.com/resellerpricing/server",
+    "Type": "Reseller",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"12 Months - Deep Unlocker Tool… $56.65\"",
+    "Strength": "Medium",
+    "S/C": "Neutral"
+   },
+   {
+    "EV ID": "EV-039",
+    "Service": "SVC-011",
+    "Source URL": "https://www.droidunlocking.com/resellerpricing/server",
+    "Type": "Reseller",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"12 Months - Deep Unlocker Tool… 58.85Credits\"",
+    "Strength": "Medium",
+    "S/C": "Neutral"
+   },
+   {
+    "EV ID": "EV-040",
+    "Service": "—",
+    "Source URL": "https://www.gsmafrica.com/",
+    "Type": "Distributor",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"xiaomi king tool (official distributors)… halabtech\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-041",
+    "Service": "SVC-012",
+    "Source URL": "https://www.indiamart.com/proddetail/rapid-flash-tool-auth-tool-10-credit-existing-account-2859146827673.html",
+    "Type": "Marketplace",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"RapidFlashTool by Baba Tools is a powerful all-in-one mobile servicing platform\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-042",
+    "Service": "SVC-012",
+    "Source URL": "https://www.rapidflashtool.com/",
+    "Type": "Vendor",
+    "Pub. Date": "© 2024",
+    "Excerpt (≤20 words)": "Home links /reseller.php; HalabTech not on home page",
+    "Strength": "Medium",
+    "S/C": "Neutral"
+   },
+   {
+    "EV ID": "EV-043",
+    "Service": "SVC-003",
+    "Source URL": "https://news.halabtech.com/dft-pro-update-v8-0-0-is-released-en-2026-07-19/",
+    "Type": "Official blog",
+    "Pub. Date": "2026-07-19",
+    "Excerpt (≤20 words)": "\"How do I activate DFT PRO on HalabTech Server?\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-044",
+    "Service": "SVC-009",
+    "Source URL": "https://news.halabtech.com/e-gsm-tool-v4-2-4-has-been-released-en-2026-08-20/",
+    "Type": "Official blog",
+    "Pub. Date": "2026-08-20",
+    "Excerpt (≤20 words)": "\"Activate now on HalabTech Server\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-045",
+    "Service": "SVC-003",
+    "Source URL": "https://store.halabtech.com/category/98",
+    "Type": "Official store",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"DFT PRO TOOL ACTIVATION [New Users] 1 Year… $ 76.69\"",
+    "Strength": "High",
+    "S/C": "C (price)"
+   },
+   {
+    "EV ID": "EV-046",
+    "Service": "SVC-023",
+    "Source URL": "https://tools.halabtech.com/",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"Halabtech Tool… Version 1.1… 5242 supported model\"",
+    "Strength": "High",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-047",
+    "Service": "—",
+    "Source URL": "https://www.trustpilot.com/review/server.halabtech.com",
+    "Type": "Review site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"TrustScore 4.1… 75 reviews\"",
+    "Strength": "Low–Med",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-048",
+    "Service": "—",
+    "Source URL": "https://www.facebook.com/HalabTech.official.page/",
+    "Type": "Social",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"78,477 followers\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-049",
+    "Service": "SVC-001",
+    "Source URL": "https://support.halabtech.com/index.php?a=downloads&b=folder&id=157207",
+    "Type": "Official site",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"This item is only for advertisement… visit… server.halabtech.com\"",
+    "Strength": "Medium",
+    "S/C": "S"
+   },
+   {
+    "EV ID": "EV-050",
+    "Service": "—",
+    "Source URL": "https://support.halabtech.com/index.php?a=downloads&b=folder&id=6430",
+    "Type": "Official site",
+    "Pub. Date": "02-02-2018",
+    "Excerpt (≤20 words)": "\"Chimera Tool… Date: 02-02-2018\"",
+    "Strength": "Medium",
+    "S/C": "S (history)"
+   },
+   {
+    "EV ID": "EV-051",
+    "Service": "SVC-001",
+    "Source URL": "https://www.click-unlock.com/resellerpricing/server ; https://cleanunlocker.com/resellerpricing/server",
+    "Type": "Resellers",
+    "Pub. Date": "",
+    "Excerpt (≤20 words)": "\"UnlockTool 12 months… USD 44.5\" / \"$ 42.85\"",
+    "Strength": "Medium",
+    "S/C": "Neutral"
+   },
+   {
+    "EV ID": "EV-052",
+    "Service": "SVC-023",
+    "Source URL": "https://www.imobie.com/unlock-phone/halabtech-tool.htm",
+    "Type": "Marketing blog",
+    "Pub. Date": "2026",
+    "Excerpt (≤20 words)": "\"one-year digital license typically costs between $50 and $70\"",
+    "Strength": "Low",
+    "S/C": "Unverified"
+   }
+  ]
+ },
+ "Unknown Suppliers": {
+  "header": [
+   "Service",
+   "Original Vendor",
+   "Suspected",
+   "Missing Evidence",
+   "Reason",
+   "Priority",
+   "Next Action"
+  ],
+  "rows": [
+   {
+    "Service": "SVC-024 T-Mobile Policy",
+    "Original Vendor": "T-Mobile US",
+    "Suspected": "IMEI wholesalers",
+    "Missing Evidence": "Any named source",
+    "Reason": "Dhru routing private",
+    "Priority": "High",
+    "Next Action": "Exact-string match on other Dhru servers"
+   },
+   {
+    "Service": "SVC-025 iREMOVE",
+    "Original Vendor": "iRemove (unverified)",
+    "Suspected": "iRemove resellers",
+    "Missing Evidence": "Reseller list",
+    "Reason": "Not searched",
+    "Priority": "High",
+    "Next Action": "Check iRemove reseller page"
+   },
+   {
+    "Service": "SVC-026 Mi Account",
+    "Original Vendor": "Unknown",
+    "Suspected": "—",
+    "Missing Evidence": "Any",
+    "Reason": "Opaque naming",
+    "Priority": "Medium",
+    "Next Action": "Search exact service string"
+   },
+   {
+    "Service": "SVC-013/014 EFT",
+    "Original Vendor": "Easy-Firmware",
+    "Suspected": "SUP-001/006/007, Martview",
+    "Missing Evidence": "HalabTech on EFT list",
+    "Reason": "Absent",
+    "Priority": "High",
+    "Next Action": "Fetch full EFT list"
+   },
+   {
+    "Service": "SVC-012 RapidFlash",
+    "Original Vendor": "Baba Tools (candidate)",
+    "Suspected": "VEN-014 direct",
+    "Missing Evidence": "Reseller page",
+    "Reason": "Not accessible",
+    "Priority": "Medium",
+    "Next Action": "site:rapidflashtool.com reseller"
+   },
+   {
+    "Service": "SVC-018/019 Dhru",
+    "Original Vendor": "Dhru",
+    "Suspected": "Dhru or reseller",
+    "Missing Evidence": "Partner list",
+    "Reason": "No public directory",
+    "Priority": "Low",
+    "Next Action": "Ask Dhru"
+   },
+   {
+    "Service": "SVC-027 Ameer Tool",
+    "Original Vendor": "Unknown",
+    "Suspected": "\"Amir Tech\"?",
+    "Missing Evidence": "Vendor site",
+    "Reason": "Name match only",
+    "Priority": "Medium",
+    "Next Action": "Search \"Ameer Tool hardware\""
+   },
+   {
+    "Service": "SVC-028–033",
+    "Original Vendor": "Various",
+    "Suspected": "—",
+    "Missing Evidence": "Vendor lists",
+    "Reason": "Not investigated",
+    "Priority": "Medium",
+    "Next Action": "Check each reseller page"
+   }
+  ]
+ },
+ "Research Gaps": {
+  "header": [
+   "Gap ID",
+   "Question",
+   "Related",
+   "Missing",
+   "Suggested Queries",
+   "Priority",
+   "Status"
+  ],
+  "rows": [
+   {
+    "Gap ID": "GAP-001",
+    "Question": "Who fulfills IMEI orders?",
+    "Related": "SVC-024–026",
+    "Missing": "Named supplier",
+    "Suggested Queries": "\"T-MOBILE SPRINT METROPCS POLICY USA Clean & Paid Off\" dhru",
+    "Priority": "High",
+    "Status": "Open"
+   },
+   {
+    "Gap ID": "GAP-002",
+    "Question": "Is HalabTech on EFT lists?",
+    "Related": "SVC-013/014, VEN-013",
+    "Missing": "Full list",
+    "Suggested Queries": "site:easy-firmware.com halabtech",
+    "Priority": "High",
+    "Status": "Open"
+   },
+   {
+    "Gap ID": "GAP-003",
+    "Question": "RapidFlashTool listing",
+    "Related": "SVC-012, VEN-014",
+    "Missing": "reseller.php",
+    "Suggested Queries": "site:rapidflashtool.com reseller",
+    "Priority": "Medium",
+    "Status": "Open"
+   },
+   {
+    "Gap ID": "GAP-004",
+    "Question": "Does GsmServer supply HalabTech?",
+    "Related": "SUP-001",
+    "Missing": "Upstream evidence",
+    "Suggested Queries": "\"HalabTech\" \"GsmServer\" API",
+    "Priority": "Medium",
+    "Status": "Weakened"
+   },
+   {
+    "Gap ID": "GAP-005",
+    "Question": "UnlockTool full text & tier",
+    "Related": "SVC-001, VEN-007",
+    "Missing": "Clean fetch",
+    "Suggested Queries": "unlocktool.org/resellers HalabTech",
+    "Priority": "Medium",
+    "Status": "Open"
+   },
+   {
+    "Gap ID": "GAP-006",
+    "Question": "Dhru footer confirmation",
+    "Related": "VEN-012",
+    "Missing": "\"Powered by\"",
+    "Suggested Queries": "server.halabtech.com \"Dhru Fusion\"",
+    "Priority": "Low",
+    "Status": "Open"
+   },
+   {
+    "Gap ID": "GAP-007",
+    "Question": "Prior leads WARD, GSMMUNNA, DZGSM, FirmwareDrive, FirmwareWorld, Amir Tech",
+    "Related": "—",
+    "Missing": "Any link",
+    "Suggested Queries": "\"halabtech\" + each name",
+    "Priority": "Medium",
+    "Status": "Not investigated"
+   },
+   {
+    "Gap ID": "GAP-008",
+    "Question": "Hydra/Z3X/UMT/CM2 status",
+    "Related": "SVC-028–030",
+    "Missing": "Vendor lists",
+    "Suggested Queries": "\"<tool> official resellers\" HalabTech",
+    "Priority": "Medium",
+    "Status": "Open"
+   },
+   {
+    "Gap ID": "GAP-009",
+    "Question": "Historical snapshots",
+    "Related": "VEN-000",
+    "Missing": "Archives",
+    "Suggested Queries": "web.archive.org dftpro.com/reseller.php",
+    "Priority": "Low",
+    "Status": "Open"
+   },
+   {
+    "Gap ID": "GAP-010",
+    "Question": "Downstream direct vs via GsmServer",
+    "Related": "SUP-009",
+    "Missing": "API linkage",
+    "Suggested Queries": "store pages naming source",
+    "Priority": "Low",
+    "Status": "Open"
+   }
+  ]
+ },
+ "Research History": {
+  "header": [
+   "Round",
+   "Topic",
+   "Tools",
+   "Example Queries",
+   "New Findings",
+   "Confidence Changes",
+   "Remaining"
+  ],
+  "rows": [
+   {
+    "Round": "1",
+    "Topic": "Website & catalog",
+    "Tools": "web_search, web_fetch (Firecrawl/Parallel/Exa not available, not invoked)",
+    "Example Queries": "\"HalabTech official distributor\"; site:server.halabtech.com resellerpricing",
+    "New Findings": "≥240 groups; reseller tiers; Dhru resale; own products; world agents",
+    "Confidence Changes": "—",
+    "Remaining": "Suppliers unknown"
+   },
+   {
+    "Round": "2",
+    "Topic": "Vendor lists & GsmServer",
+    "Tools": "web_search, web_fetch",
+    "Example Queries": "\"DFT Pro official resellers halabtech\"; \"Chimera Tool resellers HalabTech\"; \"Octoplus official resellers HalabTech\"; \"EFT Pro official resellers\"; \"gsmserver.com HalabTech\"",
+    "New Findings": "7 vendor confirmations; Chimera reverse supply; GsmServer 2022",
+    "Confidence Changes": "Leads → CONFIRMED status; GsmServer bidirectional partially corrected",
+    "Remaining": "EFT, RapidFlash, UnlockTool"
+   },
+   {
+    "Round": "3",
+    "Topic": "Targeted verification",
+    "Tools": "run_blocking_subagent",
+    "Example Queries": "E-GSM, Deep Unlocker, UnlockTool, RapidFlashTool, Dhru lists; Real Easy Store footer",
+    "New Findings": "+4 listings; Real Easy Store CONFIRMED",
+    "Confidence Changes": "Real Easy Store LIKELY→CONFIRMED; E-GSM tier DISPUTED",
+    "Remaining": "RapidFlash, Dhru list, IMEI"
+   }
+  ]
+ },
+ "Website Inventory": {
+  "header": [
+   "URL",
+   "Category",
+   "Crawl Status",
+   "Extraction"
+  ],
+  "rows": [
+   {
+    "URL": "https://halabtech.com",
+    "Category": "Homepage",
+    "Crawl Status": "Fetched",
+    "Extraction": "Nav extracted"
+   },
+   {
+    "URL": "https://server.halabtech.com/",
+    "Category": "Store home",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "https://server.halabtech.com/resellerpricing/server",
+    "Category": "Pricing",
+    "Crawl Status": "Fetched",
+    "Extraction": "Truncated at group 239"
+   },
+   {
+    "URL": "https://server.halabtech.com/resellerpricing/imei",
+    "Category": "Pricing",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "https://server.halabtech.com/pages/DISTRIBUTOR",
+    "Category": "Reseller program",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "https://server.halabtech.com/addfunds ; support login",
+    "Category": "Login-gated",
+    "Crawl Status": "Snippet",
+    "Extraction": "Not extracted (auth)"
+   },
+   {
+    "URL": "https://support.halabtech.com/",
+    "Category": "Firmware portal",
+    "Crawl Status": "Subagent fetch",
+    "Extraction": "Footer"
+   },
+   {
+    "URL": "https://support.halabtech.com/index.php?a=pages&b=world-agents",
+    "Category": "Agents",
+    "Crawl Status": "Fetched",
+    "Extraction": "Full"
+   },
+   {
+    "URL": "support.halabtech.com folders id=157207, 157736, 156737, 6430, 6414, 6415, 20787, 30315",
+    "Category": "Downloads",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "store.halabtech.com/category/98 ; tools.halabtech.com ; news.halabtech.com articles",
+    "Category": "Properties",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "tool., hardware., techub., ip., pass., link., digital., course., point.halabtech.com",
+    "Category": "Properties",
+    "Crawl Status": "Discovered only",
+    "Extraction": "Not crawled"
+   },
+   {
+    "URL": "dftpro.com/reseller.php ; /dealers",
+    "Category": "Vendor list",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "chimeratool.com resellers, shop, docs",
+    "Category": "Vendor",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "octoplusbox.com/buynow ; xiaomikingtool.com/resellers ; tfmtool.com/reseller ; authflash.com/sellers",
+    "Category": "Vendor lists",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "egsmtool.com/resellers ; egsmkey.com/resellers ; deepunlocker.net/resellers.php",
+    "Category": "Vendor lists",
+    "Crawl Status": "Subagent fetch",
+    "Extraction": "Full"
+   },
+   {
+    "URL": "unlocktool.net/reseller",
+    "Category": "Vendor list",
+    "Crawl Status": "Blocked (bot)",
+    "Extraction": "Snippet only"
+   },
+   {
+    "URL": "mdmfixtool.com ; general-unlocker.com/reseller",
+    "Category": "Vendor lists",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "rapidflashtool.com",
+    "Category": "Vendor home",
+    "Crawl Status": "Subagent fetch",
+    "Extraction": "reseller.php not accessed"
+   },
+   {
+    "URL": "dhru.com ; help.dhru.com ; support.dhru.com",
+    "Category": "Vendor docs",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "eft-dongle.easy-firmware.com ; eftprodongle.com",
+    "Category": "Vendor lists",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "gsmserver.com halabtech-platinum, news, support-credits, chimera add-on",
+    "Category": "Distributor",
+    "Crawl Status": "Fetched/Snippet",
+    "Extraction": "Full/Partial"
+   },
+   {
+    "URL": "forum.gsmhosting.com (HalabTech Addon; UnlockTool distributors)",
+    "Category": "Forum",
+    "Crawl Status": "Blocked/Snippet",
+    "Extraction": "Snippet only"
+   },
+   {
+    "URL": "Downstream pricing pages (15 stores)",
+    "Category": "Resellers",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   },
+   {
+    "URL": "joudisoft.com ; indiamart.com ; trustpilot.com ; facebook.com",
+    "Category": "Third party",
+    "Crawl Status": "Snippet",
+    "Extraction": "Partial"
+   }
+  ]
+ },
+ "Conflicts and Corrections": {
+  "header": [
+   "Claim",
+   "Previous Conclusion",
+   "New Evidence",
+   "Updated Conclusion",
+   "Evidence",
+   "Resolution"
+  ],
+  "rows": [
+   {
+    "Claim": "CL-001",
+    "Previous Conclusion": "Bidirectional HalabTech↔GsmServer (prior lead)",
+    "New Evidence": "GsmServer resells since 14.10.2022; agent listing; no upstream evidence",
+    "Updated Conclusion": "Downstream/peer CONFIRMED; upstream UNKNOWN",
+    "Evidence": "EV-007,027–029",
+    "Resolution": "Partial"
+   },
+   {
+    "Claim": "CL-002",
+    "Previous Conclusion": "Real Easy Store (prior lead)",
+    "New Evidence": "Footer \"Powered by Real Easy Store\"",
+    "Updated Conclusion": "CONFIRMED",
+    "Evidence": "EV-008",
+    "Resolution": "Resolved"
+   },
+   {
+    "Claim": "CL-003",
+    "Previous Conclusion": "Dhru Fusion (prior lead)",
+    "New Evidence": "License resale, DHRU cron, URL structure; no footer",
+    "Updated Conclusion": "LIKELY",
+    "Evidence": "EV-006",
+    "Resolution": "Open"
+   },
+   {
+    "Claim": "CL-004",
+    "Previous Conclusion": "E-GSM status",
+    "New Evidence": "\"Distributer\" vs \"Reseller\"",
+    "Updated Conclusion": "Status CONFIRMED; tier DISPUTED",
+    "Evidence": "EV-018,019",
+    "Resolution": "Documented"
+   },
+   {
+    "Claim": "CL-005",
+    "Previous Conclusion": "UnlockTool \"official distributor\" (Telegram)",
+    "New Evidence": "Vendor page: RESELLER, \"PAKISTAN - WORLDWIDE\"",
+    "Updated Conclusion": "Reseller (STRONG); distributor unverified",
+    "Evidence": "EV-021,022",
+    "Resolution": "Open"
+   },
+   {
+    "Claim": "CL-006",
+    "Previous Conclusion": "HalabTech country",
+    "New Evidence": "+963/+90/+249; Chimera lists Germany/Iraq/Syria/Lebanon/Turkey",
+    "Updated Conclusion": "Multi-jurisdiction; domicile unknown",
+    "Evidence": "EV-001,011,016,017",
+    "Resolution": "Documented"
+   },
+   {
+    "Claim": "CL-007",
+    "Previous Conclusion": "DFT Pro price",
+    "New Evidence": "$78.99 vs $76.69",
+    "Updated Conclusion": "Two price lists",
+    "Evidence": "EV-004,045",
+    "Resolution": "Documented"
+   },
+   {
+    "Claim": "CL-008",
+    "Previous Conclusion": "\"Halabtech Tool $50–70\"",
+    "New Evidence": "SEO sites only",
+    "Updated Conclusion": "UNVERIFIED",
+    "Evidence": "EV-052",
+    "Resolution": "Open"
+   }
+  ]
+ },
+ "Next Research Plan": {
+  "header": [
+   "Priority",
+   "Question",
+   "Candidates",
+   "Tools",
+   "Queries",
+   "Completion Criteria"
+  ],
+  "rows": [
+   {
+    "Priority": "1",
+    "Question": "IMEI/iCloud upstream (GAP-001)",
+    "Candidates": "IMEI wholesalers, iRemove",
+    "Tools": "Exa, Parallel",
+    "Queries": "exact service strings across Dhru servers",
+    "Completion Criteria": "≥1 primary-source link"
+   },
+   {
+    "Priority": "2",
+    "Question": "EFT path (GAP-002)",
+    "Candidates": "SUP-001/006/007",
+    "Tools": "Firecrawl",
+    "Queries": "site:eft-dongle.com halabtech",
+    "Completion Criteria": "Full list read"
+   },
+   {
+    "Priority": "3",
+    "Question": "RapidFlashTool + prior leads (GAP-003/007)",
+    "Candidates": "VEN-014",
+    "Tools": "Firecrawl",
+    "Queries": "site:rapidflashtool.com reseller",
+    "Completion Criteria": "Each lead classified"
+   },
+   {
+    "Priority": "4",
+    "Question": "~225 uninvestigated groups (GAP-008)",
+    "Candidates": "Hydra, Z3X, UMT, CM2, Sigma, Easy JTAG",
+    "Tools": "Parallel batch",
+    "Queries": "\"<tool> official resellers HalabTech\"",
+    "Completion Criteria": "Top 30 checked"
+   },
+   {
+    "Priority": "5",
+    "Question": "Historical lists (GAP-009)",
+    "Candidates": "—",
+    "Tools": "Wayback",
+    "Queries": "web.archive.org/*/dftpro.com/reseller.php",
+    "Completion Criteria": "≥5 snapshots"
+   }
+  ]
+ },
+ "Price Comparison": {
+  "header": [
+   "Product",
+   "HalabTech",
+   "Other stores"
+  ],
+  "rows": [
+   {
+    "Product": "UnlockTool 12 months",
+    "HalabTech": "$49.94",
+    "Other stores": "Click-Unlock $44.5; CleanUnlocker $42.85; Unlock-UA $45; DM Unlocker $40.7\\[23\\]\\[47\\]"
+   },
+   {
+    "Product": "DFT Pro 1 Year",
+    "HalabTech": "$78.99 (store $76.69)",
+    "Other stores": "Click-Unlock $72.79\\[22\\]"
+   },
+   {
+    "Product": "Deep Unlocker 1 Year",
+    "HalabTech": "$57.2",
+    "Other stores": "DM Unlocker $56.65; DroidUnlocking 58.85 credits\\[47\\]\\[48\\]"
+   },
+   {
+    "Product": "HalabTech Platinum 12M",
+    "HalabTech": "$59.99",
+    "Other stores": "GsmServer $59.99; CleanUnlocker $57.99; Unlock-UA $56; Saudi-GSM $55.64\\[20\\]\\[34\\]"
+   }
+  ]
+ }
+}

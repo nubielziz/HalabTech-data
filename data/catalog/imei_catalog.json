@@ -1,0 +1,4484 @@
+{
+ "groups": [
+  {
+   "num": 0,
+   "name": "Signal Labs Technology Service"
+  },
+  {
+   "num": 1,
+   "name": "Sharp Factory"
+  },
+  {
+   "num": 2,
+   "name": "Nothing Phone"
+  },
+  {
+   "num": 3,
+   "name": "Ireland Network"
+  },
+  {
+   "num": 4,
+   "name": "eSIM QR Code"
+  },
+  {
+   "num": 5,
+   "name": "France Network"
+  },
+  {
+   "num": 6,
+   "name": "Croatia Network"
+  },
+  {
+   "num": 7,
+   "name": "Romania Network"
+  },
+  {
+   "num": 8,
+   "name": "T-MOBILE | SPRINT | METROPCS POLICY USA (Premium)"
+  },
+  {
+   "num": 9,
+   "name": "Apple Check Service"
+  },
+  {
+   "num": 10,
+   "name": "Apple Gsx Check Premium"
+  },
+  {
+   "num": 11,
+   "name": "AT&T USA GoPhone"
+  },
+  {
+   "num": 12,
+   "name": "Infinix Tecno Itel MDM Source 1\\# [Premium]"
+  },
+  {
+   "num": 13,
+   "name": "Xiaomi Checker"
+  },
+  {
+   "num": 14,
+   "name": "ZTE"
+  },
+  {
+   "num": 15,
+   "name": "E-SIM Activation QR Code Turkey"
+  },
+  {
+   "num": 16,
+   "name": "E-SIM CODE - [ QPE METHOD ]"
+  },
+  {
+   "num": 17,
+   "name": "SAMSUNG FRP BY IMEI [Source 3]"
+  },
+  {
+   "num": 18,
+   "name": "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)"
+  },
+  {
+   "num": 19,
+   "name": "iWatch WIFI Only (iCloud Remove)"
+  },
+  {
+   "num": 20,
+   "name": "iPads WIFI Only (iCloud Remove)"
+  },
+  {
+   "num": 21,
+   "name": "Infinix - Tecno - Itel ID"
+  },
+  {
+   "num": 22,
+   "name": "Realme Oppo OnePlus HeyTap ID"
+  },
+  {
+   "num": 23,
+   "name": "Infinix Tecno Itel MDM Source 2\\# [Cheap]"
+  },
+  {
+   "num": 24,
+   "name": "Pixel Devices"
+  },
+  {
+   "num": 25,
+   "name": "Samsung Frp Remove"
+  },
+  {
+   "num": 26,
+   "name": "Nokia"
+  },
+  {
+   "num": 27,
+   "name": "GENERIC Check Service"
+  },
+  {
+   "num": 28,
+   "name": "Moldova Network"
+  },
+  {
+   "num": 29,
+   "name": "Motorola"
+  },
+  {
+   "num": 30,
+   "name": "OPPO"
+  },
+  {
+   "num": 31,
+   "name": "API test"
+  },
+  {
+   "num": 32,
+   "name": "Xiaomi Auth REMOTELY SERVICES"
+  },
+  {
+   "num": 33,
+   "name": "HUAWEI Services"
+  },
+  {
+   "num": 34,
+   "name": "UK O2 / Tesco Unlock Services"
+  },
+  {
+   "num": 35,
+   "name": "Other USA Networks"
+  },
+  {
+   "num": 36,
+   "name": "Xiaomi Mi Account"
+  },
+  {
+   "num": null,
+   "name": "LG Services"
+  },
+  {
+   "num": null,
+   "name": "Sony Services"
+  },
+  {
+   "num": null,
+   "name": "EMEA - iPhone"
+  },
+  {
+   "num": null,
+   "name": "GSX CHECKER"
+  },
+  {
+   "num": null,
+   "name": "Apple info Checkers"
+  },
+  {
+   "num": null,
+   "name": "DORO Code"
+  },
+  {
+   "num": null,
+   "name": "SAMSUNG Services"
+  },
+  {
+   "num": null,
+   "name": "Japan - SoftBank"
+  },
+  {
+   "num": null,
+   "name": "Altice Dominican Republic"
+  },
+  {
+   "num": null,
+   "name": "HONOR Services"
+  },
+  {
+   "num": null,
+   "name": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock"
+  },
+  {
+   "num": null,
+   "name": "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock"
+  },
+  {
+   "num": null,
+   "name": "Spectrum USA Network"
+  },
+  {
+   "num": null,
+   "name": "[V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock"
+  },
+  {
+   "num": null,
+   "name": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock"
+  },
+  {
+   "num": null,
+   "name": "Xiaomi Unlock Bootloader"
+  },
+  {
+   "num": null,
+   "name": "XFINITY | USA NETWORKS"
+  },
+  {
+   "num": null,
+   "name": "USA Reseller Flex"
+  },
+  {
+   "num": null,
+   "name": "Financial Status Checkers"
+  },
+  {
+   "num": null,
+   "name": "[V2 V3] SAMSUNG Repair Netowrk/Demo/Unlock"
+  },
+  {
+   "num": null,
+   "name": "TCL Alcatel"
+  },
+  {
+   "num": null,
+   "name": "Realme"
+  },
+  {
+   "num": null,
+   "name": "WIKO"
+  },
+  {
+   "num": null,
+   "name": "MOTO (Remotely)"
+  },
+  {
+   "num": null,
+   "name": "OnePlus"
+  }
+ ],
+ "services": [
+  {
+   "group_num": 0,
+   "group": "Signal Labs Technology Service",
+   "service": "Signal Labs Technology Tool (Google Pixel Carrier Unlock 100% Windows Tool | One Click |6|7|8|9|10 Series Supported)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 20.643",
+   "icon": "",
+   "price_usd": 20.643
+  },
+  {
+   "group_num": 0,
+   "group": "Signal Labs Technology Service",
+   "service": "Signal Labs Technology Tool (Google Pixel Carrier Unlock Windows Tool )",
+   "delivery": "Miniutes",
+   "price_raw": "$ 22.438",
+   "icon": "",
+   "price_usd": 22.438
+  },
+  {
+   "group_num": 0,
+   "group": "Signal Labs Technology Service",
+   "service": "Signal Labs Technology Tool (MotoFRP + Unlock Bootloader | Windows Tool | Magic One Click) Check Description for model Supported",
+   "delivery": "Miniutes",
+   "price_raw": "$ 5.625",
+   "icon": "",
+   "price_usd": 5.625
+  },
+  {
+   "group_num": 0,
+   "group": "Signal Labs Technology Service",
+   "service": "Signal Labs Technology Tool (SAMSUNG USA MODEL ONLY FRP RESET 2026 Windows Tool )",
+   "delivery": "Miniutes",
+   "price_raw": "$ 27.438",
+   "icon": "",
+   "price_usd": 27.438
+  },
+  {
+   "group_num": 0,
+   "group": "Signal Labs Technology Service",
+   "service": "Signal Labs Technology Tool (Xiaomi FRP Removal 2026 Windows Tool )",
+   "delivery": "Miniutes",
+   "price_raw": "$ 6.913",
+   "icon": "",
+   "price_usd": 6.913
+  },
+  {
+   "group_num": 1,
+   "group": "Sharp Factory",
+   "service": "Sharp Factory Unlock (NCK) Codes",
+   "delivery": "1-7 days",
+   "price_raw": "$ 2.985",
+   "icon": "",
+   "price_usd": 2.985
+  },
+  {
+   "group_num": 2,
+   "group": "Nothing Phone",
+   "service": "Nothing Phone All Model Any Region Direct By Imei 100% Success",
+   "delivery": "1-10 days",
+   "price_raw": "$ 4.49",
+   "icon": "",
+   "price_usd": 4.49
+  },
+  {
+   "group_num": 2,
+   "group": "Nothing Phone",
+   "service": "NOTHING Phone SN To IMEI Converter",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.22",
+   "icon": "",
+   "price_usd": 0.22
+  },
+  {
+   "group_num": 2,
+   "group": "Nothing Phone",
+   "service": "NOTHING Phone Warranty Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.22",
+   "icon": "",
+   "price_usd": 0.22
+  },
+  {
+   "group_num": 3,
+   "group": "Ireland Network",
+   "service": "Ireland Three Hutchison & O2 | Unlock — All Models up to iPhone 17 Series",
+   "delivery": "1-15 days",
+   "price_raw": "$ 15.3",
+   "icon": "",
+   "price_usd": 15.3
+  },
+  {
+   "group_num": 4,
+   "group": "eSIM QR Code",
+   "service": "eSIM QR Code (Check Description)",
+   "delivery": "1-10 Miniutes",
+   "price_raw": "$ 2.187",
+   "icon": "",
+   "price_usd": 2.187
+  },
+  {
+   "group_num": 5,
+   "group": "France Network",
+   "service": "SFR France Clean All iPhones",
+   "delivery": "1-15 days",
+   "price_raw": "$ 3.75",
+   "icon": "",
+   "price_usd": 3.75
+  },
+  {
+   "group_num": 6,
+   "group": "Croatia Network",
+   "service": "A1/VIPnet Croatia All iPhones",
+   "delivery": "2-10 days",
+   "price_raw": "$ 51.25",
+   "icon": "",
+   "price_usd": 51.25
+  },
+  {
+   "group_num": 6,
+   "group": "Croatia Network",
+   "service": "T-mobile Croatia Unlock All iPhones",
+   "delivery": "2-10 days",
+   "price_raw": "$ 72",
+   "icon": "",
+   "price_usd": 72.0
+  },
+  {
+   "group_num": 7,
+   "group": "Romania Network",
+   "service": "Romania Orange Clean (Out of Contract) All iPhones",
+   "delivery": "1-20 days",
+   "price_raw": "$ 12.65",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 12.65
+  },
+  {
+   "group_num": 7,
+   "group": "Romania Network",
+   "service": "Romania Orange Premium iPhone All Models",
+   "delivery": "1-20 days",
+   "price_raw": "$ 21",
+   "icon": "",
+   "price_usd": 21.0
+  },
+  {
+   "group_num": 7,
+   "group": "Romania Network",
+   "service": "Romania Vodafone Premium All iPhones",
+   "delivery": "1-20 days",
+   "price_raw": "$ 24",
+   "icon": "",
+   "price_usd": 24.0
+  },
+  {
+   "group_num": 8,
+   "group": "T-MOBILE | SPRINT | METROPCS POLICY USA (Premium)",
+   "service": "T-Mobile / Sprint - All Models iP 5S TO 17 Pro Max - Few Hours (No Warranty)",
+   "delivery": "1-4 days",
+   "price_raw": "$ 121.9",
+   "icon": "",
+   "price_usd": 121.9
+  },
+  {
+   "group_num": 8,
+   "group": "T-MOBILE | SPRINT | METROPCS POLICY USA (Premium)",
+   "service": "T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone 18 Pro / 18 Pro Max / iPhone Duo [Premium ] - (WRONG MODEL/Carrier No Refund) No Warranty",
+   "delivery": "1-4 days",
+   "price_raw": "$ 132.5",
+   "icon": "",
+   "price_usd": 132.5
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "All-in-one (+ Purchase Date) ⚡",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.024",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.024
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "APPLE ACTIVATION STATUS",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.088",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.088
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "APPLE FULL INFO (All in One - PRO)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.288",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.288
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Apple Identification Report Locked Carrier + Blacklist + Replacement + Refurbish Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.195",
+   "icon": "",
+   "price_usd": 0.195
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "APPLE iOS / MacOS MDM PRO STATUS → IMEI/SN",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.34",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.34
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "APPLE iOS / MacOS MDM STATUS → IMEI/SN",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.173",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.173
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Apple iPhone Check Mini => Carrier + iCloud Lock (FMI) + Part Number",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.014",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.014
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "APPLE iPHONE SIM-LOCK + CARRIER S3 → IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.007",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.007
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "APPLE iPHONE SIM-LOCK + CARRIER S3 → SERIAL",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.066",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.066
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Apple iPhone | iPad GSX Next Tether Policy info + MDM Check Service By IMEI/SN",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.246",
+   "icon": "https://server.halabtech.com/images/icon/usa.jpg",
+   "price_usd": 0.246
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Apple iPhone/iPad/iWatch Carrier + SimLock + GSMA + ICloud Lock (FMI) + ICloud Status + Coverage Check Pro ⚡️ [IMEI/SN]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.168",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.168
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Apple Serial Validator",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.018",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.018
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Apple Super Identification Report (Warranty+Carrier+GSMA+iCloud Status+MDM etc.) Check With Picture",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.75",
+   "icon": "",
+   "price_usd": 0.75
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "AT&T Status Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.3",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.3
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Blacklist Prheck (GSMA)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.084",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.084
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Convert IMEI → Serial S2",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.02",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.02
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Extract/Convert IMEI to SN [ Support IMEI 2 ] Working 100%",
+   "delivery": "1-5 Miniutes",
+   "price_raw": "$ 0.12",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 0.12
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Extract/Convert IMEI → Serial S1",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.042",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.042
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "FIND MY iPHONE/iPAD ON/OFF → SERIAL [BEST]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.011",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.011
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "IPhone Basic INFO",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "IPhone Carrier (S4) + Coverage",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.16",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.16
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "iPhone Carrier Check + SimLock status + Fmi + Warranty [WORKING 100%]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.119",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.119
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "iPhone Coverage + Carrier + Simlock Checker (IMEI/SN)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.048",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.048
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "iPhone Extract/Convert Serial → IMEI [Working 100%]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.095",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.095
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "iPhone MDM Check (IMEI) INSTANT #S3 NON-STOP",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.4",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.4
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "IPhone Repair Status",
+   "delivery": "Miniutes",
+   "price_raw": "$ 1.98",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 1.98
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "iPhones/iPads/iWatch (Purchase Country, Replacement Status, Demo Unit, Part Number (Mac/Watch)) [SomeTimes This Info Not Provide (NO REFUND)]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.3",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.3
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "iPhones/iPads/iWatch (SIM-Lock Status, Carrier, US Block Status, US Block Date, Blacklist History, MDM Status, Assembly Factory, Unit Age, Loaner Status, Obsolete Status, Refurbished Status, Repair Status, Replaced Status)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.3",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.3
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "MACBOOK / iMAC INFO & ICLOUD STATUS",
+   "delivery": "5 Miniutes",
+   "price_raw": "$ 0.096",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 0.096
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "MacBook / Mac OS iCLOUD LOST/CLEAN CHECKER STATUS → IMEI/SN",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.36",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.36
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Purchase Date [GSX]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.48",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.48
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Refurbished Status",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.359",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.359
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Replaced Status (Original Device)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.012",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.012
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Replacement Status (Active Device)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.03",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.03
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Sprint USA Pro Check S2",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.048",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.048
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "T-Mobile Pro Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.036",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.036
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "T-Mobile USA Generic Simlock & Unlock Eligibilty Status (Pro)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.036",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.036
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Verizon Clean/Lost Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.04",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.04
+  },
+  {
+   "group_num": 9,
+   "group": "Apple Check Service",
+   "service": "Warranty Check All iPhones Models",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.012",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.012
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "Apple iPad | Mac | iWatch GSX Check -> Sold By, iCloud Lock (FMI), Replacement, Warranty (WIFI DEVICE ONLY) Cheap",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.35",
+   "icon": "",
+   "price_usd": 0.35
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "Apple iPhone | iPad | Mac GSX Check -> Sold By, MDM, iCloud Lock (FMI), iCloud Status, Carrier, Warranty [Premium] ⚡Cheap",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.56",
+   "icon": "",
+   "price_usd": 0.56
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "iPhone/iPad/iMac/iWatch Full GSX Report [Premium] ⚡",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 1.789",
+   "icon": "",
+   "price_usd": 1.789
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "iPhone/iPad/iMac/iWatch Full GSX Report [Premium] ⚡ Cheap",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.449",
+   "icon": "",
+   "price_usd": 0.449
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "iPhone/iPad/iMac/iWatch FULL info - Check description for sample [Premium] ⚡",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.41",
+   "icon": "",
+   "price_usd": 0.41
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "iPhone/iPad/iMac/iWatch GSX Check – CTO Configuration + Cases + Repair Records [Premium] ⚡",
+   "delivery": "Miniutes",
+   "price_raw": "$ 2.168",
+   "icon": "",
+   "price_usd": 2.168
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "iPhone/iPad/iMac/iWatch Sold By + Cases ONLY [Premium] ⚡",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 2.299",
+   "icon": "",
+   "price_usd": 2.299
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "iPhone/iPad/iMac/iWatch Sold By + Full GSX + Case History + Simlock + MDM Checker + Warranty + Repairs Checker [Cheap Sevice] ⚡",
+   "delivery": "Miniutes",
+   "price_raw": "$ 1.289",
+   "icon": "",
+   "price_usd": 1.289
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "iPhone/iPad/iMac/iWatch Sold By + Full GSX + Case History + Simlock + MDM Checker + Warranty + Repairs Checker⚡ Full Info",
+   "delivery": "Miniutes",
+   "price_raw": "$ 1.036",
+   "icon": "",
+   "price_usd": 1.036
+  },
+  {
+   "group_num": 10,
+   "group": "Apple Gsx Check Premium",
+   "service": "iPhone/iPad/iMac/iWatch Sold By Info [Premium] ⚡",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.4",
+   "icon": "",
+   "price_usd": 0.4
+  },
+  {
+   "group_num": 11,
+   "group": "AT&T USA GoPhone",
+   "service": "AT&T iPhone all model Up To iPhone 16 Prox Max [ONLY GoPhone]",
+   "delivery": "1-15 days",
+   "price_raw": "$ 16",
+   "icon": "https://server.halabtech.com/images/icon/att.jpg",
+   "price_usd": 16.0
+  },
+  {
+   "group_num": 12,
+   "group": "Infinix Tecno Itel MDM Source 1\\# [Premium]",
+   "service": "ITEL / TECNO / INFINIX [ Full Model | Memory Size | Serial | Warranty | Activation Date | Sales Activation Country]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.11",
+   "icon": "",
+   "price_usd": 0.11
+  },
+  {
+   "group_num": 12,
+   "group": "Infinix Tecno Itel MDM Source 1\\# [Premium]",
+   "service": "ITEL / TECNO / INFINIX [Extract IMEI 1 & 2 From SN] Convert Sn To IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.24",
+   "icon": "",
+   "price_usd": 0.24
+  },
+  {
+   "group_num": 12,
+   "group": "Infinix Tecno Itel MDM Source 1\\# [Premium]",
+   "service": "Tecno / iTel / Infinix MDM Removal – Previously Sent Device (With Case hold on System) [Rejected, & Blacklisted Devices ✅] Source #1",
+   "delivery": "3-15 days",
+   "price_raw": "$ 28.49",
+   "icon": "",
+   "price_usd": 28.49
+  },
+  {
+   "group_num": 12,
+   "group": "Infinix Tecno Itel MDM Source 1\\# [Premium]",
+   "service": "Tecno/iTel/Infinix ONLY MDM Permanent By Imei +Lock Pic Instant to 72 Hours Source 1# [Premium]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 18.89",
+   "icon": "",
+   "price_usd": 18.89
+  },
+  {
+   "group_num": 12,
+   "group": "Infinix Tecno Itel MDM Source 1\\# [Premium]",
+   "service": "Tecno/iTel/Infinix Refund Request Md (Device not done) check description Source 1#",
+   "delivery": "1-2 days",
+   "price_raw": "$ 0",
+   "icon": "",
+   "price_usd": 0.0
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "MI Account (Country + IMEI1 + IMEI2 + SN + FSN + Sales + Activation Region + Clear Or Lost) By [Keylock Or CodeLock Or Lock Code] (No Refund)",
+   "delivery": "1-12 Hours",
+   "price_raw": "$ 0.6",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 0.6
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "MI Account CLEAN/LOST Checker By [Keylock NEW CODE] SLOW (No Refund) CHEAP DIRECT",
+   "delivery": "1-6 Hours",
+   "price_raw": "$ 0.675",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 0.675
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "MI Account Country Checker + Clean Lost Check By [IMEI]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.12",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 0.12
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "MI Account Country Checker By [IMEI] Instant",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "MI Account Country Checker By [Keylock Or CodeLock Or Lock Code] SLOW (No Refund)",
+   "delivery": "1-6 Hours",
+   "price_raw": "$ 0.6",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 0.6
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "Xiaomi ( Find Device - Country - Lost or Clean ) by IMEI/SN/KEY [ SUPPORT NEW KEY ]",
+   "delivery": "1-6 Hours",
+   "price_raw": "$ 0.6",
+   "icon": "",
+   "price_usd": 0.6
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "Xiaomi Check ( Find Device and Country ) by IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.36",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 0.36
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "Xiaomi check infomation from Lock code (NO REFUND)",
+   "delivery": "1-5 Miniutes",
+   "price_raw": "$ 0.081",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 0.081
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "Xiaomi Code Convert To Imei Text Instant with check device Clean/lost",
+   "delivery": "1-5 Miniutes",
+   "price_raw": "$ 1.8",
+   "icon": "",
+   "price_usd": 1.8
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "Xiaomi Fastboot Token To Get information (IMEI 1/2 + serial No + mi cloud on/off status + Product)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.55",
+   "icon": "",
+   "price_usd": 0.55
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "Xiaomi Mi Account IMEI To Lock Code Full Info Check (By Imei)",
+   "delivery": "1-5 Miniutes",
+   "price_raw": "$ 0.18",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 0.18
+  },
+  {
+   "group_num": 13,
+   "group": "Xiaomi Checker",
+   "service": "Xiaomi | Redmi | POCO Warranty+Model+ID Check",
+   "delivery": "1-5 Miniutes",
+   "price_raw": "$ 0.21",
+   "icon": "",
+   "price_usd": 0.21
+  },
+  {
+   "group_num": 14,
+   "group": "ZTE",
+   "service": "ZTE Warranty+Production Date Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.8",
+   "icon": "",
+   "price_usd": 0.8
+  },
+  {
+   "group_num": 15,
+   "group": "E-SIM Activation QR Code Turkey",
+   "service": "E-SIM esim Activation QR Code ONLY QR Servisi (Turkey) NEED VPN",
+   "delivery": "Miniutes",
+   "price_raw": "$ 1.49",
+   "icon": "",
+   "price_usd": 1.49
+  },
+  {
+   "group_num": 15,
+   "group": "E-SIM Activation QR Code Turkey",
+   "service": "E-SIM esim Activation QR Code ONLY QR Servisi (Turkey) Without VPN",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.69",
+   "icon": "",
+   "price_usd": 0.69
+  },
+  {
+   "group_num": 16,
+   "group": "E-SIM CODE - [ QPE METHOD ]",
+   "service": "E-SIM Code - [ QPE Method ] For iPhone Only (NETOWRK ONLY) NOT E-SIM FOR CALL",
+   "delivery": "Miniutes",
+   "price_raw": "$ 1.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 1.99
+  },
+  {
+   "group_num": 17,
+   "group": "SAMSUNG FRP BY IMEI [Source 3]",
+   "service": "Samsung FRP Refund Request SOURCE #3",
+   "delivery": "12-24 Hours",
+   "price_raw": "$ 0",
+   "icon": "",
+   "price_usd": 0.0
+  },
+  {
+   "group_num": 17,
+   "group": "SAMSUNG FRP BY IMEI [Source 3]",
+   "service": "Samsung FRP Worldwide | IMEI Only | (((( Android 17 only ))))) Source 3#",
+   "delivery": "Hours",
+   "price_raw": "$ 77.99",
+   "icon": "",
+   "price_usd": 77.99
+  },
+  {
+   "group_num": 18,
+   "group": "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)",
+   "service": "T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 12/14 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty",
+   "delivery": "1-4 days",
+   "price_raw": "$ 38.99",
+   "icon": "",
+   "price_usd": 38.99
+  },
+  {
+   "group_num": 18,
+   "group": "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)",
+   "service": "T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 15 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty",
+   "delivery": "1-10 days",
+   "price_raw": "$ 44.99",
+   "icon": "",
+   "price_usd": 44.99
+  },
+  {
+   "group_num": 18,
+   "group": "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)",
+   "service": "T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 16 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty",
+   "delivery": "1-10 days",
+   "price_raw": "$ 66.45",
+   "icon": "",
+   "price_usd": 66.45
+  },
+  {
+   "group_num": 18,
+   "group": "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)",
+   "service": "T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till 17 Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty",
+   "delivery": "1-10 days",
+   "price_raw": "$ 82.49",
+   "icon": "",
+   "price_usd": 82.49
+  },
+  {
+   "group_num": 18,
+   "group": "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)",
+   "service": "T-MOBILE | SPRINT | METROPCS POLICY USA - iPhone Till Xs Series [ ✅ Clean & Paid Off Only ] - (WRONG MODEL/Carrier No Refund) No Warranty",
+   "delivery": "1-10 days",
+   "price_raw": "$ 36.99",
+   "icon": "",
+   "price_usd": 36.99
+  },
+  {
+   "group_num": 18,
+   "group": "T-MOBILE | SPRINT | METROPCS POLICY USA (Clean & Paid Off Only)",
+   "service": "T-Mobile/Sprint System Check (Fully Paid - Eligible) Unlock Eligiblity Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.65",
+   "icon": "",
+   "price_usd": 0.65
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch 1st Gen - WiFi Model Only - [Watch1,2]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 30",
+   "icon": "",
+   "price_usd": 30.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch 5 - WiFi Model Only - [Watch5,1]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 90",
+   "icon": "",
+   "price_usd": 90.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch SE 1st - WiFi Model Only - [Watch 5,9 - 5,10]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 65",
+   "icon": "",
+   "price_usd": 65.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 1 - WiFi Model Only - [Watch2,6]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 45",
+   "icon": "",
+   "price_usd": 45.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 1 - WiFi Model Only - [Watch2,7]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 45",
+   "icon": "",
+   "price_usd": 45.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 10 - WiFi Model Only - [Watch7,8]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 175",
+   "icon": "",
+   "price_usd": 175.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 10 - WiFi Model Only - [Watch7,9]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 175",
+   "icon": "",
+   "price_usd": 175.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 11 - WiFi Model Only - [-Watch7,18]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 185",
+   "icon": "",
+   "price_usd": 185.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 11 - WiFi Model Only - [Watch7,17]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 185",
+   "icon": "",
+   "price_usd": 185.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 2 - WiFi Model Only - [Watch2,3]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 50",
+   "icon": "",
+   "price_usd": 50.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 2 - WiFi Model Only - [Watch2,4]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 50",
+   "icon": "",
+   "price_usd": 50.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 3 - WiFi Model Only - [Watch3,3]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 50",
+   "icon": "",
+   "price_usd": 50.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 3 - WiFi Model Only - [Watch3,4]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 50",
+   "icon": "",
+   "price_usd": 50.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 4 - WiFi Model Only - [Watch4,1]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 70",
+   "icon": "",
+   "price_usd": 70.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 4 - WiFi Model Only - [Watch4,2]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 75",
+   "icon": "",
+   "price_usd": 75.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 5 - WiFi Model Only - [Watch5,2]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 90",
+   "icon": "",
+   "price_usd": 90.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 6 - WiFi Model Only - [Watch6,1]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 105",
+   "icon": "",
+   "price_usd": 105.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 6 - WiFi Model Only - [Watch6,2]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 105",
+   "icon": "",
+   "price_usd": 105.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 7 - WiFi Model Only - [Watch6,6]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 115",
+   "icon": "",
+   "price_usd": 115.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 7 - WiFi Model Only - [Watch6,7]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 115",
+   "icon": "",
+   "price_usd": 115.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 8 - WiFi Model Only - [Watch6,14]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 145",
+   "icon": "",
+   "price_usd": 145.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 8 - WiFi Model Only - [Watch6,15]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 145",
+   "icon": "",
+   "price_usd": 145.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 9 - WiFi Model Only - [Watch7,1]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 155",
+   "icon": "",
+   "price_usd": 155.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series 9 - WiFi Model Only - [Watch7,2]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 155",
+   "icon": "",
+   "price_usd": 155.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series SE 2nd - WiFi Model Only - [Watch6,10]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 105",
+   "icon": "",
+   "price_usd": 105.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series SE 2nd - WiFi Model Only - [Watch6,11]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 105",
+   "icon": "",
+   "price_usd": 105.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series SE 3rd - WiFi Model Only - [Watch7,13]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 145",
+   "icon": "",
+   "price_usd": 145.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF - iWatch Series SE 3rd - WiFi Model Only - [Watch7,14]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 145",
+   "icon": "",
+   "price_usd": 145.0
+  },
+  {
+   "group_num": 19,
+   "group": "iWatch WIFI Only (iCloud Remove)",
+   "service": "FMI OFF For iWatch 1st Gen [Watch 1,1 - Watch 1,2]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 30",
+   "icon": "",
+   "price_usd": 30.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad (10th generation) - WiFi Model Only - [iPad13,18]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 150",
+   "icon": "",
+   "price_usd": 150.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad (8th generation) - WiFi Model Only - [iPad11,6]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 110",
+   "icon": "",
+   "price_usd": 110.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad (9th generation) - WiFi Model Only - [iPad12,1]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 135",
+   "icon": "",
+   "price_usd": 135.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad 11th Gen A16 - WiFi Model Only - [iPad15,7]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 180",
+   "icon": "",
+   "price_usd": 180.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Air (3rd generation) - WiFi Model Only - [iPad11,3]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 120",
+   "icon": "",
+   "price_usd": 120.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Air (4th generation) - WiFi Model Only - [iPad13,1]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 140",
+   "icon": "",
+   "price_usd": 140.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Air 11 M3 - WiFi Model Only - [iPad15,3]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 170",
+   "icon": "",
+   "price_usd": 170.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Air 11-inch M2 - WiFi Model Only - [iPad14,8]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 160",
+   "icon": "",
+   "price_usd": 160.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Air 11-inch M4 - WiFi Model Only - [iPad16,8]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 205",
+   "icon": "",
+   "price_usd": 205.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Air 13-inch M2 - WiFi Model Only - [iPad14,10]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 165",
+   "icon": "",
+   "price_usd": 165.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Air 13-inch M4 - WiFi Model Only - [iPad16,10]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 205",
+   "icon": "",
+   "price_usd": 205.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Air 5th M1 - WiFi Model Only - [iPad13,16]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 155",
+   "icon": "",
+   "price_usd": 155.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad mini 5 - WiFi Model Only - [iPad11,1]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 110",
+   "icon": "",
+   "price_usd": 110.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Mini 6 A15 - WiFi Model Only - [iPad14,1]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 143",
+   "icon": "",
+   "price_usd": 143.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad mini 7 (Wi-Fi Only) - A17 Pro - WiFi Model Only - [iPad16,1]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 165",
+   "icon": "",
+   "price_usd": 165.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 11-inch (2nd generation) - WiFi Model Only - [iPad8,9]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 150",
+   "icon": "",
+   "price_usd": 150.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 11-inch (3rd generation) M1 - WiFi Model Only - [iPad13,4]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 155",
+   "icon": "",
+   "price_usd": 155.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 11-inch (4th generation) M2 - WiFi Model Only - [iPad14,3]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 155",
+   "icon": "",
+   "price_usd": 155.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 11-inch - WiFi Model Only - [iPad8,1]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 125",
+   "icon": "",
+   "price_usd": 125.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 11-inch 1TB - WiFi Model Only - [iPad8,2]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 130",
+   "icon": "",
+   "price_usd": 130.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 11-inch M4 - WiFi Model Only - [iPad16,3]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 185",
+   "icon": "",
+   "price_usd": 185.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 11-inch M5 - WiFi Model Only - [iPad17,1]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 215",
+   "icon": "",
+   "price_usd": 215.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 12.9-inch (3rd generation) - WiFi Model Only - [iPad8,5]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 150",
+   "icon": "",
+   "price_usd": 150.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 12.9-inch (3rd generation) - WiFi Model Only - [iPad8,6]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 145",
+   "icon": "",
+   "price_usd": 145.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 12.9-inch (3rd generation) 1TB - WiFi Model Only - [iPad8,6]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 145",
+   "icon": "",
+   "price_usd": 145.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 12.9-inch (4th generation) - WiFi Model Only - [iPad8,11]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 150",
+   "icon": "",
+   "price_usd": 150.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 12.9-inch (5th generation) M1 - WiFi Model Only - [iPad13,8]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 155",
+   "icon": "",
+   "price_usd": 155.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 12.9-inch (6th generation) M2 - WiFi Model Only - [iPad14,5]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 175",
+   "icon": "",
+   "price_usd": 175.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 13-inch M4 - WiFi Model Only - [iPad16,5]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 195",
+   "icon": "",
+   "price_usd": 195.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad Pro 13-inch M5 - WiFi Model Only - [iPad17,3]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 220",
+   "icon": "",
+   "price_usd": 220.0
+  },
+  {
+   "group_num": 20,
+   "group": "iPads WIFI Only (iCloud Remove)",
+   "service": "iREMOVE FMI OFF - iPad15,5 - iPad Air 13 M3 (Wi-Fi Only)",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 180",
+   "icon": "",
+   "price_usd": 180.0
+  },
+  {
+   "group_num": 21,
+   "group": "Infinix - Tecno - Itel ID",
+   "service": "Infinix - Tecno - Itel ID (Device not done or Otp expired) Only Source 2#",
+   "delivery": "1-12 Hours",
+   "price_raw": "$ 0",
+   "icon": "",
+   "price_usd": 0.0
+  },
+  {
+   "group_num": 21,
+   "group": "Infinix - Tecno - Itel ID",
+   "service": "Infinix ID - Tecno ID - Itel ID - Official Service [ إزالة حساب ] انتبه للوصف Check Description [You can Verify within 24 hours] Source 2#",
+   "delivery": "2-5 Hours",
+   "price_raw": "$ 5.29",
+   "icon": "",
+   "price_usd": 5.29
+  },
+  {
+   "group_num": 21,
+   "group": "Infinix - Tecno - Itel ID",
+   "service": "Infinix ID - Tecno ID - Itel ID - Official Service [بشكل رسمي ID إزالة حساب انفينكس تيكنو ] انتببه للوصف Check Description [NO Verify NO Refund for any order] Source 1#",
+   "delivery": "Hours",
+   "price_raw": "$ 5.79",
+   "icon": "",
+   "price_usd": 5.79
+  },
+  {
+   "group_num": 21,
+   "group": "Infinix - Tecno - Itel ID",
+   "service": "Tecno ,infinix and itel extract original imei and serial number from its battery picture",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 3.79",
+   "icon": "",
+   "price_usd": 3.79
+  },
+  {
+   "group_num": 22,
+   "group": "Realme Oppo OnePlus HeyTap ID",
+   "service": "Realme/Oppo/OnePlus HeyTap ID Lock",
+   "delivery": "1-10 days",
+   "price_raw": "$ 40.99",
+   "icon": "",
+   "price_usd": 40.99
+  },
+  {
+   "group_num": 22,
+   "group": "Realme Oppo OnePlus HeyTap ID",
+   "service": "Realme/Oppo/OnePlus HeyTap ID Lock (Verify Services Password Wrong or Delay)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0",
+   "icon": "",
+   "price_usd": 0.0
+  },
+  {
+   "group_num": 23,
+   "group": "Infinix Tecno Itel MDM Source 2\\# [Cheap]",
+   "service": "MDM Remove (Tecno/iTel/Infinix All Models Supported) Cheap (ONLY WORKING DAYS) [FAST] Source #2",
+   "delivery": "1-3 days",
+   "price_raw": "$ 9.79",
+   "icon": "",
+   "price_usd": 9.79
+  },
+  {
+   "group_num": 23,
+   "group": "Infinix Tecno Itel MDM Source 2\\# [Cheap]",
+   "service": "MDM Remove (Tecno/iTel/Infinix All Models Supported) Very Cheap [SLOW] Source #3",
+   "delivery": "1-7 days",
+   "price_raw": "$ 9.99",
+   "icon": "",
+   "price_usd": 9.99
+  },
+  {
+   "group_num": 23,
+   "group": "Infinix Tecno Itel MDM Source 2\\# [Cheap]",
+   "service": "Tecno/iTel/Infinix Refund Request Mdm (Device not done) check description Source 2#",
+   "delivery": "1-5 days",
+   "price_raw": "$ 0",
+   "icon": "",
+   "price_usd": 0.0
+  },
+  {
+   "group_num": 23,
+   "group": "Infinix Tecno Itel MDM Source 2\\# [Cheap]",
+   "service": "Tecno/iTel/Infinix Refund Request Mdm (Device not done) check description Source 3$#",
+   "delivery": "1-5 days",
+   "price_raw": "$ 0",
+   "icon": "",
+   "price_usd": 0.0
+  },
+  {
+   "group_num": 24,
+   "group": "Pixel Devices",
+   "service": "Google Pixel Devices [All Models - All Versions ] Only ((( Repair Network Cpid ))) [NOT FOR FRP] New Security",
+   "delivery": "1-4 Hours",
+   "price_raw": "$ 29.99",
+   "icon": "",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": 24,
+   "group": "Pixel Devices",
+   "service": "Google Pixel Devices [All Models - All Versions ] Only ((( Unlock Network ))) [NOT FOR REPAIR IMEI] New Security",
+   "delivery": "1-4 Hours",
+   "price_raw": "$ 29.99",
+   "icon": "",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "FRP Remove GLOBAL All Samsung Device (WorldWide) All Countries (All Android) By USB",
+   "delivery": "1-15 Miniutes",
+   "price_raw": "$ 87.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 87.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "Galaxy A55 5G (SC-53E/SCG27) Galaxy S25 FE (S731N/S7310) Galaxy Z Flip7 FE (F761N/F761U1) Galaxy S26 (S942B/S942N) Galaxy S26+ (S947B/S947BN) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG A04s (A047F/M) A12 (A127F/M) A13 (A135F/M/N/U/U1) A14 (A145F/FB/MB/M/B) A21s (A217F/M/N) F12 (F127G) M12 (M127F/G/N) M13 (M135F/FU/M) F13 (E135F) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 29.99",
+   "icon": "",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG A71 5G (A716F/B) Galaxy A51 5G (A516F/B/U) Galaxy S20 (G980F/G981B) Galaxy S20+ (G985F/G986B) Galaxy S20 Ultra (G988B) Galaxy S20 FE 4G (G780F) Galaxy Note20 (N980F/N981B) Galaxy Note20 Ultra (N985F/N986B) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG F34 5G (E346B) M33 5G (M336K/B/BU) M34 5G (M346B/B1/B2) Tab S6 Lite (2024) (P620/5) A14 5G (A146M/B) A16 5G (A166B/0/E/M/U/W/U1/S166V) A17 5G (A176B/E/M/U/0/W/S176V) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG F54 5G (E546B) M35 5G (M356B) M36 5G (M366B) M54 5G (M546B) Tab Active5 (X300) Tab Active5 5G (X306B/X306N/X308B/X308U) Tab S9 FE+ 5G (X616B/C) Tab S9 FE 5G (X516B/C/N/X518U) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG FRP Reset (Europe Country Only) ONLY BY USB",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 99.99",
+   "icon": "",
+   "price_usd": 99.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG FRP Reset (Selected Countries) Algeria Bahrain Egypt Iraq Syria Kuwait Qatar Oman Saudi Arabia UAE(Dubai) Yemen Pakistan ARMENIA AZERBAIJAN BELARUS GEORGIA KAZAKHSTAN KYRGYZSTAN MOLDAVIA MONGOLIAN TAJIKISTAN TURKMENISTAN UKRAINE UZBEKISTAN BY USB",
+   "delivery": "1-15 Miniutes",
+   "price_raw": "$ 66.99",
+   "icon": "",
+   "price_usd": 66.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG M14 5G (M146B) M17 5G (M176B) F14 5G (E146B) F17 5G (E176B) A35 5G (A356B/E/N/W/U/U1/0/S356V) A54 5G (SC-53D/SCG21/S546VL/A546V/B/E/S/U/U1/W/0) F36 5G (E366B) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG S21+ 5G (G996B/N) S21 Ultra 5G (G998B/N/0) S21 FE 5G (G990E) S22 (S901B/E) S22+ (S906B) S22 Ultra (S908B) S23 FE (S711B/N) S24 (S921B/N) S24+ (S926B/N) S24 FE (S721N/Q/B/U/U1/W/0) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG S25 FE (S731B/W/U/U1) Z Flip7 FE (F761B/U) S23 5G (S911B) S23+ 5G (S916B) S23 Ultra 5G (S918U) Z Flip 3 5G (F711N) Z Flip 4 5G (F721B) Z Fold 3 5G (F926B) Z Fold 6 5G (F956B)[Reset Frp]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG Tab S10 FE (X520) Tab S10 FE 5G (X526B/C/E/N/U/X528U) Tab S10 FE+ (X620) Tab S10 FE+ 5G (X626B/C/N) A56 5G (A566V/B/E/0/U/U1/W/S) A57 5G (A576B/0/W/U) S21 5G (G991B/N) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG Tab S9 FE+ (X610) Tab S9 FE (X510) Tab S10 Lite (X400) Tab S10 Lite 5G (X406B/N) A37 5G (A376B/E/U/U1/S376V) A55 5G (A5560/B/E/S/V) F56 5G (E566B) M56 5G (M566B) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG USA MODEL ONLY FRP BY USB – ONLY USA MODEL {NO REFUND IF NOT USA} INCLUDING (G990U2, S901U, S906U, S908U, S908U1, S926U, S928U, X218U, F741U, F946U, F956U, A176U, S176V, A266U, S266V, A376U, S376V, S731U, S942U, S947U, S948U, X528U, F761U, F766U)",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 39.99",
+   "icon": "",
+   "price_usd": 39.99
+  },
+  {
+   "group_num": 25,
+   "group": "Samsung Frp Remove",
+   "service": "SAMSUNG XCover 5 (G525F/N) A25 5G (A2560/B/N/E/U/U1/S256VL) A26 5G (A266M/U/U1/E/B/W/S266V/S266VL) A33 5G (A336B/E/M/N/0) A53 5G (SC-53C/SCG15/S536DL/A5360/B/E/N/W/U/U1/V) [Reset Frp By USB]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 34.99",
+   "icon": "",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": 26,
+   "group": "Nokia",
+   "service": "Nokia ( LOCK SCREEN - HARDRESET - FRP ) HMD Remotely ALL MODELS",
+   "delivery": "Miniutes",
+   "price_raw": "$ 14.99",
+   "icon": "https://server.halabtech.com/images/icon/nokia.jpg",
+   "price_usd": 14.99
+  },
+  {
+   "group_num": 26,
+   "group": "Nokia",
+   "service": "Nokia Worldwide Code NCK Android No refund",
+   "delivery": "1-20 days",
+   "price_raw": "$ 3.85",
+   "icon": "https://server.halabtech.com/images/icon/nokia.jpg",
+   "price_usd": 3.85
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "VIVO/IQOO Warranty Info Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.02",
+   "icon": "",
+   "price_usd": 0.02
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "ACER IMEI CHECK INFO",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.44",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.44
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "DELL Laptop Model+Warranty Check",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.32",
+   "icon": "",
+   "price_usd": 0.32
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "Digno | Kyocera Factory (NCK) Codes",
+   "delivery": "1-7 days",
+   "price_raw": "$ 3",
+   "icon": "",
+   "price_usd": 3.0
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "DOOGEE Country+Activation Date",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.72",
+   "icon": "",
+   "price_usd": 0.72
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "EID Pro Check (Apple/Samsung/Google) [IMEI]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.04",
+   "icon": "",
+   "price_usd": 0.04
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "Emporia Code",
+   "delivery": "Miniutes",
+   "price_raw": "$ 7.8",
+   "icon": "",
+   "price_usd": 7.8
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "Google Pixel Warranty+Carrier Check Support Demo/Replacement",
+   "delivery": "1-5 Miniutes",
+   "price_raw": "$ 0.08",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.08
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "HP Laptop Information Check",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.32",
+   "icon": "",
+   "price_usd": 0.32
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "Huawei Warranty Checker Full Info By IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.024",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.024
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "ITEL / TECNO / SONIM / INFINIX IMEI CHECK INFO",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.43",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.43
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "KYOCERA IMEI CHECK INFO",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.04",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.04
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "LENOVO Mobile/Pad/Laptop Warranty+Carrier Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.12",
+   "icon": "",
+   "price_usd": 0.12
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "MOTO/Motorola Check [Country, Warranty, Model and Serial] + Blacklist Status",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.095",
+   "icon": "https://server.halabtech.com/images/icon/Motorola.jpg",
+   "price_usd": 0.095
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "Pantech Code NCK",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.11",
+   "icon": "",
+   "price_usd": 0.11
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "Samsung Carrier + Warranty Checker Only IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.08",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.08
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "SAMSUNG Extract IMEI 1 & IMEI 2 From IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.37",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.37
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "SAMSUNG Extract IMEI 1 & IMEI 2 From SN",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.57",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.57
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "Samsung Manufacturer & Network Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.42",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.42
+  },
+  {
+   "group_num": 27,
+   "group": "GENERIC Check Service",
+   "service": "ZTE Model + Warranty Checker By IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": 28,
+   "group": "Moldova Network",
+   "service": "1351# Orange Moldova - iP All Models Supported (In Contract)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 34.41",
+   "icon": "https://server.halabtech.com/images/icon/Moldova.jpg",
+   "price_usd": 34.41
+  },
+  {
+   "group_num": 28,
+   "group": "Moldova Network",
+   "service": "1352# Orange Moldova - iP 5/5C/5S/6/6+/6s/6s+/7/7+/8/8+/X (Out Of Contract)",
+   "delivery": "1-20 days",
+   "price_raw": "$ 6.383",
+   "icon": "https://server.halabtech.com/images/icon/Moldova.jpg",
+   "price_usd": 6.383
+  },
+  {
+   "group_num": 29,
+   "group": "Motorola",
+   "service": "Motorola - Worldwide NCK Code INSTANT 100%",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.2",
+   "icon": "https://server.halabtech.com/images/icon/Motorola.jpg",
+   "price_usd": 0.2
+  },
+  {
+   "group_num": 29,
+   "group": "Motorola",
+   "service": "Motorola / Lenovo Check (Country, Warranty, Model ,Sold to and Serial) + Blacklist Status",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.068",
+   "icon": "https://server.halabtech.com/images/icon/Motorola.jpg",
+   "price_usd": 0.068
+  },
+  {
+   "group_num": 29,
+   "group": "Motorola",
+   "service": "MOTOROLA DISH & BOOST UNLOCK CODE NCK ONLY NEW SEC 2024 & 2025 & 2026",
+   "delivery": "1-15 days",
+   "price_raw": "$ 12.49",
+   "icon": "",
+   "price_usd": 12.49
+  },
+  {
+   "group_num": 29,
+   "group": "Motorola",
+   "service": "Motorola Worldwide Code By IMEI [Premium Service] (Cricket Not Supported)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.576",
+   "icon": "https://server.halabtech.com/images/icon/Motorola.jpg",
+   "price_usd": 0.576
+  },
+  {
+   "group_num": 29,
+   "group": "Motorola",
+   "service": "Motorola WorldWide Exclusive NCK Code [ 1-10 Minutes ] Fully Automated 24/7",
+   "delivery": "1-5 Miniutes",
+   "price_raw": "$ 0.15",
+   "icon": "https://server.halabtech.com/images/icon/Motorola.jpg",
+   "price_usd": 0.15
+  },
+  {
+   "group_num": 30,
+   "group": "OPPO",
+   "service": "OPPO Full Info Check By IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.9",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.9
+  },
+  {
+   "group_num": 30,
+   "group": "OPPO",
+   "service": "OPPO NETWORK All Country & Any Models NCK CODE [Not Support Single SIM Phone] [ Thailand And Australia Are Not Supported ]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.39",
+   "icon": "https://server.halabtech.com/images/icon/Realme.jpg",
+   "price_usd": 0.39
+  },
+  {
+   "group_num": 30,
+   "group": "OPPO",
+   "service": "OPPO world wide by code all model supported (all country) 1 sim (Single Sim) supported only",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 0.675",
+   "icon": "https://server.halabtech.com/images/icon/Realme.jpg",
+   "price_usd": 0.675
+  },
+  {
+   "group_num": 31,
+   "group": "API test",
+   "service": "TEST API IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 10000",
+   "icon": "",
+   "price_usd": 10000.0
+  },
+  {
+   "group_num": 32,
+   "group": "Xiaomi Auth REMOTELY SERVICES",
+   "service": "Redmi Xiaomi Reset Frp ✅ All Secuitry By Server (FRP ONLY) (1 device)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 9.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 9.99
+  },
+  {
+   "group_num": 32,
+   "group": "Xiaomi Auth REMOTELY SERVICES",
+   "service": "Xiaomi Flash All Devices And All Secuitry By Server (AUTH) (1 device) (By Team Viewer) [ Qualcomm]",
+   "delivery": "1-60 Miniutes",
+   "price_raw": "$ 22.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 22.99
+  },
+  {
+   "group_num": 32,
+   "group": "Xiaomi Auth REMOTELY SERVICES",
+   "service": "Xiaomi Flash All Devices And All Secuitry By Server (AUTH) (1 device) (By Team Viewer) [MTK ]",
+   "delivery": "1-60 Miniutes",
+   "price_raw": "$ 18.99",
+   "icon": "",
+   "price_usd": 18.99
+  },
+  {
+   "group_num": 33,
+   "group": "HUAWEI Services",
+   "service": "Huawei Basic Info (Serial/Sn) Convert To IMEI",
+   "delivery": "1-60 Miniutes",
+   "price_raw": "$ 0.028",
+   "icon": "https://server.halabtech.com/images/icon/HUAWEI.jpg",
+   "price_usd": 0.028
+  },
+  {
+   "group_num": 33,
+   "group": "HUAWEI Services",
+   "service": "HUAWEI CERT FILE (Kirin 710 ,Kirin 820 ,Kirin 980 ,Kirin 990 ,Kirin 985 Or Kirin 810) [2 Months] By Sigma",
+   "delivery": "Hours",
+   "price_raw": "$ 9.99",
+   "icon": "https://server.halabtech.com/images/icon/HUAWEI.jpg",
+   "price_usd": 9.99
+  },
+  {
+   "group_num": 33,
+   "group": "HUAWEI Services",
+   "service": "HUAWEI IMEI Extract From IMEI استخراج معلومات من",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.035",
+   "icon": "https://server.halabtech.com/images/icon/HUAWEI.jpg",
+   "price_usd": 0.035
+  },
+  {
+   "group_num": 33,
+   "group": "HUAWEI Services",
+   "service": "HUAWEI SN Extract From SN استخراج معلومات من",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.14",
+   "icon": "https://server.halabtech.com/images/icon/HUAWEI.jpg",
+   "price_usd": 0.14
+  },
+  {
+   "group_num": 34,
+   "group": "UK O2 / Tesco Unlock Services",
+   "service": "UK O2 Generic Code Huawei | Samsung | Doro | Microsoft Lumia | 20 Digit Nokia | HTC | Sony | Blackberry | Alcatel etc [ Phone Not Supported ] ♻️ Fast Service (iPhone Not Supported)",
+   "delivery": "5-20 days",
+   "price_raw": "$ 11.992",
+   "icon": "https://server.halabtech.com/images/icon/uk.jpg",
+   "price_usd": 11.992
+  },
+  {
+   "group_num": 34,
+   "group": "UK O2 / Tesco Unlock Services",
+   "service": "UK O2 Tesco iPhone All Models including iphone 16 series",
+   "delivery": "10-25 days",
+   "price_raw": "$ 20",
+   "icon": "https://server.halabtech.com/images/icon/uk.jpg",
+   "price_usd": 20.0
+  },
+  {
+   "group_num": 35,
+   "group": "Other USA Networks",
+   "service": "Cricket Usa - Lg / Samsung / Nokia / Zte / Generic IMEI Should be Active For 180 Days",
+   "delivery": "1-7 days",
+   "price_raw": "$ 1.828",
+   "icon": "https://server.halabtech.com/images/icon/usa.jpg",
+   "price_usd": 1.828
+  },
+  {
+   "group_num": 35,
+   "group": "Other USA Networks",
+   "service": "US GSM Service Policy 51 & 52 iPhone All Models Supported (Clean IMEI Only)",
+   "delivery": "1-10 days",
+   "price_raw": "$ 8",
+   "icon": "https://server.halabtech.com/images/icon/usa.jpg",
+   "price_usd": 8.0
+  },
+  {
+   "group_num": 35,
+   "group": "Other USA Networks",
+   "service": "USA C Spire iPhone All Models Supported (Clean IMEI Only) Fast Service [NO REFUND FOR NON-CLEAN]",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 10.09",
+   "icon": "https://server.halabtech.com/images/icon/usa.jpg",
+   "price_usd": 10.09
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Gabon Grenada Guinea Congo Djibouti El Salvador Chad Comoros Belize Benin Brunei Cameroon Afghanistan Angola Bahamas Barbados Eritrea Eswatini}}} Clean IMEIs [Super Fast",
+   "delivery": "1-3 days",
+   "price_raw": "$ 27.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Premium ⚡️ ⚡️ ⚡️ Xiaomi Mi Account Unlock WorldWide Clean Only (CHINA NOT SUPPORTED) [ULTRA Fast] Instant to few hours AUTO API",
+   "delivery": "1-6 Hours",
+   "price_raw": "$ 29.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service Latin America {{{Argentina Bolivia Brazil Chile Cuba Dominican Ecuador El Salvador Guatemala Haiti Honduras Panama Paraguay Peru Venezuela}}} Clean IMEIs Working",
+   "delivery": "3-7 days",
+   "price_raw": "$ 23.4",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 23.4
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{Kenya}}} Clean IMEIs instant to few hours",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 25.3",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 25.3
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{Nicaragua}}} Clean IMEIs",
+   "delivery": "1-7 days",
+   "price_raw": "$ 22.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 22.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Argentina}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 24.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 24.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{ARGENTINE}}} Clean IMEIs",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 25.2",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 25.2
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Azerbaijan}}} Clean",
+   "delivery": "1-7 days",
+   "price_raw": "$ 15.95",
+   "icon": "",
+   "price_usd": 15.95
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Bahrain}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 26.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 26.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Belarus}}} Clean IMEIs",
+   "delivery": "24-72 Hours",
+   "price_raw": "$ 19.39",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 19.39
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Brazil}}} Clean IMEIs",
+   "delivery": "1-5 days",
+   "price_raw": "$ 22.989",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 22.989
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Cambodia}}} Clean IMEIs",
+   "delivery": "1-5 days",
+   "price_raw": "$ 24.29",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 24.29
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Colombia}}} Clean IMEIs FAST Direct",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 17.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 17.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Egypt}}} Clean IMEI Working 100%",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 23.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 23.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Europe}}} Clean IMEIs (Rocket Super Fast) instant To Few Min 24/7",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 15.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 15.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Europe}}} Clean IMEIs (Rocket Super Fast) REAL AUTO instant 24/7",
+   "delivery": "Miniutes",
+   "price_raw": "$ 16.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 16.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Europe}}} Clean IMEIs Source Slow",
+   "delivery": "1-3 days",
+   "price_raw": "$ 14.98",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 14.98
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Finland | Germany | France | Malta | Luxembourg | Greece | Lithuania | Latvia | Italy, Ireland, Netherlands, Poland, Portugal | Slovakia and Montenegro}}} Clean IMEIs",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 21.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 21.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Georgia}}} Clean",
+   "delivery": "1-7 days",
+   "price_raw": "$ 27.5",
+   "icon": "",
+   "price_usd": 27.5
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Ghana}}} Clean IMEIs",
+   "delivery": "1-12 Hours",
+   "price_raw": "$ 25.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 25.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Guatemala}}} Clean IMEIs",
+   "delivery": "1-4 days",
+   "price_raw": "$ 8.4",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 8.4
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{HONDURAS}}} Clean IMEIs",
+   "delivery": "1-3 days",
+   "price_raw": "$ 55.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 55.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Indonesia}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 9.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 9.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{IRAQ}}} Clean IMEIs",
+   "delivery": "1-3 days",
+   "price_raw": "$ 8.65",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 8.65
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{JAPAN}}} Clean IMEIs Server Direct",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 13.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 13.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Kazakhstan}}} Clean IMEIs",
+   "delivery": "1-7 days",
+   "price_raw": "$ 14.03",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 14.03
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Kyrgyzstan}}} Clean IMEIs",
+   "delivery": "1-5 days",
+   "price_raw": "$ 26.49",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 26.49
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Malaysia}}} Clean IMEIs",
+   "delivery": "1-4 days",
+   "price_raw": "$ 20.436",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 20.436
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Mexico}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 30.8",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 30.8
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Morocco}}} Clean IMEIs Direct Source",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 17.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 17.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{MOZAMBIQUE}}} Clean IMEIs",
+   "delivery": "1-7 days",
+   "price_raw": "$ 26.4",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 26.4
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Nederland}}} Clean IMEIs Server Stable",
+   "delivery": "1-36 Hours",
+   "price_raw": "$ 18",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 18.0
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Nigeria}}} Clean IMEIs",
+   "delivery": "1-36 Hours",
+   "price_raw": "$ 21.25",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 21.25
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Oman}}} Clean IMEI Instant to few hours",
+   "delivery": "Miniutes",
+   "price_raw": "$ 10.7",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 10.7
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Panama}}} Clean IMEIs",
+   "delivery": "1-4 days",
+   "price_raw": "$ 19.29",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 19.29
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Peru}}} Clean IMEIs",
+   "delivery": "Hours",
+   "price_raw": "$ 16.95",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 16.95
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Philippines}}} Clean IMEIs",
+   "delivery": "1-12 Hours",
+   "price_raw": "$ 22.88",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 22.88
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{QATAR}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 25.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 25.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Romania | Sweden | Spain | Nederland | Slovenia | BERMUDA | Andorra | Ligtenstein | Monaco| iranda| Iceland}}} Clean IMEIs",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 14.9",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 14.9
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Russian}}} Clean IMEIs Fast",
+   "delivery": "1-7 days",
+   "price_raw": "$ 10.2",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 10.2
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Somalia}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 27.5",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.5
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{South Africa Namibian/Zambia/cote divoire/Botswana/Zimbabwe/Kenya/Nigeria/Malawi/Uganda/Ghana/ Ethiopia/Tanzania}}} Clean IMEIs",
+   "delivery": "1-3 days",
+   "price_raw": "$ 27.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{South Africa}}} Clean IMEIs FAST",
+   "delivery": "1-2 days",
+   "price_raw": "$ 25.49",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 25.49
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Syria, Libya, PhilippinesPalestinian, Bosnia Bosna and Herzegovina and Senegal Taiwan Algeria}}} Clean IMEIs [Super Fast]",
+   "delivery": "1-3 days",
+   "price_raw": "$ 27.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Syria}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 23.49",
+   "icon": "",
+   "price_usd": 23.49
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Thailand}}} Clean IMEIs Instant To Few Hours",
+   "delivery": "1-5 days",
+   "price_raw": "$ 17.969",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 17.969
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Turkey}}} Clean IMEIs",
+   "delivery": "1-2 days",
+   "price_raw": "$ 15.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 15.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Turkey}}} Clean IMEIs Source2 #Cheaper",
+   "delivery": "1-3 days",
+   "price_raw": "$ 16.29",
+   "icon": "",
+   "price_usd": 16.29
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Uganda}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 28.125",
+   "icon": "",
+   "price_usd": 28.125
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Ukraine}}} Clean IMEIs",
+   "delivery": "1-7 days",
+   "price_raw": "$ 27.94",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.94
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{United Kingdom UK | Montenegro | Serbia | Austria | Belgium | Bulgaria | Croatia | Czech Republic | Norway, Denmark, Sweden, Switzerland, Finland, Hungary | Estonia|}}} Clean IMEIs",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 17.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 17.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Uruguay}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 24.3",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 24.3
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Uzbekistan}}} Clean IMEIs",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 25.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 25.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Vanuatu Trinidad and Tobago Turkmenistan Tuvalu Tajikistan Togo Tonga Singapore South Korea Rwanda Kiribati Lesotho Liberia Maldives Guyana Jamaica}}} Clean IMEIs [Super Fast]",
+   "delivery": "1-3 days",
+   "price_raw": "$ 27.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock Service {{{Vietnam}}} Clean IMEIs",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 26.4",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 26.4
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock WorldWide (World Wide Any Country) Clean Only (CHINA NOT SUPPORTED)",
+   "delivery": "1-7 Hours",
+   "price_raw": "$ 27.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock {{{sri lanka Lebanon Ethiopia YEMEN SUDAN USA Ukraine Albania Macdonia Bhutan India Kuwait HONDURAS Somalia Paraguay venez Venezuela}}} Clean IMEIs [Super Fast]",
+   "delivery": "1-3 days",
+   "price_raw": "$ 27.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Mi Account Unlock{{{Cambodia, Azerbaijan, Tunisia, Myanmar, Canada, Kosovo, North Macedonia, Georgia, Japan ,Jordan, Peru, Panama, Ghana, Moldova, Armenia, Nicaragua}}} Clean IMEIs [Super Fast]",
+   "delivery": "1-3 days",
+   "price_raw": "$ 27.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 27.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Official Mi Account {{{Costa Rica}}} Clean Only",
+   "delivery": "1-5 days",
+   "price_raw": "$ 14.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 14.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Official Mi Account {{{Pakistan}}} Clean Only Working 100%",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 2.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 2.99
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Official Mi Account {{{Saudi Arabia KSA}}}",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 25.3",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 25.3
+  },
+  {
+   "group_num": 36,
+   "group": "Xiaomi Mi Account",
+   "service": "Xiaomi Official Mi Account {{{United Arab Emirates, Dubai (UAE)}}",
+   "delivery": "1-72 Hours",
+   "price_raw": "$ 26.99",
+   "icon": "https://server.halabtech.com/images/icon/Xiaomi.jpg",
+   "price_usd": 26.99
+  },
+  {
+   "group_num": null,
+   "group": "LG Services",
+   "service": "LG Full Info Check By IMEI",
+   "delivery": "Instant",
+   "price_raw": "$ 12.35",
+   "icon": "",
+   "price_usd": 12.35
+  },
+  {
+   "group_num": null,
+   "group": "LG Services",
+   "service": "LG NOT FOUND service (Premium)",
+   "delivery": "15 Miniutes",
+   "price_raw": "$ 8.475",
+   "icon": "https://server.halabtech.com/images/icon/lg.jpg",
+   "price_usd": 8.475
+  },
+  {
+   "group_num": null,
+   "group": "LG Services",
+   "service": "LG Worldwide Codes All Level [ 2020]",
+   "delivery": "Instant",
+   "price_raw": "$ 8.475",
+   "icon": "https://server.halabtech.com/images/icon/lg.jpg",
+   "price_usd": 8.475
+  },
+  {
+   "group_num": null,
+   "group": "LG Services",
+   "service": "LG Worldwide Codes All Level [Cheap]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 7.5",
+   "icon": "",
+   "price_usd": 7.5
+  },
+  {
+   "group_num": null,
+   "group": "Sony Services",
+   "service": "Sony Xperia All Models (Frp by USB) 100% SERVICE",
+   "delivery": "1-30 Miniutes",
+   "price_raw": "$ 29.99",
+   "icon": "",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "Sony Services",
+   "service": "Sony Xperia All Models WORLDWIDE(NCK CODE) 100% SERVICE",
+   "delivery": "1-15 days",
+   "price_raw": "$ 12.8",
+   "icon": "https://server.halabtech.com/images/icon/sony.jpg",
+   "price_usd": 12.8
+  },
+  {
+   "group_num": null,
+   "group": "EMEA - iPhone",
+   "service": "EMEA iPhone All Model15/14/16 Support Clean Service",
+   "delivery": "1-7 days",
+   "price_raw": "$ 4.8",
+   "icon": "",
+   "price_usd": 4.8
+  },
+  {
+   "group_num": null,
+   "group": "EMEA - iPhone",
+   "service": "EMEA Premium Service (FAST SERVICE - MULTI REAPLY) All Iphone Fast Online inCluding iPhone 13 Series [DIRECT]",
+   "delivery": "1-7 days",
+   "price_raw": "$ 0.75",
+   "icon": "https://server.halabtech.com/images/icon/emea.jpg",
+   "price_usd": 0.75
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "#225 Sold By Info ⚡ ALL MODELS SUPPORTED (IMEI Or Sn) FAST",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 1.489",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 1.489
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "#33225 IPhone/IPad/IWatch [Case History Check] By IMEI From GSX Checker",
+   "delivery": "Hours",
+   "price_raw": "$ 2.789",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 2.789
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "APPLE MDM CHECK INFO - MAC & IOS INSTANT → SN/IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.168",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 0.168
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "Apple Sold by + Case + Repair + Replacement + Diagnostic - [Picture Service]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 2.978",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 2.978
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "Case History + Replacement Check by SN/IMEI ( Macbook ,iPad , iWatch, IPhones) INSTANT",
+   "delivery": "days",
+   "price_raw": "$ 1.38",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 1.38
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "GSX Cases, Replacement Info (IMEI Or SN) [Fast Instant]",
+   "delivery": "0-12 Hours",
+   "price_raw": "$ 1.38",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 1.38
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "iPhone Replacement Check",
+   "delivery": "Instant",
+   "price_raw": "$ 0.011",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 0.011
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "iPhone/iPad/iWatch SOLD PRO Pro Info (MAC, Active Policy, Unlock Date, Purchase Country, Purchase Date, Warranty, Sold Name, Restore Date and Registration Date)",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 1.25",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 1.25
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "MacBook Model + Act Status + Warranty + loaner + FMI ON/OFF",
+   "delivery": "10 Miniutes",
+   "price_raw": "$ 0.88",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 0.88
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "Macbook/iMac Info Check [Warranty/Coverage] Full Info",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.48",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 0.48
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "Purchase Country [GSX]",
+   "delivery": "1-5 Hours",
+   "price_raw": "$ 0.66",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 0.66
+  },
+  {
+   "group_num": null,
+   "group": "GSX CHECKER",
+   "service": "Purchase Date Check Iphone",
+   "delivery": "1-5 Miniutes",
+   "price_raw": "$ 0.038",
+   "icon": "https://server.halabtech.com/images/icon/gsx.jpg",
+   "price_usd": 0.038
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Activation Check BY IMEI Or Serial",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.011",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.011
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Apple id Blacklist [Lost / Stolen / Clean] Check + Full Blacklist GSMA",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.011",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.011
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Apple Warranty Information Checker by IMEI OR SERIAL",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.011",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.011
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Blacklist Status (GSMA) BY Serial",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.09",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.09
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Carrier + SIM Lock Status #S4 (with Blacklist History )",
+   "delivery": "Instant",
+   "price_raw": "$ 0.09",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.09
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Carrier + SIM Lock Status (with iCloud Status and Warranty info ) S1 BY IMEI Working 100%",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.068",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.068
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Carrier + SIM Lock Status (with iCloud Status and Warranty info ) S1 BY Serial Working 100%",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.075",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.075
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "FMI On/Off BY Serial",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.02",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.02
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iCloud Clean/Lost + FMI Status S1 [ By IMEI or Serial ]",
+   "delivery": "Instant",
+   "price_raw": "$ 0.023",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.023
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iCloud Icloud Check Clean / Lost [ALL] Serial",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.22",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.22
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iPad All-in-one [ Model,Serial,FMI,Replacement,Sim-Lockm,Manufacture Date,Unit Age, Purchase CountryWarranty Check And Coverage Info] IMEI/SN",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.16",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.16
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iPhone All-in-one [ Model,Serial,FMI,Replacement,Sim-Lockm,Manufacture Date,Unit Age, Purchase CountryWarranty Check And Coverage Info] IMEI/SN",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.16",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.16
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iPhone Blacklist / Barred Check [T-Mobile US]",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.034",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.034
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iPhone IMEI ⇄ IMEI2 ⇄ Serial Convert",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.017",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.017
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Iphone ipad All-in-one [ Model,Serial,FMI,Replacement,Sim-Lock] + Coverage Info by IMEI",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.09",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.09
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Iphone ipad macbook All-in-one [ Model,Serial,FMI,Replacement,Sim-Lock] + Coverage Info by IMEI/SN",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.09",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.09
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iPhone Model Check [TAC]",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.013",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.013
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iPhone Sprint [Finance Eligibility Check]",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.034",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.034
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iRemoval Pro & Mina Checker for Extract original SERIAL from IMEI",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.33",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.33
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "iWatch All-in-one [ Model,Serial,FMI,Replacement,Sim-Lockm,Manufacture Date,Unit Age, Purchase CountryWarranty Check And Coverage Info] IMEI/SN",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.16",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.16
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "JAPAN - SoftBank Finance Checker",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "JAPAN - KDDI Finance Checker",
+   "delivery": "Instant",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "JAPAN - NTT Docomo Status Checker",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Mac All-in-one [ Model,Serial,FMI,Replacement,Sim-Lockm,Manufacture Date,Unit Age, Purchase CountryWarranty Check And Coverage Info] IMEI/SN",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.16",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.16
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Manufacturer + Model (APPLE DEVICES)",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Model + Colour + Capacity checker by IMEI",
+   "delivery": "Instant Instant",
+   "price_raw": "$ 0.023",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.023
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Model + Colour + Capacity checker by Serial",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 0.011",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.011
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Replaced Status Checker by IMEI",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.011",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.011
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Replaced Status Checker by Serial",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.011",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.011
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "Sprint Official Check API (Pro Details)",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.034",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.034
+  },
+  {
+   "group_num": null,
+   "group": "Apple info Checkers",
+   "service": "StraightTalk / Tracfone Unlock & Eligibility (Check by IMEI)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.1",
+   "icon": "https://server.halabtech.com/images/icon/infoChecker.jpg",
+   "price_usd": 0.1
+  },
+  {
+   "group_num": null,
+   "group": "DORO Code",
+   "service": "DORO GENERIC PHONE NCK CODE SERVICE WORLDWIDE",
+   "delivery": "Instant Miniutes",
+   "price_raw": "$ 5.1",
+   "icon": "https://server.halabtech.com/images/icon/codeFactory.jpg",
+   "price_usd": 5.1
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "#3\\. IMEI SERVICE - Samsung IMEI KNOX GUARD CHECK (Locked/Unlocked)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.54",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 0.54
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "CHECK Knox Enrollment Service SAMSUNG",
+   "delivery": "1-3 Miniutes",
+   "price_raw": "$ 0.36",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 0.36
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "SAMSUNG EUROPE LIMITED COUNTRY - PREMIUM 2020",
+   "delivery": "1-30 Miniutes",
+   "price_raw": "$ 16.25",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 16.25
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "Samsung Full Info Checker Pro (IMEI - SN - Full Name - Manufacturer - Production Date - Purchase Date - Warranty - Sales Buyer Name - Carrier - Sold Date)",
+   "delivery": "1-15 Miniutes",
+   "price_raw": "$ 0.44",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 0.44
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "SAMSUNG Global Model Only Region Code + MCK (PUK) (( USA MODEL NOT SUPPORTED)) (A066/A165/A166/A266/A356/A556/A558)",
+   "delivery": "1-20 days",
+   "price_raw": "$ 32.99",
+   "icon": "",
+   "price_usd": 32.99
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "SAMSUNG Global Model Only Region Code + MCK (PUK) (( USA MODEL NOT SUPPORTED)) (A336/A566/F741/F956/X82/X92/S931/S936/S938/S937) [S25 Series/FOLD 7/FLIP 6/TAB S10 Series]",
+   "delivery": "1-20 days",
+   "price_raw": "$ 49.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 49.99
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "SAMSUNG Global Model Only Region Code + MCK (PUK) (( USA MODEL NOT SUPPORTED)) (F711/F926/F731/F936/F721/S918/S916/S911/S926/S921/S928/X216/X218/X818) [S23/S24 Series/FOLD-FLIP 3/4/5/6/7]",
+   "delivery": "1-20 days",
+   "price_raw": "$ 32.99",
+   "icon": "",
+   "price_usd": 32.99
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "SAMSUNG Global Model Only Region Code + MCK (PUK) (( USA MODEL NOT SUPPORTED)) (G781/G780/G990/F916/F707/S901/S906/S908) [S22/S21 Series/FOLD-FLIP 1/2]",
+   "delivery": "1-20 days",
+   "price_raw": "$ 29.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "SAMSUNG Global Model Only Region Code + MCK (PUK) (( USA MODEL NOT SUPPORTED)) (Old Model) [TAB A7 2020,TAB S7+,TAB S7,TAB A8.4,TAB S6 LITE,TAB S6 5G,TAB ACTIVE PRO,,TAB S6,TAB S5E,TAB A10.1 2019 TAB A8.0 &SPEN 2019 ADVANCE2,TAB8.0 2018,TAB S4 10.5,TAB A",
+   "delivery": "1-20 days",
+   "price_raw": "$ 17.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 17.99
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "SAMSUNG Global Model Only Region Code + MCK (PUK) (( USA MODEL NOT SUPPORTED)) (Old Model) [A3/A5/A6/A7/A8/A9/A10E/A11/A12/A20/A215/A30/A40/A50/A51/A51/A52/A90/F900/N920 Note 10/Note 20/510]",
+   "delivery": "1-20 days",
+   "price_raw": "$ 19.5",
+   "icon": "",
+   "price_usd": 19.5
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "Samsung Info (Carrier/Warranty Checker)",
+   "delivery": "0-10 Miniutes",
+   "price_raw": "$ 0.14",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 0.14
+  },
+  {
+   "group_num": null,
+   "group": "SAMSUNG Services",
+   "service": "SAMSUNG ROMANIA - NCK & MCK",
+   "delivery": "1-3 days",
+   "price_raw": "$ 14.125",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 14.125
+  },
+  {
+   "group_num": null,
+   "group": "Japan - SoftBank",
+   "service": "Japan Softbank - Android All Models Unlock Code (Clean / Unpaid IMEI Supported)",
+   "delivery": "1-10 days",
+   "price_raw": "$ 0.96",
+   "icon": "https://server.halabtech.com/images/icon/japan.jpg",
+   "price_usd": 0.96
+  },
+  {
+   "group_num": null,
+   "group": "Japan - SoftBank",
+   "service": "Japan Softbank - Generic Unlock Code (Sony, Samsung,Sharp Etc.) Direct Source",
+   "delivery": "1-5 days",
+   "price_raw": "$ 0.66",
+   "icon": "https://server.halabtech.com/images/icon/japan.jpg",
+   "price_usd": 0.66
+  },
+  {
+   "group_num": null,
+   "group": "Japan - SoftBank",
+   "service": "Softbank Japan - All iPhone (Clean/Unpaid/Over 100 Days)",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 1.56",
+   "icon": "https://server.halabtech.com/images/icon/japan.jpg",
+   "price_usd": 1.56
+  },
+  {
+   "group_num": null,
+   "group": "Japan - SoftBank",
+   "service": "Softbank Japan IPhone & Genric All Model Supported Clean + Unpaid",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 1.26",
+   "icon": "",
+   "price_usd": 1.26
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network Alcatel 1 Plus/1V/30SE/Alcatel 3",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 23.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 23.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network All Huawei",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 18.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 18.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network iPhone 11 Till 13 Series",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 49.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 49.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network iPhone 14/15/16 Series",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 81.99",
+   "icon": "",
+   "price_usd": 81.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network iPhone All Models Till X",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 36.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 36.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network Samsung A02/A03/A30/A21S/A6+/A20/S8/S8+/NOTE 10/NOTE 10+/A71",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 19.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 19.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network Samsung A22/A13/A51/A12/A51/71/A32/A33/A20S",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 24.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 24.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network Samsung A52s 5G/A52/S10/A53",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 26.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 26.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network Samsung Flip3/S22+/S22 Ultra/Fold3",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 46.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 46.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network Samsung S20Plus/S20+/S21/note 20/note 20 ultra",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 31.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 31.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network Samsung S22",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 36.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 36.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republic Network TCL 20SE/20E/30+",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 23.99",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 23.99
+  },
+  {
+   "group_num": null,
+   "group": "Altice Dominican Republic",
+   "service": "Altice Dominican Republica Premium All iPhones",
+   "delivery": "1-15 days",
+   "price_raw": "$ 95.85",
+   "icon": "",
+   "price_usd": 95.85
+  },
+  {
+   "group_num": null,
+   "group": "HONOR Services",
+   "service": "HONOR Dual SIM Cert File (ONLY MTK 4G)",
+   "delivery": "Miniutes",
+   "price_raw": "$ 14.99",
+   "icon": "",
+   "price_usd": 14.99
+  },
+  {
+   "group_num": null,
+   "group": "HONOR Services",
+   "service": "ONLY HONOR FRP Code [HUAWEI ID NOT SUPPORTED & HUAWEI NOT SUPPORTED] [ ULTRA SUPER FAST] Offer عرض",
+   "delivery": "1-48 Hours",
+   "price_raw": "$ 41.99",
+   "icon": "",
+   "price_usd": 41.99
+  },
+  {
+   "group_num": null,
+   "group": "HONOR Services",
+   "service": "ONLY HONOR FRP Code {{SN}} [HUAWEI ID NOT SUPPORTED & HUAWEI NOT SUPPORTED] (ONLY WORKING DAYS)",
+   "delivery": "1-7 days",
+   "price_raw": "$ 41.4",
+   "icon": "https://server.halabtech.com/images/icon/HUAWEI.jpg",
+   "price_usd": 41.4
+  },
+  {
+   "group_num": null,
+   "group": "HONOR Services",
+   "service": "ONLY HONOR FRP Code {{SN}} [HUAWEI ID NOT SUPPORTED & HUAWEI NOT SUPPORTED] [ Stable] Working Days Only Very FAST",
+   "delivery": "1-5 days",
+   "price_raw": "$ 41.49",
+   "icon": "",
+   "price_usd": 41.49
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S918X S918B) Unlock / Repair Network / Fix Demo [U5 U6 U7] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(A426U A426U1 A426W) Unlock / Repair Network / Fix Demo [U7 U6 U5] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(A716U A716U1 A716W A526U A526U1 A526W ) Unlock / Repair Network / Fix Demo [U10 U9] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(A736B N986U N986U1 N986W) Unlock / Repair Network / Fix Demo [U6 U5 U4] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(F711U F711U1 F711W F711B F711X) Unlock / Repair Network / Fix Demo [U6 U5 U4] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(F721U F721U1 F721W F936U1 F936W F936U) Unlock / Repair Network / Fix Demo [U2 U3 U4] By EDL Cable",
+   "delivery": "1-30 Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(F916U F916U1 F916W S911U S911U1 S911W S916U S916U1 S916W) Unlock / Repair Network / Fix Demo [U2 U3 U4] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(F926U F926U1 F926W F926U F926U1 F926W F936B F721B F926B S918U S918U1 S918W S916U S916U1 S916W S911U S911U1 S911W) Unlock / Repair Network / Fix Demo [U4 U3] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(F926U F926U1 F926W F926X F936B S916X F721B F721X) Unlock / Repair Network / Fix Demo [U5 U4] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G781B N975U N975U1 N975W) Unlock / Repair Network / Fix Demo [U8 U7 U6 U5] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G781U G781U1 G781W ) Unlock / Repair Network / Fix Demo [U5 U6 U7 U8 U9] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G981U G981U1 G981W) Unlock / Repair Network / Fix Demo [U7 U6 U5 U4] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G986UB G986U1 G986W) Unlock / Repair Network / Fix Demo [U8] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G988U G988U1 G988W G986U G986U1 G986W) Unlock / Repair Network / Fix Demo [U7 U6 U5 U4] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G990B) Unlock / Repair Network / Fix Demo [U6 U5 U4 U3] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G990U G990U1 G990W) Unlock / Repair Network / Fix Demo [U7 U8 U9] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G990U2) Unlock / Repair Network / Fix Demo [U7 U8 U9 U10 UA] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G991U G991W G991U1 G998U G998W G998U1 G996U G996W G996U1) Unlock / Repair Network / Fix Demo [UA UB UC U10 U11 U12] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(G996U G996U1 G996W G991U G991W G911U1 G998W G998U G998U1) Unlock / Repair Network / Fix Demo [U6 U7 U8 U9 U10 UA] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(N981U N981U1 N981W) Unlock / Repair Network / Fix Demo [U6 U5 U4 U3 U2] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S901E S906E S908E F936B F936X) Unlock / Repair Network / Fix Demo [U4 U5 U6U7 U8] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S901U S901U1 S901W S908W S908U S908U1) Unlock / Repair Network / Fix Demo [U6 U5 U4 U3] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S906U S906U1 S906W S901U S901U1 S901W S908U S908U1 S908W) Unlock / Repair Network / Fix Demo [U2 U3 U4] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S908E) Unlock / Repair Network / Fix Demo [U8 U9 UA U10] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S908N) Unlock / Repair Network / Fix Demo [U2 U3 U4 U5 U6] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S911B S911BR S911X) Unlock / Repair Network / Fix Demo [U2 U3] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S911X S911B S916B S916X) Unlock / Repair Network / Fix Demo [U4 U5 U6] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S916B S916X) Unlock / Repair Network / Fix Demo [U2 U3] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[BY EDL Binary] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "(S918N) Unlock / Repair Network / Fix Demo [U2] By EDL Cable",
+   "delivery": "Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG JDM (A022M A025AZ A025AZ A025F A025G A025M A025U A025U1 A025V A032F A032G A032M A035F A035G A035M A037F A037F A037G J260M M013) Unlock / Repair Network / Fix Demo [PATCH 1/7/2023 And after]",
+   "delivery": "15 Miniutes",
+   "price_raw": "$ 29.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG JDM (A037M A037M A037U A037U1 A037W A042F A045F A045M A102U A102U1 A107F A107F A107M A115A A115AP A115F A115F A115M A022F A022G A260F A260G A320F) Unlock / Repair Network / Fix Demo [PATCH 1/7/2023 And after]",
+   "delivery": "15 Miniutes",
+   "price_raw": "$ 29.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG JDM (A115U A146B A145F A115U A115U1 A055M A115W A125M A146M A146P A146U A146U1 A146W 215U A215U A215U1 A215U1 A215W A013F A013G A013M) Unlock / Repair Network / Fix Demo [PATCH 1/7/2023 And after]",
+   "delivery": "15 Miniutes",
+   "price_raw": "$ 29.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG JDM (A5160 A516B A516D A516J A516N A516U A516U1 A516V M022M a226u M025F M107F M107G M107Y M115F M115MA225M A226B A226BR) Unlock / Repair Network / Fix Demo [PATCH 1/7/2023 And after]",
+   "delivery": "15 Miniutes",
+   "price_raw": "$ 29.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG JDM (SC-42A A015A A015AZ A015F A015F A015G A015M A015M A015T A015T1 A015U A015U1 A015V M013F M015F M015G M017F M022F M022G) Unlock / Repair Network / Fix Demo [PATCH 1/7/2023 And after]",
+   "delivery": "15 Miniutes",
+   "price_raw": "$ 29.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG TFN (S124DL S111DL S115DL S124DL S127DL S215DL S146VL S115DL) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 34.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": null,
+   "group": "[NEW JDM V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG TFN (S134DL S215Dl S146Vl S135dl S426DL X216B A055M X218U A055G) Unlock / Repair Network / Fix Demo",
+   "delivery": "15 Miniutes",
+   "price_raw": "$ 34.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 34.99
+  },
+  {
+   "group_num": null,
+   "group": "Spectrum USA Network",
+   "service": "Spectrum Unlock Eligibility Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.044",
+   "icon": "",
+   "price_usd": 0.044
+  },
+  {
+   "group_num": null,
+   "group": "Spectrum USA Network",
+   "service": "Spectrum USA - Clean All Models iPhones 15 Series 100% ( Only Clean Imei Support ) [NO RELOCK WARRANTY]",
+   "delivery": "10-20 days",
+   "price_raw": "$ 148.5",
+   "icon": "",
+   "price_usd": 148.5
+  },
+  {
+   "group_num": null,
+   "group": "Spectrum USA Network",
+   "service": "Spectrum USA - Clean All Models iPhones 16 Series 100% ( Only Clean Imei Support ) [NO RELOCK WARRANTY]",
+   "delivery": "10-20 days",
+   "price_raw": "$ 158.7",
+   "icon": "",
+   "price_usd": 158.7
+  },
+  {
+   "group_num": null,
+   "group": "Spectrum USA Network",
+   "service": "Spectrum USA - Clean All Models iPhones 17 Series 100% ( Only Clean Imei Support ) [NO RELOCK WARRANTY]",
+   "delivery": "10-20 days",
+   "price_raw": "$ 157.3",
+   "icon": "",
+   "price_usd": 157.3
+  },
+  {
+   "group_num": null,
+   "group": "[V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "Samsung Galaxy S24 / S24+ / S24 Ultra (S921U S921U1 S921W S9210 / S926U S926U1 S926W S9260 / S928B S928U S928U1 S928W S928N S9280) CPID",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 279.99",
+   "icon": "",
+   "price_usd": 279.99
+  },
+  {
+   "group_num": null,
+   "group": "[V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "Samsung Galaxy Z Flip5 / Z Flip6 (F731B F731U F731U1 F731W F731N F7310 F731Q / F741B F741U F741U1 F741W F741N F7410 F741Q) Repair Repair Network / Fix Demo / Unlock [V4 V5] CPID",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 279.99",
+   "icon": "",
+   "price_usd": 279.99
+  },
+  {
+   "group_num": null,
+   "group": "[V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "Samsung Galaxy Z Fold5 / Z Fold6 / Z Fold7 (F946B F946U F946U1 F946W F946N F9460 F946Q / F956B F956U F956U1 F956W F956N F9560 F956Q / F966B F966U F966U1 F966W F966N F9660 F966Q F966Z) Repair Repair Network / Fix Demo / Unlock [V4 V5] CPID",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 279.99",
+   "icon": "",
+   "price_usd": 279.99
+  },
+  {
+   "group_num": null,
+   "group": "[V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "Samsung S25 / S25+ / S25 Ultra / S25 Edge (S931B S931E S931U S931W S931N S9310 S931Q / S936B S936E S936U S936U1 S936W S936N S9360 / S938B S938E S938U S938W S938N S9380 / S937B S937U S937W S937N S9370) Repair Repair Network / Fix Demo / Unlock [V4 V5] C",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 279.99",
+   "icon": "",
+   "price_usd": 279.99
+  },
+  {
+   "group_num": null,
+   "group": "[V4 V5] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "Samsung S26 / S26+ / S26 Ultra (S942U S942U1 S942W S9420 S942Q S942Z S942C / S947U S947U1 S947W S9470 S947Q S947Z S947C / S948B S948U S948U1 S948W S948N S9480 S948Q S948Z S948C) Repair Repair Network / Fix Demo / Unlock [V4 V5]",
+   "delivery": "1-24 Hours",
+   "price_raw": "$ 279.99",
+   "icon": "",
+   "price_usd": 279.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "NOTE 8 (N950F N9500 N950W N950U N950U1 N950D) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 25",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 25.0
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "S20 S20 PLUS S20 Ultra (G980X G981V G988J G988BR G981F G9860 G986D G980D SC52A G9880 G988B G988N G977V G986B G986N G981B G981N G9810 G985F G980F G988B G988F) {{{U1 ONLY}}} Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 69.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 69.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "S8 S8 PLUS (G955U G950U G9500 G9508 G9550 G950U1 G950W G955W G955U1 G955F G950F SCV36 G955N G950N SCV37) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 19.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 19.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "S9 S9 PLUS (G965X G960X G965F G9650 G9600 G9608 G965FD G965W G965N G960F G960FD G960N G960U G960W G965U G965W G960U1 G965U G965U1 SCV39) Unlock / Repair Network / Fix Demo ALL LATEST BUILD✅",
+   "delivery": "Miniutes",
+   "price_raw": "$ 41.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 41.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMASUNG S7 (G930F G930V G930T G930A G930P G930R4 G930R6) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 22.5",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 22.5
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG (G9700 G970F G970FD G970N G9708 G970U G970U1 G970W G970X - G9730 G973F G973FD G973N G9738 G973U G973U1 G973W G973X - G9750 G975F G975FD G975N G9758 G975U G975U1 G975W G975X) [U1 To UB-U11] Repair Netowrk / Unlock / Demo #S2",
+   "delivery": "Miniutes",
+   "price_raw": "$ 69.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 69.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG A6+ (A605F A6060 A605FN A606Y A605G A605X A605GN A6050) Unlock / Repair Network / Fix Demo ALL LATEST BUILD✅",
+   "delivery": "Miniutes",
+   "price_raw": "$ 41.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 41.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG A71 (A715F A715U A715U1 A715FN A715GM A715MN A715W A715X) {{U1 U2 U3 U4}}}} Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 69.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 69.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG Fold (F907B F907N F900F F9000 F900X F900FD F900U F900U1 F900W F900A F900D F900J F900N) {{{Only U1}}} Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 69.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 69.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG G975U G975U1 G975W G970U G970U1 G970W G973U G973U1 G973W {{{U1 U2 U3 U4 U5}}} Repair Network/ Fix Demo / Unlock",
+   "delivery": "Miniutes",
+   "price_raw": "$ 69.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 69.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG Galaxy Z Flip 5G (F707B F707N F707J F707U F707U1 F707W) {{{U1 ONLY}}}] Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 69.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 69.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG GRAND PRIME PRO (J250F J250Y J250M) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 19.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 19.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG J4 (J410G J410GN J410F J410FN J510F J510FN J510G J510GN J510FD) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 16.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 16.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG J4 Plus (J415G J415N J415GN J415F J415FN) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 19",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 19.0
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG J6+ (J610F J610FN J610G J610GN) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 16.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 16.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG J8 (J810F J810FN J810GF J810Y J810G J810GN J810M J810MF) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 41.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 41.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG NOTE 9 (N960W N960U N960U1 N9600 N9608 N960F N960FD SC-01L N960D N960N N970W N960J SCV40) Unlock / Repair Network / Fix Demo ALL LATEST BUILD✅",
+   "delivery": "Miniutes",
+   "price_raw": "$ 41.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 41.99
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG S7 EDGE (Scv33 G935F SC-02 SC02 G935V G935T G935A G935U G930U G935P G935R4 G935R6) Unlock /Repair Network /Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 22.5",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 22.5
+  },
+  {
+   "group_num": null,
+   "group": "[V1] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SC53A SCV41 SCG06K G988n N980D N980J N985J N985D N976N N9760 N986D N986J N977U N976V N976U N986N N980F N9810 N981B N981N N981U SC-01M SCV45 N981W N985F N9860 N986B N986D N986J N986U N986U1 N986W N981U N981U1 N980X) {{{U1 ONLY}}} Unlock/Repair Network/Demo",
+   "delivery": "Miniutes",
+   "price_raw": "$ 69.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 69.99
+  },
+  {
+   "group_num": null,
+   "group": "Xiaomi Unlock Bootloader",
+   "service": "UBL Xiaomi Unlock Bootloader V1 (Only Qualcomm) Not All Model [NEED Micloud OFF] Cheap Service",
+   "delivery": "1-3 Hours",
+   "price_raw": "$ 19.99",
+   "icon": "",
+   "price_usd": 19.99
+  },
+  {
+   "group_num": null,
+   "group": "Xiaomi Unlock Bootloader",
+   "service": "UBL Xiaomi Unlock Bootloader V1 V2 All Models (By Fastboot) Not All Model [NEED Micloud OFF] Source #2 [Cheap رخيص]",
+   "delivery": "Hours",
+   "price_raw": "$ 29.99",
+   "icon": "",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "XFINITY | USA NETWORKS",
+   "service": "US Xfinity Unlock Eligibility Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.06",
+   "icon": "",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": null,
+   "group": "XFINITY | USA NETWORKS",
+   "service": "Xfinity USA All IPhone Models Till 16 Pro Max - ( No Warranty ) - Clean",
+   "delivery": "1-15 days",
+   "price_raw": "$ 138",
+   "icon": "",
+   "price_usd": 138.0
+  },
+  {
+   "group_num": null,
+   "group": "XFINITY | USA NETWORKS",
+   "service": "Xfinity USA All IPhone Models Till 17 Pro Max - ( No Warranty ) - Clean",
+   "delivery": "1-15 days",
+   "price_raw": "$ 136.8",
+   "icon": "",
+   "price_usd": 136.8
+  },
+  {
+   "group_num": null,
+   "group": "USA Reseller Flex",
+   "service": "US Reseller Flex Policy - All iPhone XR - 17 Pro Max [ SEMI PREMIUM ]",
+   "delivery": "1-20 days",
+   "price_raw": "$ 78.99",
+   "icon": "",
+   "price_usd": 78.99
+  },
+  {
+   "group_num": null,
+   "group": "USA Reseller Flex",
+   "service": "US Reseller Flex Policy - IPhone All Models Including 18 Pro Max Supported ( Only Clean Status Supported )",
+   "delivery": "1-20 days",
+   "price_raw": "$ 120",
+   "icon": "https://server.halabtech.com/images/icon/icloud.jpg",
+   "price_usd": 120.0
+  },
+  {
+   "group_num": null,
+   "group": "USA Reseller Flex",
+   "service": "US Reseller Flex Policy | iPhone Up to 18 Series | Clean & Blacklist Unlock [ Full Premium ] 100% Success ( Only Clean Status Supported - WRONG Carrier NO Refund)",
+   "delivery": "1-20 days",
+   "price_raw": "$ 195.5",
+   "icon": "",
+   "price_usd": 195.5
+  },
+  {
+   "group_num": null,
+   "group": "Financial Status Checkers",
+   "service": "Japan AU KDDI Status Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.02",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.02
+  },
+  {
+   "group_num": null,
+   "group": "Financial Status Checkers",
+   "service": "USA AT&T Status Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": null,
+   "group": "Financial Status Checkers",
+   "service": "Globe/SingTel Philippines Semi Premium iPhoneXr-15",
+   "delivery": "1-15 days",
+   "price_raw": "$ 8.125",
+   "icon": "",
+   "price_usd": 8.125
+  },
+  {
+   "group_num": null,
+   "group": "Financial Status Checkers",
+   "service": "Japan NTT Docomo Status Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.02",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.02
+  },
+  {
+   "group_num": null,
+   "group": "Financial Status Checkers",
+   "service": "Japan Softbank Status Check",
+   "delivery": "1-10 days",
+   "price_raw": "$ 0.02",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.02
+  },
+  {
+   "group_num": null,
+   "group": "Financial Status Checkers",
+   "service": "Japan UQ Mobile Status Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.02",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.02
+  },
+  {
+   "group_num": null,
+   "group": "Financial Status Checkers",
+   "service": "USA T-Mobile Status Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.06",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.06
+  },
+  {
+   "group_num": null,
+   "group": "Financial Status Checkers",
+   "service": "USA Verizon Status Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.04",
+   "icon": "https://server.halabtech.com/images/icon/imei.jpg",
+   "price_usd": 0.04
+  },
+  {
+   "group_num": null,
+   "group": "[V2 V3] SAMSUNG Repair Netowrk/Demo/Unlock",
+   "service": "SAMSUNG V1 V2 V3 EDL Repair Network/ Demo [V2 V3]",
+   "delivery": "1-24 Miniutes",
+   "price_raw": "$ 134.99",
+   "icon": "https://server.halabtech.com/images/icon/samsung.jpg",
+   "price_usd": 134.99
+  },
+  {
+   "group_num": null,
+   "group": "TCL Alcatel",
+   "service": "Alcatel Info Checker By IMEI",
+   "delivery": "1-10 days",
+   "price_raw": "$ 0.21",
+   "icon": "https://server.halabtech.com/images/icon/codeFactory.jpg",
+   "price_usd": 0.21
+  },
+  {
+   "group_num": null,
+   "group": "TCL Alcatel",
+   "service": "Alcatel Premium [ Hh40, Hh41, Hh42, Hh70, Hh71, Hh72, Y853, Y854, Y853Vb, Y854Vb, 8Xx Any , Ee40, Ee60, Ee70, Ee120 ][ 100% Sucess Rate ] - Till 2022",
+   "delivery": "Instant",
+   "price_raw": "$ 19.5",
+   "icon": "https://server.halabtech.com/images/icon/codeFactory.jpg",
+   "price_usd": 19.5
+  },
+  {
+   "group_num": null,
+   "group": "TCL Alcatel",
+   "service": "Alcatel Premium [ Mw40Xx, Mw41Xx, Mw43Xx, Mw70Xx, R217 ][ 100% Sucess Rate ] - Till 2022",
+   "delivery": "Instant",
+   "price_raw": "$ 6",
+   "icon": "https://server.halabtech.com/images/icon/codeFactory.jpg",
+   "price_usd": 6.0
+  },
+  {
+   "group_num": null,
+   "group": "TCL Alcatel",
+   "service": "LG Wiko TCL Revel Remotely Services {{ONLY SIM}} ✅ T-Mobile Phones ✅ MetroPCS Phones ONLY ONLY",
+   "delivery": "Miniutes",
+   "price_raw": "$ 16.99",
+   "icon": "",
+   "price_usd": 16.99
+  },
+  {
+   "group_num": null,
+   "group": "Realme",
+   "service": "OPPO/One Plus/Realme Warranty+Country+Replacement Check",
+   "delivery": "Miniutes",
+   "price_raw": "$ 2.72",
+   "icon": "",
+   "price_usd": 2.72
+  },
+  {
+   "group_num": null,
+   "group": "Realme",
+   "service": "Realme Sim Region ( 16 Degits ) [Auto API - Instant]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.8",
+   "icon": "",
+   "price_usd": 0.8
+  },
+  {
+   "group_num": null,
+   "group": "Realme",
+   "service": "Realme | OnePlus NETWORK Service All Country & Any Models NCK CODE [Not Support Single SIM Phone] (NO REFUND FOR ANY ORDER)",
+   "delivery": "Hours",
+   "price_raw": "$ 0.95",
+   "icon": "https://server.halabtech.com/images/icon/Realme.jpg",
+   "price_usd": 0.95
+  },
+  {
+   "group_num": null,
+   "group": "WIKO",
+   "service": "Wiko Factory Codes",
+   "delivery": "Miniutes",
+   "price_raw": "$ 0.678",
+   "icon": "https://server.halabtech.com/images/icon/codeFactory.jpg",
+   "price_usd": 0.678
+  },
+  {
+   "group_num": null,
+   "group": "MOTO (Remotely)",
+   "service": "Moto G 5G (2025 2024) Moto G Moto G Power 5G (2025) Moto G Pure Moto G41 Moto G54 Moto G55 Moto G56 Moto G60s Moto G77 Moto G86 Moto Edge 40 Moto Edge 60 Moto Edge 60 Fusion Moto Edge 60 Pro Moto Razr 50 [ Frp ]",
+   "delivery": "Miniutes",
+   "price_raw": "$ 19.99",
+   "icon": "https://server.halabtech.com/images/icon/Motorola.jpg",
+   "price_usd": 19.99
+  },
+  {
+   "group_num": null,
+   "group": "MOTO (Remotely)",
+   "service": "Moto G Pure 2021, G 5G 2022, G Power 5G 2022, G Play 2023, G Power 5G 2023, Razr 2024, G Power 5G 2024, Razr 2025, Edge 2025, G Power 2025, G 2025, G Play 2026, G 2026 — [USA T-MOBILE / METRO Only] (NO REFUND FOR OTHER NETWORK) PERMANENT UNLOCK",
+   "delivery": "Miniutes",
+   "price_raw": "$ 29.99",
+   "icon": "",
+   "price_usd": 29.99
+  },
+  {
+   "group_num": null,
+   "group": "MOTO (Remotely)",
+   "service": "XT2163-4, XT2213-3, XT2165-5, XT2271-5, XT2311-3, XT2453-3, XT2415-1, XT2553-3, XT2519-1, XT2515-1, XT2513-1, XT2615-1, XT2613-1 - [USA T-MOBILE / METRO Only] (NO REFUND FOR OTHER NETWORK) PERMANENT UNLOCK",
+   "delivery": "Miniutes",
+   "price_raw": "$ 39.99",
+   "icon": "",
+   "price_usd": 39.99
+  },
+  {
+   "group_num": null,
+   "group": "OnePlus",
+   "service": "Oneplus One Plus Info",
+   "delivery": "1-12 Hours",
+   "price_raw": "$ 0.14",
+   "icon": "",
+   "price_usd": 0.14
+  }
+ ]
+}
